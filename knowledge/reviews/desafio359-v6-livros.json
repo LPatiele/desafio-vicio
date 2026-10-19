@@ -1,0 +1,736 @@
+{
+  "version": 1,
+  "snapshot": "desafio359-v6-livros",
+  "method": "Leitura do sumário e de passagens por conceito, buscas lexicais nos dois arquivos fornecidos. Apoio temático não equivale a suficiência para resolver todas as alternativas nem a validação do gabarito. Não localizado significa ausência nas consultas desta revisão, não prova de inexistência no livro.",
+  "usesEvaluationReference": false,
+  "modelCalls": 0,
+  "rows": [
+    {
+      "id": "Q0002",
+      "status": "parcial",
+      "concept": "Seletividade e atribuição a Vera Regina",
+      "reviewQuery": "seletividade OR criminalizacao",
+      "evidence": [
+        {
+          "id": "S-1812fb05ae68",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina257#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 17 — Alessandro Baratta e a criminologia crítica — página PDF 257",
+          "contentHash": "10c89d52da98f594d85c40c16c3887dbef32a5bccccb5f0d3fce1763674d9a2f"
+        },
+        {
+          "id": "S-da3e57fcd5f2",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina258#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 17 — Alessandro Baratta e a criminologia crítica — página PDF 258",
+          "contentHash": "e59f0bba12f095e81ea155771e28eff2404bb25cf706e1a58b291a08f8d2d130"
+        }
+      ],
+      "limitation": "Há exposição geral da seletividade; a posição atribuída a Vera Regina não foi conferida em fonte primária da autora."
+    },
+    {
+      "id": "Q0024",
+      "status": "apoio_tematico",
+      "concept": "Escola de Chicago e associação diferencial",
+      "reviewQuery": "Sutherland AND aprendizagem",
+      "evidence": [
+        {
+          "id": "S-6d4e8819922f",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina142#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 9 — Teoria da associação diferencial: Sutherland — página PDF 142",
+          "contentHash": "f2f936e3b81903853ae5e2cb4f7c3a02a3f45cc675124381dc2b30fac6c437f5"
+        },
+        {
+          "id": "S-03b2a924178f",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina143#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 9 — Teoria da associação diferencial: Sutherland — página PDF 143",
+          "contentHash": "50d6ad40e41864d26b46e76f478349c1e30f99d3868c298f336427fad588ceb7"
+        }
+      ],
+      "limitation": "Consultar também capítulo 7 sobre Chicago; apoio ao enquadramento, sem resolver as assertivas."
+    },
+    {
+      "id": "Q0031",
+      "status": "apoio_tematico",
+      "concept": "Anomia de Merton",
+      "reviewQuery": "Merton AND metas",
+      "evidence": [
+        {
+          "id": "S-6d605815214c",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina110#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 6 — Merton, metas culturais e meios institucionais — página PDF 110",
+          "contentHash": "16962f37e8be319a9041b3fddb1e762eda3d0235c1e01a1a6d3b3eae859bfc8a"
+        },
+        {
+          "id": "S-ed13783d3aa5",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina112#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 6 — Merton, metas culturais e meios institucionais — página PDF 112",
+          "contentHash": "1f82691a22442b9c8e374cbefeed95bf79550c7934a4c18045b5abbf581bd4df"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0058",
+      "status": "parcial",
+      "concept": "Seletividade penal e pobreza",
+      "reviewQuery": "pobreza OR seletividade",
+      "evidence": [
+        {
+          "id": "S-3904f9458194",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina250#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 17 — Alessandro Baratta e a criminologia crítica — página PDF 250",
+          "contentHash": "d6b95dc58dfd0a8a27b344b5dc50c89de4810f07eefbba29d3e332ff2e3ada5e"
+        }
+      ],
+      "limitation": "Não foi verificada documentalmente toda a comparação entre vitimização, saúde mental e pobreza."
+    },
+    {
+      "id": "Q0059",
+      "status": "apoio_tematico",
+      "concept": "Baratta, prisão e reintegração",
+      "reviewQuery": "prisao AND sociedade",
+      "evidence": [
+        {
+          "id": "S-937fb7d3b545",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina268#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 17 — Alessandro Baratta e a criminologia crítica — página PDF 268",
+          "contentHash": "dac352b61c5882b729b6762c84f1b104acf8cf7616bb99858b0e7469b06d77a7"
+        },
+        {
+          "id": "S-490fa7479b5e",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina274#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 17 — Alessandro Baratta e a criminologia crítica — página PDF 274",
+          "contentHash": "59392dc169e8af99e30be08594607e08f3abef8cf4381333812d0b31f985b4d5"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0066",
+      "status": "apoio_tematico",
+      "concept": "Método empírico e positivismo",
+      "reviewQuery": "metodo AND indutivo",
+      "evidence": [
+        {
+          "id": "S-d5e111a201ff",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina23#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 2 — Criminologia positivista: método indutivo — página PDF 23",
+          "contentHash": "a149ec5173918659df7064668d2e438eb557a1111548cb10800875ef7109274d"
+        },
+        {
+          "id": "S-8ab796ccde93",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina24#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 2 — Criminologia positivista: método indutivo — página PDF 24",
+          "contentHash": "193fac7a1cc455aed5001dbc1b6eb6d29a382e2f125234a819b2aa411474905b"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0076",
+      "status": "apoio_tematico",
+      "concept": "Lombroso, Ferri e Garofalo",
+      "reviewQuery": "Lombroso OR Ferri OR Garofalo",
+      "evidence": [
+        {
+          "id": "S-1dc2763ff6f7",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina38#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 3 — Criminologia positivista: modelos explicativos — página PDF 38",
+          "contentHash": "ec80534d135a2f6ed67dc4d8923bb75477fc2e2e2f37829aa04941b05c45e829"
+        },
+        {
+          "id": "S-8d33b43e7859",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina53#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 3 — Criminologia positivista: modelos explicativos — página PDF 53",
+          "contentHash": "5f021eb6a2131eef0c14ffaa07d290f073f210e437a573f2512a399a4d4f164d"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0080",
+      "status": "parcial",
+      "concept": "Modelo restaurador de reação ao delito",
+      "reviewQuery": "restaurativa OR restaurativo",
+      "evidence": [
+        {
+          "id": "S-0714810bc3d7",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina393#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 23 — Criminologia crítica feminista — página PDF 393",
+          "contentHash": "6d2fdabb125cac035a864ddaf59cbe677189875ba41f4501232d7a4743be69c1"
+        },
+        {
+          "id": "S-7c1b03142e7f",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina393#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 23 — Criminologia crítica feminista — página PDF 393",
+          "contentHash": "938d21b87478682fd72ef580e05ba21858610b57c6dd6f92f7cfcfa5cf781df4"
+        }
+      ],
+      "limitation": "A menção à justiça restaurativa não sistematiza os modelos de reação ao delito."
+    },
+    {
+      "id": "Q0081",
+      "status": "apoio_tematico",
+      "concept": "Escolas clássica, positivista e crítica",
+      "reviewQuery": "classica OR juridico",
+      "evidence": [
+        {
+          "id": "S-ac2e0f49b859",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina16#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 1 — Criminologia clássica — página PDF 16",
+          "contentHash": "a1ac268a664da9d0c7fe0bd5149499dd83e85631a9cf9584c4d8e694a5fd2297"
+        },
+        {
+          "id": "S-3f229ce3464f",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina19#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 1 — Criminologia clássica — página PDF 19",
+          "contentHash": "9425c5766d6bbb4dd7d3796db31bca7fc540838e21736a9e7aaac3d64bddf795"
+        }
+      ],
+      "limitation": "Complementar com capítulos 2, 3, 12 e 17."
+    },
+    {
+      "id": "Q0088",
+      "status": "nao_localizado",
+      "concept": "Autonomia e objeto da vitimologia",
+      "reviewQuery": "vitimologia",
+      "evidence": [],
+      "limitation": "Não localizado tratamento suficiente da vitimologia nas buscas desta revisão."
+    },
+    {
+      "id": "Q0089",
+      "status": "parcial",
+      "concept": "Insignificância e critérios jurisprudenciais",
+      "reviewQuery": "insignificancia",
+      "evidence": [
+        {
+          "id": "S-286c0b4ad450",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo10!secao71#parte2",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Jovacy Peter Filho — Capítulo 10: Coculpabilidade e vulnerabilidade: considerações a partir de um realismo jurídico-penal — 3.2.4 Considerações quanto aos limites de aplicação",
+          "contentHash": "03d9db8e0290d4efba94c5d3a8c39f1970a21e72f9d6b767dee19ce1f01253d5"
+        }
+      ],
+      "limitation": "Menção doutrinária não sistematiza os critérios do STF; manter necessidade de complemento específico."
+    },
+    {
+      "id": "Q0094",
+      "status": "apoio_tematico",
+      "concept": "Estigma e etiquetamento social",
+      "reviewQuery": "estigma OR rotulo",
+      "evidence": [
+        {
+          "id": "S-4ba82539eb84",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina169#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 169",
+          "contentHash": "71f617c6f6d1d420cf4d1a398b127002f73be8fe090b94d6fa385c32c3ff0f98"
+        },
+        {
+          "id": "S-c73fbc46df5a",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina171#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 171",
+          "contentHash": "8bbf5dc8307defb30cde27ddd9d794226be158dcab259534d93b5389ea9e475a"
+        }
+      ],
+      "limitation": "Não é conferência do acórdão mencionado na questão."
+    },
+    {
+      "id": "Q0105",
+      "status": "parcial",
+      "concept": "Criminologia cultural e pichação",
+      "reviewQuery": "cultural AND significado",
+      "evidence": [
+        {
+          "id": "S-71b652baf5fe",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina354#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 22 — Jock Young, o realismo de esquerda e a criminologia cultural — página PDF 354",
+          "contentHash": "e0bdc79319e2dec5ae757437d2bbcbf38afc33f30f517216f6d0711c848e8626"
+        },
+        {
+          "id": "S-46e68192dbf5",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina351#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 22 — Jock Young, o realismo de esquerda e a criminologia cultural — página PDF 351",
+          "contentHash": "4cd8ed63d79bc298d7662f22a02160c8a13cbaba1e4791866107616872576b26"
+        }
+      ],
+      "limitation": "Capítulo sobre criminologia cultural, sem verificação específica da pichação e contracultura na formulação cobrada."
+    },
+    {
+      "id": "Q0111",
+      "status": "apoio_tematico",
+      "concept": "Positivismo brasileiro e Nina Rodrigues",
+      "reviewQuery": "racismo OR racial OR raca",
+      "evidence": [
+        {
+          "id": "S-8ad4e7f94e24",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo4!secao23#parte2",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Thaís Dumêt Faria — Capítulo 4: Oxalá, conhecêssemos Nina Rodrigues! — 4.4 Nina Rodrigues: o autor maldito!",
+          "contentHash": "36be94106a5dc53366569d46f6e579e6c45b09a29ef4c2b0d077ebd64197f732"
+        },
+        {
+          "id": "S-af411044c3b2",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo4!secao23#parte1",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Thaís Dumêt Faria — Capítulo 4: Oxalá, conhecêssemos Nina Rodrigues! — 4.4 Nina Rodrigues: o autor maldito!",
+          "contentHash": "ec5d3ba5203b4aafceb7b0c7c7e432cf114ceff24c9810ba2e794151d5a1fb82"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0115",
+      "status": "apoio_tematico",
+      "concept": "Metas e meios institucionais em Merton",
+      "reviewQuery": "metas AND meios",
+      "evidence": [
+        {
+          "id": "S-6d605815214c",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina110#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 6 — Merton, metas culturais e meios institucionais — página PDF 110",
+          "contentHash": "16962f37e8be319a9041b3fddb1e762eda3d0235c1e01a1a6d3b3eae859bfc8a"
+        },
+        {
+          "id": "S-ed13783d3aa5",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina112#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 6 — Merton, metas culturais e meios institucionais — página PDF 112",
+          "contentHash": "1f82691a22442b9c8e374cbefeed95bf79550c7934a4c18045b5abbf581bd4df"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0117",
+      "status": "nao_localizado",
+      "concept": "Teoria agnóstica e funções da pena",
+      "reviewQuery": "agnostica",
+      "evidence": [],
+      "limitation": "Não localizado tratamento específico suficiente da teoria agnóstica."
+    },
+    {
+      "id": "Q0123",
+      "status": "parcial",
+      "concept": "Etiquetamento e seletividade racial",
+      "reviewQuery": "criminalizacao OR aplicacao",
+      "evidence": [
+        {
+          "id": "S-71f0498fb9fb",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina174#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 174",
+          "contentHash": "d9d666ff8a9f4bee61b074c06795878c2046164b6c3a374447a8a0618de7d28e"
+        },
+        {
+          "id": "S-2c26f4b91ff6",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina173#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 173",
+          "contentHash": "080d8f71f9dea700436a67f7113be916a740175c888cdbe226c2b11cc7e43643"
+        }
+      ],
+      "limitation": "Faltam conferência do precedente sobre discriminação na abordagem e dados empíricos contemporâneos citados."
+    },
+    {
+      "id": "Q0124",
+      "status": "parcial",
+      "concept": "Kant, Hegel, Roxin e Binding nas teorias da pena",
+      "reviewQuery": "Hegel OR pena",
+      "evidence": [
+        {
+          "id": "S-9eaad425c325",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina333#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 21 — Direito penal do inimigo — página PDF 333",
+          "contentHash": "097cb8912de83dbaf1758689eb5bb37a03e17205c416b29513757f806d0115fc"
+        },
+        {
+          "id": "S-62b3a629989a",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina332#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 21 — Direito penal do inimigo — página PDF 332",
+          "contentHash": "044b1f44ccda0e06544f40a04449ac6f017657768589919a180421b26f196237"
+        }
+      ],
+      "limitation": "Menções parciais não permitem conferir as cinco atribuições autorais."
+    },
+    {
+      "id": "Q0131",
+      "status": "nao_localizado",
+      "concept": "Welzel, Roxin e domínio do fato",
+      "reviewQuery": "dominio do fato",
+      "evidence": [],
+      "limitation": "Não localizado tratamento dogmático suficiente de domínio do fato."
+    },
+    {
+      "id": "Q0141",
+      "status": "apoio_tematico",
+      "concept": "Escola ecológica de Chicago",
+      "reviewQuery": "Chicago AND ecologica",
+      "evidence": [
+        {
+          "id": "S-7d5898c71b05",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina122#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 7 — Escola Ecológica de Chicago — página PDF 122",
+          "contentHash": "efbac608443863edfa01d4070331c27cf56951bd06771f8adf7a6f8fb3db303d"
+        },
+        {
+          "id": "S-044f7a25c71d",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina123#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 7 — Escola Ecológica de Chicago — página PDF 123",
+          "contentHash": "63963674750b6556481d07fcec99d38256294afdab9fc96bc8763667532aba56"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0162",
+      "status": "apoio_tematico",
+      "concept": "Controle social formal e informal",
+      "reviewQuery": "controle AND informal",
+      "evidence": [
+        {
+          "id": "S-841646d641c2",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo7!secao44#parte6",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Davi de Paiva Costa Tangerino — Capítulo 7: Aplicações ecológicas à São Paulo no final do século XIX — 7.4 A Escola Criminológica de Chicago",
+          "contentHash": "671ab70361700af630113dc3ef279496c95cc5f122aef7a9112cadd4d651b6a0"
+        },
+        {
+          "id": "S-ddd759341251",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo7!secao44#parte8",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Davi de Paiva Costa Tangerino — Capítulo 7: Aplicações ecológicas à São Paulo no final do século XIX — 7.4 A Escola Criminológica de Chicago",
+          "contentHash": "73c9d1d0eb2acf3782f10e2963f6eb112006887342ac20a0fa18e2223a1ff555"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0179",
+      "status": "nao_localizado",
+      "concept": "Prevenção secundária",
+      "reviewQuery": "prevencao secundaria",
+      "evidence": [],
+      "limitation": "Não localizada sistematização das modalidades de prevenção primária, secundária e terciária."
+    },
+    {
+      "id": "Q0188",
+      "status": "nao_localizado",
+      "concept": "Ofendículos",
+      "reviewQuery": "ofendiculos",
+      "evidence": [],
+      "limitation": "Não localizado tratamento específico de ofendículos; normas gerais não substituem esse complemento."
+    },
+    {
+      "id": "Q0195",
+      "status": "apoio_tematico",
+      "concept": "Conceitos de crime e pena nas escolas criminológicas",
+      "reviewQuery": "crime AND juridico",
+      "evidence": [
+        {
+          "id": "S-ac2e0f49b859",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina16#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 1 — Criminologia clássica — página PDF 16",
+          "contentHash": "a1ac268a664da9d0c7fe0bd5149499dd83e85631a9cf9584c4d8e694a5fd2297"
+        },
+        {
+          "id": "S-1c23749d2825",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina17#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 1 — Criminologia clássica — página PDF 17",
+          "contentHash": "7007c01c7fb8748f211eed04bd8cf09d711ca4eec1fe2f80f1186e50947e2718"
+        }
+      ],
+      "limitation": "Apoio temático, sem conferência de gabarito."
+    },
+    {
+      "id": "Q0196",
+      "status": "apoio_tematico",
+      "concept": "Labeling approach",
+      "reviewQuery": "labeling AND desvio",
+      "evidence": [
+        {
+          "id": "S-088207a43434",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina179#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 179",
+          "contentHash": "e93d9bc6c4d7386c964128349fd4acc504ba23792130a005be45d956d0c4f35f"
+        },
+        {
+          "id": "S-a721b5acba4b",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina173#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 173",
+          "contentHash": "0fe19f0c9882dd7885a009290305f1f86af21d1c41a6c8b0e03dbdec7b441f11"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0198",
+      "status": "nao_localizado",
+      "concept": "Domínio de organização e autoria mediata",
+      "reviewQuery": "dominio organizacao",
+      "evidence": [],
+      "limitation": "Não localizado tratamento específico de autoria por domínio da organização."
+    },
+    {
+      "id": "Q0217",
+      "status": "parcial",
+      "concept": "Foucault e economia do poder de punir",
+      "reviewQuery": "Foucault AND poder",
+      "evidence": [
+        {
+          "id": "S-980051860898",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina270#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 17 — Alessandro Baratta e a criminologia crítica — página PDF 270",
+          "contentHash": "f6aa5924d56e46edb6005ce38ca25d41f9b79933a6a7b74fc25183c8dffbf6f4"
+        },
+        {
+          "id": "S-83c0bf4b91b4",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina270#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 17 — Alessandro Baratta e a criminologia crítica — página PDF 270",
+          "contentHash": "a4998dfdc7ca6c7d000ba73bd95999e4331ac62d26c22c74a3c078420ec92251"
+        }
+      ],
+      "limitation": "Há discussão de Vigiar e punir; não há capítulo dedicado a Foucault e a formulação exata cobrada não foi conferida na obra original."
+    },
+    {
+      "id": "Q0222",
+      "status": "parcial",
+      "concept": "Velocidades do direito penal",
+      "reviewQuery": "velocidades",
+      "evidence": [
+        {
+          "id": "S-5aae1c76bc35",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina341#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 21 — Direito penal do inimigo — página PDF 341",
+          "contentHash": "d4cda396d8f5315ad6cfaa51ded7a7a2adb22bc5cf6cb5c69e5da030c08561be"
+        }
+      ],
+      "limitation": "Menção às duas velocidades não cobre a classificação completa das velocidades."
+    },
+    {
+      "id": "Q0234",
+      "status": "apoio_tematico",
+      "concept": "Criminologia empírica e interdisciplinar",
+      "reviewQuery": "interdisciplinar OR empirico",
+      "evidence": [
+        {
+          "id": "S-098e48b77a6e",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo9!secao60#parte1",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Bruno Shimizu — Capítulo 9: Um panorama crítico sobre o pensamento criminológico clínico no Brasil — 2.1 Criminologia clínica: objeto e definições",
+          "contentHash": "9da36c0bb9cc564af6e98e5ab7daecb413ee263dc34e4b7b50e77fdca1e6c85e"
+        },
+        {
+          "id": "S-8da602b4c709",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo9!secao64#parte6",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Bruno Shimizu — Capítulo 9: Um panorama crítico sobre o pensamento criminológico clínico no Brasil — 2.5 Medicalização do crime",
+          "contentHash": "feb9ea0ce2b1820b4e6829b905cc9189f3cbcd820081a29047b7c75e5e1950f0"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0253",
+      "status": "apoio_tematico",
+      "concept": "Escola clássica, livre-arbítrio e Carrara",
+      "reviewQuery": "liberdade OR vontade",
+      "evidence": [
+        {
+          "id": "S-1b5bbe65b899",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina15#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 1 — Criminologia clássica — página PDF 15",
+          "contentHash": "591bf713adbef0d055be69af17abedc0835e31f6fc8182ef564e746f19fb219c"
+        },
+        {
+          "id": "S-9d5836cd2549",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina16#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 1 — Criminologia clássica — página PDF 16",
+          "contentHash": "ef43c773114dc4f0bf2271bd98b2f6a4904c704de00935acb0355e736dd42616"
+        }
+      ],
+      "limitation": "Fundamentos clássicos e discussão de Carrara nas páginas físicas 15 e 16 do PDF."
+    },
+    {
+      "id": "Q0260",
+      "status": "parcial",
+      "concept": "Direito penal do inimigo e justiça restaurativa",
+      "reviewQuery": "inimigo AND Jakobs",
+      "evidence": [
+        {
+          "id": "S-becf0d0ca533",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina333#parte2",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 21 — Direito penal do inimigo — página PDF 333",
+          "contentHash": "22d967f6520d4fc1d554bc9fbd0edb39387dc12b12c89a920fa2fe051d79f5b3"
+        },
+        {
+          "id": "S-f15784d81bc0",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina334#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 21 — Direito penal do inimigo — página PDF 334",
+          "contentHash": "cef1d3a8c62278f9fd4549debe73e9e035655867f4a8cbe19a9c7b65111bcd3a"
+        }
+      ],
+      "limitation": "Não foi conferida a atribuição a Herkenhoff nem todo o conjunto de assertivas sobre movimentos sociais."
+    },
+    {
+      "id": "Q0269",
+      "status": "nao_localizado",
+      "concept": "Garantismo de Ferrajoli",
+      "reviewQuery": "Ferrajoli garantismo",
+      "evidence": [],
+      "limitation": "Não localizada sistematização específica do garantismo de Ferrajoli."
+    },
+    {
+      "id": "Q0292",
+      "status": "parcial",
+      "concept": "Política criminal e encarceramento brasileiro",
+      "reviewQuery": "encarceramento OR prisional",
+      "evidence": [
+        {
+          "id": "S-3a1757529c18",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina398#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 24 — A economia política da punição — página PDF 398",
+          "contentHash": "77588d230125c7f8d5265c430d17376ca35bf1fdccede3725ac49534db1564b8"
+        },
+        {
+          "id": "S-d88013072ced",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina401#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 24 — A economia política da punição — página PDF 401",
+          "contentHash": "b2221437c52d7055bc61b8898e01ce6fd5db5196476ab024207812fa5064a7b3"
+        }
+      ],
+      "limitation": "Análise histórica não substitui dados contemporâneos sobre população prisional e letalidade."
+    },
+    {
+      "id": "Q0299",
+      "status": "apoio_tematico",
+      "concept": "Reação social e escolas criminológicas",
+      "reviewQuery": "reacao AND criminalidade",
+      "evidence": [
+        {
+          "id": "S-511a00e2aed2",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina172#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 172",
+          "contentHash": "e5ef4185cd10a580871023e100602714e16122530b4064bce909f06888e587fc"
+        },
+        {
+          "id": "S-9ec50e896349",
+          "sourceId": "juarez-cirino-2021",
+          "locator": "livro:juarez-cirino-2021!pagina170#parte1",
+          "title": "Criminologia: contribuição para crítica da economia da punição — Juarez Cirino dos Santos (2021) — Juarez Cirino dos Santos — Capítulo 12 — Criminologia da reação social: labeling approach — página PDF 170",
+          "contentHash": "b0cfaba06fbf496eaff5ace365b87633fbebda14c86b123aa5cd3f2f47609e65"
+        }
+      ],
+      "limitation": "Apoio ao enquadramento, sem validar cada alternativa."
+    },
+    {
+      "id": "Q0312",
+      "status": "parcial",
+      "concept": "Finalidades da pena em Liszt",
+      "reviewQuery": "Liszt",
+      "evidence": [
+        {
+          "id": "S-aded3e24fe20",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo10!secao70#parte1",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Jovacy Peter Filho — Capítulo 10: Coculpabilidade e vulnerabilidade: considerações a partir de um realismo jurídico-penal — 3.2.3 Considerações quanto a localização sistemática: em qual “culpabilidade” está a culpabilidade por vulnerabilidade",
+          "contentHash": "df0cc04a078d93fd24be2de8d66391e77cdfce4bdd876ad2277cb0c082a489c1"
+        }
+      ],
+      "limitation": "A menção ao sistema de Liszt não fundamenta a tríade de finalidades cobrada."
+    },
+    {
+      "id": "Q0328",
+      "status": "apoio_tematico",
+      "concept": "Criminologia, política criminal e dogmática",
+      "reviewQuery": "criminologia AND penal",
+      "evidence": [
+        {
+          "id": "S-098e48b77a6e",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo9!secao60#parte1",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Bruno Shimizu — Capítulo 9: Um panorama crítico sobre o pensamento criminológico clínico no Brasil — 2.1 Criminologia clínica: objeto e definições",
+          "contentHash": "9da36c0bb9cc564af6e98e5ab7daecb413ee263dc34e4b7b50e77fdca1e6c85e"
+        },
+        {
+          "id": "S-79dadf64c2a5",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo9!secao60#parte2",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Bruno Shimizu — Capítulo 9: Um panorama crítico sobre o pensamento criminológico clínico no Brasil — 2.1 Criminologia clínica: objeto e definições",
+          "contentHash": "215724f468073d6796edd68aced3b4cc49713530b71005af7b706445ede2a759"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0334",
+      "status": "apoio_tematico",
+      "concept": "Objeto e método da criminologia",
+      "reviewQuery": "vitima AND controle",
+      "evidence": [
+        {
+          "id": "S-098e48b77a6e",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo9!secao60#parte1",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Bruno Shimizu — Capítulo 9: Um panorama crítico sobre o pensamento criminológico clínico no Brasil — 2.1 Criminologia clínica: objeto e definições",
+          "contentHash": "9da36c0bb9cc564af6e98e5ab7daecb413ee263dc34e4b7b50e77fdca1e6c85e"
+        }
+      ],
+      "limitation": ""
+    },
+    {
+      "id": "Q0335",
+      "status": "parcial",
+      "concept": "Teoria geral do delito e finalismo",
+      "reviewQuery": "finalista OR Welzel",
+      "evidence": [
+        {
+          "id": "S-debe0f3313ad",
+          "sourceId": "criminologia-brasil",
+          "locator": "livro:criminologia-brasil!capitulo10!secao70#parte2",
+          "title": "Criminologia no Brasil: história e aplicações clínicas e sociológicas — coletânea — Jovacy Peter Filho — Capítulo 10: Coculpabilidade e vulnerabilidade: considerações a partir de um realismo jurídico-penal — 3.2.3 Considerações quanto a localização sistemática: em qual “culpabilidade” está a culpabilidade por vulnerabilidade",
+          "contentHash": "e69712c6bc992152e0a82d8f26f8433b7b6018b9265dd1fd92a7b5664761d458"
+        }
+      ],
+      "limitation": "Há passagem sobre finalismo, sem sistematizar todas as assertivas sobre normas penais em branco, dolo e omissão."
+    }
+  ]
+}

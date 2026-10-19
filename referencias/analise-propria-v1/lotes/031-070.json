@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "Q0031",
+    "questao": {
+      "id": "Q0031",
+      "enunciado": "Julgue o item a seguir, relativos a modelos teóricos da criminologia.\n\nDe acordo com a teoria da anomia, o crime se origina da impossibilidade social do indivíduo de atingir suas metas pessoais, o que o faz negar a norma imposta e criar suas próprias regras, conforme o seu próprio interesse.",
+      "comando": "Julgue o item a seguir.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "Na leitura mertoniana, o descompasso entre metas e meios institucionalizados pode levar à adaptação inovadora e ao desvio.",
+    "fontes": [
+      "CRIMINOLOGIA:anomia de Merton"
+    ],
+    "ressalvas": [
+      "A assertiva simplifica a teoria: nem todo indivíduo frustrado comete crime ou cria regras próprias. Fonte doutrinária específica pendente."
+    ],
+    "classificacao": {
+      "tema_id": "4388",
+      "caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": [
+        "4387"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0032",
+    "questao": {
+      "id": "Q0032",
+      "enunciado": "Quando, no curso da investigação, houver motivo para duvidar da integridade mental do investigado, a autoridade policial devera",
+      "comando": "Indique o procedimento correto que a autoridade policial deve adotar nessas circunstâncias.",
+      "alternativas": {
+        "A": "concluir a investigação e, no relatório, informar tal circunstância, que será apreciada pelo Ministério Publico e pelo Magistrado.",
+        "B": "Requisitar de ofício, exame de sanidade mental junto ao Instituto Médico Legal.",
+        "C": "representar á autoridade judiciária para que o investigado seja submetido a exame médico-legal.",
+        "D": "oficiar ao Ministério Público, noticiando o fato e representando pela realização de exame para verificar a sanidade do investigado.",
+        "E": "poderá nomear mais de um perito para a realização do exame mental, em virtude de sua complexidade."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "representar á autoridade judiciária para que o investigado seja submetido a exame médico-legal.",
+    "fundamento_resposta": "A autoridade policial representa ao juiz para instauração do exame de sanidade, não o determina por conta própria.",
+    "fontes": [
+      "CPP:149 §1"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5497",
+      "caminho": "Processo Penal > Das Questões e Processos Incidentes > Incidente de Falsidade e de Insanidade Mental",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0033",
+    "questao": {
+      "id": "Q0033",
+      "enunciado": "A prisão preventiva",
+      "comando": "Explique o que é a prisão preventiva.",
+      "alternativas": {
+        "A": "pode ser decretada como garantia da ordem pública, mas não da econômica.",
+        "B": "é obrigatória no caso de réu citado por edital e que não constituiu defensor, nos termos do art. 366 do Código de Processo Penal.",
+        "C": "não admite revogação por excesso de prazo para o término da instrução, medida cabível apenas para o relaxamento de flagrante.",
+        "D": "não é cabível se houver apresentação espontânea do acusado à autoridade.",
+        "E": "pode recair sobre acusado primário e de bons antecedentes."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "pode recair sobre acusado primário e de bons antecedentes.",
+    "fundamento_resposta": "Primariedade e bons antecedentes não impedem preventiva se satisfeitos seus requisitos legais; não a autorizam automaticamente.",
+    "fontes": [
+      "CPP:312,313"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5519",
+      "caminho": "Processo Penal > Prisões em Espécie > Prisão Preventiva",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0034",
+    "questao": {
+      "id": "Q0034",
+      "enunciado": "A situação em que o habeas corpus é medida de impugnação cabível é",
+      "comando": "Complete a frase sobre a situação em que o habeas corpus é medida de impugnação cabível.",
+      "alternativas": {
+        "A": "para trancar processo em curso por infração penal em que a pena pecuniária seja a única cominada.",
+        "B": "para que o advogado consiga ter acesso aos autos de inquérito policial.",
+        "C": "contra a decisão que inadmite assistente de acusação.",
+        "D": "para se pedir o desentranhamento de prova ilícita dos autos de inquérito policial ou de ação penal.",
+        "E": "para se obter restituição de coisas apreendidas."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "para se pedir o desentranhamento de prova ilícita dos autos de inquérito policial ou de ação penal.",
+    "fundamento_resposta": "É possível impugnar prova ilícita via habeas corpus quando a persecução repercute na liberdade e a ilegalidade pode ser examinada sem dilação probatória.",
+    "fontes": [
+      "CF:5 LXVIII",
+      "CPP:157"
+    ],
+    "ressalvas": [
+      "A possibilidade depende de repercussão na liberdade; as outras opções tratam de interesses que, isoladamente, não sustentam HC."
+    ],
+    "classificacao": {
+      "tema_id": "5477",
+      "caminho": "Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus",
+      "extras_ids": [
+        "5594"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0035",
+    "questao": {
+      "id": "Q0035",
+      "enunciado": "Nos termos da Lei no 13.260/2016 (Lei Antiterrorismo), assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Os crimes previstos na referida Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial.",
+        "B": "Aquele que for flagrado constituindo uma organização terrorista, não cometerá um crime, estando sujeito a responsabilização por realizar atos preparatórios do terrorismo.",
+        "C": "O terrorismo consistirá sempre na prática por mais de um indivíduo de atos criminosos por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, quando cometidos com a finalidade de provocar terror social ou generalizado.",
+        "D": "São atos de terrorismo incendiar, depredar, saquear, destruir ou explodir meios de transporte ou qualquer bem público ou privado.",
+        "E": "São atos de terrorismo incendiar, interferir, sabotar ou danificar sistemas de informática ou bancos de dados, quando cometidos com a finalidade de provocar terror social ou generalizado."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Os crimes previstos na referida Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial.",
+    "fundamento_resposta": "A lei atribui investigação à Polícia Federal e processamento à Justiça Federal. Os tipos de atos terroristas exigem os elementos e recortes legais.",
+    "fontes": [
+      "L13260:2,3,11"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4706",
+      "caminho": "Direito Penal - Legislação Especial > Terrorismo",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0036",
+    "questao": {
+      "id": "Q0036",
+      "enunciado": "Em uma Vara de Violência Doméstica e Familiar contra a Mulher, o Juiz de Direito recebeu os autos de inquérito policial concluído, no qual se apurou a prática de crime de lesão corporal leve (Art. 129, §9º, do Código Penal) supostamente cometido por Tício contra sua companheira, Ana. Ela comparecera à Delegacia, ocasião em que narrou os fatos, solicitou medidas protetivas de urgência e manifestou expressamente o desejo de representar criminalmente contra Tício. O Ministério Público ofereceu denúncia contra Tício pela prática do referido crime. Não há, em nenhuma peça dos autos, qualquer manifestação posterior de Ana indicando desejo de retratar-se da representação oferecida na fase policial. O Magistrado, antes de decidir sobre o recebimento da denúncia, resolve analisar a necessidade de designar a audiência prevista no Art. 16 da Lei nº 11.340/2006 (Lei Maria da Penha). Considerando a situação hipotética e o entendimento consolidado pelo Superior Tribunal de Justiça, assinale a opção que apresenta a decisão correta do Magistrado.",
+      "comando": "",
+      "alternativas": {
+        "A": "Designar, de ofício, a audiência prevista no Art. 16 da Lei Maria da Penha, por ser ato processual obrigatório em crimes de lesão corporal leve no âmbito doméstico, visando confirmar a representação da vítima antes do recebimento da denúncia.",
+        "B": "Intimar o Ministério Público para que requeira a designação da audiência do Art. 16, pois, embora necessária para confirmar a representação, sua designação não pode ocorrer de ofício pelo Juiz, dependendo de provocação ministerial.",
+        "C": "Intimar pessoalmente a vítima Ana para que compareça em cartório e ratifique sua representação ou manifeste eventual desejo de retratação, condicionando o recebimento da denúncia a essa nova manifestação.",
+        "D": "Prosseguir com a análise dos requisitos para o recebimento da denúncia oferecida, sem designar a audiência do Art. 16, uma vez que esta só é necessária caso a vítima manifeste previamente o desejo de se retratar, o que não ocorreu nos autos.",
+        "E": "Determinar o arquivamento do inquérito policial, pois a ausência de manifestação expressa da vítima sobre o desejo de retratação impede a designação da audiência do art. 16, tornando inviável o prosseguimento da ação penal por falta de condição de procedibilidade.\n"
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Prosseguir com a análise dos requisitos para o recebimento da denúncia oferecida, sem designar a audiência do Art. 16, uma vez que esta só é necessária caso a vítima manifeste previamente o desejo de se retratar, o que não ocorreu nos autos.",
+    "fundamento_resposta": "Não se designa audiência para confirmar representação. Além disso, lesão corporal doméstica contra mulher é de ação pública incondicionada.",
+    "fontes": [
+      "L11340:16",
+      "STJ_SUMULAS:542"
+    ],
+    "ressalvas": [
+      "D acerta a providência, mas sua justificativa genérica pressupõe representação; neste crime o art.16 não condiciona a persecução nem com retratação."
+    ],
+    "classificacao": {
+      "tema_id": "4704",
+      "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "extras_ids": [
+        "5470"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0037",
+    "questao": {
+      "id": "Q0037",
+      "enunciado": "Assinale a alternativa INCORRETA:",
+      "comando": "",
+      "alternativas": {
+        "A": "O artigo 149 do Código Penal tipifica, na seção dos crimes contra a liberdade pessoal,\\na conduta de reduzir alguém à condição análoga à de escravo, incluindo o exercício do\\ntrabalho forçado, em condições degradantes, em jornada exaustiva ou com restrição, por\\nqualquer meio, da locomoção, em razão de dívida contraída com o empregador ou\\npreposto.",
+        "B": "A pena relativa ao crime de redução a condição análoga à de escravo é aumentada se\\no crime é cometido contra criança ou adolescente.",
+        "C": "O crime de falso testemunho ou falsa perícia é crime próprio cometido por\\ntestemunha, intérprete, contador ou perito em processo judicial, administrativo, inquérito\\npolicial ou juízo arbitral.",
+        "D": "Comete falsificação de documento particular, previsto no artigo 298 do Código Penal,\\naquele que insere ou faz inserir declaração falsa ou diversa da que deveria ter sido escrita\\nna CTPS do empregado ou em documento que deva produzir efeito perante a Previdência\\nSocial."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Comete falsificação de documento particular, previsto no artigo 298 do Código Penal,\\naquele que insere ou faz inserir declaração falsa ou diversa da que deveria ter sido escrita\\nna CTPS do empregado ou em documento que deva produzir efeito perante a Previdência\\nSocial.",
+    "fundamento_resposta": "Declaração falsa em CTPS/documento previdenciário se enquadra no art.297 §3, e não em falsificação de documento particular do art.298.",
+    "fontes": [
+      "CP:297 §3,298"
+    ],
+    "ressalvas": [
+      "CTPS e documento previdenciário possuem tratamento penal específico."
+    ],
+    "classificacao": {
+      "tema_id": "5118",
+      "caminho": "Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Da Falsidade Documental",
+      "extras_ids": [
+        "5132",
+        "5081"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0038",
+    "questao": {
+      "id": "Q0038",
+      "enunciado": "No que diz respeito ao ofendido e às suas prerrogativas no processo penal brasileiro, é correto afirmar que poderá:",
+      "comando": "Complete a afirmação sobre as prerrogativas do ofendido no processo penal brasileiro.",
+      "alternativas": {
+        "A": "interpor recurso de apelação, ainda que não habilitado como\\nassistente, quando o Ministério Público tiver recorrido de\\ntodo o conteúdo impugnável da sentença;\n\\n",
+        "B": "o juiz determinar o segredo de justiça em relação a dados e\\ndepoimentos constantes dos autos a respeito do ofendido\\npara evitar sua exposição aos meios de comunicação;\n\\n",
+        "C": "se habilitar como assistente de acusação, no curso da\\ninvestigação criminal, com a anuência prévia do Ministério\\nPúblico;",
+        "D": "requerer ao juiz a prisão temporária do investigado caso este\\nameace a sua integridade física durante a investigação\\ncriminal;",
+        "E": "requisitar a instauração de inquérito policial e a realização de\\ndiligências investigatórias que deverão ser realizadas pela\\nautoridade policial."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "o juiz determinar o segredo de justiça em relação a dados e\\ndepoimentos constantes dos autos a respeito do ofendido\\npara evitar sua exposição aos meios de comunicação;\n\\n",
+    "fundamento_resposta": "O juiz pode resguardar dados e depoimentos do ofendido para evitar exposição indevida.",
+    "fontes": [
+      "CPP:201 §6"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5549",
+      "caminho": "Processo Penal > Provas em Espécies > Declaração do Ofendido",
+      "extras_ids": [
+        "5583"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0039",
+    "questao": {
+      "id": "Q0039",
+      "enunciado": "Suponha que todos os revendedores de gás liquefeito de petróleo (GLP) ajustem artificialmente preço final de venda do produto em determinada localidade. A esse respeito, é correto afirmar que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "o ajuste é comum e em nada influencia na concorrência entre as empresas.",
+        "B": "há, em princípio, um ilícito penal a ser apurado que se subsumi ao crime contra o consumidor.",
+        "C": "o fato descrito encarta-se como crime contra a ordem econômica.",
+        "D": "a relação de consumo é afetada pela conduta descrita; portanto, há contravenção praticada contra a economia popular.",
+        "E": "a investigação a respeito do caso ficará a cargo da Polícia Federal, em virtude de que a União possui o monopólio de distribuição do GLP no Brasil."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "o fato descrito encarta-se como crime contra a ordem econômica.",
+    "fundamento_resposta": "O ajuste de preços por concorrentes caracteriza, em tese, cartel, crime contra a ordem econômica; não é automaticamente crime financeiro ou contravenção popular.",
+    "fontes": [
+      "L8137:4 II"
+    ],
+    "ressalvas": [
+      "Não há nó específico de crimes contra a ordem econômica. Uso a raiz de legislação especial, com baixa especificidade; não equiparo a economia popular."
+    ],
+    "classificacao": {
+      "tema_id": "4683",
+      "caminho": "Direito Penal - Legislação Especial",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0040",
+    "questao": {
+      "id": "Q0040",
+      "enunciado": "Assinale a alternativa que traz duas características do recurso de apelação contra sentença condenatória do Tribunal do Júri que, cumuladas, podem levar à atribuição de efeito suspensivo ao referido recurso.",
+      "comando": "",
+      "alternativas": {
+        "A": "Crime cometido sem violência ou grave ameaça e primariedade do apelante.",
+        "B": "Votação não unânime quanto a quesito essencial e excesso de prazo para formação da culpa.",
+        "C": "Pleitear reforma de sentença superior a 20 anos e levantar questão substancial, que pode resultar em anulação da sentença.",
+        "D": "Interposição por acusado primário e levantar questão substancial, que pode resultar em redução da pena para patamar inferior a 15 (quinze) anos de reclusão.",
+        "E": "Não ter propósito meramente protelatório e levantar questão substancial, que pode resultar em absolvição."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Não ter propósito meramente protelatório e levantar questão substancial, que pode resultar em absolvição.",
+    "fundamento_resposta": "Ausência de propósito protelatório e questão substancial capaz de alterar o julgamento autorizam requerer efeito suspensivo nos termos do CPP.",
+    "fontes": [
+      "CPP:492 §§5-6"
+    ],
+    "ressalvas": [
+      "A execução imediata do Júri e o antigo piso de 15 anos foram afetados pelo Tema1068/STF; E permanece a combinação defensável, sujeita ao controle atual do precedente."
+    ],
+    "classificacao": {
+      "tema_id": "5515",
+      "caminho": "Processo Penal > Parte Geral dos Recursos > Efeito dos Recursos",
+      "extras_ids": [
+        "5562",
+        "5529"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0041",
+    "questao": {
+      "id": "Q0041",
+      "enunciado": "Sobre as medidas de segurança é correto afirmar:",
+      "comando": "",
+      "alternativas": {
+        "A": "A lógica manicomial se funda na segregação hospitalar da pessoa com transtorno mental que tenha praticado um injusto\\npenal para sua neutralização e tentativa declarada de cura.",
+        "B": "O Código Penal adota o sistema do duplo binário, sem a possibilidade de aplicação simultânea de pena e medida de segurança, que só se aplicam sucessivamente.",
+        "C": "Pelo regime adotado no Código Penal, a medida de segurança pode ser aplicada ao imputável, desde que presente a periculosidade.",
+        "D": "É inaplicável o Estatuto da Pessoa com Deficiência (Lei n° 13.146/2015) aos inimputáveis por doença mental, pois seria\\numa aplicação indevida do positivismo criminológico considerá-los pessoas com deficiência.",
+        "E": "Segundo a Lei n° 10.216/2001, a desinternação é sempre condicional, podendo ser restabelecida se dentro de um ano o\\nagente praticar fato indicativo de persistência de sua periculosidade."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "A lógica manicomial se funda na segregação hospitalar da pessoa com transtorno mental que tenha praticado um injusto\\npenal para sua neutralização e tentativa declarada de cura.",
+    "fundamento_resposta": "A descreve a lógica manicomial tradicional; as outras opções confundem o sistema vicariante, imputabilidade e o diploma que prevê desinternação condicional.",
+    "fontes": [
+      "CP:96-98",
+      "L10216:tratamento em saúde mental"
+    ],
+    "ressalvas": [
+      "Descrição de uma lógica histórica não equivale a recomendar segregação; considerar política antimanicomial atual."
+    ],
+    "classificacao": {
+      "tema_id": "5184",
+      "caminho": "Penal > Medida de Segurança",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0042",
+    "questao": {
+      "id": "Q0042",
+      "enunciado": "Sobre o elemento subjetivo da conduta, dolo direto é aquele em que:",
+      "comando": "",
+      "alternativas": {
+        "A": "o agente prevê o resultado como possível o provável e assume o risco de produzi-lo, agindo com indiferença em relação às consequências de sua conduta.",
+        "B": "o agente tem a intenção de realizar a conduta e alcançar o resultado almejado, visualizando a produção do evento como um objetivo.",
+        "C": "o agente, em virtude de sua falta de cuidado e sem prever o resultado que seria previsível, age, provocando, desta forma, um evento indesejado.",
+        "D": "o agente, mesmo prevendo o resultado como possível ou provável, age acreditando que esse evento ocorrerá, ainda que sua conduta seja idônea para produzi-lo."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "o agente tem a intenção de realizar a conduta e alcançar o resultado almejado, visualizando a produção do evento como um objetivo.",
+    "fundamento_resposta": "No dolo direto, a produção do resultado integra a finalidade da conduta. A descreve dolo eventual e C culpa inconsciente.",
+    "fontes": [
+      "CP:18 I"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5222",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0043",
+    "questao": {
+      "id": "Q0043",
+      "enunciado": "Sobre a fixação da pena, tem-se o seguinte:",
+      "comando": "Complete o estudo sobre a fixação da pena.",
+      "alternativas": {
+        "A": "a existência de circunstância atenuante pode conduzir à redução da pena abaixo do mínimo legal.",
+        "B": "pelo critério trifásico, adotado pelo Código Penal, o juiz, na segunda fase, deverá apreciar as causas de aumento e de diminuição da parte geral e especial.",
+        "C": "o estabelecimento do valor de dias-multa independe da condição econômica do condenado.",
+        "D": "em caso de reincidência, fixada a pena em patamar inferior a 4 (quatro) anos, o condenado poderá iniciar o cumprimento da pena em regime semiaberto, desde que as circunstâncias judiciais o recomendem."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "em caso de reincidência, fixada a pena em patamar inferior a 4 (quatro) anos, o condenado poderá iniciar o cumprimento da pena em regime semiaberto, desde que as circunstâncias judiciais o recomendem.",
+    "fundamento_resposta": "Reincidência não exige regime fechado quando pena até quatro anos e circunstâncias favoráveis autorizam semiaberto.",
+    "fontes": [
+      "CP:33",
+      "STJ_SUMULAS:269,231"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5201",
+      "caminho": "Penal > Teoria da Pena > Penas Privativas de Liberdade",
+      "extras_ids": [
+        "5203"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0044",
+    "questao": {
+      "id": "Q0044",
+      "enunciado": "Paulo e Jean foram denunciados pela prática do crime de furto de joias, praticado contra Maria, tia sexagenária de Paulo. A subtração foi facilitada pelo fato de Paulo residir com a vítima. Quando da citação, Paulo não foi encontrado no novo endereço que havia fornecido na fase do inquérito, tendo sido o mandado entregue a outro morador, que se comprometeu a entregá-lo ao destinatário. Jean, que retornou para a França, seu país de origem, havia fornecido seu endereço completo ao delegado. A partir dessa situação hipotética, julgue o item a seguir. Se Jean, após a citação pessoal válida, não comparecer em juízo para defender-se no curso da ação penal, o juiz deverá decretar a sua revelia e nomear-lhe um defensor dativo, dando continuidade ao processo, mas não poderá considerar a existência de confissão ficta.",
+      "comando": "",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A ausência injustificada após citação pessoal não paralisa o processo nem produz confissão ficta; deve haver defesa técnica.",
+    "fontes": [
+      "CPP:261,367"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5488",
+      "caminho": "Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos",
+      "extras_ids": [
+        "5547"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0045",
+    "questao": {
+      "id": "Q0045",
+      "enunciado": "No crime de excesso de exação, o crime é qualificado se",
+      "comando": "",
+      "alternativas": {
+        "A": "praticado por funcionário público.",
+        "B": "cometido por meio vexatório ou gravoso, que a lei não autoriza.",
+        "C": "resulta dano para a Administração Pública ou para o administrado.",
+        "D": "o funcionário pratica ato de ofício, com infração de dever funcional, cedendo a pedido ou influência de outrem.",
+        "E": "o funcionário desvia, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "o funcionário desvia, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos.",
+    "fundamento_resposta": "Desviar o valor indevidamente recebido para recolhimento público configura a modalidade qualificada do excesso de exação.",
+    "fontes": [
+      "CP:316 §2"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5091",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0046",
+    "questao": {
+      "id": "Q0046",
+      "enunciado": "Acerca das nulidades processuais e dos vícios procedimentais, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "As nulidades processuais penais sofrem influência da\\ninstrumentalidade do processo, não se declarando\\nqualquer tipo de nulidade se não verificado o prejuízo.",
+        "B": "Segundo a jurisprudência do Superior Tribunal de\\nJustiça, a inversão da ordem das perguntas (art. 212,\\nCPP) não gera nulidade, não implicando afronta ao\\nprincípio do contraditório.",
+        "C": "As nulidades são divididas conforme a gravidade dos\\nvícios, em relativas e absolutas, sendo a nulidade de ordem\\nabsoluta reconhecida ainda que não haja prejuízo.",
+        "D": "A inépcia da acusação só pode ser apreciada na fase do\\nartigo 396, do Código de Processo Penal, não podendo\\ntal análise ser refeita na fase do artigo 397, do Código\\nde Processo Penal, após a resposta à acusação.",
+        "E": "A coisa julgada sana todas as hipóteses de nulidades\\nprocessuais penais."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "As nulidades processuais penais sofrem influência da\\ninstrumentalidade do processo, não se declarando\\nqualquer tipo de nulidade se não verificado o prejuízo.",
+    "fundamento_resposta": "O reconhecimento de nulidade se vincula ao prejuízo e à finalidade do ato; mesmo nulidade absoluta exige exame concreto, ressalvadas hipóteses de prejuízo inerente.",
+    "fontes": [
+      "CPP:563,566"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5510",
+      "caminho": "Processo Penal > Nulidades > Nulidade Absoluta e Relativa",
+      "extras_ids": [
+        "5550"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0047",
+    "questao": {
+      "id": "Q0047",
+      "enunciado": "Durante um pacífico protesto realizado no interior do Município Alfa, Caio, destoando do público presente e agindo com dolo, lançou uma pedra em direção ao pequeno estabelecimento comercial de João, gerando, em razão dos bens móveis destruídos, prejuízo considerável para a vítima.\n\nNa sequência, Caio jogou diversos paralelepípedos contra a sede da municipalidade, deteriorando o bem público.\n\nNesse cenário, considerando as disposições do Código Penal, é correto afirmar que Caio responderá, em concurso, pelos crimes de",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "\\ndano qualificado em detrimento de João e dano qualificado\\npor ter deteriorado bem público, hipóteses em que se procede\\nmediante ação penal pública incondicionada.",
+        "B": "\\ndano qualificado em detrimento de João, hipótese em que\\nsomente se procede mediante representação do ofendido, e\\ndano qualificado por ter deteriorado bem público.",
+        "C": "\\ndano simples em detrimento de João e dano simples por ter\\ndeteriorado bem público, hipóteses em que se procede\\nmediante ação penal pública incondicionada.",
+        "D": "\\ndano qualificado em detrimento de João, hipótese em que\\nsomente se procede mediante queixa, e dano qualificado por\\nter deteriorado bem público.",
+        "E": "\\ndano simples em detrimento de João, hipótese em que\\nsomente se procede mediante queixa, e dano qualificado por\\nter deteriorado bem público."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "\\ndano qualificado em detrimento de João, hipótese em que\\nsomente se procede mediante queixa, e dano qualificado por\\nter deteriorado bem público.",
+    "fundamento_resposta": "Prejuízo considerável à vítima qualifica o primeiro dano e exige queixa; dano ao patrimônio municipal é qualificado de ação pública.",
+    "fontes": [
+      "CP:163 parágrafo único III-IV,167"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5164",
+      "caminho": "Penal > Dos Crimes Contra o Patrimônio > Dano",
+      "extras_ids": [
+        "5065"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0048",
+    "questao": {
+      "id": "Q0048",
+      "enunciado": "“Predomina, segundo se conclui pelo conteúdo dos decretos presidenciais, a preocupação em se reduzir os prazos de encarceramento e o contingente carcerário e, além disso, proporcionar condições de reinserção social do condenado, evitando lesão aos direitos fundamentais pela deterioração das condições de encarceramento decorrente de superpopulação.” (Ferreira, Ana Lúcia Tavares. Indulto e sistema penal: limites, finalidades e propostas. São Paulo. LiberArs, 2017)\n\nSobre indulto e comutação de pena, é correto afirmar que:",
+      "comando": "Sobre indulto e comutação de pena, é correto afirmar que:",
+      "alternativas": {
+        "A": "cumpridos todos os requisitos do decreto presidencial, não\\nhá possibilidade de ser indeferida a concessão do indulto ou\\nda comutação de pena ao apenado, considerando a natureza\\ndeclaratória da sentença que concede esses benefícios;",
+        "B": "nos decretos mais recentes, verificou-se a vedação à\\nconcessão da comutação de pena aos condenados por crime\\ncomum praticado em concurso com crime de natureza\\nhedionda;\n\\n",
+        "C": "a concessão do indulto extingue os efeitos primários e\\nsecundários da condenação, não subsistindo a condenação\\nextinta para efeitos de reconhecimento de reincidência\\nfutura;",
+        "D": "o cometimento de falta disciplinar de natureza grave fora do\\nperíodo previsto no decreto presidencial justifica o\\nindeferimento do indulto e da comutação de pena, por\\nausência de requisito subjetivo;",
+        "E": "a prática de falta disciplinar de natureza grave interrompe a\\ncontagem do prazo para fins de indulto e da comutação de\\npena."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "cumpridos todos os requisitos do decreto presidencial, não\\nhá possibilidade de ser indeferida a concessão do indulto ou\\nda comutação de pena ao apenado, considerando a natureza\\ndeclaratória da sentença que concede esses benefícios;",
+    "fundamento_resposta": "Cumpridas as condições constitucionais e do decreto válido, o reconhecimento judicial tem natureza declaratória; faltas fora do período e efeitos secundários não são tratados como nas demais opções.",
+    "fontes": [
+      "CF:84 XII",
+      "CP:107 II",
+      "STJ_SUMULAS:535"
+    ],
+    "ressalvas": [
+      "O decreto concreto e suas exclusões precisam ser observados; a questão não especifica qual."
+    ],
+    "classificacao": {
+      "tema_id": "5193",
+      "caminho": "Penal > Punibilidade > Anistia, Graça e Indulto",
+      "extras_ids": [
+        "4703"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0049",
+    "questao": {
+      "id": "Q0049",
+      "enunciado": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Mévia não incorreu em qualquer crime, visto que o tipo penal de induzimento, instigação ou auxílio a suicídio e automutilação, para se configurar, exige que da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave.",
+        "B": "Mévia, em tese, incorreu no crime de induzimento, instigação ou auxílio a suicídio e automutilação, que se configura com a conduta de induzir, instigar ou auxiliar, independentemente do resultado.",
+        "C": "Mévia, em tese, incorreu no crime de induzimento, instigação ou auxílio a suicídio e automutilação, na modalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade.",
+        "D": "Mévia não incorreu em qualquer crime, visto que o tipo penal de induzimento, instigação ou auxílio a suicídio e automutilação, para se configurar, exige que da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve.",
+        "E": "Mévia, em tese, incorreu no crime de induzimento, instigação ou auxílio a suicídio e automutilação, na figura qualificada, dada a relação afetiva, entre a vítima e o autor."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Mévia, em tese, incorreu no crime de induzimento, instigação ou auxílio a suicídio e automutilação, que se configura com a conduta de induzir, instigar ou auxiliar, independentemente do resultado.",
+    "fundamento_resposta": "Na redação atual do art.122, a figura básica de induzir ou instigar não depende de morte nem de lesão grave; o resultado agrava a pena.",
+    "fontes": [
+      "CP:122",
+      "L13968:alteração de 2019"
+    ],
+    "ressalvas": [
+      "A resposta seria diferente sob a redação anterior à Lei13.968/2019."
+    ],
+    "classificacao": {
+      "tema_id": "5152",
+      "caminho": "Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0050",
+    "questao": {
+      "id": "Q0050",
+      "enunciado": "Sobre o instituto da delação premiada, previsto na Lei de Drogas (Lei no 11.343/2006), para os autores dos crimes nela descritos é correto afirmar que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "pressupõe a colaboração do autor da delação na \\nidentificação de seus comparsas.",
+        "B": "os requisitos legais para obtenção do benefício decorrente da delação premiada são alternativos.",
+        "C": "exige voluntariedade e espontaneidade do autor da \\ndelação.",
+        "D": "exige a recuperação total ou parcial do proveito do \\ncrime."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "pressupõe a colaboração do autor da delação na \\nidentificação de seus comparsas.",
+    "fundamento_resposta": "A colaboração voluntária prevista na Lei de Drogas envolve identificação de coautores/partícipes e recuperação do produto, não necessariamente espontaneidade.",
+    "fontes": [
+      "L11343:41"
+    ],
+    "ressalvas": [
+      "D usa proveito em vez de produto, gerando possível ambiguidade; a cumulatividade dos resultados e a terminologia exigem revisão específica."
+    ],
+    "classificacao": {
+      "tema_id": "5557",
+      "caminho": "Processo Penal > Provas em Espécies > Colaboração Premiada",
+      "extras_ids": [
+        "4708"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0051",
+    "questao": {
+      "id": "Q0051",
+      "enunciado": "O jogador Vinícius Júnior foi expulso, no dia 21/05/2023, em partida de futebol realizada contra o Valencia pelo campeonato espanhol, após reagir a ofensas racistas perpetradas por torcedores do time rival.\n\nAo longo da partida, foi possível ouvir constantes gritos de “macaco!” advindos da torcida do Valencia e direcionados ao atacante brasileiro.\n\nA polícia de Madri recolheu impressões digitais e vestígios genéticos de várias pessoas envolvidas no ato.\n\nAfora isso, as autoridades locais rastrearam placas de veículos automotores que transitaram próximo ao estádio.\n\nDiante da investigação da polícia madrilenha, chegou-se à autoria em relação a determinados indivíduos.\n\nConsiderando a narrativa fática, é correto afirmar que a lei penal brasileira:",
+      "comando": "Considerando a narrativa fática, é correto afirmar que a lei penal brasileira:",
+      "alternativas": {
+        "A": "poderá ser aplicada às infrações penais que ocorrerem fora\\ndo território nacional, devendo ser observado o princípio da\\nterritorialidade mitigada; ",
+        "B": "poderá ser aplicada às infrações penais que ocorrerem fora\\ndo território nacional, devendo ser observado o princípio da\\nnacionalidade ativa, podendo-se afirmar que nesta hipótese a\\nextraterritorialidade é condicionada;",
+        "C": "poderá ser aplicada às infrações penais que ocorrerem fora\\ndo território nacional, devendo ser observado o princípio da\\nrepresentação, podendo-se afirmar que, nessa hipótese, a\\nextraterritorialidade é incondicionada;",
+        "D": "poderá ser aplicada às infrações penais que ocorrerem fora\\ndo território nacional, devendo ser observado o princípio da\\njustiça penal universal, bem como a hipótese legal decorrente\\ndo princípio da defesa que é verificada quando o delito é\\npraticado por estrangeiro contra brasileiro, podendo-se\\nafirmar que, em ambos os casos, teremos\\nextraterritorialidade incondicionada;",
+        "E": "poderá ser aplicada às infrações penais que ocorrerem fora\\ndo território nacional, devendo ser observado o princípio da\\njustiça penal universal, bem como a hipótese legal decorrente\\ndo princípio da defesa que é verificada quando o delito é\\npraticado por estrangeiro contra brasileiro, podendo-se\\nafirmar que, em ambos os casos, teremos\\nextraterritorialidade condicionada."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "poderá ser aplicada às infrações penais que ocorrerem fora\\ndo território nacional, devendo ser observado o princípio da\\njustiça penal universal, bem como a hipótese legal decorrente\\ndo princípio da defesa que é verificada quando o delito é\\npraticado por estrangeiro contra brasileiro, podendo-se\\nafirmar que, em ambos os casos, teremos\\nextraterritorialidade condicionada.",
+    "fundamento_resposta": "A repressão convencional ao racismo e a nacionalidade brasileira da vítima podem fundamentar extraterritorialidade condicionada, observados os requisitos legais adicionais.",
+    "fontes": [
+      "CP:7 II a,§§2-3"
+    ],
+    "ressalvas": [
+      "A opção chama nacionalidade passiva de defesa; essa terminologia não é uniforme. Não basta a vítima ser brasileira para aplicar automaticamente a lei."
+    ],
+    "classificacao": {
+      "tema_id": "5182",
+      "caminho": "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço",
+      "extras_ids": [
+        "4690"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0052",
+    "questao": {
+      "id": "Q0052",
+      "enunciado": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo.\n\nEsse indivíduo\n\nI. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho.\n\nII. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar.\n\nIII. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio.\n\nIV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar.",
+      "comando": "Está correto o que se afirma APENAS em",
+      "alternativas": {
+        "A": "II, III e IV.",
+        "B": "I e III.",
+        "C": "I e II.",
+        "D": "III e IV.",
+        "E": "I, II e IV."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "I e II.",
+    "fundamento_resposta": "Trabalho e estudo geram remição cumulável; o adicional pela conclusão escolar incide sobre estudo, e a falta grave pode retirar até um terço, não obrigatoriamente um terço.",
+    "fontes": [
+      "LEP:126,127"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4703",
+      "caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0053",
+    "questao": {
+      "id": "Q0053",
+      "enunciado": "Com relação aos juizados especiais criminais, às nulidades, aos recursos no processo penal e à execução penal, julgue o item a seguir. Diferentemente da suspensão condicional do processo, a homologação da transação penal no âmbito dos juizados especiais criminais faz coisa julgada material, de forma que o descumprimento das cláusulas do acordo não permite a continuidade da persecução penal.",
+      "comando": "",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "Descumprida a transação, a persecução pode prosseguir; a homologação não cria a coisa julgada material descrita.",
+    "fontes": [
+      "SV35:homologação e descumprimento da transação"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5541",
+      "caminho": "Processo Penal > Procedimento Sumaríssimo > Transação Penal",
+      "extras_ids": [
+        "4701"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0054",
+    "questao": {
+      "id": "Q0054",
+      "enunciado": "A doutrina classifica os delitos em diversas categorias.\n\nConsiderando algumas das classificações existentes, a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente, é:",
+      "comando": "Considerando algumas das classificações existentes, assinale a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente.",
+      "alternativas": {
+        "A": "violação de domicílio, furto, rixa e roubo;",
+        "B": "injúria, dano, associação criminosa e estelionato;",
+        "C": "assédio sexual, incêndio, apropriação indébita e roubo;",
+        "D": "desobediência, omissão de socorro, tráfico de pessoas e\\nperseguição;",
+        "E": "ato obsceno, lesão corporal, constituição de milícia privada e\\nautoaborto."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "violação de domicílio, furto, rixa e roubo;",
+    "fundamento_resposta": "Violação de domicílio é de mera conduta; furto é de lesão; rixa exige pluralidade; roubo lesiona patrimônio e liberdade/integridade.",
+    "fontes": [
+      "CP:150,155,137,157"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5174",
+      "caminho": "Penal > Introdução ao Estudo do Direito Penal > Classificações dos Crimes",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0055",
+    "questao": {
+      "id": "Q0055",
+      "enunciado": "No que tange à oitiva das testemunhas arroladas pela acusação em audiência de instrução e julgamento, na forma do Art. 212 do Código de Processo Penal, é correto afirmar que:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "a nulidade pela alteração da ordem de inquirição deve indicar\\no prejuízo gerado;\n\\n",
+        "B": "é possível ao juiz formular perguntas de forma detalhada,\\napós as partes;",
+        "C": "a ordem de inquirição pode ser alterada no caso de ausência\\nmomentânea de uma das partes;",
+        "D": "havendo atuação comedida, o juiz pode iniciar a inquirição da\\ntestemunha;",
+        "E": "o juiz pode intervir, a qualquer momento, diante de\\nilegalidade na condução do depoimento."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "a nulidade pela alteração da ordem de inquirição deve indicar\\no prejuízo gerado;\n\\n",
+    "fundamento_resposta": "A inversão da ordem de perguntas é examinada sob a demonstração do prejuízo, não gerando nulidade automática.",
+    "fontes": [
+      "CPP:212,563"
+    ],
+    "ressalvas": [
+      "E descreve poder de impedir ilegalidade que também é defensável. Sem contexto jurisprudencial específico, a exclusividade da alternativa A é contestável."
+    ],
+    "classificacao": {
+      "tema_id": "5550",
+      "caminho": "Processo Penal > Provas em Espécies > Prova Testemunhal",
+      "extras_ids": [
+        "5510"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0056",
+    "questao": {
+      "id": "Q0056",
+      "enunciado": "No caso de pluralidade delitiva, deve-se adotar, na determinação da pena,",
+      "comando": "Complete a frase sobre a determinação da pena no caso de pluralidade delitiva.",
+      "alternativas": {
+        "A": "o sistema de cúmulo jurídico, somando-se as penas aplicadas\\na cada um dos crimes.",
+        "B": "o sistema da exasperação, quando se tratar de casos de\\nconcurso formal imperfeito.",
+        "C": "o sistema da exasperação, quando se tratar de concurso\\nmaterial heterogêneo, para evitar que a pena ultrapasse o limite\\nlegal de cumprimento.",
+        "D": "o sistema da exasperação, que considera tão somente o número\\nde crimes consumados para definição da pena.",
+        "E": "o sistema do cúmulo material, quando se tratar de pena\\npecuniária, independentemente das demais sanções aplicadas,\\nressalvado o crime continuado."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "o sistema do cúmulo material, quando se tratar de pena\\npecuniária, independentemente das demais sanções aplicadas,\\nressalvado o crime continuado.",
+    "fundamento_resposta": "A multa é aplicada distinta e integralmente nos concursos, com ressalva do tratamento jurisprudencial do crime continuado.",
+    "fontes": [
+      "CP:72"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5070",
+      "caminho": "Penal > Concurso de Crimes > Pena de Multa no Concurso de Crimes",
+      "extras_ids": [
+        "5069"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0057",
+    "questao": {
+      "id": "Q0057",
+      "enunciado": "Por iter criminis compreende-se o conjunto de",
+      "comando": "Complete a definição de iter criminis.",
+      "alternativas": {
+        "A": "atos de execução do delito.",
+        "B": "atos preparatórios antecedentes ao delito.",
+        "C": "atos de consumação do delito.",
+        "D": "fases pelas quais passa o delito.",
+        "E": "atos de cogitação."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "fases pelas quais passa o delito.",
+    "fundamento_resposta": "Iter criminis designa o percurso/fases do delito, não apenas cogitação, preparação, execução ou consumação isoladas.",
+    "fontes": [
+      "CP:14",
+      "CRIMINOLOGIA:doutrina penal do iter criminis"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5176",
+      "caminho": "Penal > Iter Criminis > Fases do Iter Criminis",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0058",
+    "questao": {
+      "id": "Q0058",
+      "enunciado": "Sobre a relação entre sistema penal e pobreza é correto afirmar que",
+      "comando": "",
+      "alternativas": {
+        "A": "a vertente criminológica do conflito identifica a pobreza\\ncomo principal causa da criminalidade e defende\\nmaior investimento social para reduzir as taxas\\nde crimes.",
+        "B": "tal qual o processo de criminalização, a vitimização\\ntambém é um processo seletivo que tem como alvo\\npreferencial os mais pobres.",
+        "C": "por se tratar de uma questão de saúde, a internação\\ndas pessoas com transtorno mental pelas medidas\\nde segurança não se dá de maneira seletiva como\\nno processo de criminalização.",
+        "D": "o surgimento da prisão como forma de punição por\\nexcelência nos séculos XVIII e XIX teve como fulcro\\na substituição de penas cruéis, mas somente nas\\núltimas duas décadas passou a ser um mecanismo\\nde controle social da pobreza.",
+        "E": "o efetivo respeito ao garantismo penal é capaz de\\nreverter o caráter seletivo do sistema penal brasileiro\\ne sua consequente gestão autoritária da miséria."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "tal qual o processo de criminalização, a vitimização\\ntambém é um processo seletivo que tem como alvo\\npreferencial os mais pobres.",
+    "fundamento_resposta": "A vitimização também é socialmente seletiva; pobreza não é causa natural nem monopólio da criminalidade.",
+    "fontes": [
+      "ANDRADE:seletividade e vitimização"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4390",
+      "caminho": "Criminologia > Vitimologia > Processo de Vitimização",
+      "extras_ids": [
+        "4378"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0059",
+    "questao": {
+      "id": "Q0059",
+      "enunciado": "Sobre a relação entre o preso e a sociedade, segundo Alessandro Baratta, é CORRETO afirmar:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A reinserção do preso na sociedade, após o cumprimento da pena, é assegurada\\na partir do momento em que, no cárcere, o preso absorve um conjunto de\\nvalores e modelos de comportamento desejados socialmente.",
+        "B": "É necessário primeiro modificar os excluídos, para que eles possam voltar ao\\nconvívio social na sociedade que está apta a acolhê-los.",
+        "C": "O cárcere não reflete as características negativas da sociedade, em razão do\\nisolamento a que são submetidos os presos.",
+        "D": "São relações sociais baseadas no egoísmo e na violência ilegal, no interior\\ndas quais os indivíduos socialmente mais débeis são constrangidos a papéis\\nde submissão e de exploração."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "São relações sociais baseadas no egoísmo e na violência ilegal, no interior\\ndas quais os indivíduos socialmente mais débeis são constrangidos a papéis\\nde submissão e de exploração.",
+    "fundamento_resposta": "A crítica de Baratta vê o cárcere reproduzir relações sociais de violência, dominação e submissão, em vez de neutralizá-las por isolamento.",
+    "fontes": [
+      "BARATTA:reintegração social"
+    ],
+    "ressalvas": [
+      "Fonte primária da passagem específica não consultada; referência doutrinária provisória."
+    ],
+    "classificacao": {
+      "tema_id": "4370",
+      "caminho": "Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito",
+      "extras_ids": [
+        "4384"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0060",
+    "questao": {
+      "id": "Q0060",
+      "enunciado": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "São crimes próprios de funcionários públicos o de\\nconcussão, o de peculato e o de tráfico de influência.",
+        "B": "O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\\npúblico.",
+        "C": "O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo.",
+        "D": "No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício.",
+        "E": "O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\\ncrime de condescendência criminosa."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício.",
+    "fundamento_resposta": "A corrupção ativa é majorada quando o funcionário efetivamente retarda, omite ou pratica ato contrariando o dever em razão da vantagem.",
+    "fontes": [
+      "CP:333 parágrafo único"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5093",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0061",
+    "questao": {
+      "id": "Q0061",
+      "enunciado": "Sobre a falta grave no processo de execução criminal, é correto afirmar:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " a falta grave abrange o descumprimento em regime aberto das condições impostas.",
+        "B": "a falta grave não abrange o condenado a pena restritiva de direito que descumpre,\\ninjustificadamente, a restrição imposta. ",
+        "C": "a decisão judicial que reconhece a falta grave faz com que seja obrigatório o exame\\ncriminológico em eventual pedido de progressão de regime.",
+        "D": "a decisão judicial que reconhece a falta grave implica na perda de, no mínimo, de\\n1/3 dos dias remidos.",
+        "E": "a decisão judicial que reconhece a falta grave interrompe a contagem do período\\npara fins de comutação e indulto."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": " a falta grave abrange o descumprimento em regime aberto das condições impostas.",
+    "fundamento_resposta": "O descumprimento das condições do regime aberto constitui falta grave; perda de remição é de até um terço e indulto/comutação não têm prazo automaticamente interrompido.",
+    "fontes": [
+      "LEP:50 V,127",
+      "STJ_SUMULAS:535"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4703",
+      "caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0062",
+    "questao": {
+      "id": "Q0062",
+      "enunciado": "Camargo, terrorista, tenta explodir agência do Banco do Brasil, na França. Considerando o princípio da extraterritorialidade incondicionada, previsto no Código Penal brasileiro, é correto afirmar que:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Camargo só pode ser processado criminalmente na França.",
+        "B": "O Estado brasileiro não tem interesse em delitos ocorridos fora do Brasil.",
+        "C": "Caso Camargo tenha sido condenado e encarcerado na França, não poderá ser preso no Brasil.",
+        "D": "O fato deve ser julgado no local onde ocorreu o crime: na França.",
+        "E": "Mesmo Camargo tendo sido julgado na França, poderá ser julgado no Brasil."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Mesmo Camargo tendo sido julgado na França, poderá ser julgado no Brasil.",
+    "fundamento_resposta": "Crime contra patrimônio de sociedade de economia mista instituída pelo poder público pode atrair extraterritorialidade incondicionada; julgamento estrangeiro não afasta a incidência, observada a compensação da pena.",
+    "fontes": [
+      "CP:7 I b,§1,8"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5182",
+      "caminho": "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0063",
+    "questao": {
+      "id": "Q0063",
+      "enunciado": "No contexto da violência doméstica e familiar contra a mulher, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n\n(   ) As medidas protetivas de urgência, previstas na Lei  nº 11.340/2006, poderão ser aplicadas cumulativamente, diferentemente das medidas cautelares alternativas dispostas no Código de Processo Penal, as quais não podem ser aplicadas de forma cumulada, tendo em vista o princípio ne bis in idem.\n\n(   ) Independentemente de autorização judicial, o  delegado de polícia, quando o município não for sede de comarca, poderá tomar medidas para o imediato afastamento do agressor do local de convivência com a ofendida.\n\n(   ) As medidas protetivas de urgência serão concedidas em juízo de cognição sumária a partir do depoimento da ofendida perante a autoridade policial ou  a partir da apresentação de suas alegações escritas.\n\n(   ) Segundo a Lei nº 11.340/06, as medidas protetivas de urgência poderão ser concedidas de imediato, independentemente de audiência das partes e de manifestação do Ministério Público. Todavia, o órgão do Parquet deverá ser comunicado prontamente sobre a medida.\n\nAs afirmativas são, respectivamente,",
+      "comando": "Assinale se as afirmativas são verdadeiras (V) ou falsas (F).",
+      "alternativas": {
+        "A": "F – V – V – F. ",
+        "B": "V – F – V – F. ",
+        "C": "F – V – V – V. ",
+        "D": "V – F – F – V. ",
+        "E": "F – V – F – F. "
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "F – V – V – V. ",
+    "fundamento_resposta": "A sequência é F-V-V-V: cautelares do CPP também são cumuláveis; a lei admite afastamento policial nas hipóteses restritas e concessão imediata por cognição sumária.",
+    "fontes": [
+      "L11340:12-C,19",
+      "CPP:282 §1"
+    ],
+    "ressalvas": [
+      "A atuação policial pressupõe os requisitos de risco e localidade e posterior controle judicial, não um poder irrestrito."
+    ],
+    "classificacao": {
+      "tema_id": "4704",
+      "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "extras_ids": [
+        "5522"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0064",
+    "questao": {
+      "id": "Q0064",
+      "enunciado": "Francisco contratou empregada doméstica, porém, durante a relação de emprego, por três meses, realizou o desconto da contribuição previdenciária sem, contudo, fazer o devido repasse aos cofres públicos. Após a finalização do procedimento administrativo, apurou-se que a dívida de Francisco com a previdência somava R$ 1.000.",
+      "comando": "Acerca dessa situação hipotética, assinale a opção correta.",
+      "alternativas": {
+        "A": "Na situação em apreço, conforme dispositivo do Código\\nPenal, a conduta narrada configura o crime de estelionato\\nprevidenciário. ",
+        "B": "Mesmo que condenado por sentença definitiva, caso\\nFrancisco realize o pagamento integral da dívida fiscal,\\ndeverá ser declarada a extinção da punibilidade.",
+        "C": "Para a situação narrada, a prescrição começa a correr a partir\\ndo dia subsequente ao último mês em que Francisco deixou\\nde recolher a contribuição previdenciária, uma vez que se\\ntrata de crime permanente e que sua consumação se posterga\\naté que cesse a permanência. ",
+        "D": "Se preenchidos os requisitos de ordem subjetiva, será possível\\na incidência do princípio da insignificância para o caso em\\nanálise, haja vista o pequeno valor do crédito tributário."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Mesmo que condenado por sentença definitiva, caso\\nFrancisco realize o pagamento integral da dívida fiscal,\\ndeverá ser declarada a extinção da punibilidade.",
+    "fundamento_resposta": "Trata-se de apropriação indébita previdenciária. O art. 9º, §2º, da Lei 10.684 e a orientação favorável do STJ sobre pagamento integral sem marco final permitem a extinção mesmo após condenação definitiva. Não é crime permanente e o pequeno valor, sozinho, não atrai insignificância.",
+    "fontes": [
+      "CP:168-A",
+      "L10684:9 §2",
+      "STJ_PREVIDENCIA:pagamento integral; cotejo da orientação de 2015 com HC362478 de 2017"
+    ],
+    "ressalvas": [
+      "A pesquisa encontrou decisões antigas restritivas e orientação posterior mais favorável. B é a resposta proposta após esse cotejo; a extensão ao caso previdenciário deve ser confirmada antes de usar como referência firme."
+    ],
+    "classificacao": {
+      "tema_id": "5165",
+      "caminho": "Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita",
+      "extras_ids": [
+        "4695"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0065",
+    "questao": {
+      "id": "Q0065",
+      "enunciado": "O crime de extorsão mediante sequestro (CP, art. 159)",
+      "comando": "Complete a explicação sobre o crime de extorsão mediante sequestro previsto no artigo 159 do Código Penal.",
+      "alternativas": {
+        "A": "é qualificado se do fato resulta lesão corporal grave\\nou morte.",
+        "B": "é qualificado se cometido contra vítima menor de\\n18 (dezoito) anos ou maior de 50 (cinquenta) anos.",
+        "C": "não admite a modalidade tentada.",
+        "D": "consuma-se quando o agente solicita vantagem\\ncomo preço do resgate, por se tratar de crime contra\\no patrimônio.",
+        "E": "consuma-se quando o agente obtém vantagem\\ncomo preço do resgate, por se tratar de crime contra\\no patrimônio."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "é qualificado se do fato resulta lesão corporal grave\\nou morte.",
+    "fundamento_resposta": "Lesão grave e morte qualificam extorsão mediante sequestro. O tipo se consuma com a privação da liberdade orientada ao resgate, sem exigir recebimento.",
+    "fontes": [
+      "CP:159 §§1-3"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5161",
+      "caminho": "Penal > Dos Crimes Contra o Patrimônio > Extorsão",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0066",
+    "questao": {
+      "id": "Q0066",
+      "enunciado": "O positivismo criminológico",
+      "comando": "Explique o que é o positivismo criminológico.",
+      "alternativas": {
+        "A": "constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico.",
+        "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+        "C": "sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo.",
+        "D": "revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso. ",
+        "E": "primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo. "
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo. ",
+    "fundamento_resposta": "O positivismo criminológico se caracteriza por observação e experimentação, em contraposição ao método abstrato clássico e ao livre-arbítrio.",
+    "fontes": [
+      "CRIMINOLOGIA:escola positiva"
+    ],
+    "ressalvas": [
+      "Fonte doutrinária primária específica pendente."
+    ],
+    "classificacao": {
+      "tema_id": "4373",
+      "caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+      "extras_ids": [
+        "4382"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0067",
+    "questao": {
+      "id": "Q0067",
+      "enunciado": "Os fi ns da Administração Pública resumem-se em um único objetivo: o bem comum da coletividade administrativa. Toda atividade deve ser orientada para este objetivo; sendo que todo ato administrativo que não for praticado no interesse da coletividade será ilícito e imoral. Assim, temos no Código Penal o título\n\nXI - Dos crimes contra a Administração Pública. Analise a conduta abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública.\n\nSebastião, policial militar, exige dinheiro de Caio, usuário de maconha, para que este não seja preso. Caio, com medo da função de policial exercida pelo funcionário público militar, dá R$ 4.000,00 (quatro mil reais) a Sebastião, conforme exigido por ele. Com base nessa informação e na legislação penal especial, é correto afi rmar que:",
+      "comando": "Analise a conduta e caracterize-a com um dos tipos de crime contra a Administração Pública.",
+      "alternativas": {
+        "A": "Sebastião comete o crime de corrupção ativa.",
+        "B": "Sebastião comete o crime de prevaricação.",
+        "C": "Sebastião comete o crime de excesso de exação.",
+        "D": "Sebastião comete o crime de concussão.",
+        "E": "Sebastião comete o crime de patrocínio infiel."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Sebastião comete o crime de concussão.",
+    "fundamento_resposta": "Exigir vantagem indevida em razão da função caracteriza concussão; o particular que cede à exigência não oferece espontaneamente corrupção ativa.",
+    "fontes": [
+      "CP:316"
+    ],
+    "ressalvas": [
+      "A condição militar pode deslocar o enquadramento ao CPM; o nome do delito continua concussão."
+    ],
+    "classificacao": {
+      "tema_id": "5091",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0068",
+    "questao": {
+      "id": "Q0068",
+      "enunciado": "Marque a alternativa correta do ponto de vista legal.",
+      "comando": "",
+      "alternativas": {
+        "A": "No crime de estupro, aumenta-se a pena de metade se resultar a gravidez da vítima.",
+        "B": "Luiz, delegado de polícia civil, lotado em uma determinada delegacia de polícia, deixou, por\\nindulgência, de responsabilizar o inspetor Amâncio após tomar conhecimento de que este\\nteria praticado uma determinada infração. Nesse contexto, pode-se afirmar que o delegado\\npraticou, em tese, o crime de condescendência criminosa.",
+        "C": "No crime de incêndio, aumenta-se a pena em dois terços se o delito for praticado em galeria\\nde mineração.",
+        "D": "Aquele que dolosamente retém documento de identidade de terceira pessoa responde pelo\\ndelito de supressão de documento.",
+        "E": "No crime de Falsa Identidade, o agente não apresenta nenhum documento de identidade para\\nse identificar."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Luiz, delegado de polícia civil, lotado em uma determinada delegacia de polícia, deixou, por\\nindulgência, de responsabilizar o inspetor Amâncio após tomar conhecimento de que este\\nteria praticado uma determinada infração. Nesse contexto, pode-se afirmar que o delegado\\npraticou, em tese, o crime de condescendência criminosa.",
+    "fundamento_resposta": "Deixar por indulgência de responsabilizar subordinado por infração funcional é condescendência criminosa; as outras opções alteram frações ou tipos.",
+    "fontes": [
+      "CP:320"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5096",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0069",
+    "questao": {
+      "id": "Q0069",
+      "enunciado": "Em termos de interpretação da lei penal, quando se encontram na legislação expressões como “qualquer outro meio”, “qualquer outra vantagem”, “outro recurso” ou “qualquer outro meio fraudulento”, por exemplo, tais preceitos serão supridos por",
+      "comando": "",
+      "alternativas": {
+        "A": "analogia.",
+        "B": "interpretação progressiva.",
+        "C": "interpretação autêntica.",
+        "D": "interpretação analógica.",
+        "E": "interpretação declarativa."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "interpretação analógica.",
+    "fundamento_resposta": "Cláusulas gerais precedidas de exemplos legais ensejam interpretação analógica dentro do tipo, não integração de lacuna por analogia prejudicial.",
+    "fontes": [
+      "CP:121 §2 IV,171",
+      "CRIMINOLOGIA:interpretação analógica"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5173",
+      "caminho": "Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0070",
+    "questao": {
+      "id": "Q0070",
+      "enunciado": "Carlos Alberto foi preso preventivamente em 1º de fevereiro de 2024, pela suposta prática do crime de tráfico de drogas (Art. 33, caput, da Lei nº 11.343/2006). A prisão preventiva perdurou por um ano, até que sobreveio sentença penal condenatória transitada em julgado em 1º de fevereiro de 2025, que o condenou à pena de seis anos de reclusão, em regime inicial fechado. Após o cumprimento de um ano da execução definitiva da pena, em 1º de fevereiro de 2026, a defesa de Carlos Alberto formulou pedido de comutação de pena com base em Decreto Presidencial vigente, que exigia o cumprimento mínimo de um terço da pena para a concessão do benefício. Para alcançar a fração de dois anos exigida, a defesa pleiteou o cômputo do período de prisão preventiva, correspondente a um ano, no cálculo do requisito objetivo temporal. À luz da jurisprudência do Superior Tribunal de Justiça (STJ) consolidada em sede de recurso repetitivo, assinale a afirmativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "O pleito da defesa merece acolhimento, pois o período de prisão provisória configura tempo de privação de liberdade efetivamente já posto à disposição do Estado, devendo ser contabilizado na análise dos requisitos para a concessão da comutação previstos nos respectivos decretos, conforme o Art. 42 do Código Penal (CP).",
+        "B": "O pleito da defesa deve ser rejeitado, uma vez que a prisão preventiva possui natureza exclusivamente cautelar e processual, não se confundindo com a execução da pena, de modo que o respectivo período serve apenas para desconto da reprimenda total a ser cumprida (detração, Art. 42 do CP), não podendo ser contabilizado para fins de preenchimento do requisito objetivo temporal exigido nos decretos de indulto e comutação.",
+        "C": "O pleito da defesa é admissível, desde que a custódia cautelar tenha sido expressamente mantida na sentença penal condenatória, assegurando-se a continuidade ininterrupta entre o período de prisão provisória e o início do cumprimento da pena definitiva, pois somente nessa hipótese haveria identidade funcional entre a privação cautelar de liberdade e a execução penal propriamente dita, legitimando a aplicação analógica do Art. 42 do CP.",
+        "D": "O pleito da defesa deve ser rejeitado, pois o Art. 42 do CP disciplina exclusivamente a detração penal para fins de cômputo no cumprimento da pena definitiva, não havendo previsão legal expressa que autorize a sua extensão ao cálculo dos requisitos objetivos dos decretos de indulto e comutação. A analogia pretendida pela defesa configuraria interpretação contra legem, vedada em matéria de execução penal.",
+        "E": "O pleito da defesa deve ser rejeitado, visto que admitir o cômputo da prisão provisória para efeito de preenchimento do requisito objetivo do indulto e da comutação representaria equiparação indevida entre a custódia cautelar e o cumprimento efetivo de pena, em afronta ao princípio da presunção de inocência, já que, enquanto preso provisório, o réu ainda não ostenta a condição jurídica de condenado em execução de pena. Realização"
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "O pleito da defesa merece acolhimento, pois o período de prisão provisória configura tempo de privação de liberdade efetivamente já posto à disposição do Estado, devendo ser contabilizado na análise dos requisitos para a concessão da comutação previstos nos respectivos decretos, conforme o Art. 42 do Código Penal (CP).",
+    "fundamento_resposta": "O Tema1277/STJ admite computar prisão provisória no requisito temporal de indulto/comutação, por detração.",
+    "fontes": [
+      "CP:42",
+      "DETRACAO1277:REsp2069773"
+    ],
+    "ressalvas": [
+      "A tese de cômputo não garante o benefício: tráfico do art.33 caput pode estar excluído pelo decreto e pela Constituição; o enunciado artificial pressupõe elegibilidade que não demonstra."
+    ],
+    "classificacao": {
+      "tema_id": "5193",
+      "caminho": "Penal > Punibilidade > Anistia, Graça e Indulto",
+      "extras_ids": [
+        "4703"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  }
+]

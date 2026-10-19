@@ -1,0 +1,23 @@
+{
+  "baselineManifest": "output/no-rag-v19/model-only-v19-359/manifest.json",
+  "suite": "pro-judge-v20-359-r2",
+  "budgetSuite": "pro-judge-v20-359",
+  "classifierModel": "gemini-3.5-flash-lite",
+  "judgeModel": "gemini-3.1-pro-preview",
+  "classifierReasoning": "high",
+  "judgeReasoning": "medium",
+  "batchSize": 1,
+  "concurrency": 1,
+  "maxAttemptsPerStage": 5,
+  "knowledgeEnabled": false,
+  "retrievalEnabled": false,
+  "toolsEnabled": false,
+  "pricingCheckedAt": "2026-10-19",
+  "judgePricing": {
+    "inputUsdPerMillion": 2,
+    "cachedInputUsdPerMillion": 0.2,
+    "outputUsdPerMillion": 12,
+    "longContext": { "threshold": 200000, "inputUsdPerMillion": 4, "cachedInputUsdPerMillion": 0.4, "outputUsdPerMillion": 18 },
+    "source": "https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing"
+  }
+}

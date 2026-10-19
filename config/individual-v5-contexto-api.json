@@ -1,0 +1,39 @@
+{
+  "classifierModel": "nvidia/nemotron-3.5-super-vl:free",
+  "judgeModel": "nvidia/nemotron-3-super-120b-a12b:free",
+  "classifierPrompt": "classificador.v3.md",
+  "judgePrompt": "juiz.v5-contexto.md",
+  "batchSize": 1,
+  "maxRequestCharacters": 400000,
+  "maxOutputTokens": 32000,
+  "maxCalls": 100,
+  "maxRetries": 0,
+  "minIntervalMs": 4000,
+  "timeoutMs": 900000,
+  "reasoningByModel": {
+    "nvidia/nemotron-3-super-120b-a12b:free": {
+      "effort": "medium"
+    },
+    "nvidia/nemotron-3.5-super-vl:free": {
+      "enabled": true
+    }
+  },
+  "responseFormat": "json_schema",
+  "allowRootPublication": false,
+  "legalCutoff": "2026-10-16",
+  "maxAttemptsPerStage": 5,
+  "retryBaseDelayMs": 2000,
+  "requestsPerMinute": 18,
+  "retrieval": {
+    "enabled": true,
+    "labelSource": "original",
+    "maximumRecords": 5,
+    "maxAttemptsPerQuery": 2,
+    "maxRequestsPerQuestion": 4,
+    "timeoutMs": 15000,
+    "maxResponseBytes": 256000,
+    "maxContextCharacters": 16000,
+    "cacheTtlMs": 86400000,
+    "requireApiSuccessForPublication": true
+  }
+}

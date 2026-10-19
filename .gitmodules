@@ -1,0 +1,3 @@
+[submodule "vendor/lexmcp"]
+	path = vendor/lexmcp
+	url = https://github.com/ehrodan/lexmcp.git

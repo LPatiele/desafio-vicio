@@ -1,0 +1,186 @@
+{
+  "consultas": {
+    "CP": {
+      "id": "CP",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-2848-7-dezembro-1940-412868-normaatualizada-pe.html",
+      "data_consulta": "2026-10-17T17:36:05.655Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "57547f371c5dd6e609f453397d2098e3930876b03f7233096b0dff907832b3e4",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/cp-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "CPP": {
+      "id": "CPP",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-3689-3-outubro-1941-322206-normaatualizada-pe.html",
+      "data_consulta": "2026-10-17T17:36:09.272Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "e6e68e8afc1da9aeac8970fb106d7d49e88eec11d67db3b704c8c6db65c2fe0f",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/cpp-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "CF": {
+      "id": "CF",
+      "url": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Aconstituicao%3A1988-10-05%3B1988&tipo_documento=maior-detalhe",
+      "data_consulta": "2026-10-17T17:26:22.054Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "da1f53709d13f615dca0848deddf799e5bea346ae57ff60ab30fdbc7ec9c2109",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/cf.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "LEP": {
+      "id": "LEP",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1980-1987/lei-7210-11-julho-1984-356938-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:12.921Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "980c833062f81f00251cc0d0f12a4fcde36a04c2658b3826b08d571f7a4f85ea",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/lep-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L11343": {
+      "id": "L11343",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2006/lei-11343-23-agosto-2006-545399-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:16.200Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "8aa7041ce11fe9e0829248ad6821915ceb9b9d7f02b2c8b310f7ff029b88a8da",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/drogas-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L11340": {
+      "id": "L11340",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:19.449Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "b02420f09f0ce1a4de35f39efe44c79e4d6953a64342d2155813c7485fe92f8a",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/maria-penha-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L9605": {
+      "id": "L9605",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:22.641Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "7c1d32e19ece3049f7aea1d893d0d9c681d07cc8c928ca7a3a731898e57dc155",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/ambientais-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L9613": {
+      "id": "L9613",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1998/lei-9613-3-marco-1998-372359-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:25.832Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "4903b5e6bb866411650384b7803de7ec5822d2995d41b1e2e30609be3643d55f",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/lavagem-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L9099": {
+      "id": "L9099",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:29.019Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "8dc7e91a4723a552034231716e1f058cb2f6d0b771280a15337d2babda30534e",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/juizados-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "ECA": {
+      "id": "ECA",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8069-13-julho-1990-372211-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:32.203Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "83c9e329f2e448a2adcfd5e428c0d4082a49016f89dbbda1f18e0cae1bb89fd9",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/eca-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L13869": {
+      "id": "L13869",
+      "url": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-09-05%3B13869&tipo_documento=maior-detalhe",
+      "data_consulta": "2026-10-17T17:26:47.368Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "35118c441c1d7a07f756ed25c7ded9dd36d89901dc050f09a829f761c29115a0",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/abuso.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L13260": {
+      "id": "L13260",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2016/lei-13260-16-marco-2016-782561-publicacaooriginal-149752-pl.html",
+      "data_consulta": "2026-10-17T17:37:59.454Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "1fe5045c8c182b8daa4d0590731dc55fdcbeecb7fae4c0f0b8811516a7ddfcac",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/terrorismo-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L8137": {
+      "id": "L8137",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8137-27-dezembro-1990-367271-normaatualizada-pl.html",
+      "data_consulta": "2026-10-17T17:36:38.655Z",
+      "tipo": "texto_oficial_recuperado",
+      "sha256": "622016dc012222defd4fc66fcf4f94ff1a9a5d7360a14d223a2ff02318a3c2e5",
+      "captura": "output/knowledge/snapshots/penal50-v2/raw/ordem-economica-html.body.json",
+      "limite": "Documento integral capturado; localização e interpretação dos dispositivos são verificações distintas. Publicação original exige conferir alterações."
+    },
+    "L9430": {
+      "id": "L9430",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Art. 83 consultado; observar alterações e remissão à Lei 10.684/2003, art. 9º."
+    },
+    "CNJ487": {
+      "id": "CNJ487",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-protecao/politicas-sobre-drogas/obid/legislacao-obid/resolucao-cnj-no-487-de-15-de-fevereiro-de-2023.pdf",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Texto da Resolução 487/2023 em repositório oficial; não certifica o estado de implementação nem todas as alterações."
+    },
+    "SENADO_RS5": {
+      "id": "SENADO_RS5",
+      "url": "https://legis.senado.leg.br/norma/593026",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Resolução 5/2012 identificada em registro oficial do Senado; suspensão da expressão sobre conversão em restritivas, não autorização irrestrita de benefícios."
+    },
+    "ADI4424": {
+      "id": "ADI4424",
+      "url": "https://stf.jus.br/arquivo/informativo/documento/informativo657.htm",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Informativo oficial sobre lesão corporal doméstica e ação pública incondicionada; não resolve as imperfeições de redação de Q0114."
+    },
+    "STJ_PRAZO_DEFENSORIA": {
+      "id": "STJ_PRAZO_DEFENSORIA",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2017/2017-09-04_08-03_Prazos-para-Ministerio-Publico-e-Defensoria-contam-a-partir-do-recebimento-dos-autos.aspx",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Notícia oficial de repetitivo: início no recebimento institucional dos autos; não leitura integral de todos os acórdãos."
+    },
+    "STJ_DOMICILIAR": {
+      "id": "STJ_DOMICILIAR",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/22072025-Negada-prisao-domiciliar-a-mulher-que-desviou-dinheiro-de-campanha-para-tratamento-de-doenca-do-filho.aspx",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Notícia oficial confirma excepcionalidade fora do aberto; benefício depende do caso concreto, não basta ser mãe."
+    },
+    "STF_INSIGNIFICANCIA": {
+      "id": "STF_INSIGNIFICANCIA",
+      "url": "https://stf.jus.br/arquivo/informativo/documento/informativo391.htm",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Informativo oficial faz referência ao HC 84.412; os vetores também foram cotejados em acórdão oficial STJ registro 202401912224. Conferência indireta do precedente, não inteiro teor do HC."
+    },
+    "SISDEPEN": {
+      "id": "SISDEPEN",
+      "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/brasil",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Repositório oficial de séries; sua existência não verifica sozinha a afirmação histórica de Q0292. Pendência de análise dos números mantida."
+    },
+    "ROUBO_IMPROPRIO": {
+      "id": "ROUBO_IMPROPRIO",
+      "url": "https://www.stj.jus.br/docs_internet/revista/eletronica/stj-revista-eletronica-1992_29_capJurisprudencia.pdf",
+      "data_consulta": "2026-10-17T16:46:32.747505-03:00",
+      "tipo": "pagina_oficial_consultada",
+      "limite": "Revista oficial registra entendimento de não admissão de tentativa do roubo impróprio; fonte antiga, com ressalva para conferência de evolução posterior."
+    }
+  },
+  "data": "2026-10-17T16:46:32.747505-03:00",
+  "limites": "Novas verificações documentais e reaproveitamento de capturas oficiais íntegras da mesma data. Verificar URL não equivale a auditar todos os argumentos."
+}

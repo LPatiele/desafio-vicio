@@ -1,0 +1,88 @@
+[
+  {
+    "id": "Q0064",
+    "antes": {
+      "resposta": null,
+      "fundamento": "O fato é apropriação indébita previdenciária, não estelionato nem crime permanente. Insignificância é rejeitada na orientação atual; o pagamento após o trânsito demanda cotejar a linha jurisprudencial aplicável.",
+      "ressalvas": [
+        "B pode refletir orientação favorável do pagamento a qualquer tempo, mas fontes consultadas trouxeram decisões divergentes sobre o marco final. Alternativa fica indeterminada até resolver a divergência."
+      ]
+    },
+    "depois": {
+      "resposta": "B",
+      "fundamento": "Trata-se de apropriação indébita previdenciária. O art. 9º, §2º, da Lei 10.684 e a orientação favorável do STJ sobre pagamento integral sem marco final permitem a extinção mesmo após condenação definitiva. Não é crime permanente e o pequeno valor, sozinho, não atrai insignificância.",
+      "ressalvas": [
+        "A pesquisa encontrou decisões antigas restritivas e orientação posterior mais favorável. B é a resposta proposta após esse cotejo; a extensão ao caso previdenciário deve ser confirmada antes de usar como referência firme."
+      ]
+    },
+    "motivo": "Conferência final de fonte ou explicitação de divergência; antes do congelamento da referência."
+  },
+  {
+    "id": "Q0200",
+    "antes": {
+      "resposta": "E",
+      "fundamento": "A nova persecução deve apoiar-se em permanência posterior ao marco delimitador da imputação anterior, usualmente o recebimento da denúncia, evitando bis in idem. Segurança máxima não decorre de toda liderança, pois a lei qualifica organizações armadas.",
+      "ressalvas": [
+        "Conferência específica do precedente necessária antes de tratar a formulação sobre permanência como gabarito firme."
+      ]
+    },
+    "depois": {
+      "resposta": "E",
+      "fundamento": "A nova persecução deve apoiar-se em permanência posterior ao marco delimitador da imputação anterior, usualmente o recebimento da denúncia, evitando bis in idem. Segurança máxima não decorre de toda liderança, pois a lei qualifica organizações armadas.",
+      "ressalvas": [
+        "Conferido precedente oficial do STJ publicado em 15/6/2020 sobre recebimento da denúncia como marco; fatos posteriores devem ser individualizados."
+      ]
+    },
+    "motivo": "Conferência final de fonte ou explicitação de divergência; antes do congelamento da referência."
+  },
+  {
+    "id": "Q0293",
+    "antes": {
+      "resposta": null,
+      "fundamento": "É necessário distinguir interrupção comum aos coautores pela condenação, prazo da pena integral para quem não iniciou execução e eventual aplicação do saldo após interrupção das restritivas. Comparecer à audiência não equivale, por si só, a começar prestação de serviços.",
+      "ressalvas": [
+        "B e C exigem conferência dos marcos exatos e da regra sobre interrupção de restritivas; não escolho alternativa única sem resolver essa concorrência."
+      ]
+    },
+    "depois": {
+      "resposta": null,
+      "fundamento": "A condenação de coautor pode comunicar interrupção aos demais. Para Lucas, há precedentes que equiparam abandono de restritiva à evasão, calculando pelo saldo, e decisões restritivas sobre conversão. Para Serafim, foram encontradas linhas divergentes sobre audiência admonitória e início efetivo da execução.",
+      "ressalvas": [
+        "B é defensável pela linha favorável sobre saldo inferior a um ano; C depende da tese sobre audiência admonitória. Não há datas completas nem uniformidade conferida suficiente para alternativa única."
+      ]
+    },
+    "motivo": "Conferência final de fonte ou explicitação de divergência; antes do congelamento da referência."
+  },
+  {
+    "id": "Q0336",
+    "antes": {
+      "resposta": "D",
+      "fundamento": "O furto consuma-se com a inversão da posse, ainda que breve e seguida de recuperação imediata. Não houve violência ou grave ameaça para caracterizar roubo.",
+      "ressalvas": []
+    },
+    "depois": {
+      "resposta": "D",
+      "fundamento": "O furto consuma-se com a inversão da posse, ainda que breve e seguida de recuperação imediata. Não houve violência ou grave ameaça para caracterizar roubo.",
+      "ressalvas": []
+    },
+    "motivo": "Conferência final de fonte ou explicitação de divergência; antes do congelamento da referência."
+  },
+  {
+    "id": "Q0359",
+    "antes": {
+      "resposta": null,
+      "fundamento": "A formulação corresponde à distinção histórica entre procedimento célere do Estatuto da Pessoa Idosa e vedação dos benefícios despenalizadores. É necessário confrontá-la com a redação vigente do art. 94, alterada após as primeiras decisões do STF.",
+      "ressalvas": [
+        "Resposta pendente de conferência da redação atual; não reproduzir automaticamente gabarito antigo."
+      ]
+    },
+    "depois": {
+      "resposta": "E",
+      "fundamento": "O art. 94 foi alterado pela Lei 15.163/2025: os crimes previstos no Estatuto e os praticados com violência contra a pessoa idosa não se submetem à Lei 9.099, independentemente da pena. O item reproduz o regime anterior e é errado no corte atual.",
+      "ressalvas": [
+        "Ressalva temporal decisiva: a distinção antiga entre rito e benefícios não descreve a lei vigente. A data da prova não foi fornecida."
+      ]
+    },
+    "motivo": "Conferência final de fonte ou explicitação de divergência; antes do congelamento da referência."
+  }
+]

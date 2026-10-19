@@ -1,0 +1,24 @@
+{
+  "classifierModel": "nvidia/nemotron-3-super-120b-a12b:free",
+  "judgeModel": "dots-studio/dots-3-note-preview:free",
+  "classifierPrompt": "classificador.v3.md",
+  "judgePrompt": "juiz.v3.md",
+  "batchSize": 10,
+  "maxRequestCharacters": 400000,
+  "maxOutputTokens": 32000,
+  "maxCalls": 4,
+  "maxRetries": 0,
+  "minIntervalMs": 4000,
+  "timeoutMs": 900000,
+  "reasoningByModel": {
+    "nvidia/nemotron-3-super-120b-a12b:free": {
+      "effort": "medium"
+    },
+    "dots-studio/dots-3-note-preview:free": {
+      "enabled": true
+    }
+  },
+  "responseFormat": "json_schema",
+  "allowRootPublication": false,
+  "legalCutoff": "2026-10-16"
+}

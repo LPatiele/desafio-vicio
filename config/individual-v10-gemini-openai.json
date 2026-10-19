@@ -1,0 +1,62 @@
+{
+  "classifierModel": "gemini-3.1-pro-preview",
+  "judgeModel": "gpt-5.2-2025-12-11",
+  "classifierPrompt": "classificador.v9-local.md",
+  "judgePrompt": "juiz.v8-local.md",
+  "batchSize": 1,
+  "maxRequestCharacters": 400000,
+  "maxOutputTokens": 32000,
+  "maxCalls": 500,
+  "maxRetries": 0,
+  "minIntervalMs": 4000,
+  "timeoutMs": 900000,
+  "reasoningByModel": {},
+  "responseFormat": "json_schema",
+  "allowRootPublication": false,
+  "legalCutoff": "2026-10-16",
+  "maxAttemptsPerStage": 5,
+  "retryBaseDelayMs": 2000,
+  "requestsPerMinute": 18,
+  "knowledge": {
+    "enabled": true,
+    "snapshot": "output/knowledge/snapshots/penal50-v3/manifest.json",
+    "maxDocuments": 6,
+    "maxContextCharacters": 16000,
+    "requireContextForPublication": true,
+    "mode": "automatic",
+    "classifierMode": "tools",
+    "maxToolCalls": 4,
+    "maxToolRounds": 2
+  },
+  "direct": {
+    "version": 1,
+    "budgetUsd": 10,
+    "pricingCheckedAt": "2026-10-18",
+    "classifier": {
+      "provider": "gemini",
+      "reasoningEffort": "high",
+      "maxOutputTokens": 16384,
+      "requestsPerMinute": 10,
+      "tokensPerMinute": 1000000,
+      "inputUsdPerMillion": 2,
+      "cachedInputUsdPerMillion": 0.2,
+      "outputUsdPerMillion": 12,
+      "longContext": {
+        "threshold": 200000,
+        "inputUsdPerMillion": 4,
+        "cachedInputUsdPerMillion": 0.4,
+        "outputUsdPerMillion": 18
+      }
+    },
+    "judge": {
+      "provider": "openai",
+      "reasoningEffort": "medium",
+      "maxOutputTokens": 8192,
+      "requestsPerMinute": 30,
+      "tokensPerMinute": 1000000,
+      "inputUsdPerMillion": 1.75,
+      "cachedInputUsdPerMillion": 0.175,
+      "outputUsdPerMillion": 14
+    }
+  }
+}

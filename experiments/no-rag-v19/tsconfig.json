@@ -1,0 +1,5 @@
+{
+  "extends": "../../tsconfig.json",
+  "include": ["./*.ts", "../vertex-v18/*.ts", "../paid-v17/*.ts", "../../src/**/*.ts"],
+  "exclude": ["node_modules"]
+}

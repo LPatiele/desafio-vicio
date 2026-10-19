@@ -1,0 +1,61 @@
+{
+  "versao": "v1",
+  "data_corte": "2026-10-16",
+  "hashes_entrada": {
+    "questoes": "6815aad02f1577fb7f3c68bb76cd56b3b23df5a0bf951d3422a5ce7d5e492573",
+    "taxonomia": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+  },
+  "sha256_referencia": "80781a0b18d6f3d2aa380e939dd9e7c30e7dcd0c3b60e4e6a1654c9e8b973696",
+  "estatisticas": {
+    "total": 359,
+    "com_alternativa_proposta": 342,
+    "alternativa_indeterminada": 17,
+    "com_tema_proposto": 357,
+    "fora_da_taxonomia": 2,
+    "com_ressalva_juridica": 142,
+    "com_referencia_primaria_pendente": 58,
+    "temas_raiz_amplos": 6,
+    "rotulos_com_limite_especifico": 19,
+    "rotulos_principais_sem_descricao": 0,
+    "exposicao_previa": 12,
+    "fontes_registradas": 97,
+    "fontes_primarias_consultadas": 73,
+    "referencias_pendentes": 24,
+    "precisao_juridica_real": null,
+    "precisao_classificacao_real": null,
+    "chamadas_novas_openrouter": 0,
+    "custo_novo_openrouter": 0
+  },
+  "validacoes": {
+    "quantidade_ids_textos": true,
+    "alternativas_existentes": true,
+    "temas_ativos": true,
+    "caminhos_correspondentes": true,
+    "sem_chave_api_no_jsonl": true
+  },
+  "ids_indeterminados": [
+    "Q0004",
+    "Q0104",
+    "Q0106",
+    "Q0114",
+    "Q0123",
+    "Q0148",
+    "Q0182",
+    "Q0219",
+    "Q0221",
+    "Q0236",
+    "Q0268",
+    "Q0293",
+    "Q0323",
+    "Q0324",
+    "Q0331",
+    "Q0333",
+    "Q0348"
+  ],
+  "ids_fora": [
+    "Q0113",
+    "Q0142"
+  ],
+  "comparacao_com_modelos": "Não executada nesta etapa: artefato criado para comparação posterior, sem tratar concordância como precisão real.",
+  "reproducao": "node scripts/consolidar-referencia.mjs recompõe os artefatos a partir das notas manuais e do registro de fontes; não refaz o raciocínio nem pesquisa a web."
+}

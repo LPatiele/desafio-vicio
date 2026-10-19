@@ -1,0 +1,45 @@
+{
+  "classifierModel": "nvidia/nemotron-3.5-super-vl:free",
+  "judgeModel": "nvidia/nemotron-3-super-120b-a12b:free",
+  "classifierPrompt": "classificador.v3.md",
+  "judgePrompt": "juiz.v4-lexml.md",
+  "batchSize": 1,
+  "maxRequestCharacters": 400000,
+  "maxOutputTokens": 32000,
+  "maxCalls": 50,
+  "maxRetries": 0,
+  "minIntervalMs": 4000,
+  "timeoutMs": 900000,
+  "reasoningByModel": {
+    "nvidia/nemotron-3-super-120b-a12b:free": {
+      "effort": "medium"
+    },
+    "nvidia/nemotron-3.5-super-vl:free": {
+      "enabled": true
+    }
+  },
+  "responseFormat": "json_schema",
+  "allowRootPublication": false,
+  "legalCutoff": "2026-10-16",
+  "maxAttemptsPerStage": 5,
+  "retryBaseDelayMs": 2000,
+  "requestsPerMinute": 18,
+  "research": {
+    "enabled": false,
+    "command": ".venv/bin/python",
+    "args": [
+      "../../src/mcp/lexmcp-server.py"
+    ],
+    "cwd": "vendor/lexmcp",
+    "sourceLock": "vendor/lexmcp-source-lock.json",
+    "requiredSearch": true,
+    "maxToolCalls": 2,
+    "toolTimeoutMs": 15000,
+    "maxToolAttempts": 2,
+    "maxResultCharacters": 12000,
+    "maxQuestionCharacters": 24000,
+    "finalToolChoice": "auto",
+    "provider": "ehrodan/lexmcp",
+    "environmentLock": "vendor/lexmcp-requirements.lock"
+  }
+}

@@ -1,0 +1,864 @@
+[
+  {
+    "id": "Q0311",
+    "questao": {
+      "id": "Q0311",
+      "enunciado": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,",
+      "comando": "",
+      "alternativas": {
+        "A": "o oficial de justiça deverá proceder à citação por hora certa, a ser cumprida, no máximo, em três dias.",
+        "B": "o juiz decretará a revelia do réu e dará seguimento à ação penal.",
+        "C": "será feita a citação por edital e, caso o réu não compareça, a ação penal ficará suspensa.",
+        "D": "será citada a Defensoria Pública para realizar a defesa técnica do réu.",
+        "E": "a falta de citação pessoal interromperá o prazo prescricional até a localização do réu."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "será feita a citação por edital e, caso o réu não compareça, a ação penal ficará suspensa.",
+    "fundamento_resposta": "Não localizado o réu após as diligências pertinentes, procede-se à citação editalícia; se ele não comparece nem constitui advogado, suspendem-se processo e prescrição. A ausência simples não equivale à ocultação da hora certa.",
+    "fontes": [
+      "CPP:361,362,366"
+    ],
+    "ressalvas": [
+      "A alternativa simplifica: uma tentativa frustrada isolada não dispensa busca razoável de endereços, e constituição de advogado impede a suspensão indicada."
+    ],
+    "classificacao": {
+      "tema_id": "5488",
+      "caminho": "Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0312",
+    "questao": {
+      "id": "Q0312",
+      "enunciado": "Para Liszt, o fundamento da pena é orientado às finalidades de:\n\na) ressocialização dos delinquentes suscetíveis de socialização;\n\nb) intimidação dos que não têm necessidade de socialização;\n\nc) neutralização dos não suscetíveis de socialização.",
+      "comando": "Explique as finalidades da pena segundo Liszt.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A prevenção especial de von Liszt distingue correção dos suscetíveis de socialização, intimidação dos ocasionais e neutralização dos considerados incorrigíveis.",
+    "fontes": [
+      "LISZT:programa de Marburgo"
+    ],
+    "ressalvas": [
+      "Síntese histórica da teoria; fonte autoral específica não conferida."
+    ],
+    "classificacao": {
+      "tema_id": "4384",
+      "caminho": "Criminologia > Teorias Legitimidoras da Pena",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0313",
+    "questao": {
+      "id": "Q0313",
+      "enunciado": "A condenação tem como efeito genérico tornar certa a obrigação de reparar o dano. Esse efeito é automático, não precisa ser expressamente pronunciado pelo juiz na sentença condenatória e destina-se a formar título executivo judicial para a propositura de ação civil ex delicto.",
+      "comando": "Explique o efeito genérico da condenação no que se refere à obrigação de reparar o dano.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A condenação definitiva torna certa a obrigação de reparar o dano como efeito genérico automático. A liquidação e execução civil não se confundem com eventual fixação de valor mínimo na sentença penal.",
+    "fontes": [
+      "CP:91 I",
+      "CPP:63,387 IV"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5209",
+      "caminho": "Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais",
+      "extras_ids": [
+        "5475"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0314",
+    "questao": {
+      "id": "Q0314",
+      "enunciado": "O habeas corpus é",
+      "comando": "Complete a frase sobre o habeas corpus.",
+      "alternativas": {
+        "A": "ação de natureza constitucional destinada a coibir qual- quer ilegalidade ou abuso de poder contra a liberdade de locomoção.\n",
+        "B": "recurso previsto na Constituição Federal para evitar atentado na liberdade de ir e vir ou no direito líquido e certo.\n",
+        "C": "remédio constitucional, de caráter liberatório, destinado a coibir qualquer coação ilegal na sua liberdade de ir e vir ou evitar a consumação de uma ilegalidade, por ato de autoridade ou de particular.\n",
+        "D": "medida de caráter liberatório que tem por finalidade obter reforma de decisão judicial, com apreciação de novas provas."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "ação de natureza constitucional destinada a coibir qual- quer ilegalidade ou abuso de poder contra a liberdade de locomoção.\n",
+    "fundamento_resposta": "Habeas corpus é ação constitucional voltada à proteção da liberdade de locomoção contra ilegalidade ou abuso, inclusive preventivamente. Não é simples recurso para reexaminar prova.",
+    "fontes": [
+      "CF:5 LXVIII",
+      "CPP:647,648"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5477",
+      "caminho": "Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0315",
+    "questao": {
+      "id": "Q0315",
+      "enunciado": "Paulo, nascido em 15/8/1996, foi denunciado em 24/5/2020, pela prática do crime de roubo majorado tentado, que teria sido praticado em 7/4/2016. Recebida a denúncia em 30/5/2020, Paulo foi condenado a uma pena de 2 anos e 9 meses pela prática delitiva em 20/10/2021, tendo a condenação transitado em julgado em 1/12/2021.\n\nNessa situação, a prescrição, segundo a jurisprudência atual do STF,",
+      "comando": "Considerando os dados apresentados, analise a prescrição aplicável ao caso de Paulo.",
+      "alternativas": {
+        "A": "já teria ocorrido antes do oferecimento da denúncia. ",
+        "B": "ocorrerá em 2 anos após o trânsito em julgado da condenação, quer para a defesa quer para a acusação. ",
+        "C": "ocorrerá em 4 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação. ",
+        "D": "ocorrerá em 6 anos após o trânsito em julgado da condenação para a defesa e para a acusação. ",
+        "E": "ocorrerá em 8 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "ocorrerá em 4 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação. ",
+    "fundamento_resposta": "A pena de dois anos e nove meses gera prazo de oito anos, reduzido a quatro pela idade inferior a vinte e um no fato. O termo executório segue o trânsito para ambas as partes na orientação atual do STF.",
+    "fontes": [
+      "CP:109 IV,110,115",
+      "STF_TEMA788:termo inicial executório"
+    ],
+    "ressalvas": [
+      "O marco da narrativa é 1/12/2021: sem suspensão ou interrupção, o prazo encerraria em 1/12/2025, já passado no corte adotado. A formulação ocorrerá pertence à questão original."
+    ],
+    "classificacao": {
+      "tema_id": "5189",
+      "caminho": "Penal > Prescrição > Prescrição da Pretensão Executória",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0316",
+    "questao": {
+      "id": "Q0316",
+      "enunciado": "Considere a seguinte situação: A, que acabara de ter um filho, que morre logo a seguir, sob a influência do estado puerperal, vai ao berçário e, por erro, já que acreditava tratar-se de seu próprio filho que não sabia estar morto, mata criança diversa.\n\nDispõe o artigo 20, § 3º, do Código Penal, que, em tal caso, não se consideram as condições ou qualidades da vítima, senão as da pessoa contra quem o agente queria praticar o crime.\n\nA questão é, então, no ordenamento pátrio, resolvida:",
+      "comando": "Explique como o ordenamento jurídico brasileiro resolve essa situação segundo o artigo 20, § 3º, do Código Penal.",
+      "alternativas": {
+        "A": "Pela aplicação da teoria da equivalência.\n",
+        "B": "Pela aplicação da teoria da concreção.\n",
+        "C": "Pela aplicação da teoria da concretização.\n",
+        "D": "Como crime impossível."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Pela aplicação da teoria da equivalência.\n",
+    "fundamento_resposta": "No erro sobre a pessoa, consideram-se as condições da vítima pretendida, segundo o art. 20, §3º. A teoria da equivalência conduz à responsabilização por infanticídio na situação proposta.",
+    "fontes": [
+      "CP:20 §3,123"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5224",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "extras_ids": [
+        "5153"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0317",
+    "questao": {
+      "id": "Q0317",
+      "enunciado": "O direito de representação deve ser exercido no prazo de seis meses contados a partir da data do fato, uma vez que o ofensor foi identificado nessa ocasião, sob pena de decadência.",
+      "comando": "Explique o prazo para o exercício do direito de representação no contexto apresentado.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "O prazo decadencial da representação é de seis meses a contar do conhecimento da autoria. Se esse conhecimento ocorreu no próprio dia do fato, os marcos coincidem.",
+    "fontes": [
+      "CP:103",
+      "CPP:38"
+    ],
+    "ressalvas": [
+      "Pressupõe que a vítima ou legitimado tomou ciência da identidade naquela data; identificação apenas pela polícia não basta."
+    ],
+    "classificacao": {
+      "tema_id": "5198",
+      "caminho": "Penal > Punibilidade > Decadência",
+      "extras_ids": [
+        "5471"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0318",
+    "questao": {
+      "id": "Q0318",
+      "enunciado": "Com intenção de matar Mário, Lúcio adquiriu, de forma clandestina, uma arma de fogo e munições. Após monitorar a rotina da vítima, Lúcio aguardou Mário sair do trabalho e, enquanto ele caminhava em direção ao seu veículo, Lúcio sacou a arma e disparou uma única vez, atingindo-o. Mesmo possuindo ainda quatro projéteis intactos na arma, Lúcio sentiu repentino remorso, guardou a arma e ligou para o serviço de emergência. Mário foi socorrido, mas, apesar de todo o esforço médico empregado, veio a falecer dias depois no hospital em decorrência exclusiva dos ferimentos causados pelos disparos. Diante de tal situação hipotética, assinale a afirmativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "O caso narrado configura desistência voluntária, uma vez que Lúcio interrompeu voluntariamente a execução do homicídio quando ainda dispunha de meios para prosseguir, devendo, portanto, responder apenas pelo delito de lesão corporal.",
+        "B": "O caso narrado configura arrependimento eficaz, pois Lúcio exauriu os meios de execução que seriam suficientes para atingir o resultado almejado, contudo, agiu positivamente para evitá-lo, devendo, portanto, responder apenas pela tentativa de homicídio.",
+        "C": "A intervenção de Lúcio ao chamar o socorro não exclui a tipicidade, uma vez que o resultado morte efetivamente ocorreu por consequência direta de sua conduta, devendo ele responder por homicídio consumado, sem prejuízo da aplicação de atenuante genérica.",
+        "D": "O caso narrado configura arrependimento posterior, pois Lúcio buscou minimizar as consequências do crime praticado logo após a sua consumação ao chamar o socorro médico, o que enseja a redução da pena do homicídio de um a dois terços.",
+        "E": "O caso narrado configura crime impossível por ineficácia relativa do meio empregado, pois a intervenção médica quase evitou o resultado, demonstrando que a conduta do agente não era inequivocamente apta a garantir a consumação inicialmente pretendida."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "A intervenção de Lúcio ao chamar o socorro não exclui a tipicidade, uma vez que o resultado morte efetivamente ocorreu por consequência direta de sua conduta, devendo ele responder por homicídio consumado, sem prejuízo da aplicação de atenuante genérica.",
+    "fundamento_resposta": "A morte resultou do ferimento produzido com intenção homicida. O socorro que não evita o resultado não constitui arrependimento eficaz; pode fundamentar atenuante, se satisfeitos seus requisitos.",
+    "fontes": [
+      "CP:15,65 III b,121"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5150",
+      "caminho": "Penal > Dos Crimes Contra a Vida > Homicídio",
+      "extras_ids": [
+        "5178"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0319",
+    "questao": {
+      "id": "Q0319",
+      "enunciado": "A co-autoria é impossível nos crimes:\n\nI. Culposos;\n\nII. Unissubsistentes;\n\nIII. Habitual ou de mera conduta.",
+      "comando": "Complete a frase indicando em quais crimes a co-autoria é impossível.",
+      "alternativas": {
+        "A": "Comissivos.",
+        "B": "Omissivos.",
+        "C": "Próprios.",
+        "D": "De mão própria.",
+        "E": "Culposos"
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "De mão própria.",
+    "fundamento_resposta": "Na concepção tradicional, o crime de mão própria exige execução pessoal e não admite coautoria executiva, embora possa admitir participação. Culposos e próprios não estão genericamente excluídos do concurso.",
+    "fontes": [
+      "CP:29",
+      "DOUTRINA_AUTORIA:crimes de mão própria"
+    ],
+    "ressalvas": [
+      "O enunciado contém uma lista I-III desconectada do comando. Há leituras doutrinárias e jurisprudenciais específicas que exigem ressalvar a regra geral."
+    ],
+    "classificacao": {
+      "tema_id": "5073",
+      "caminho": "Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0320",
+    "questao": {
+      "id": "Q0320",
+      "enunciado": "O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.",
+      "comando": "Marque abaixo a sentença CORRETA acerca da referida espécie",
+      "alternativas": {
+        "A": "é a testemunha que depõe sobre algum fato que ouviu dizer.",
+        "B": "é a testemunha que depõe sobre a regularidade de algum ato praticado no inquérito ou no processo.",
+        "C": "é a pessoa que foi indicada por outra testemunha, não sendo computada no número máximo de testemunhas.",
+        "D": "trata-se dos casos em que a Lei de Drogas e a Lei do crime organizado autorizam os agentes de polícia a se infiltrarem para obterem informações acerca desses crimes."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "é a testemunha que depõe sobre a regularidade de algum ato praticado no inquérito ou no processo.",
+    "fundamento_resposta": "A testemunha fedatária ou instrumentária atesta a regularidade de um ato, em vez de necessariamente narrar o fato criminoso.",
+    "fontes": [
+      "CPP:304 §2,245 §7",
+      "DOUTRINA_PROVA:testemunha instrumentária"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5550",
+      "caminho": "Processo Penal > Provas em Espécies > Prova Testemunhal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0321",
+    "questao": {
+      "id": "Q0321",
+      "enunciado": "Assinale a alternativa CORRETA:",
+      "comando": "",
+      "alternativas": {
+        "A": "Na chamada autoria colateral, não há vínculo subjetivo entre os autores.  ",
+        "B": "Os únicos requisitos do concurso de pessoas são:\\npluralidade de participantes; pluralidade de condutas; relevância causal de cada conduta; e identidade\\nde infração penal.  ",
+        "C": "O crime de aborto com o consentimento da gestante\\nnão configura exceção à teoria monista unitária do\\nconcurso de pessoas. ",
+        "D": "O delito de associação para o tráfico de drogas possui natureza hedionda. "
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Na chamada autoria colateral, não há vínculo subjetivo entre os autores.  ",
+    "fundamento_resposta": "Na autoria colateral, agentes atuam sem liame subjetivo. O concurso de pessoas exige esse vínculo, que B omite; aborto consentido é exceção pluralista e associação para tráfico não é hedionda.",
+    "fontes": [
+      "CP:29,124,126",
+      "L11343:35"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5073",
+      "caminho": "Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",
+      "extras_ids": [
+        "5071"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0322",
+    "questao": {
+      "id": "Q0322",
+      "enunciado": "Delegado Mário foi denunciado pelo delito de abuso de autoridade, tendo em vista a prática de conduta que se enquadra na seguinte descrição típica: “deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal.”\n\nO Magistrado competente para a análise da inicial acusatória entendeu por bem rejeitá-la.\n\nInconformado, o Ministério Público resolve recorrer de tal decisão.",
+      "comando": "Nessa hipótese, o recurso cabível será",
+      "alternativas": {
+        "A": "Apelação, no prazo de 5 dias. ",
+        "B": "Apelação, no prazo de 10 dias. ",
+        "C": "Recurso em Sentido Estrito, no prazo de 20 dias.  ",
+        "D": "Recurso em Sentido Estrito, no prazo de 2 dias.  ",
+        "E": "Recurso em Sentido Estrito, no prazo de 5 dias. "
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Apelação, no prazo de 10 dias. ",
+    "fundamento_resposta": "O delito de não comunicar prisão tem pena máxima de dois anos e se sujeita, na hipótese simples narrada, ao juizado. Contra rejeição da denúncia cabe apelação em dez dias, e não o RESE ordinário.",
+    "fontes": [
+      "L13869:12",
+      "L9099:61,82 §1"
+    ],
+    "ressalvas": [
+      "Se houver causa concreta de deslocamento do rito, o recurso pode variar; nada disso aparece no enunciado."
+    ],
+    "classificacao": {
+      "tema_id": "5569",
+      "caminho": "Processo Penal > Recursos em Espécies > Recursos no Âmbito dos Juizados Especiais",
+      "extras_ids": [
+        "4684",
+        "5540"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0323",
+    "questao": {
+      "id": "Q0323",
+      "enunciado": "Acerca de provas, instrumentos legais de obtenção de prova e procedimento probatório, assinale a opção correta",
+      "comando": "Assinale a opção correta",
+      "alternativas": {
+        "A": "No sistema processual brasileiro, admite-se prova emprestada, desde que produzida em face das mesmas partes e submetida ao duplo contraditório, ou seja, a observância deste no processo originário será renovada no processo para o qual tiver sido transladada. Por essa razão, não se admitem, no processo penal, os elementos informativos produzidos em inquérito civil, por constituir procedimento não contraditório, assim como não são admitidas as transcrições das interceptações telefônicas autorizadas em ação penal diversa.",
+        "B": "O interrogatório é considerado hodierna e majoritariamente como meio de defesa. Caso o réu encontre-se preso, cumprirá ao magistrado realizar o ato processual em sala própria, no estabelecimento em que estiver recolhido o réu, assegurando a publicidade interna do ato, ou então ordenar a requisição do preso para participar da audiência de instrução e julgamento, ainda que este tenha manifestado desejo de ser dispensado do ato, ratificado pela defesa, em razão do direito de presença ser indisponível.",
+        "C": "O sistema processual penal brasileiro assegura ao investigado ou ao réu o direito de não produzir provas contra si mesmo, em qualquer fase da persecução penal, e, desse modo, o investigado ou o réu não poderão ser compelidos a se submeter a procedimentos invasivos, como, por exemplo, o reconhecimento pessoal ou a reconstituição simulada dos fatos.",
+        "D": "O sistema processual penal brasileiro autoriza a produção antecipada de provas, desde que observados o binômio da urgência e relevância, a adequação ao momento da persecução penal, a legitimação do órgão acusatório e a proporcionalidade da medida. Tem-se como exemplo autorizador a informação acerca do risco de morte de testemunhas ameaçadas por associação criminosa, com possibilidade de perecimento dos depoimentos relevantes",
+        "E": "Na obtenção da colaboração premiada, a lei de regência limita o acesso dos defensores aos autos, especialmente no que se refere às diligências em andamento, e impõe o dever de o investigado delator firmar compromisso de dizer a verdade do que souber e do que lhe for perguntado, sendo o depoimento mantido em sigilo até o recebimento da denúncia"
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "D descreve produção antecipada de prova urgente e relevante. E também se aproxima das regras legais de acesso a diligências em andamento e sigilo dos depoimentos de colaboração até o recebimento. A, B e C impõem restrições excessivas ou confundem atos passivos com autoincriminação.",
+    "fontes": [
+      "CPP:156 I,225",
+      "L12850:7 §§2,3,4 §14"
+    ],
+    "ressalvas": [
+      "Possível concorrência de D e E; não fixo única alternativa sem identificar o marco legislativo ou uma diferença textual decisiva."
+    ],
+    "classificacao": {
+      "tema_id": "5543",
+      "caminho": "Processo Penal > Provas em Espécies",
+      "extras_ids": [
+        "5557",
+        "5595"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0324",
+    "questao": {
+      "id": "Q0324",
+      "enunciado": "É certo afirmar:\n\nI. A pena de prisão simples deve ser cumprida, sem rigor penitenciário, em estabelecimento especial ou seção especial de prisão comum, em regime semiaberto ou aberto.\n\nII. As penas acessórias previstas no Código Penal são a perda da função pública eletiva ou de nomeação, as interdições de direitos e a publicidade da sentença.\n\nIII. No caso da semi-imputabilidade, a periculosidade é presumida a partir da verificação, por meio da realização de exame pericial, do estado de doença ou perturbação mental, bem como de desenvolvimento mental incompleto ou retardado do indivíduo no instante da prática do fato delituoso. Nesse caso, o juiz pode aplicar medida de segurança, devendo fundamentar a sua decisão demonstrando a existência da periculosidade.\n\nIV. O trabalho do preso será remunerado, não podendo ser inferior a três quartos do salário mínimo, estando sujeito ao regime da Consolidação das Leis do Trabalho.",
+      "comando": "Analisando as proposições, pode-se afirmar:",
+      "alternativas": {
+        "A": "Todas as proposições estão corretas.",
+        "B": "Somente as proposições II e III estão corretas.",
+        "C": "Somente as proposições I e III estão corretas.",
+        "D": "Somente as proposições I e IV estão corretas."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "I está de acordo com a prisão simples. II usa penas acessórias abolidas na parte geral comum; III confunde periculosidade presumida e comprovada; IV erra ao sujeitar trabalho prisional à CLT.",
+    "fontes": [
+      "LCP:6",
+      "CP:98",
+      "LEP:28 §2,29"
+    ],
+    "ressalvas": [
+      "Apenas I é segura, mas nenhuma alternativa oferece essa combinação."
+    ],
+    "classificacao": {
+      "tema_id": "5199",
+      "caminho": "Penal > Teoria da Pena",
+      "extras_ids": [
+        "5184",
+        "4703"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0325",
+    "questao": {
+      "id": "Q0325",
+      "enunciado": "Considerando as afirmativas abaixo, é CORRETO afirmar que:",
+      "comando": "",
+      "alternativas": {
+        "A": "A extinção da punibilidade, nos casos de\\ntransação penal em crimes ambientais de\\nmenor potencial ofensivo, dependerá de\\nlaudo de constatação de reparação do dano\\nambiental, enquanto que a realização da\\nsuspensão condicional do processo para\\nos crimes ambientais dependerá da prévia\\ncomposição do dano ambiental.",
+        "B": "A superveniência de sentença\\ncondenatória não esvai a alegação de\\ninépcia da denúncia, pois, como o réu\\ndefende-se do fato nela descrito, sempre\\nestará prejudicado o exercício do\\ncontraditório e da ampla defesa.",
+        "C": "A litispendência, pressuposto processual\\nque deve ser analisado para fins de\\nrecebimento da denúncia, configura-se\\nquando duas ou mais ações penais forem\\ndirigidas contra o mesmo acusado, com a\\nimputação da prática de condutas e\\nqualificações jurídicas idênticas.",
+        "D": "A justa causa é exigência legal para o\\nrecebimento da denúncia, instauração e\\nprocessamento da ação penal,\\nconsubstanciando-se pela somatória de\\ntrês componentes essenciais, quais sejam,\\na tipicidade, a punibilidade e a viabilidade\\nquanto à autoria.",
+        "E": "Nas ações penais públicas condicionadas\\nà representação da ofendida de que trata a\\nLei nº 11.340/2006 (Lei Maria da Penha),\\nsó será admitida a renúncia à\\nrepresentação perante o juiz, em audiência\\nespecialmente designada com tal\\nfinalidade, antes do oferecimento da\\ndenúncia e ouvido o Ministério Público."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "A justa causa é exigência legal para o\\nrecebimento da denúncia, instauração e\\nprocessamento da ação penal,\\nconsubstanciando-se pela somatória de\\ntrês componentes essenciais, quais sejam,\\na tipicidade, a punibilidade e a viabilidade\\nquanto à autoria.",
+    "fundamento_resposta": "A opção D expressa a concepção doutrinária de justa causa como viabilidade jurídica e suporte mínimo para imputação, considerando tipicidade, punibilidade e autoria. A inverte requisitos ambientais e E antecipa indevidamente o limite da retratação.",
+    "fontes": [
+      "CPP:395 III",
+      "L9605:27,28",
+      "L11340:16"
+    ],
+    "ressalvas": [
+      "C também descreve caso de duplicidade, mas trata identidade de qualificação como integrante da definição. D depende da formulação doutrinária e não explicita materialidade; referência jurídica fraca, sujeita a revisão."
+    ],
+    "classificacao": {
+      "tema_id": "5467",
+      "caminho": "Processo Penal > Ação Penal > Características e Condições da Ação Penal",
+      "extras_ids": [
+        "5494"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0326",
+    "questao": {
+      "id": "Q0326",
+      "enunciado": "Constitui crime previsto na lei de drogas",
+      "comando": "Complete a frase ou responda sobre o crime previsto na lei de drogas.",
+      "alternativas": {
+        "A": "fornecer, desde que onerosamente, maquinário, aparelho, instrumento ou qualquer outro objeto destinado à fabricação, preparação, produção ou transformação de drogas, sem autorização ou em desacordo com determinação legal ou regulamentar.",
+        "B": "oferecer droga, desde que em caráter habitual e ainda que sem objetivo de lucro, a pessoa de seu relacionamento, para juntos consumirem.",
+        "C": "prescrever ou ministrar, culposamente, drogas, sem que delas necessite o paciente, ou fazê-lo em doses excessivas ou em desacordo com determinação legal ou regulamentar.",
+        "D": "conduzir embarcação ou aeronave após o consumo de drogas, ainda que sem exposição a dano potencial a incolumidade de outrem.",
+        "E": "consentir que outrem se utilize de local de que tem a propriedade para o tráfico ilícito de drogas, desde que o faça onerosamente."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "prescrever ou ministrar, culposamente, drogas, sem que delas necessite o paciente, ou fazê-lo em doses excessivas ou em desacordo com determinação legal ou regulamentar.",
+    "fundamento_resposta": "O art. 38 incrimina prescrever ou ministrar culposamente droga desnecessária, excessiva ou em desacordo normativo. As demais opções introduzem exigências inexistentes ou retiram requisito típico.",
+    "fontes": [
+      "L11343:33 §§2,3,34,38,39"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4708",
+      "caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0327",
+    "questao": {
+      "id": "Q0327",
+      "enunciado": "Em uma ação penal por crime ocorrido em 04/03/2023, o réu, ao ser interrogado, confessa espontaneamente, perante o juiz, a prática do delito que lhe é imputado.\n\nNa folha de antecedentes criminais do acusado, constam as seguintes anotações, devidamente esclarecidas por certidões cartorárias:\n\nI. condenação transitada em julgado em 08/06/2016 por crime anterior, praticado em 06/02/2014, com pena de reclusão extinta em 15/03/2022, diante do término do livramento condicional, cujo período de prova se iniciara em 14/08/2017;\n\nII. condenação transitada em julgado em 02/09/2022 por contravenção penal anterior, praticada em 07/01/2022, com pena de prisão simples cumprida em 03/03/2023; e\n\nIII. ação penal em curso, por crime posterior, praticado em 05/03/2024.\n\nÀ luz das informações apresentadas, conclusos os autos ao juiz para sentença, no dia de hoje, na segunda fase da dosimetria da pena, a pena deverá ser",
+      "comando": "À luz das informações apresentadas, conclusos os autos ao juiz para sentença, no dia de hoje, na segunda fase da dosimetria da pena, a pena deverá ser aplicada considerando os antecedentes criminais mencionados.",
+      "alternativas": {
+        "A": "atenuada, incidindo a atenuante da confissão espontânea, sendo o réu primário.",
+        "B": "atenuada, preponderando a atenuante da confissão espontânea sobre a agravante da reincidência.",
+        "C": "mantida, compensando-se integralmente a atenuante da confissão espontânea com a agravante da reincidência.",
+        "D": "agravada, compensando-se proporcionalmente a agravante da reincidência com a atenuante da confissão espontânea.",
+        "E": "agravada, preponderando a agravante da reincidência, sem qualquer compensação em relação à atenuante da confissão espontânea."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "atenuada, incidindo a atenuante da confissão espontânea, sendo o réu primário.",
+    "fundamento_resposta": "Computa-se o período de prova do livramento bem-sucedido no prazo depurador. Desde agosto de 2017 até março de 2023 transcorreram cinco anos; contravenção não gera reincidência para crime e ação em curso não agrava. Incide a confissão.",
+    "fontes": [
+      "CP:63,64 I,65 III d",
+      "STJ_SUMULAS:444,545"
+    ],
+    "ressalvas": [
+      "Pressupõe ausência de revogação do livramento, indicada pela extinção ao término do período de prova."
+    ],
+    "classificacao": {
+      "tema_id": "5203",
+      "caminho": "Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0328",
+    "questao": {
+      "id": "Q0328",
+      "enunciado": "Acerca do conceito e das funções da criminologia, julgue o item seguinte.\n\nNa inter-relação entre o direito penal, a política criminal e a criminologia, compete a esta facilitar a recepção das investigações empíricas e a sua transformação em preceitos normativos, incumbindo-se de converter a experiência criminológica em proposições jurídicas, gerais e obrigatórias.",
+      "comando": "Julgue o item seguinte.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "A mediação entre achados empíricos e propostas normativas corresponde à política criminal; a criminologia investiga empiricamente o fenômeno, sem produzir por si preceitos jurídicos obrigatórios.",
+    "fontes": [
+      "CRIMINOLOGIA:funções e política criminal"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4382",
+      "caminho": "Criminologia > Teoria Geral da Criminologia > Métodos e funções da Criminologia",
+      "extras_ids": [
+        "4374"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0329",
+    "questao": {
+      "id": "Q0329",
+      "enunciado": "Em determinado estado brasileiro, uma investigação revelou um esquema criminoso que envolvia a competição futebolística estadual: Cavalcante, empresário no ramo do futebol, dono do time Tapauense, conseguia cooptar árbitros e jogadores de clubes de outros municípios para criar situações em momentos críticos durante as partidas, com o objetivo de manipular resultados. A promessa era de que, após os jogos, o empresário faria investimentos para ajudar os envolvidos a migrar para o mercado de futebol no Sudeste do país. Quanto à comissão de arbitragem, constatou-se que seu presidente simulava os sorteios com um assistente e, assim, conseguia indicar árbitros que se alinhavam ao esquema. Aos árbitros honestos eram destinados os mais distantes jogos e as piores condições de trabalho. Para os jogadores, a vantagem prometida ou a transferência em dinheiro nunca eram realizadas, ao passo que aos árbitros era pago o dinheiro mediante a sua contratação falsa como professores de treino de uma escolinha particular de futebol, que sequer existia. Everton respondia pela escolinha e era professor aposentado da secretaria de educação e desporto do estado. A investigação avançou devido à colaboração do jogador de futebol Kiko Jr., que havia participado do esquema por indicação de Alves, um dos árbitros. Segundo o próprio jogador, Alves combinara com ele a marcação de um pênalti resultante de falta provocada pelo zagueiro Kiko Jr. em determinado momento da partida contra o Tapauense, o que foi feito. No entanto, como não fora atendido nas promessas feitas dentro do esquema, Kiko Jr. se revoltou e, então, procurou a polícia, revelando os fatos até então desconhecidos.",
+      "comando": "Ainda considerando a situação hipotética 1A12-I, assinale a opção correta relativamente à conduta de Kiko Jr.",
+      "alternativas": {
+        "A": "O MP poderá deixar de oferecer denúncia a Kiko Jr., desde\\nque o jogador tenha contribuído efetivamente para a\\nidentificação dos envolvidos da organização criminosa. \n\\n",
+        "B": "A conduta de Kiko Jr. é atípica.",
+        "C": "Kiko Jr. foi vítima do crime de estelionato.",
+        "D": "No âmbito da investigação, o testemunho de Kiko Jr. tem\\nnatureza de meio de prova e pode servir-lhe de atenuante por\\nconfissão espontânea.\n\\n",
+        "E": "A colaboração de Kiko Jr. não o exime da pena pelo crime\\npraticado, porém sua pena pode ser reduzida em até 2/3.\n\\n"
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "O MP poderá deixar de oferecer denúncia a Kiko Jr., desde\\nque o jogador tenha contribuído efetivamente para a\\nidentificação dos envolvidos da organização criminosa. \n\\n",
+    "fundamento_resposta": "A lei admite não oferecimento de denúncia ao colaborador não líder que primeiro colabora sobre infração até então desconhecida, satisfeitos os resultados e requisitos legais. A narrativa aponta esses elementos para Kiko.",
+    "fontes": [
+      "L12850:4 §4",
+      "L14597:198,199"
+    ],
+    "ressalvas": [
+      "Contribuir para identificação, sozinho, não basta; o MP deve verificar os demais requisitos. A resposta não declara benefício automático."
+    ],
+    "classificacao": {
+      "tema_id": "5557",
+      "caminho": "Processo Penal > Provas em Espécies > Colaboração Premiada",
+      "extras_ids": [
+        "4705"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0330",
+    "questao": {
+      "id": "Q0330",
+      "enunciado": "Acerca das modificações introduzidas pelo chamado “pacote anticrime” ao Código de Processo Penal, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Se a vítima, ou seu representante legal, não\\nconcordar com o arquivamento do inquérito\\npolicial, poderá, no prazo de trinta dias do\\nrecebimento da comunicação, submeter a\\nmatéria à revisão da instância competente\\ndo órgão ministerial, conforme dispuser a\\nrespectiva lei orgânica.",
+        "B": "O processo penal terá estrutura inquisitória,\\nvedadas a iniciativa do juiz na fase\\ninstrutória judicial e a substituição da\\natuação probatória do órgão de acusação.",
+        "C": "Em todos os casos em que policiais civis ou\\nmilitares forem investigados, deverão ser\\ncitados da instauração do procedimento\\ninvestigatório, podendo constituir defensor\\nno prazo de até quarenta e oito horas a\\ncontar do recebimento da citação.",
+        "D": "Ordenado o arquivamento do inquérito\\npolicial ou de quaisquer elementos\\ninformativos da mesma natureza, o órgão do\\nMinistério Público deverá impor sigilo ao\\nprocedimento.",
+        "E": "O inquérito policial terá estrutura acusatória,\\nvedadas a iniciativa do juiz na fase de\\ninvestigação e a substituição da atuação\\nprobatória do órgão de acusação."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Se a vítima, ou seu representante legal, não\\nconcordar com o arquivamento do inquérito\\npolicial, poderá, no prazo de trinta dias do\\nrecebimento da comunicação, submeter a\\nmatéria à revisão da instância competente\\ndo órgão ministerial, conforme dispuser a\\nrespectiva lei orgânica.",
+    "fundamento_resposta": "A vítima ou representante pode provocar revisão ministerial do arquivamento em trinta dias da comunicação, conforme art. 28, §1º, preservada a interpretação constitucional do STF.",
+    "fontes": [
+      "CPP:28 §1",
+      "JG:ADIs do juiz das garantias"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5501",
+      "caminho": "Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0331",
+    "questao": {
+      "id": "Q0331",
+      "enunciado": "Assinale a alternativa incorreta.",
+      "comando": "",
+      "alternativas": {
+        "A": "O Habeas Corpus não poderá ser interposto quando houver ameaça de violência ou coação à liberdade de locomoção, por abuso de poder ou ilegalidade.",
+        "B": "O Promotor de Justiça poderá impetrar ordem de Habeas Corpus.",
+        "C": "O Magistrado jamais poderá impetrar ordem de Habeas Corpus em favor de terceiro, mas poderá conceder de ofício a ordem no processo que preside.",
+        "D": "Não caberá intervenção do Assistente do Ministério Público no processo de Habeas Corpus.",
+        "E": "Não se pode conhecer de impetração de Habeas Corpus apócrifa."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "A é falsa porque habeas corpus protege também contra ameaça. C também é excessiva: magistrado pode impetrá-lo como cidadão em favor de terceiro, com limites funcionais. A falta de assinatura pode impedir conhecimento formal sem eliminar análise de concessão de ofício.",
+    "fontes": [
+      "CF:5 LXVIII",
+      "CPP:654"
+    ],
+    "ressalvas": [
+      "Mais de uma alternativa problemática impede resposta única segura; A é a incorreta mais direta."
+    ],
+    "classificacao": {
+      "tema_id": "5477",
+      "caminho": "Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0332",
+    "questao": {
+      "id": "Q0332",
+      "enunciado": "Acolhendo a proposta do Ministério Público aceita pelo autor da infração, o Juiz aplicará a pena restritiva de direitos ou de multa, que não importará em reincidência, sendo registrada apenas para impedir novamente o mesmo benefício no prazo de cinco anos.\n\nAssim sendo, enquadra-se nesse caso, a pessoa que,",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "tendo aceito a proposta de transação penal, pela\\nprática de lesão corporal, com o cumprimento de\\n72 horas de prestação de serviços à comunidade\\nem dezembro ano de 2012, não terá sob qualquer\\nhipótese, direito a nova transação penal antes de\\ndezembro de 2017.",
+        "B": "tendo aceito a proposta de transação penal, pela\\nprática de constrangimento ilegal, com o\\npagamento de multa em dezembro de 2012, e\\nhistórico de prática de lesão corporal em setembro\\nde 2017, terá direito a nova transação penal.",
+        "C": "tendo aceito a proposta de transação penal, pela\\nprática de desacato, e não cumprido o acordo da\\nproposta, poderá em audiência conciliatória, ter\\nfeita nova proposta de transação penal.",
+        "D": "tendo cumprida a proposta de transação penal\\npela prática do crime de ameaça, praticado em\\n2014, poderá, ter proposta nova transação penal\\nem crime praticado em 2017.",
+        "E": "tendo praticado o crime de homicídio em agosto\\nde 2012 seguindo de prática de crime de lesão\\ncorporal leve após saída em livramento\\ncondicional, terá proposta de transação penal em\\nrelação ao segundo crime."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "tendo aceito a proposta de transação penal, pela\\nprática de lesão corporal, com o cumprimento de\\n72 horas de prestação de serviços à comunidade\\nem dezembro ano de 2012, não terá sob qualquer\\nhipótese, direito a nova transação penal antes de\\ndezembro de 2017.",
+    "fundamento_resposta": "A regra impede nova transação dentro de cinco anos de benefício anterior; as demais opções propõem repetição dentro desse intervalo ou em contexto de condenação impeditiva.",
+    "fontes": [
+      "L9099:76 §§2 II,4"
+    ],
+    "ressalvas": [
+      "O prazo liga-se à concessão do benefício, não necessariamente à data de conclusão do serviço. A usa dezembro de 2012 como referência implícita da concessão; sem essa suposição, a data final não é segura."
+    ],
+    "classificacao": {
+      "tema_id": "5541",
+      "caminho": "Processo Penal > Procedimento Sumaríssimo > Transação Penal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0333",
+    "questao": {
+      "id": "Q0333",
+      "enunciado": "Assinale a alternativa CORRETA.",
+      "comando": "",
+      "alternativas": {
+        "A": "A pessoa pode ser, ao mesmo tempo, sujeito ativo e passivo de um delito em face de sua própria conduta.",
+        "B": "O agente responderá tão-somente por tentativa de crime se ocorrer a desistência voluntária ou o arrependimento eficaz.",
+        "C": "O condenado não reincidente, cuja pena não exceda a doze anos, poderá, desde o princípio, cumpri-la em regime semiaberto.",
+        "D": "O positivismo criminológico utiliza método empírico-intuitivo experimental, contrapondo-se à análise filosófico-metafísica da escola clássica.",
+        "E": "Na contagem dos prazos, leva-se em consideração o dia do final, excluindo-se o do começo."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "D parece pretender caracterizar o método empírico-indutivo do positivismo, mas está escrito intuitivo. E é regra de prazos processuais, não de prazos materiais penais. As demais alternativas são incorretas.",
+    "fontes": [
+      "CRIMINOLOGIA:positivismo e método",
+      "CP:10,15,33",
+      "CPP:798 §1"
+    ],
+    "ressalvas": [
+      "Possível erro textual em D; E depende de contexto processual que não foi delimitado. Não corrijo silenciosamente o enunciado."
+    ],
+    "classificacao": {
+      "tema_id": "4373",
+      "caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+      "extras_ids": [
+        "4382"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0334",
+    "questao": {
+      "id": "Q0334",
+      "enunciado": "Assinale a alternativa que NÃO engloba um objeto de estudo criminológico.",
+      "comando": "",
+      "alternativas": {
+        "A": "O crime.",
+        "B": "A vítima.",
+        "C": "O “dever-ser”.",
+        "D": "O controle social do comportamento delitivo.",
+        "E": "A personalidade do delinquente."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "O “dever-ser”.",
+    "fundamento_resposta": "A criminologia tem objeto empírico: delito, autor, vítima e controle social. O dever-ser normativo caracteriza sobretudo a dogmática jurídica.",
+    "fontes": [
+      "CRIMINOLOGIA:objetos de estudo"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4381",
+      "caminho": "Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0335",
+    "questao": {
+      "id": "Q0335",
+      "enunciado": "A respeito das leis penais em branco e da teoria geral do delito, assinale a opção correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "A concepção welzeliana de ação implicou a inclusão do dolo — sem a consciência de ilicitude — e da culpa nos tipos de injustos. Além disso, conforme essa concepção, ao desvalor da ação corresponderia um desvalor do resultado, consistente na lesão ou perigo de lesão ao bem jurídico tutelado.",
+        "B": "Em se tratando de crimes omissivos próprios ou puros, não há uma causalidade fática, mas jurídica, uma vez que o omitente, devendo e podendo, não impede o resultado. Nesse caso, apesar de se tratar de crime material, o agente responde não por ter causado o resultado, mas por não ter evitado sua ocorrência.",
+        "C": "Com relação ao dolo, o legislador penal brasileiro adotou a teoria da representação, conforme a qual, para a existência do dolo, é suficiente a representação subjetiva ou a previsão do resultado como certo ou provável.",
+        "D": "Configura lei penal em branco em sentido estrito o artigo do Código Penal, que estabelece como criminosa a conduta de casar-se mesmo conhecendo existir impedimento que acarrete a nulidade absoluta do casamento.",
+        "E": "Crimes pluriofensivos são aqueles dotados de iter criminis fracionável, de forma que sua execução se desdobra em vários atos.\n\n"
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "A concepção welzeliana de ação implicou a inclusão do dolo — sem a consciência de ilicitude — e da culpa nos tipos de injustos. Além disso, conforme essa concepção, ao desvalor da ação corresponderia um desvalor do resultado, consistente na lesão ou perigo de lesão ao bem jurídico tutelado.",
+    "fundamento_resposta": "O finalismo desloca dolo e culpa para o injusto típico e mantém consciência potencial da ilicitude na culpabilidade; distingue desvalor da ação e do resultado. As outras opções confundem omissão própria, dolo e classificações.",
+    "fontes": [
+      "CP:18,21",
+      "WELZEL:finalismo"
+    ],
+    "ressalvas": [
+      "Atribuição teórica sem consulta individual à obra autoral; a análise é conceitual."
+    ],
+    "classificacao": {
+      "tema_id": "5222",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo",
+      "extras_ids": [
+        "5220"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  }
+]

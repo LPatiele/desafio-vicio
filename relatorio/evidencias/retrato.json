@@ -1,0 +1,1225 @@
+{
+  "capturado_em": "2026-10-18T21:40:33.805592-03:00",
+  "fim_da_coleta": "2026-10-18T21:40:34.170618-03:00",
+  "metodo": "Leitura offline. Comparação de tema central com referências próprias v1 e v2: exato ou ancestral/descendente; irmãos rejeitados. Nenhuma inferência, reexecução de decisão ou alteração de checkpoint. Registros ativos podem avançar após a leitura. Métricas calculadas das decisões salvas, sem validar novamente a política histórica.",
+  "experimentos": [
+    {
+      "experimento": "output/experiments/contexto-api-v5-q0001",
+      "criado_em": "2026-10-17T14:28:59.190Z",
+      "registros": 1,
+      "propostas": 1,
+      "pareceres": 1,
+      "decisoes": 1,
+      "publicar": 0,
+      "revisar": 1,
+      "fora": 0,
+      "pendentes": 0,
+      "cobertura_selecionadas": 0.0,
+      "cobertura_359": 0.0,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v5-contexto.md",
+      "lote": 1,
+      "sha256_records": "99040d5596f0f772b02afb4bd8571072aa7af5bc2a8701070b353472cecb189c",
+      "concordantes_v1": 0,
+      "concordancia_ramo_v1": null,
+      "exatas_v1": 0,
+      "concordantes_v2": 0,
+      "concordancia_ramo_v2": null,
+      "exatas_v2": 0,
+      "erros_registrados": 1
+    },
+    {
+      "experimento": "output/experiments/gemini-flash-v11-piloto",
+      "criado_em": "2026-10-18T14:31:29.566Z",
+      "registros": 10,
+      "propostas": 10,
+      "pareceres": 10,
+      "decisoes": 10,
+      "publicar": 7,
+      "revisar": 3,
+      "fora": 0,
+      "pendentes": 0,
+      "cobertura_selecionadas": 0.7,
+      "cobertura_359": 0.019498607242339833,
+      "classificador": "gemini-3.1-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v9-local.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "2463d254bed2156e99e683857e20f21944071aaca107938f7fa2adbc6b47c4a4",
+      "concordantes_v1": 7,
+      "concordancia_ramo_v1": 1.0,
+      "exatas_v1": 5,
+      "concordantes_v2": 7,
+      "concordancia_ramo_v2": 1.0,
+      "exatas_v2": 5,
+      "erros_registrados": 4
+    },
+    {
+      "experimento": "output/experiments/gemini-flash-v13-livros-359",
+      "criado_em": "2026-10-18T18:07:37.379Z",
+      "registros": 359,
+      "propostas": 11,
+      "pareceres": 10,
+      "decisoes": 10,
+      "publicar": 9,
+      "revisar": 1,
+      "fora": 0,
+      "pendentes": 349,
+      "cobertura_selecionadas": 0.025069637883008356,
+      "cobertura_359": 0.025069637883008356,
+      "classificador": "gemini-3.1-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v11-livros.md",
+      "prompt_juiz": "juiz.v10-livros.md",
+      "lote": 1,
+      "sha256_records": "59cf551474b611ccd3bfd72dc248a77e21c6ce4259c34b5555385185ffd74a6f",
+      "concordantes_v1": 7,
+      "concordancia_ramo_v1": 0.7777777777777778,
+      "exatas_v1": 5,
+      "concordantes_v2": 8,
+      "concordancia_ramo_v2": 0.8888888888888888,
+      "exatas_v2": 5,
+      "erros_registrados": 6
+    },
+    {
+      "experimento": "output/experiments/gemini35-v15-livros-359",
+      "criado_em": "2026-10-18T19:09:57.438Z",
+      "registros": 359,
+      "propostas": 2,
+      "pareceres": 1,
+      "decisoes": 1,
+      "publicar": 1,
+      "revisar": 0,
+      "fora": 0,
+      "pendentes": 358,
+      "cobertura_selecionadas": 0.002785515320334262,
+      "cobertura_359": 0.002785515320334262,
+      "classificador": "gemini-3.5-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v11-livros.md",
+      "prompt_juiz": "juiz.v10-livros.md",
+      "lote": 1,
+      "sha256_records": "a11f42755cbef9f547a4a73fbb38e516dca2e27e2ccfa6d58c2303a1475307fe",
+      "concordantes_v1": 1,
+      "concordancia_ramo_v1": 1.0,
+      "exatas_v1": 1,
+      "concordantes_v2": 1,
+      "concordancia_ramo_v2": 1.0,
+      "exatas_v2": 0,
+      "erros_registrados": 0
+    },
+    {
+      "experimento": "output/experiments/gemini35-v16-projeto2-359",
+      "criado_em": "2026-10-18T20:09:44.134Z",
+      "registros": 359,
+      "propostas": 181,
+      "pareceres": 180,
+      "decisoes": 180,
+      "publicar": 152,
+      "revisar": 26,
+      "fora": 2,
+      "pendentes": 179,
+      "cobertura_selecionadas": 0.4233983286908078,
+      "cobertura_359": 0.4233983286908078,
+      "classificador": "gemini-3.5-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v11-livros.md",
+      "prompt_juiz": "juiz.v10-livros.md",
+      "lote": 1,
+      "sha256_records": "d17856350fcd375568cae5d2b02bded5e38532dd799705e0d201d58124fbe63c",
+      "concordantes_v1": 130,
+      "concordancia_ramo_v1": 0.8552631578947368,
+      "exatas_v1": 108,
+      "concordantes_v2": 130,
+      "concordancia_ramo_v2": 0.8552631578947368,
+      "exatas_v2": 110,
+      "erros_registrados": 16
+    },
+    {
+      "experimento": "output/experiments/individual-v3-invertido-50",
+      "criado_em": "2026-10-17T00:46:12.793Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 49,
+      "decisoes": 49,
+      "publicar": 38,
+      "revisar": 8,
+      "fora": 3,
+      "pendentes": 1,
+      "cobertura_selecionadas": 0.76,
+      "cobertura_359": 0.10584958217270195,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v3.md",
+      "lote": 1,
+      "sha256_records": "c85c7cd5ff321825ba92faccce5c0921f7c09ea137594b8b7721c4bf615811ab",
+      "concordantes_v1": 28,
+      "concordancia_ramo_v1": 0.7368421052631579,
+      "exatas_v1": 20,
+      "concordantes_v2": 28,
+      "concordancia_ramo_v2": 0.7368421052631579,
+      "exatas_v2": 23,
+      "erros_registrados": 14
+    },
+    {
+      "experimento": "output/experiments/local-penal50-v7",
+      "criado_em": "2026-10-17T17:58:04.251Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 50,
+      "decisoes": 49,
+      "publicar": 28,
+      "revisar": 20,
+      "fora": 1,
+      "pendentes": 1,
+      "cobertura_selecionadas": 0.56,
+      "cobertura_359": 0.07799442896935933,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v7-local.md",
+      "lote": 1,
+      "sha256_records": "1abb674fab1a9a415df969b0a4440cdf97c179c2eb474c40216e0bae46fb99df",
+      "concordantes_v1": 24,
+      "concordancia_ramo_v1": 0.8571428571428571,
+      "exatas_v1": 17,
+      "concordantes_v2": 24,
+      "concordancia_ramo_v2": 0.8571428571428571,
+      "exatas_v2": 20,
+      "erros_registrados": 3
+    },
+    {
+      "experimento": "output/experiments/local-penal50-v8-auto",
+      "criado_em": "2026-10-17T23:09:51.463Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 2,
+      "decisoes": 2,
+      "publicar": 1,
+      "revisar": 1,
+      "fora": 0,
+      "pendentes": 48,
+      "cobertura_selecionadas": 0.02,
+      "cobertura_359": 0.002785515320334262,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "e3a75a494106b98a588d0ee7e4507261400cc6a6e6d141cd2d3929bb6b00df9e",
+      "concordantes_v1": 1,
+      "concordancia_ramo_v1": 1.0,
+      "exatas_v1": 0,
+      "concordantes_v2": 1,
+      "concordancia_ramo_v2": 1.0,
+      "exatas_v2": 1,
+      "erros_registrados": 0
+    },
+    {
+      "experimento": "output/experiments/local-penal50-v8-auto-r2",
+      "criado_em": "2026-10-17T23:15:04.906Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 49,
+      "decisoes": 48,
+      "publicar": 27,
+      "revisar": 19,
+      "fora": 2,
+      "pendentes": 2,
+      "cobertura_selecionadas": 0.54,
+      "cobertura_359": 0.07520891364902507,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "8131374c24759df309dd8c0dacbbfe0201a328b24d553082d8568f2b6b908adc",
+      "concordantes_v1": 23,
+      "concordancia_ramo_v1": 0.8518518518518519,
+      "exatas_v1": 16,
+      "concordantes_v2": 23,
+      "concordancia_ramo_v2": 0.8518518518518519,
+      "exatas_v2": 20,
+      "erros_registrados": 6
+    },
+    {
+      "experimento": "output/experiments/local-penal50-v8-tools",
+      "criado_em": "2026-10-17T23:09:53.010Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 2,
+      "decisoes": 2,
+      "publicar": 1,
+      "revisar": 1,
+      "fora": 0,
+      "pendentes": 48,
+      "cobertura_selecionadas": 0.02,
+      "cobertura_359": 0.002785515320334262,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "d3a47fa66250f2705be36da845d067f4d244bdfc09acc1d32b72a0742c46d31d",
+      "concordantes_v1": 1,
+      "concordancia_ramo_v1": 1.0,
+      "exatas_v1": 0,
+      "concordantes_v2": 1,
+      "concordancia_ramo_v2": 1.0,
+      "exatas_v2": 1,
+      "erros_registrados": 0
+    },
+    {
+      "experimento": "output/experiments/local-penal50-v8-tools-r2",
+      "criado_em": "2026-10-17T23:12:05.849Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 49,
+      "decisoes": 47,
+      "publicar": 36,
+      "revisar": 11,
+      "fora": 0,
+      "pendentes": 3,
+      "cobertura_selecionadas": 0.72,
+      "cobertura_359": 0.10027855153203342,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "5ed5bd438f12377bbe6f585c7166b9db4ffc095139b9e6e1da692aef9808f7db",
+      "concordantes_v1": 29,
+      "concordancia_ramo_v1": 0.8055555555555556,
+      "exatas_v1": 20,
+      "concordantes_v2": 29,
+      "concordancia_ramo_v2": 0.8055555555555556,
+      "exatas_v2": 25,
+      "erros_registrados": 6
+    },
+    {
+      "experimento": "output/experiments/local-penal50-v9-classifier-tools",
+      "criado_em": "2026-10-18T02:00:37.959Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 49,
+      "decisoes": 49,
+      "publicar": 31,
+      "revisar": 17,
+      "fora": 1,
+      "pendentes": 1,
+      "cobertura_selecionadas": 0.62,
+      "cobertura_359": 0.08635097493036212,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v9-local.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "77af4c1e65f7e4c7840e17e4be75849685ad817af4e68d7e3ba2e116b33f244d",
+      "concordantes_v1": 26,
+      "concordancia_ramo_v1": 0.8387096774193549,
+      "exatas_v1": 19,
+      "concordantes_v2": 26,
+      "concordancia_ramo_v2": 0.8387096774193549,
+      "exatas_v2": 22,
+      "erros_registrados": 9
+    },
+    {
+      "experimento": "output/experiments/local-penal50-v9-control",
+      "criado_em": "2026-10-18T02:02:40.954Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 50,
+      "decisoes": 50,
+      "publicar": 27,
+      "revisar": 20,
+      "fora": 3,
+      "pendentes": 0,
+      "cobertura_selecionadas": 0.54,
+      "cobertura_359": 0.07520891364902507,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "b6ea5edde6c1fbede6c1f6fde398fe1d81f5c46af824288b1d0a8c2860beb29e",
+      "concordantes_v1": 23,
+      "concordancia_ramo_v1": 0.8518518518518519,
+      "exatas_v1": 16,
+      "concordantes_v2": 23,
+      "concordancia_ramo_v2": 0.8518518518518519,
+      "exatas_v2": 19,
+      "erros_registrados": 1
+    },
+    {
+      "experimento": "output/experiments/pagos-v10-gemini-openai",
+      "criado_em": "2026-10-18T14:10:49.171Z",
+      "registros": 1,
+      "propostas": 0,
+      "pareceres": 0,
+      "decisoes": 0,
+      "publicar": 0,
+      "revisar": 0,
+      "fora": 0,
+      "pendentes": 1,
+      "cobertura_selecionadas": 0.0,
+      "cobertura_359": 0.0,
+      "classificador": "gemini-3.1-pro-preview",
+      "juiz": "gpt-5.2-2025-12-11",
+      "prompt_classificador": "classificador.v9-local.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "4a89ffbffafce819ab9ac1b34e06c663e10b6a023a497ca67517b41b313ad768",
+      "concordantes_v1": 0,
+      "concordancia_ramo_v1": null,
+      "exatas_v1": 0,
+      "concordantes_v2": 0,
+      "concordancia_ramo_v2": null,
+      "exatas_v2": 0,
+      "erros_registrados": 0
+    },
+    {
+      "experimento": "output/experiments/pagos-v10-juiz-isolado",
+      "criado_em": "2026-10-18T14:18:36.472Z",
+      "registros": 1,
+      "propostas": 1,
+      "pareceres": 0,
+      "decisoes": 0,
+      "publicar": 0,
+      "revisar": 0,
+      "fora": 0,
+      "pendentes": 1,
+      "cobertura_selecionadas": 0.0,
+      "cobertura_359": 0.0,
+      "classificador": "gemini-3.1-pro-preview",
+      "juiz": "gpt-5.2-2025-12-11",
+      "prompt_classificador": "classificador.v9-local.md",
+      "prompt_juiz": "juiz.v8-local.md",
+      "lote": 1,
+      "sha256_records": "3d2d6de6b70ff5843b97137293f1913c1f8758f5e93c569491c0ff1dede8a3cd",
+      "concordantes_v1": 0,
+      "concordancia_ramo_v1": null,
+      "exatas_v1": 0,
+      "concordantes_v2": 0,
+      "concordancia_ramo_v2": null,
+      "exatas_v2": 0,
+      "erros_registrados": 2
+    },
+    {
+      "experimento": "output/experiments/piloto-20-v3",
+      "criado_em": "2026-10-16T17:10:01.550Z",
+      "registros": 20,
+      "propostas": 0,
+      "pareceres": 0,
+      "decisoes": 0,
+      "publicar": 0,
+      "revisar": 0,
+      "fora": 0,
+      "pendentes": 20,
+      "cobertura_selecionadas": 0.0,
+      "cobertura_359": 0.0,
+      "classificador": "nvidia/nemotron-3-super-120b-a12b:free",
+      "juiz": "dots-studio/dots-3-note-preview:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v3.md",
+      "lote": 20,
+      "sha256_records": "78051c690de3f5affbbf5c8b3968600255e141a101637e9bd2096269bc083994",
+      "concordantes_v1": 0,
+      "concordancia_ramo_v1": null,
+      "exatas_v1": 0,
+      "concordantes_v2": 0,
+      "concordancia_ramo_v2": null,
+      "exatas_v2": 0,
+      "erros_registrados": 0
+    },
+    {
+      "experimento": "output/experiments/piloto-20-v3-sem-raciocinio",
+      "criado_em": "2026-10-16T17:19:40.978Z",
+      "registros": 20,
+      "propostas": 20,
+      "pareceres": 20,
+      "decisoes": 20,
+      "publicar": 20,
+      "revisar": 0,
+      "fora": 0,
+      "pendentes": 0,
+      "cobertura_selecionadas": 1.0,
+      "cobertura_359": 0.055710306406685235,
+      "classificador": "nvidia/nemotron-3-super-120b-a12b:free",
+      "juiz": "dots-studio/dots-3-note-preview:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v3.md",
+      "lote": 20,
+      "sha256_records": "e32d94fc14c11dae9fd6774b82830df064200431df8f2874d459a4a2eb4fe944",
+      "concordantes_v1": 13,
+      "concordancia_ramo_v1": 0.65,
+      "exatas_v1": 7,
+      "concordantes_v2": 14,
+      "concordancia_ramo_v2": 0.7,
+      "exatas_v2": 9,
+      "erros_registrados": 4
+    },
+    {
+      "experimento": "output/experiments/piloto-2x10-v3-raciocinio",
+      "criado_em": "2026-10-16T17:44:41.025Z",
+      "registros": 20,
+      "propostas": 20,
+      "pareceres": 20,
+      "decisoes": 19,
+      "publicar": 19,
+      "revisar": 0,
+      "fora": 0,
+      "pendentes": 1,
+      "cobertura_selecionadas": 0.95,
+      "cobertura_359": 0.052924791086350974,
+      "classificador": "nvidia/nemotron-3-super-120b-a12b:free",
+      "juiz": "dots-studio/dots-3-note-preview:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v3.md",
+      "lote": 10,
+      "sha256_records": "183059188945fc891097129fd4dd728cefc7412b4795560f62a433ec6c8c8033",
+      "concordantes_v1": 13,
+      "concordancia_ramo_v1": 0.6842105263157895,
+      "exatas_v1": 7,
+      "concordantes_v2": 13,
+      "concordancia_ramo_v2": 0.6842105263157895,
+      "exatas_v2": 10,
+      "erros_registrados": 5
+    },
+    {
+      "experimento": "output/experiments/piloto-5x10-v2-invertido-nemotron35",
+      "criado_em": "2026-10-16T21:37:56.145Z",
+      "registros": 50,
+      "propostas": 39,
+      "pareceres": 39,
+      "decisoes": 39,
+      "publicar": 11,
+      "revisar": 27,
+      "fora": 1,
+      "pendentes": 11,
+      "cobertura_selecionadas": 0.22,
+      "cobertura_359": 0.03064066852367688,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v2.md",
+      "prompt_juiz": "juiz.v2.md",
+      "lote": 10,
+      "sha256_records": "b5c0398fab57461d8a53d977a1763d69876a310296851497e6cc647a37e32d1c",
+      "concordantes_v1": 9,
+      "concordancia_ramo_v1": 0.8181818181818182,
+      "exatas_v1": 9,
+      "concordantes_v2": 9,
+      "concordancia_ramo_v2": 0.8181818181818182,
+      "exatas_v2": 9,
+      "erros_registrados": 28
+    },
+    {
+      "experimento": "output/experiments/piloto-5x10-v2-juiz-nemotron35",
+      "criado_em": "2026-10-16T21:38:12.474Z",
+      "registros": 50,
+      "propostas": 49,
+      "pareceres": 49,
+      "decisoes": 48,
+      "publicar": 38,
+      "revisar": 10,
+      "fora": 0,
+      "pendentes": 2,
+      "cobertura_selecionadas": 0.76,
+      "cobertura_359": 0.10584958217270195,
+      "classificador": "nvidia/nemotron-3-super-120b-a12b:free",
+      "juiz": "nvidia/nemotron-3.5-super-vl:free",
+      "prompt_classificador": "classificador.v2.md",
+      "prompt_juiz": "juiz.v2.md",
+      "lote": 10,
+      "sha256_records": "3f9b759552382a92194f1540aa93586f6dbabd192355413457c50118d0fca4a5",
+      "concordantes_v1": 29,
+      "concordancia_ramo_v1": 0.7631578947368421,
+      "exatas_v1": 20,
+      "concordantes_v2": 29,
+      "concordancia_ramo_v2": 0.7631578947368421,
+      "exatas_v2": 24,
+      "erros_registrados": 14
+    },
+    {
+      "experimento": "output/experiments/piloto-5x10-v3-invertido-nemotron35",
+      "criado_em": "2026-10-16T19:08:50.581Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 50,
+      "decisoes": 50,
+      "publicar": 45,
+      "revisar": 5,
+      "fora": 0,
+      "pendentes": 0,
+      "cobertura_selecionadas": 0.9,
+      "cobertura_359": 0.12534818941504178,
+      "classificador": "nvidia/nemotron-3.5-super-vl:free",
+      "juiz": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v3.md",
+      "lote": 10,
+      "sha256_records": "fa76924e7cf95e22fc8445198cd6970726b7787ffa536d8172ed2859e46e96d7",
+      "concordantes_v1": 35,
+      "concordancia_ramo_v1": 0.7777777777777778,
+      "exatas_v1": 24,
+      "concordantes_v2": 35,
+      "concordancia_ramo_v2": 0.7777777777777778,
+      "exatas_v2": 28,
+      "erros_registrados": 0
+    },
+    {
+      "experimento": "output/experiments/piloto-5x10-v3-juiz-nemotron35",
+      "criado_em": "2026-10-16T18:32:47.396Z",
+      "registros": 50,
+      "propostas": 50,
+      "pareceres": 50,
+      "decisoes": 49,
+      "publicar": 39,
+      "revisar": 9,
+      "fora": 1,
+      "pendentes": 1,
+      "cobertura_selecionadas": 0.78,
+      "cobertura_359": 0.10863509749303621,
+      "classificador": "nvidia/nemotron-3-super-120b-a12b:free",
+      "juiz": "nvidia/nemotron-3.5-super-vl:free",
+      "prompt_classificador": "classificador.v3.md",
+      "prompt_juiz": "juiz.v3.md",
+      "lote": 10,
+      "sha256_records": "73ae5727ac242e300665699901c5d8cff836cb81c7b042c444aaac39448d2897",
+      "concordantes_v1": 30,
+      "concordancia_ramo_v1": 0.7692307692307693,
+      "exatas_v1": 19,
+      "concordantes_v2": 30,
+      "concordancia_ramo_v2": 0.7692307692307693,
+      "exatas_v2": 23,
+      "erros_registrados": 7
+    },
+    {
+      "experimento": "output/experiments/piloto-v1",
+      "criado_em": "2026-10-16T15:13:51.504Z",
+      "registros": 30,
+      "propostas": 0,
+      "pareceres": 0,
+      "decisoes": 0,
+      "publicar": 0,
+      "revisar": 0,
+      "fora": 0,
+      "pendentes": 30,
+      "cobertura_selecionadas": 0.0,
+      "cobertura_359": 0.0,
+      "classificador": "nvidia/nemotron-3-super-120b-a12b:free",
+      "juiz": "dots-studio/dots-3-note-preview:free",
+      "prompt_classificador": null,
+      "prompt_juiz": null,
+      "lote": 30,
+      "sha256_records": "7aa0128f356a4ff52196e0ba1b60331ff89157866924282b707c34fdbb7ccb50",
+      "concordantes_v1": 0,
+      "concordancia_ramo_v1": null,
+      "exatas_v1": 0,
+      "concordantes_v2": 0,
+      "concordancia_ramo_v2": null,
+      "exatas_v2": 0,
+      "erros_registrados": 0
+    },
+    {
+      "experimento": "output/paid-v17/paid-v17-359/b20",
+      "criado_em": "2026-10-18T22:21:10.232Z",
+      "registros": 359,
+      "propostas": 46,
+      "pareceres": 27,
+      "decisoes": 27,
+      "publicar": 22,
+      "revisar": 5,
+      "fora": 0,
+      "pendentes": 332,
+      "cobertura_selecionadas": 0.06128133704735376,
+      "cobertura_359": 0.06128133704735376,
+      "classificador": "gemini-3.5-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v11-livros.md",
+      "prompt_juiz": "juiz.v10-livros.md",
+      "lote": 20,
+      "sha256_records": "7386c41aebe1987717c960e661e35204c685ca82d242aaa6d702d14fabd927b2",
+      "concordantes_v1": 20,
+      "concordancia_ramo_v1": 0.9090909090909091,
+      "exatas_v1": 19,
+      "concordantes_v2": 20,
+      "concordancia_ramo_v2": 0.9090909090909091,
+      "exatas_v2": 19,
+      "erros_registrados": 277
+    },
+    {
+      "experimento": "output/paid-v17/paid-v17-359/b30",
+      "criado_em": "2026-10-18T21:56:48.226Z",
+      "registros": 359,
+      "propostas": 161,
+      "pareceres": 161,
+      "decisoes": 161,
+      "publicar": 131,
+      "revisar": 30,
+      "fora": 0,
+      "pendentes": 198,
+      "cobertura_selecionadas": 0.3649025069637883,
+      "cobertura_359": 0.3649025069637883,
+      "classificador": "gemini-3.5-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v11-livros.md",
+      "prompt_juiz": "juiz.v10-livros.md",
+      "lote": 30,
+      "sha256_records": "58a37429926fb453ec7957320cd679aff23f5d7406befc7a5043c6275feb204b",
+      "concordantes_v1": 111,
+      "concordancia_ramo_v1": 0.8473282442748091,
+      "exatas_v1": 93,
+      "concordantes_v2": 112,
+      "concordancia_ramo_v2": 0.8549618320610687,
+      "exatas_v2": 93,
+      "erros_registrados": 643
+    },
+    {
+      "experimento": "output/vertex-v18/vertex-v18-359/b20",
+      "criado_em": "2026-10-19T00:18:30.030Z",
+      "registros": 359,
+      "propostas": 123,
+      "pareceres": 122,
+      "decisoes": 122,
+      "publicar": 96,
+      "revisar": 26,
+      "fora": 0,
+      "pendentes": 237,
+      "cobertura_selecionadas": 0.26740947075208915,
+      "cobertura_359": 0.26740947075208915,
+      "classificador": "gemini-3.5-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v11-livros.md",
+      "prompt_juiz": "juiz.v10-livros.md",
+      "lote": 20,
+      "sha256_records": "19520e8d51a73fab77ecc15fb0d30d56012c43be19bbe83fd6947da873c4ec14",
+      "concordantes_v1": 83,
+      "concordancia_ramo_v1": 0.8645833333333334,
+      "exatas_v1": 74,
+      "concordantes_v2": 83,
+      "concordancia_ramo_v2": 0.8645833333333334,
+      "exatas_v2": 73,
+      "erros_registrados": 224
+    },
+    {
+      "experimento": "output/vertex-v18/vertex-v18-piloto-10/b10",
+      "criado_em": "2026-10-19T00:14:26.931Z",
+      "registros": 10,
+      "propostas": 10,
+      "pareceres": 10,
+      "decisoes": 10,
+      "publicar": 7,
+      "revisar": 3,
+      "fora": 0,
+      "pendentes": 0,
+      "cobertura_selecionadas": 0.7,
+      "cobertura_359": 0.019498607242339833,
+      "classificador": "gemini-3.5-flash-lite",
+      "juiz": "gemini-3.8-flash",
+      "prompt_classificador": "classificador.v11-livros.md",
+      "prompt_juiz": "juiz.v10-livros.md",
+      "lote": 10,
+      "sha256_records": "c7b8a3a98364dbc4d8708775a0e14ffb4e36e9d09eeee48d4f262e8f878638ba",
+      "concordantes_v1": 5,
+      "concordancia_ramo_v1": 0.7142857142857143,
+      "exatas_v1": 2,
+      "concordantes_v2": 6,
+      "concordancia_ramo_v2": 0.8571428571428571,
+      "exatas_v2": 4,
+      "erros_registrados": 3
+    }
+  ],
+  "diagnostico": {
+    "questoes": 359,
+    "temas": 377,
+    "status_temas": {
+      "active": 375,
+      "inactive": 2
+    },
+    "niveis_temas": {
+      "0": 4,
+      "1": 111,
+      "2": 262
+    },
+    "caracteres_antes": 519795,
+    "caracteres_depois": 366621
+  },
+  "fontes": [
+    {
+      "arquivo": "output/experiments/contexto-api-v5-q0001/records.json",
+      "sha256": "99040d5596f0f772b02afb4bd8571072aa7af5bc2a8701070b353472cecb189c"
+    },
+    {
+      "arquivo": "output/experiments/contexto-api-v5-q0001/manifest.json",
+      "sha256": "7db4a7577967f06d1c6216f04a81edd89bae1c3e7f3c71dac42abd1b54dd375e"
+    },
+    {
+      "arquivo": "output/experiments/contexto-api-v5-q0001/last-run.json",
+      "sha256": "94681e90afd58b7c681ba7be5570ff8db5875df99af5816f821e44a681c07ab2"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v11-piloto/records.json",
+      "sha256": "2463d254bed2156e99e683857e20f21944071aaca107938f7fa2adbc6b47c4a4"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v11-piloto/manifest.json",
+      "sha256": "c452185ea13f9066e7fc866c31434d66fb877ea9deac5ccdb9a096a3450491da"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v11-piloto/last-run.json",
+      "sha256": "58778851f67131aca816c9be036c2d9ace6c8e362bc767b457e3c2497d450fbc"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v11-piloto/spend.json",
+      "sha256": "2d769671c8341ff0611a948f6cba2c613721cdb1f4911c7866c8ca3954ed4fca"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v13-livros-359/records.json",
+      "sha256": "59cf551474b611ccd3bfd72dc248a77e21c6ce4259c34b5555385185ffd74a6f"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v13-livros-359/manifest.json",
+      "sha256": "4f19b0330c3dd7a4af5882390c8f4a3955f47f72ec4827d489cb46d62ae1a0b6"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v13-livros-359/last-run.json",
+      "sha256": "f557805afa138f36222b7cc14918aa6257886e9a3e90746ac2a2dbf57cc68aea"
+    },
+    {
+      "arquivo": "output/experiments/gemini-flash-v13-livros-359/spend.json",
+      "sha256": "a09ca20a6d7ba718cf527fb8c1ea997891e46d737150af8ec72bb1f21e2d5a61"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v15-livros-359/records.json",
+      "sha256": "a11f42755cbef9f547a4a73fbb38e516dca2e27e2ccfa6d58c2303a1475307fe"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v15-livros-359/manifest.json",
+      "sha256": "ea5e45adfd5840e702db779cf65e6b590f73498b6fc855a5ba631c9b5a4f8174"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v15-livros-359/last-run.json",
+      "sha256": "330b1ce39741bde307296047f13e1d9cc983fc1347be050cd86fb453d4e37728"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v15-livros-359/spend.json",
+      "sha256": "9fa5362ea26b5f83d7f9143a8e0ee3ae6f6e6656edcb8e30eedfbf46efae1120"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v16-projeto2-359/records.json",
+      "sha256": "d17856350fcd375568cae5d2b02bded5e38532dd799705e0d201d58124fbe63c"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v16-projeto2-359/manifest.json",
+      "sha256": "ed0085ae71e185f2b893116d034645cb032b38e2e6be08bfd616f2f3efebed66"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v16-projeto2-359/last-run.json",
+      "sha256": "1e8386f57a92138bfd8657ae675e1a930b767ee37d2fddfd23836734b458c8c5"
+    },
+    {
+      "arquivo": "output/experiments/gemini35-v16-projeto2-359/spend.json",
+      "sha256": "d50ed795640584bbf2df7adfe6010461db442b14f5b83d980eaa422bb618117c"
+    },
+    {
+      "arquivo": "output/experiments/individual-v3-invertido-50/records.json",
+      "sha256": "c85c7cd5ff321825ba92faccce5c0921f7c09ea137594b8b7721c4bf615811ab"
+    },
+    {
+      "arquivo": "output/experiments/individual-v3-invertido-50/manifest.json",
+      "sha256": "ea0e47aad3394c99fa6c98890a10bcba724f71bcfe8e19529939a1abf2fcfe4d"
+    },
+    {
+      "arquivo": "output/experiments/individual-v3-invertido-50/last-run.json",
+      "sha256": "83502405b513140b74d8ed17a46cf25576e2f688894d62b168559a4a400e99c1"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v7/records.json",
+      "sha256": "1abb674fab1a9a415df969b0a4440cdf97c179c2eb474c40216e0bae46fb99df"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v7/manifest.json",
+      "sha256": "bd9b5363a74343fb47e5004c110da877b25ea3f2033041ed857f4e7e90c162f8"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v7/last-run.json",
+      "sha256": "9e243281a92039da348fc54099c64fc2bd5650a398cce29c682874d57298ade3"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-auto/records.json",
+      "sha256": "e3a75a494106b98a588d0ee7e4507261400cc6a6e6d141cd2d3929bb6b00df9e"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-auto/manifest.json",
+      "sha256": "99aa2a0d7e8533de62bc7ba767694bcedb89b63b939d2c4bf8fe8f038dc8691d"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-auto-r2/records.json",
+      "sha256": "8131374c24759df309dd8c0dacbbfe0201a328b24d553082d8568f2b6b908adc"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-auto-r2/manifest.json",
+      "sha256": "1ec01013e1b7157e7ab74e52ff2b8011a346ef334a3bf7dc6f81411845e8f7b5"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-auto-r2/last-run.json",
+      "sha256": "29caea307f4b4601e341ae1a7e22ae845fe08aedd4d48fc35edc88e0a65e4066"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-tools/records.json",
+      "sha256": "d3a47fa66250f2705be36da845d067f4d244bdfc09acc1d32b72a0742c46d31d"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-tools/manifest.json",
+      "sha256": "04480239b9f33590cba3827800f68abef260ad103247a17ea87dab56bbec3484"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-tools-r2/records.json",
+      "sha256": "5ed5bd438f12377bbe6f585c7166b9db4ffc095139b9e6e1da692aef9808f7db"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-tools-r2/manifest.json",
+      "sha256": "682ae8bb112af96b9356f98d54fd9508b757c57ead36353d028d41e9bf0824c1"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v8-tools-r2/last-run.json",
+      "sha256": "56bff920d4015649878568b50c15a4680d53ca592fc3249fe5cfd4272043b9ad"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v9-classifier-tools/records.json",
+      "sha256": "77af4c1e65f7e4c7840e17e4be75849685ad817af4e68d7e3ba2e116b33f244d"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v9-classifier-tools/manifest.json",
+      "sha256": "98c34aaffcc49f737516e56f9a23db74b18b84c976a985a913ab32e0c8e0bc47"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v9-classifier-tools/last-run.json",
+      "sha256": "1500d0026b00462170b2fec84f7ccc3ecdf5fa9039c1fc5e4de182b0c7363062"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v9-control/records.json",
+      "sha256": "b6ea5edde6c1fbede6c1f6fde398fe1d81f5c46af824288b1d0a8c2860beb29e"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v9-control/manifest.json",
+      "sha256": "21985f6a488ee660888cb85c63597b59f31e6cb6814074ab6c04213e40f39880"
+    },
+    {
+      "arquivo": "output/experiments/local-penal50-v9-control/last-run.json",
+      "sha256": "6fc8d3fa326699c2cd58ed7af509b3987896c2562162d705aad2a015f2c130cd"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-gemini-openai/records.json",
+      "sha256": "4a89ffbffafce819ab9ac1b34e06c663e10b6a023a497ca67517b41b313ad768"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-gemini-openai/manifest.json",
+      "sha256": "933845ec2ab2408a95e2aff6ab73b69f09687172084bb96af6e0d5b222cbdb52"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-gemini-openai/last-run.json",
+      "sha256": "38e36261b7b903491b9768fb9c7bdc1789e376b021bf74de56590404e76b04e2"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-gemini-openai/spend.json",
+      "sha256": "48281e64ffc73bc804317a69e8b9325635e4b0209d5f070017f2130fac8cf29b"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-juiz-isolado/records.json",
+      "sha256": "3d2d6de6b70ff5843b97137293f1913c1f8758f5e93c569491c0ff1dede8a3cd"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-juiz-isolado/manifest.json",
+      "sha256": "c512c74d8bac66a3255a379ab24152559d6996c1843ca148fc4b928752f24687"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-juiz-isolado/last-run.json",
+      "sha256": "527dc7206556b941903d8b8f272787653cdd930bd8fa54fc71f90fc54d1b1543"
+    },
+    {
+      "arquivo": "output/experiments/pagos-v10-juiz-isolado/spend.json",
+      "sha256": "f1a3a5bd47d7d5e61e905a878968456a74db8e7939acc28a5963f8787e3035db"
+    },
+    {
+      "arquivo": "output/experiments/piloto-20-v3/records.json",
+      "sha256": "78051c690de3f5affbbf5c8b3968600255e141a101637e9bd2096269bc083994"
+    },
+    {
+      "arquivo": "output/experiments/piloto-20-v3/manifest.json",
+      "sha256": "c9f662762518d03f4659e72da074024cec453bcff523f86bf946a7b6fb4a2ad7"
+    },
+    {
+      "arquivo": "output/experiments/piloto-20-v3/last-run.json",
+      "sha256": "3cd4d3b04eb9ac346fe94c8bec06137698049ee604dc437f0a0ac7fd52a76c6a"
+    },
+    {
+      "arquivo": "output/experiments/piloto-20-v3-sem-raciocinio/records.json",
+      "sha256": "e32d94fc14c11dae9fd6774b82830df064200431df8f2874d459a4a2eb4fe944"
+    },
+    {
+      "arquivo": "output/experiments/piloto-20-v3-sem-raciocinio/manifest.json",
+      "sha256": "f43d212117a554913ff1269aedd2565a639d4ea18502da4773e8aa650764aee4"
+    },
+    {
+      "arquivo": "output/experiments/piloto-20-v3-sem-raciocinio/last-run.json",
+      "sha256": "42463a2a348fc4a6198163ede49e1c3f375b46917a1923e4c9c1feba26904f7d"
+    },
+    {
+      "arquivo": "output/experiments/piloto-2x10-v3-raciocinio/records.json",
+      "sha256": "183059188945fc891097129fd4dd728cefc7412b4795560f62a433ec6c8c8033"
+    },
+    {
+      "arquivo": "output/experiments/piloto-2x10-v3-raciocinio/manifest.json",
+      "sha256": "23d1220500f4666d5a576ba9dee8f102d49b07de8fd9aff32218fb6377c041cc"
+    },
+    {
+      "arquivo": "output/experiments/piloto-2x10-v3-raciocinio/last-run.json",
+      "sha256": "e7f3db5af39bdf3a84b56fd42b29824d20f2625dc871ae03fb97bb9c197753af"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v2-invertido-nemotron35/records.json",
+      "sha256": "b5c0398fab57461d8a53d977a1763d69876a310296851497e6cc647a37e32d1c"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v2-invertido-nemotron35/manifest.json",
+      "sha256": "0634f81b087f46cd74880eb632d155821e0671ccee6bf21c64e7c685db634b0f"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v2-invertido-nemotron35/last-run.json",
+      "sha256": "1323aa7afc11b8f060c6c5ac8b6e9e3a8b0f03a939bc53cc5af57ebfff7069ff"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v2-juiz-nemotron35/records.json",
+      "sha256": "3f9b759552382a92194f1540aa93586f6dbabd192355413457c50118d0fca4a5"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v2-juiz-nemotron35/manifest.json",
+      "sha256": "e058c230cd982bd50c1737e67afe3bf011ebed5e90a0eb2834143de8a519a6ee"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v2-juiz-nemotron35/last-run.json",
+      "sha256": "7232f6a638f56be7f1760dc70f63faebbcc3d3598aad8139eac4d2276b693729"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v3-invertido-nemotron35/records.json",
+      "sha256": "fa76924e7cf95e22fc8445198cd6970726b7787ffa536d8172ed2859e46e96d7"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v3-invertido-nemotron35/manifest.json",
+      "sha256": "cd40147ad99da780412928ab295abfb650444b8aec78a6e433b005127feb3add"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v3-invertido-nemotron35/last-run.json",
+      "sha256": "d66cc935612edf5ea17bf7b3516cabe522353c0a98fa8aa9fc0c6d3ced724ded"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v3-juiz-nemotron35/records.json",
+      "sha256": "73ae5727ac242e300665699901c5d8cff836cb81c7b042c444aaac39448d2897"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v3-juiz-nemotron35/manifest.json",
+      "sha256": "9e36d9d4fdb3274c121939d39cb4c6d4f8d5615641505e15b2ff4185efb41f11"
+    },
+    {
+      "arquivo": "output/experiments/piloto-5x10-v3-juiz-nemotron35/last-run.json",
+      "sha256": "8016a732d2f37d1c579f77ebe0aa67f298b0e615d9c9f22f59f1e08662530b50"
+    },
+    {
+      "arquivo": "output/experiments/piloto-v1/records.json",
+      "sha256": "7aa0128f356a4ff52196e0ba1b60331ff89157866924282b707c34fdbb7ccb50"
+    },
+    {
+      "arquivo": "output/experiments/piloto-v1/manifest.json",
+      "sha256": "853374919955b5ae90095bacac336cadc65d17a4c5b62ba82aec1a78a2a8a409"
+    },
+    {
+      "arquivo": "output/experiments/piloto-v1/last-run.json",
+      "sha256": "a2a18e43ba5b6a86ae8589d29e8ed0892700ba5a786d0537768f42bafc6ee3c2"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b20/records.json",
+      "sha256": "7386c41aebe1987717c960e661e35204c685ca82d242aaa6d702d14fabd927b2"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b20/manifest.json",
+      "sha256": "9bea49466b072b8c597b0ba53764d85789bb881f3690d321cbe3f281349abe67"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b20/last-run.json",
+      "sha256": "4a84cd3465b5bfa4eb530571ed4288899db472683ac5627bdcb63d93115c7eb4"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b20/report.json",
+      "sha256": "acba0a39caffe22ca62eb9fefac218d64768615b911364729aae7854820758bd"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b30/records.json",
+      "sha256": "58a37429926fb453ec7957320cd679aff23f5d7406befc7a5043c6275feb204b"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b30/manifest.json",
+      "sha256": "07f332a2bfd23667ee525eb8a1e9713d6fed9a2aff38c31da41fa107673bca2f"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b30/last-run.json",
+      "sha256": "2a6ea8dec8044c4d81355507bdc66ecd808755d3e3d17deecf02637c244e42f8"
+    },
+    {
+      "arquivo": "output/paid-v17/paid-v17-359/b30/report.json",
+      "sha256": "0392eaf3cbc99b2fca66f5681b24115b42a2c7e9d5ff74809c6a9ba9374470c2"
+    },
+    {
+      "arquivo": "output/vertex-v18/vertex-v18-359/b20/records.json",
+      "sha256": "19520e8d51a73fab77ecc15fb0d30d56012c43be19bbe83fd6947da873c4ec14"
+    },
+    {
+      "arquivo": "output/vertex-v18/vertex-v18-359/b20/manifest.json",
+      "sha256": "fb38d15cf890be56059d9187ed31af93aae4bb27f12d5cd96e54301fe472c111"
+    },
+    {
+      "arquivo": "output/vertex-v18/vertex-v18-piloto-10/b10/records.json",
+      "sha256": "c7b8a3a98364dbc4d8708775a0e14ffb4e36e9d09eeee48d4f262e8f878638ba"
+    },
+    {
+      "arquivo": "output/vertex-v18/vertex-v18-piloto-10/b10/manifest.json",
+      "sha256": "eac4d2b2b93e9df8a579cbbfcff332e08a0cc5bea9dddb3d4b93a4ee1107c666"
+    },
+    {
+      "arquivo": "output/vertex-v18/vertex-v18-piloto-10/b10/last-run.json",
+      "sha256": "7c37c4b24f12e374e8c72366c4663f708c48f02dca50df86adde8f2389479a1a"
+    },
+    {
+      "arquivo": "output/vertex-v18/vertex-v18-piloto-10/b10/report.json",
+      "sha256": "1c289ada719d9d2ec1036916130f0b52052fe873a1f68b051d96022bd96b3a03"
+    },
+    {
+      "arquivo": "case-ia-classificacao-de-topicos.pdf",
+      "sha256": "d0a025985c10318d6728c4b7f1625c8f253972b6ee002a59155956d20d2aabfc"
+    },
+    {
+      "arquivo": "anexos/LEIA-ME.md",
+      "sha256": "d7bbbd1e5a91554bf54a64272ace7afc50bfa9a06b14bfc7704d6ca09e047bfc"
+    },
+    {
+      "arquivo": "anexos/questoes.jsonl",
+      "sha256": "6815aad02f1577fb7f3c68bb76cd56b3b23df5a0bf951d3422a5ce7d5e492573"
+    },
+    {
+      "arquivo": "anexos/temas.csv",
+      "sha256": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+    },
+    {
+      "arquivo": "anexos/entrega_modelo.csv",
+      "sha256": "6778f7ffd32e467321a590829bb05796f967b5e703938c0dc2d4c2a43ac12c76"
+    },
+    {
+      "arquivo": "docs/gemini35-v15.md",
+      "sha256": "51a647e4e6c75134a506692a54fa7f534f3fae0f11280c8f90f77cb3c55c7389"
+    },
+    {
+      "arquivo": "docs/plano-integracao-lexml-mcp.md",
+      "sha256": "a7c6631c3e3390dd005706607c3f76bf901d1df693fc163e366d12b12e28dc0d"
+    },
+    {
+      "arquivo": "docs/contexto-api-lexml.md",
+      "sha256": "71aff16d4e248c8559ca1e2234eddffab9ee30ad227afc420b5f460bed705be2"
+    },
+    {
+      "arquivo": "docs/gemini-flash-v11.md",
+      "sha256": "1f583a8cea6f93d873f2b952790e024fcc8b7f0cbbbc192f3981ecdc1499c6c1"
+    },
+    {
+      "arquivo": "docs/catalogo-base359.md",
+      "sha256": "e4eb6709c167cac8204d6e85a5eebe1e5d1613bb6988c63de3a3d65ece057cd3"
+    },
+    {
+      "arquivo": "docs/vertex-v18.md",
+      "sha256": "39f877ed20c43529d7efdab2b85ce32bc037dfd046a5417bbe25a3b1a834558e"
+    },
+    {
+      "arquivo": "docs/integracao-lexml-mcp.md",
+      "sha256": "37e73be866abac8dda5f053192bb43b8b8863d29ebd4d9bf93d8c1df89ef6e3d"
+    },
+    {
+      "arquivo": "docs/decisoes.md",
+      "sha256": "9044c54bd6fdb14e5bd1c13d6f1444582b716f0d41bda534d020dde8bac8efea"
+    },
+    {
+      "arquivo": "docs/modelos-pagos.md",
+      "sha256": "6242c8cab080daadbc4ec88b84e21f1a24929e22f63c3b8d68f7cf2a25af5fbc"
+    },
+    {
+      "arquivo": "docs/pesquisa-acesso-lexml.md",
+      "sha256": "ab55c0d3742a7f926b75d49b7a39a9a0b6c348be2ca9a22593068e29aa071d89"
+    },
+    {
+      "arquivo": "docs/base-local-rag.md",
+      "sha256": "7b82a664da21e6d26313a6886d12f22a401f3036205f42b3a479de9bd0e9a9a9"
+    },
+    {
+      "arquivo": "docs/base359.md",
+      "sha256": "37bf63ddea2ca465a06b92495ef4f84b212e8454976521a965a85820a5ba1670"
+    },
+    {
+      "arquivo": "docs/protocolo-piloto-v2.md",
+      "sha256": "9d1e81f3c10e99961759a6ed8b4adf67938e74a45d7530c6f89774ec2f9c9bb0"
+    },
+    {
+      "arquivo": "docs/preparacao-e-producao.md",
+      "sha256": "44f1d1df23ea58fdfd1086f34b53eeefc092aead9c7503c6e9338b5e9769c663"
+    },
+    {
+      "arquivo": "docs/livros-criminologia.md",
+      "sha256": "7190b4d40a0f5cc2b4d195193845da4e636d6256e5a463083a0686a802e1f21c"
+    },
+    {
+      "arquivo": "docs/limites-gemini-v14.md",
+      "sha256": "4ec8a8e21004ff9d623c774e53fca1bdb9214f31939b304d5c56a02c8d2c4e83"
+    },
+    {
+      "arquivo": "docs/gemini-v16-serializacao.md",
+      "sha256": "c61c791be6c13dd8d6f36018c1abd84fc510ef76ee25175fc6ac4b74de3a5eae"
+    },
+    {
+      "arquivo": "docs/controle-de-taxa.md",
+      "sha256": "ca6fa1aade58ed02e4ca01144622af301a8caf0d2537128797ad8b210bdc2dec"
+    },
+    {
+      "arquivo": "docs/prompts.md",
+      "sha256": "b3311586ad05c859a195b315c3c0b36c41a08ec583f6f9ca9be75f434fa5f094"
+    },
+    {
+      "arquivo": "docs/auditoria-alinhamento-desafio.md",
+      "sha256": "50d504a2400ff06fd286c7f0d973baafb286dd64d4f9c52a774739ae03eb2fde"
+    },
+    {
+      "arquivo": "docs/paid-v17-paralelo.md",
+      "sha256": "9cdd08ee37ef0bed36ce1a038316ca0344ce75abe8070db02c68427306cf0f93"
+    },
+    {
+      "arquivo": "docs/catalogo-base359-livros.md",
+      "sha256": "322cd48ec6a647bf589d656348e3750e6ef3d05884d3c80587c19d1d25c8c6da"
+    },
+    {
+      "arquivo": "docs/pesquisa-alternativas-contexto.md",
+      "sha256": "93d3d494a485dc45b348902d8abb0de24fb223ee3dce5bbdf04cc97aca11f25b"
+    },
+    {
+      "arquivo": "docs/plano-modelos-pagos-v1.md",
+      "sha256": "ffc99b1e25185bf8936755a73a8ab9ef921ad757ed3fc85410d78ce87d6bf31e"
+    },
+    {
+      "arquivo": "referencias/analise-propria-v2/referencia.jsonl",
+      "sha256": "7b69291c6a26c387a6f5606ee7b7032f2c383b8073afdab0e487ea6cac0951e8"
+    },
+    {
+      "arquivo": "referencias/analise-propria-v1/referencia.jsonl",
+      "sha256": "80781a0b18d6f3d2aa380e939dd9e7c30e7dcd0c3b60e4e6a1654c9e8b973696"
+    }
+  ]
+}

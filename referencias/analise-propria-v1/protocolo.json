@@ -1,0 +1,12 @@
+{
+  "versao": "v1",
+  "data_corte": "2026-10-16",
+  "criterio_temporal": "Direito vigente, com ressalvas temporais, conforme escolha da usuária.",
+  "autor": "Assistente deste chat; não é revisão humana qualificada.",
+  "escopo": 359,
+  "metodo": "Leitura e resolução pelo próprio assistente, com fontes primárias quando acessíveis; reclassificação considerando o conhecimento que determina a resposta. Código apenas organiza notas e valida IDs.",
+  "nao_utilizado": "Não foram feitas novas chamadas ao OpenRouter nem lidas as reclassificações anteriores em prompts/1. Rótulos de origem são omitidos das leituras preparadas.",
+  "exposicao_previa": "Pilotos: Q0001,Q0014,Q0142,Q0225,Q0359. Os oito primeiros rótulos de origem apareceram na inspeção inicial do arquivo; a exposição é marcada por item.",
+  "uso": "Referência provisória para comparação e diagnóstico; concordância não demonstra precisão real nem cumpre sozinha a meta de 95%.",
+  "separacao": "Não usar este conjunto simultaneamente para ajustar prompts e afirmar desempenho em teste independente. Alternativa correta e tema correto são avaliações distintas."
+}

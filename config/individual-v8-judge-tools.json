@@ -1,0 +1,37 @@
+{
+  "classifierModel": "nvidia/nemotron-3.5-super-vl:free",
+  "judgeModel": "nvidia/nemotron-3-super-120b-a12b:free",
+  "classifierPrompt": "classificador.v3.md",
+  "judgePrompt": "juiz.v8-local.md",
+  "batchSize": 1,
+  "maxRequestCharacters": 400000,
+  "maxOutputTokens": 32000,
+  "maxCalls": 250,
+  "maxRetries": 0,
+  "minIntervalMs": 4000,
+  "timeoutMs": 900000,
+  "reasoningByModel": {
+    "nvidia/nemotron-3-super-120b-a12b:free": {
+      "effort": "medium"
+    },
+    "nvidia/nemotron-3.5-super-vl:free": {
+      "enabled": true
+    }
+  },
+  "responseFormat": "json_schema",
+  "allowRootPublication": false,
+  "legalCutoff": "2026-10-16",
+  "maxAttemptsPerStage": 5,
+  "retryBaseDelayMs": 2000,
+  "requestsPerMinute": 18,
+  "knowledge": {
+    "enabled": true,
+    "snapshot": "output/knowledge/snapshots/penal50-v3/manifest.json",
+    "maxDocuments": 6,
+    "maxContextCharacters": 16000,
+    "requireContextForPublication": true,
+    "mode": "judge_tools",
+    "maxToolCalls": 4,
+    "maxToolRounds": 2
+  }
+}

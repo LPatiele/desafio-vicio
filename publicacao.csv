@@ -1,0 +1,360 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,revisar,5526,,0.9500,"tema_central: inadequado — O destino sugerido é demasiadamente abrangente. A questão é dominada, em três de suas quatro assertivas, pelas decisões proferidas ao final da primeira fase do Júri, possuindo nó específico mais adequado.; evidencia_textual: inadequado — As evidências extraídas focam apenas no comando geral e na assertiva I sobre desaforamento, ignorando totalmente os trechos das assertivas II, III e IV, que compõem o núcleo da questão.; distincao_de_concorrentes: inadequado — A análise descartou incorretamente o nó concorrente 5527, que descreve com exatidão as decisões de impronúncia, absolvição sumária e desclassificação exigidas em 75% da questão.; A proposta negligenciou a maior parte da questão ao focar apenas no desaforamento, ignorando o escopo muito mais denso e pertinente relativo às decisões de encerramento da primeira fase do Júri.; Juiz sugere 5527."
+Q0002,publicar,4378,,0.9500,
+Q0003,revisar,5562,5534,0.9500,"A proposta ignorou a segunda parte do conhecimento exigido (efeitos civis da absolvição criminal por atipicidade formal), fundamental para decidir entre as alternativas que indicavam apelação."
+Q0004,publicar,5480,,0.9500,
+Q0005,revisar,5203,,0.9500,"evidencia_textual: inadequado — O trecho citado ('crime de furto qualificado') aponta para o tipo penal específico, que é apenas o cenário narrado, não servindo como evidência textual de dosimetria ou reincidência.; distincao_de_concorrentes: incerto — A justificativa apenas afirma o conhecimento exigido, sem apresentar critérios formais que destaquem o ramo escolhido em face do concorrente 5201 (Penas Privativas de Liberdade), que rege os regimes de cumprimento cobrados na questão.; A evidência citada não comprova o tema proposto.; A classificação e a justificativa negligenciaram a parte da questão que cobra regras e súmulas sobre o regime inicial de cumprimento da pena."
+Q0006,publicar,5157,,0.9500,
+Q0007,revisar,5063,,0.9500,"distincao_de_concorrentes: inadequado — A proposta listou os ramos dos delitos específicos (5120 e 5128) e Ação Penal em Processo Penal (5466) como concorrentes, mas a justificativa falha em explicar por que alocou a questão em Direito Penal em vez de Processo Penal ou na Parte Especial, limitando-se a repetir o assunto."
+Q0008,publicar,5201,,0.9500,
+Q0009,publicar,5158,5159,0.9500,
+Q0010,publicar,4688,,0.9500,
+Q0011,publicar,4702,,0.9500,
+Q0012,publicar,5569,,0.9500,
+Q0013,publicar,5503,,0.9500,
+Q0014,publicar,5477,,0.9500,
+Q0015,revisar,5498,,0.9500,distincao_de_concorrentes: incerto — A justificativa não explica por que o nó pai foi preferido em detrimento dos nós filhos específicos (como 'Procedimento do Inquérito Policial').
+Q0016,publicar,5584,5503,0.9500,
+Q0017,fora,,,0.0000,"A questão cobra o rito especial dos crimes de responsabilidade de funcionários públicos (arts. 513-518 CPP). A taxonomia não possui ramo para procedimentos especiais, tornando o rito comum impróprio."
+Q0018,publicar,5540,,0.9500,
+Q0019,publicar,5475,,0.9500,
+Q0020,revisar,5199,5066;5116;5159,0.8500,"tema_central: inadequado — O destino 'Teoria da Pena' contempla diretamente apenas uma das cinco proposições (dosimetria). A questão exige conhecimentos heterogêneos de Parte Geral, Parte Especial, Legislação Especial e Processo Penal.; evidencia_textual: inadequado — As citações são recortes parciais do enunciado que embasam unicamente o tema de Teoria da Pena, ignorando os trechos sobre ECA, falsa identidade, furto e Jecrim.; distincao_de_concorrentes: inadequado — Não há justificativa plausível para elevar 'Teoria da Pena' ao status de tema central ante os demais temas (Furto, Crimes contra a Fé Pública, Concurso de Crimes), que possuem o mesmo peso na questão.; Questão 'frankenstein' (múltiplos temas autônomos sem intersecção direta), justificando o enquadramento na raiz 'Penal' para não privilegiar arbitrariamente um dos assuntos.; Juiz sugere 5062."
+Q0021,publicar,5503,,1.0000,
+Q0022,publicar,5089,,1.0000,
+Q0023,publicar,5524,,0.9500,
+Q0024,publicar,4387,,0.9500,
+Q0025,publicar,5101,,0.9500,
+Q0026,publicar,4704,,0.9500,
+Q0027,publicar,5487,,0.9500,
+Q0028,publicar,5526,,0.9500,
+Q0029,publicar,4684,,0.9500,
+Q0030,publicar,5135,,1.0000,
+Q0031,publicar,4387,,0.9500,
+Q0032,publicar,5497,,0.9500,
+Q0033,publicar,5519,,0.9500,
+Q0034,publicar,5477,,0.9500,
+Q0035,publicar,4706,,0.9800,
+Q0036,publicar,4704,,0.9500,
+Q0037,revisar,5118,,0.9500,"tema_central: incerto — A questão cobra tipos penais de diferentes capítulos do CP (liberdade pessoal, administração judicial, fé pública). O destino proposto foca apenas na alternativa gabarito, não abrangendo o escopo completo da questão.; distincao_de_concorrentes: inadequado — A justificativa restringe-se a analisar o mérito da alternativa D, ignorando a necessidade de confrontar ou enquadrar os crimes cobrados nas demais alternativas (trabalho escravo e falso testemunho).; A questão é multidisciplinar dentro da Parte Especial do Código Penal; o enquadramento em um único crime reduz o escopo real do problema jurídico exigido."
+Q0038,revisar,5466,,0.9500,"tema_central: inadequado — Ação Penal (5466) disciplina a iniciativa e as condições para provocar a jurisdição. A questão aborda as garantias processuais do ofendido de forma ampla, incluindo a proteção à sua intimidade (gabarito, art. 201, § 6º, CPP), o que escapa ao escopo da ação penal.; evidencia_textual: inadequado — O trecho 'ofendido e às suas prerrogativas' foi utilizado para justificar 'Ação Penal', mas a atuação processual da vítima vai muito além da iniciativa acusatória, abrangendo aspectos probatórios e garantias pessoais.; distincao_de_concorrentes: inadequado — O descarte do nó 'Sujeitos do Processo' (5583) foi equivocado. As prerrogativas do ofendido, sua eventual atuação como assistente de acusação e os deveres do juiz para com ele justificam exatamente seu estudo como sujeito do processo.; A proposta ignorou que o gabarito (alternativa B) decorre expressamente do dever do juiz de proteger a intimidade do ofendido, assunto desvinculado de Ação Penal.; Juiz sugere 5583."
+Q0039,fora,,,0.0000,"A questão exige conhecimento sobre crimes contra a ordem econômica (cartel, Lei 8.137/90). A taxonomia carece de um ramo específico para esse tema, tornando os ramos de economia popular, sistema financeiro e crimes tributários inadequados."
+Q0040,publicar,5562,,0.9500,
+Q0041,publicar,5184,,0.9500,
+Q0042,publicar,5222,,0.9500,
+Q0043,publicar,5199,,0.9500,
+Q0044,publicar,5488,,0.9500,
+Q0045,publicar,5091,,0.9500,
+Q0046,publicar,5510,,0.9500,
+Q0047,publicar,5164,,0.9500,
+Q0048,publicar,5193,,0.9500,
+Q0049,publicar,5152,,0.9500,
+Q0050,publicar,4708,,0.9500,
+Q0051,publicar,5182,,0.9500,
+Q0052,publicar,4703,,1.0000,
+Q0053,publicar,5541,,0.9500,
+Q0054,publicar,5174,,0.9800,
+Q0055,publicar,5550,,0.9500,
+Q0056,publicar,5066,,0.9500,
+Q0057,publicar,5176,,0.9500,
+Q0058,revisar,4377,,0.9500,"distincao_de_concorrentes: incerto — A proposta não distingue concretamente entre o nó pai sugerido (4377) e seu filho direto (4378 - Criminalização Primária e Secundária), que trata especificamente da seletividade.; Juiz sugere 4378."
+Q0059,publicar,4384,,0.9500,
+Q0060,revisar,5088,,0.9500,"tema_central: inadequado — A questão cobra conhecimentos específicos sobre diversos tipos penais, como concussão, advocacia administrativa e corrupção ativa, não se restringindo a 'Noções gerais' (como conceito de funcionário público), tornando o destino 5088 inadequado. O nó pai que abrange todos os tipos é mais correto.; evidencia_textual: incerto — As evidências indicam menções a crimes específicos (concussão, corrupção ativa), o que não justifica a alocação no nó de 'Noções gerais'.; distincao_de_concorrentes: inadequado — A proposta não justifica por que preferiu o nó de 'Noções gerais' em vez de utilizar o nó pai da categoria, que efetivamente engloba todos os crimes específicos cobrados nas alternativas.; O nó 5088 destina-se a noções gerais (como o conceito de funcionário público no art. 327 do CP), enquanto a questão exige o conhecimento das elementares de vários tipos penais específicos.; Juiz sugere 5087."
+Q0061,publicar,4703,,0.9500,
+Q0062,publicar,5182,,0.9800,
+Q0063,publicar,4704,,1.0000,
+Q0064,publicar,5165,,0.9500,
+Q0065,publicar,5161,,0.9500,
+Q0066,publicar,4373,,0.9500,
+Q0067,publicar,5091,,1.0000,
+Q0068,revisar,5096,,0.9500,"tema_central: inadequado — A proposta enquadra a questão exclusivamente em 'Condescendência Criminosa', ignorando que as demais alternativas exigem conhecimento sobre estupro, incêndio, falsa identidade e retenção de documento. O escopo da proposta é excessivamente restrito.; evidencia_textual: incerto — O trecho citado justifica apenas a alternativa B, mas é insuficiente para demonstrar o conhecimento determinante de toda a questão, que aborda vários crimes de capítulos distintos do Código Penal.; distincao_de_concorrentes: inadequado — O classificador falhou ao eleger um dos institutos mencionados nas alternativas como tema central, desconsiderando a natureza transversal (salada) da questão na Parte Especial do Código Penal.; A questão é uma 'salada' de tipos penais (estupro, incêndio, falsidade, condescendência). A falta de um nó aglutinador como 'Parte Especial do Código Penal' impede um enquadramento específico e a escolha de apenas um crime não reflete o escopo total da questão."
+Q0069,publicar,5173,,0.9800,
+Q0070,publicar,5193,,0.9500,
+Q0071,publicar,4688,,0.9500,
+Q0072,publicar,5592,,0.9500,
+Q0073,publicar,5087,,0.9500,
+Q0074,publicar,4703,,0.9500,
+Q0075,publicar,5191,,0.9500,
+Q0076,publicar,4373,,0.9500,
+Q0077,publicar,5170,,0.9500,
+Q0078,publicar,4697,,0.9500,
+Q0079,publicar,5581,,0.9500,
+Q0080,publicar,4370,,0.9500,
+Q0081,publicar,4373,,1.0000,
+Q0082,publicar,5100,,1.0000,
+Q0083,publicar,5226,,0.9500,
+Q0084,publicar,4704,,1.0000,
+Q0085,revisar,5091,,0.9500,"tema_central: inadequado — O conhecimento exigido para resolução não é o núcleo do crime de concussão, mas sim a regra do art. 30 do Código Penal sobre a comunicabilidade das elementares no concurso de pessoas.; evidencia_textual: incerto — O trecho citado aponta para o crime de concussão, mas desconsidera as alternativas, que efetivamente cobram os conceitos de comunicabilidade e elementares.; distincao_de_concorrentes: inadequado — O concorrente 5076 ('Comunicabilidade de Circunstâncias, Condições e Elementares') é o ramo exato que define o conhecimento exigido por todas as alternativas.; O crime de concussão atua apenas como caso concreto para aplicação da regra geral de comunicabilidade no concurso de agentes.; Juiz sugere 5076."
+Q0086,publicar,5092,,1.0000,
+Q0087,publicar,4703,,0.9500,
+Q0088,publicar,4381,,0.9500,
+Q0089,publicar,5172,,0.9500,
+Q0090,revisar,5532,,0.9000,"evidencia_textual: incerto — As citações destacam fragmentos esparsos das alternativas e ignoram a alternativa correta (C), que aborda o rito do Tribunal do Júri e o procedimento no STJ/STF, limitando a comprovação."
+Q0091,publicar,5201,,0.9500,
+Q0092,publicar,5511,,0.9500,
+Q0093,publicar,5223,5150,0.9500,
+Q0094,revisar,4378,,0.9500,"distincao_de_concorrentes: incerto — A proposta não descartou os ramos que agrupam as 'Teorias Sociológicas', como 4387 e 4388, que são candidatos perfeitamente plausíveis por abrigarem a teoria do Labelling Approach nominalmente exigida na alternativa.; A justificativa não distingue o enquadramento material da situação narrativa (processo de criminalização secundária) do enquadramento nominal da teoria (Labelling Approach)."
+Q0095,publicar,5197,,0.9500,
+Q0096,publicar,5486,,0.9500,
+Q0097,revisar,4705,,0.9000,"distincao_de_concorrentes: inadequado — A proposta resume o problema, mas falha em explicar por que priorizou 'Organizações Criminosas' em vez de 'Tráfico de Drogas' ou 'Lavagem de Dinheiro', que também são cobrados com profundidade nas alternativas."
+Q0098,publicar,5548,,0.9500,
+Q0099,revisar,5100,,0.9500,"distincao_de_concorrentes: inadequado — A proposta comparou o destino apenas com seus nós ascendentes (5088 e 5087), ignorando ramos cruciais presentes nas alternativas que disputam o cerne do julgamento, como as excludentes de ilicitude (fiscais) e o crime de lesão corporal (concurso com a resistência).; A classificação negligenciou temas decisivos exigidos pelas alternativas, notadamente as excludentes de ilicitude ('amparados em excludente de ilicitude') e o concurso material obrigatório com 'Das Lesões Corporais' previsto no próprio tipo penal."
+Q0100,publicar,5103,,0.9500,
+Q0101,publicar,4704,,0.9500,
+Q0102,revisar,5209,,0.9500,"tema_central: inadequado — O destino 5209 ('Efeitos da Condenação Penais e Extrapenais') não abarca a alternativa correta (C) nem a alternativa (B), que tratam, respectivamente, da sentença absolutória imprópria e dos reflexos civis da absolvição. A questão exige conhecimento sobre a Sentença Penal em sua totalidade, abarcando regras do Código de Processo Penal.; evidencia_textual: incerto — As citações destacam o enunciado e a alternativa E, ignorando o gabarito da questão e as demais assertivas que tratam de sentenças absolutórias, enviesando a análise para a condenação.; distincao_de_concorrentes: inadequado — A proposta não considerou a proeminência do aspecto processual das sentenças, ignorando que o ramo de 'Sentença Penal' do Processo Penal explica melhor a classificação da sentença absolutória imprópria e a coisa julgada cível, focos determinantes da questão.; A escolha de um tema focado estritamente na 'condenação' (Direito Penal) exclui a alternativa correta, que cobra a definição técnico-processual de uma 'sentença absolutória imprópria' e seus efeitos legais (Processo Penal).; Juiz sugere 5572."
+Q0103,publicar,5478,,1.0000,
+Q0104,revisar,5499,,0.9500,"evidencia_textual: incerto — A citação omitiu a parte final da assertiva que menciona a figura do delegado como autoridade coatora em habeas corpus, um elemento central do julgamento.; distincao_de_concorrentes: incerto — A proposta menciona que se distingue do habeas corpus, mas não apresenta distinção concreta para preferir 'Características do Inquérito Policial' em detrimento de 'Procedimento do Inquérito Policial'.; A evidência textual está incompleta ao suprimir o trecho final referente à autoridade coatora em sede de habeas corpus."
+Q0105,publicar,4387,,0.9000,
+Q0106,revisar,5166,,0.9500,O crime previsto no art. 176 do CP ('outras fraudes') foi classificado no nó 'Estelionato' por ausência de um nó específico na taxonomia para as demais fraudes do mesmo capítulo.
+Q0107,revisar,5117,,0.9500,"tema_central: inadequado — O crime de falsa identidade (art. 307, CP) possui enquadramento específico no Código Penal no capítulo 'De outras falsidades', que corresponde exatamente ao nó 5119 da taxonomia, tornando o nó genérico 5117 impreciso.; distincao_de_concorrentes: inadequado — A proposta não observou a divisão interna do título dos crimes contra a fé pública na árvore, ignorando o ramo específico 'De outras falsidades' (5119) aplicável ao crime de falsa identidade.; Juiz sugere 5119."
+Q0108,publicar,5561,,0.9000,
+Q0109,publicar,4708,,0.9500,
+Q0110,publicar,5481,,0.9500,
+Q0111,publicar,4373,,0.9500,
+Q0112,publicar,4705,,1.0000,
+Q0113,fora,,,0.0000,"A questão exige conhecimento de Direito Administrativo sobre prescrição em processo administrativo disciplinar, matéria ausente na taxonomia. O ramo de Penal (Prescrição) restringe-se à pretensão punitiva penal."
+Q0114,publicar,5181,,0.9500,
+Q0115,revisar,4387,,0.9500,"evidencia_textual: incerto — A evidência cita apenas o comando, que fala de 'Teorias abaixo', sem incluir as alternativas, que são essenciais para comprovar que se tratam de teorias de nível sociológico.; distincao_de_concorrentes: incerto — A justificativa aborda o gênero de nível sociológico, mas não explica a preferência por este nó em detrimento do nó concorrente 'Teorias Criminológicas em Espécie' (4388).; Faltou extrair as alternativas na evidência textual para demonstrar materialmente a presença das teorias sociológicas cobradas."
+Q0116,publicar,4708,,0.9500,
+Q0117,publicar,4384,,0.9500,
+Q0118,publicar,5507,,0.9500,
+Q0119,publicar,5194,,0.9500,
+Q0120,publicar,5590,,0.9000,
+Q0121,publicar,5472,,0.9500,
+Q0122,publicar,4703,,0.9500,
+Q0123,revisar,4378,,0.9000,"distincao_de_concorrentes: incerto — A proposta não justifica de forma aprofundada a preferência em relação a 'Teorias de Nível Sociológico' (4387), ramo que engloba o Labeling Approach nominalmente cobrado.; A questão é multidisciplinar e cobra também conhecimentos específicos de Processo Penal (validade de prisão em flagrante por discriminação na assertiva II), que não constam nas sugestões extras."
+Q0124,publicar,4384,,0.9500,
+Q0125,publicar,5181,,0.9500,
+Q0126,revisar,5182,,0.9500,"distincao_de_concorrentes: inadequado — A proposta ignorou completamente os temas das outras alternativas (como Nexo Causal, Concurso de Pessoas e Culpabilidade) e não justificou a preferência exclusiva pelo gabarito.; A questão cobra múltiplos assuntos da Parte Geral do Código Penal (questão do tipo 'salada'), e a proposta não inseriu os temas das demais alternativas como extras."
+Q0127,revisar,5572,4708,0.9500,"tema_central: incerto — Embora a prolação da sentença seja o ato material, o núcleo da questão é a validade dessa condenação frente ao pedido de absolvição pelo MP e a suposta violação ao sistema acusatório (art. 3º-A vs. art. 385 do CPP), o que remete fortemente ao estudo dos Sistemas Processuais Penais.; evidencia_textual: incerto — O trecho da alternativa B citado não é suficiente para demonstrar a adequação central do tema; a alternativa E, que cita expressamente o 'sistema acusatório', traz a tese mais importante para o problema cobrado.; distincao_de_concorrentes: inadequado — A proposta não justifica por que escolheu o nó raiz 'Sentença Penal' no lugar do nó específico 'Sistemas Processuais Penais' (5581), que engloba diretamente a controvérsia sobre as funções de acusar e julgar (sistema acusatório) testada na questão.; A questão cobra jurisprudência recente (possível gabarito E) sobre a impossibilidade de o juiz condenar quando o Ministério Público pede a absolvição, sendo o enquadramento ideal no tema de Sistemas Processuais Penais (Sistemas e Princípios).; Juiz sugere 5581."
+Q0128,publicar,5184,,0.9000,
+Q0129,publicar,5550,,0.9500,
+Q0130,revisar,5160,,0.9500,"A questão também exige conhecimento sobre Penas Restritivas de Direitos (art. 44 do CP) e Iter Criminis (Consumação e Tentativa), mas os nós correspondentes não foram sugeridos como extras."
+Q0131,publicar,5072,,0.9500,
+Q0132,revisar,5550,,0.9000,"tema_central: incerto — A questão cobra a proteção de dados tanto de testemunhas quanto de vítimas, de modo que o nó 'Prova Testemunhal' cobre apenas parte do problema, omitindo 'Declaração do Ofendido'.; distincao_de_concorrentes: inadequado — A justificativa não diferencia o destino do nó 'Declaração do Ofendido' (5549), ignorando a dualidade dos sujeitos protegidos pela norma.; O assunto principal é regulamentado por resolução do CNJ, aplicando-se de forma transversal às vítimas e testemunhas, o que recomenda o nó ascendente comum.; Juiz sugere 5543."
+Q0133,publicar,5526,,0.9500,
+Q0134,publicar,5092,,0.9800,
+Q0135,publicar,5169,,1.0000,
+Q0136,publicar,4704,,0.9500,
+Q0137,publicar,5500,,0.9500,
+Q0138,publicar,5205,5207,0.9500,
+Q0139,publicar,5212,,0.9500,
+Q0140,publicar,5157,,0.9500,
+Q0141,publicar,4387,,0.9500,
+Q0142,fora,,,0.0000,"A questão trata de Direito Tributário (ITCD), assunto totalmente externo à taxonomia ativa restrita a ciências criminais."
+Q0143,publicar,5507,,0.9800,
+Q0144,publicar,5562,,0.9800,
+Q0145,publicar,4702,,0.9500,
+Q0146,publicar,5594,,0.9500,
+Q0147,revisar,5499,,0.9500,"distincao_de_concorrentes: incerto — A proposta não distingue concretamente entre as características do inquérito (5499) e o seu procedimento de instauração (5500), nos quais a denúncia anônima costuma ser alocada.; A questão é multidisciplinar e as alternativas exigem também conhecimentos de Captação Ambiental, ANPP e Colaboração Premiada, temas omitidos nos extras."
+Q0148,publicar,5203,,0.9500,
+Q0149,publicar,5500,,0.9500,
+Q0150,publicar,4708,5181,0.9500,
+Q0151,revisar,5585,,0.9500,"tema_central: inadequado — O nó proposto (5585 - Conceitos e Espécies de Prisão) está alocado na 'Teoria Geral das Prisões'. Contudo, a questão exige conhecimentos precisos sobre os requisitos de cada instituto (prisão domiciliar, fiança, flagrante, temporária), devendo ser classificada em ramo mais específico.; evidencia_textual: incerto — A proposta cita apenas o enunciado genérico, falhando em evidenciar no texto as menções expressas a fiança, prisão domiciliar e flagrante contidas nas alternativas.; distincao_de_concorrentes: inadequado — A justificativa agrupa institutos sob um guarda-chuva genérico da 'Teoria Geral' em detrimento do nó 5517 (Prisões em Espécie), que reflete melhor o conhecimento focado nas regras específicas de cada modalidade e abriga as medidas cautelares diversas na taxonomia.; Juiz sugere 5517."
+Q0152,publicar,5472,,0.9500,
+Q0153,publicar,5222,,0.9500,
+Q0154,fora,,,0.0000,"A questão cobra os crimes previstos na Lei nº 9.029/95. O ramo de crimes contra a organização do trabalho restringe-se ao Código Penal, deixando de contemplar essa legislação especial. Dúvida de escopo do classificador resolvida pelo juiz: Os crimes contra a organização do trabalho (5135) referem-se aos tipos previstos no Código Penal. A taxonomia de Legislação Especial detalha várias leis específicas, mas não abrange a referida lei antidiscriminação."
+Q0155,publicar,4703,,0.9500,
+Q0156,publicar,4688,,0.9500,
+Q0157,publicar,5520,,0.9500,
+Q0158,publicar,4707,,0.9500,
+Q0159,publicar,5160,5150,0.9500,
+Q0160,publicar,5205,,0.9500,
+Q0161,publicar,5588,,0.9500,
+Q0162,publicar,4381,,0.9500,
+Q0163,publicar,5133,,0.9500,
+Q0164,publicar,4703,,0.9500,
+Q0165,publicar,4705,,0.9500,
+Q0166,publicar,4703,4693,0.9500,
+Q0167,publicar,5524,,0.9500,
+Q0168,fora,,,0.0000,"A questão aborda crimes previstos na Lei Geral do Esporte (Lei nº 14.597/2023), assunto ausente na taxonomia. Os ramos de legislação especial e penal não contemplam crimes esportivos."
+Q0169,publicar,5583,,0.9500,
+Q0170,publicar,5203,,0.9500,
+Q0171,publicar,4693,,0.9500,
+Q0172,revisar,5484,,0.9500,"A questão é de múltipla escolha mista, exigindo conhecimentos de diferentes ramos do Processo Penal (mutatio libelli, prescrição, exceção da verdade), mas o classificador optou corretamente pelo tema do gabarito."
+Q0173,publicar,4703,,0.9500,
+Q0174,revisar,5133,5166,0.9000,"A alternativa A exige conhecimento sobre o art. 241-A do ECA, recomendando-se a inclusão de 'Violência contra Criança e Adolescente' (4709) aos extras, o que foi omitido."
+Q0175,publicar,5092,,0.9500,
+Q0176,publicar,5081,,0.9800,
+Q0177,publicar,5547,,0.9500,
+Q0178,publicar,4697,,0.9500,
+Q0179,publicar,4369,,0.9500,
+Q0180,publicar,5594,,0.9500,
+Q0181,publicar,4695,,0.9500,
+Q0182,fora,,,0.0000,"A questão aborda diversos crimes distintos em cada assertiva (aborto, perigo de contágio, rixa e calúnia), sem que nenhum tema específico da taxonomia englobe todos."
+Q0183,publicar,5561,,0.9500,
+Q0184,publicar,4708,,0.9500,
+Q0185,publicar,4703,,0.9500,
+Q0186,publicar,5202,,0.9800,
+Q0187,publicar,5209,,0.9500,
+Q0188,revisar,5231,,0.9500,"tema_central: inadequado — A questão cobra o enquadramento macro do ofendículo (exclusão de antijuridicidade/ilicitude), sem exigir a distinção entre suas espécies (legítima defesa ou exercício regular de direito).; evidencia_textual: incerto — Os trechos citados mencionam o ofendículo e a exclusão, mas não ancoram concretamente a legítima defesa, que não consta sequer nas alternativas.; distincao_de_concorrentes: inadequado — A proposta restringe o tema à legítima defesa (5231), ignorando que a alternativa correta e o debate doutrinário remetem à categoria geral da Ilicitude (5228).; Juiz sugere 5228."
+Q0189,publicar,5472,,0.9500,
+Q0190,publicar,5539,,0.9500,
+Q0191,publicar,5560,,0.9500,
+Q0192,publicar,5087,5081,0.9500,
+Q0193,publicar,5557,4705,0.9500,
+Q0194,publicar,5089,,0.9500,
+Q0195,revisar,4373,,0.9500,Atenção ao erro de grafia no título do nó 4373 da árvore: 'Escolas Crimonológicas' em vez de 'Escolas Criminológicas'.
+Q0196,revisar,4373,,0.9500,"tema_central: inadequado — O Labelling Approach (Teoria do Etiquetamento) é uma teoria sociológica (de conflito), não integrando as tradicionais Escolas Criminológicas (Clássica e Positiva), que possuem nó próprio na árvore.; evidencia_textual: inadequado — O trecho citado identifica corretamente o foco no Labelling Approach, mas é utilizado para sustentar uma classificação errônea.; distincao_de_concorrentes: inadequado — A proposta cita o ramo de Teorias Sociológicas, mas opta erroneamente pelas Escolas Criminológicas, desconsiderando a natureza sociológica da Teoria do Etiquetamento.; A taxonomia distingue 'Escolas Criminológicas' (foco em Clássica, Positiva, etc.) de 'Teorias Sociológicas Explicativas da Criminalidade', onde se encontram o Labelling Approach e outras teorias de consenso e conflito.; Juiz sugere 4387."
+Q0197,publicar,5482,,0.9500,
+Q0198,publicar,5073,,0.9500,
+Q0199,publicar,5218,5230,0.9000,
+Q0200,publicar,4705,,0.9500,
+Q0201,revisar,5103,,0.9500,"evidencia_textual: incerto — As citações fornecidas pela proposta são genéricas e insuficientes sozinhas. Faltou extrair os trechos 'menor que atualmente tem treze anos' e 'crime de estupro de vulnerável', que são determinantes para o enquadramento.; A evidência textual omitiu os trechos do enunciado que mencionam a idade da vítima ('treze anos de idade') e o crime nas alternativas, dados fundamentais para a tipificação penal em jogo."
+Q0202,publicar,5224,5109,0.9500,
+Q0203,publicar,4702,,0.9500,
+Q0204,publicar,5507,,0.9500,
+Q0205,publicar,5512,,0.9500,
+Q0206,publicar,5583,,0.9500,
+Q0207,publicar,4703,,0.9500,
+Q0208,publicar,5072,,0.9500,
+Q0209,revisar,5582,,0.9000,"tema_central: inadequado — Embora o enunciado cite o princípio da presunção de inocência, o conhecimento determinante cobrado é a regra expressa do art. 20, parágrafo único, do CPP, relativa ao Inquérito Policial.; distincao_de_concorrentes: inadequado — A proposta não observou que a regra se insere nas características essenciais do inquérito (como o sigilo), que explicam melhor o problema do que a teoria dos princípios.; Juiz sugere 5499."
+Q0210,publicar,4697,,0.9500,
+Q0211,revisar,5582,,0.9000,"tema_central: inadequado — O destino proposto, 'Princípios do Processo Penal', não abrange o poder de polícia do juiz, a vedação a manifestações do público e a disciplina legal específica do funcionamento das audiências (arts. 792 a 794 do CPP).; evidencia_textual: incerto — As citações destacam a menção genérica a audiências e a regra da publicidade, mas omitem as passagens que descrevem as regras de comportamento e o poder de polícia, determinantes para a resolução.; distincao_de_concorrentes: inadequado — A proposta ignora que os concorrentes focados em procedimento e audiência (como 5535) absorvem muito melhor a dinâmica procedimental e os poderes do juiz durante o ato, que não têm caráter de princípio processual.; A matéria cobrada (polícia das audiências e disciplina dos atos processuais) tem natureza fundamentalmente procedimental, não cabendo no nó de princípios dogmáticos.; Juiz sugere 5535."
+Q0212,publicar,5488,,0.9500,
+Q0213,publicar,4708,,0.9500,
+Q0214,publicar,5494,,0.9500,
+Q0215,publicar,5201,,0.9500,
+Q0216,publicar,5539,,0.9500,
+Q0217,revisar,4371,,0.9500,"distincao_de_concorrentes: inadequado — A proposta não justifica concretamente por que preferiu a taxonomia de evolução/escolas em detrimento do ID 4384 (Teorias Legitimidoras da Pena), que também tem relação profunda com a obra sobre o poder de punir, limitando-se a repetir o título do nó escolhido."
+Q0218,publicar,5518,,0.9500,
+Q0219,publicar,5174,,0.9000,
+Q0220,publicar,5501,,0.9500,
+Q0221,revisar,5199,,0.9500,"A questão também cobra conhecimentos sobre 'Medida de Segurança' (5184) na alternativa E, tema que deveria ter sido incluído como conhecimento extra exigido."
+Q0222,publicar,4375,,0.9500,
+Q0223,publicar,5086,,0.9500,
+Q0224,revisar,5203,,0.9500,"distincao_de_concorrentes: incerto — A questão cobra cumulativamente reincidência (5203) e os requisitos da Suspensão Condicional da Pena (5207), sendo incerto privilegiar o primeiro em detrimento absoluto do segundo.; A proposta ignorou a cobrança explícita sobre a Suspensão Condicional da Pena (5207), presente em todas as alternativas, que também representa o conhecimento determinante para a resolução do item."
+Q0225,publicar,5478,,0.9500,
+Q0226,publicar,5544,,0.9500,
+Q0227,revisar,5103,,0.9500,"evidencia_textual: incerto — A evidência transcrita ilustra apenas a situação fática da alternativa A, sendo genérica e insuficiente para demonstrar toda a abrangência."
+Q0228,publicar,5208,,0.9500,
+Q0229,publicar,5585,,0.9500,
+Q0230,publicar,5211,,0.9000,
+Q0231,publicar,5224,,0.9500,
+Q0232,publicar,5079,,0.9500,
+Q0233,publicar,5178,,0.9800,
+Q0234,publicar,4381,,0.9500,
+Q0235,publicar,5561,,0.9500,
+Q0236,revisar,5490,5498;5535,0.8500,"tema_central: inadequado — O ID 5490 abarca apenas as assertivas I e II. A questão possui escopo múltiplo, exigindo conhecimentos de valoração probatória e nulidades (III e IV), não possuindo um único ramo central que a defina.; evidencia_textual: incerto — As citações destacadas ilustram apenas as assertivas I e II (questões prejudiciais e restituição de coisas), sendo insuficientes para representar o conjunto do problema cobrado na questão.; distincao_de_concorrentes: inadequado — A proposta não diferencia o peso dos temas cobrados, ignorando os ramos referentes a provas e nulidades processuais e falhando em explicar por que os incidentes seriam os determinantes.; A questão é de múltiplos temas e não possui um ID central unificador na árvore.; O enquadramento sugerido abrange apenas metade dos conhecimentos determinantes exigidos."
+Q0237,publicar,5178,,1.0000,
+Q0238,revisar,5517,,0.9500,"tema_central: inadequado — O nó 'Prisões em Espécie' abrange tipos de segregação cautelar, enquanto a fiança é instituto próprio da liberdade provisória e das medidas cautelares diversas.; distincao_de_concorrentes: inadequado — O classificador alocou no nó genérico de prisões e desconsiderou o nó específico 'Liberdade Provisória' (5523), que abrange diretamente o instituto da fiança (arts. 321 a 350, CPP).; A fiança é instrumento atrelado à liberdade provisória e às medidas cautelares diversas da prisão, e não uma espécie de prisão.; Juiz sugere 5523."
+Q0239,revisar,5199,,0.9000,"A alternativa C também aborda erro na execução e concurso formal (Concurso de Crimes), conferindo caráter híbrido à questão, mas sem invalidar o tema eleito."
+Q0240,publicar,5500,,0.9500,
+Q0241,revisar,5218,,0.9500,"tema_central: inadequado — O destino proposto (5218) é uma categoria genérica (Teoria do Crime: Fato Típico), enquanto a taxonomia possui um nó filho específico e adequado para o tema determinante da questão.; distincao_de_concorrentes: inadequado — A proposta não considerou o concorrente mais específico e preciso 'Erro de Tipo' (5224), que engloba o erro essencial e os erros acidentais cobrados (aberratio ictus e criminis).; Juiz sugere 5224."
+Q0242,revisar,5512,,0.9500,"distincao_de_concorrentes: incerto — A questão aborda tanto regras gerais (princípios e admissibilidade) quanto recursos em espécies (RE, REsp, ROC). A escolha pela Parte Geral é defensável, mas o concorrente 'Recursos em Espécies' (5560) também abarca parcela significativa do problema."
+Q0243,publicar,5178,,0.9800,
+Q0244,publicar,5091,,1.0000,
+Q0245,publicar,5185,,0.9500,
+Q0246,publicar,5527,,0.9500,
+Q0247,publicar,5502,,0.9500,
+Q0248,publicar,5087,,0.9500,
+Q0249,publicar,5492,,0.9500,
+Q0250,publicar,5201,,0.9500,
+Q0251,publicar,5191,,0.9500,
+Q0252,publicar,5199,5193,0.9500,
+Q0253,publicar,4373,,0.9500,
+Q0254,revisar,4704,,0.9500,"distincao_de_concorrentes: incerto — A proposta não distingue concretamente entre o ID sugerido e o ID 6724, ambos intitulados 'Lei Maria da Penha' em disciplinas diferentes, deixando a preferência por 'Legislação Especial' sem base comparativa.; O enunciado da questão contém um erro material: menciona 'Lei nº 11.340/2016' quando o correto é 'Lei nº 11.340/2006'."
+Q0255,publicar,5213,,0.9500,
+Q0256,publicar,5224,5214,0.9500,
+Q0257,publicar,5219,,0.9500,
+Q0258,publicar,5545,,0.9500,
+Q0259,publicar,5183,,0.9500,
+Q0260,revisar,4368,4376,0.9500,"distincao_de_concorrentes: inadequado — A justificativa não explica por que preferiu a raiz 'Criminologia no Estado Democrático de Direito' em vez de especificar seus filhos, como 'Modelos de Reação ao Delito' (4370), ou o ramo de 'Política Criminal'.; A questão é altamente interdisciplinar dentro de Criminologia, o que justificaria a análise do nó 4370 (Modelos de Reação ao Delito) para a assertiva sobre Justiça Restaurativa."
+Q0261,publicar,5136,,0.9500,
+Q0262,publicar,5184,,0.9000,
+Q0263,publicar,5492,,0.9500,
+Q0264,publicar,5102,,0.9000,
+Q0265,publicar,5186,,0.9500,
+Q0266,revisar,5482,,0.9500,"evidencia_textual: incerto — O trecho citado ('crime doloso contra a vida') é fundamental, mas insuficiente sozinho; faltou mencionar a condição dos sujeitos (militar do Exército e militar estadual em GLO), que é determinante para a fixação da competência.; A evidência textual apontada é incompleta por omitir a condição dos agentes, essencial para a resolução da questão de competência."
+Q0267,revisar,4708,,0.9500,"evidencia_textual: incerto — As citações focam genericamente na prisão em flagrante, omitindo o trecho crucial do enunciado que menciona expressamente a 'Lei nº 11.343/2006' e a apreensão de 'cocaína', fundamentais para o enquadramento."
+Q0268,revisar,5118,,0.9000,"tema_central: inadequado — A questão apresenta alternativas versando sobre diferentes e independentes ramos do Direito Penal, como falsidade documental, crimes contra a honra e abuso de autoridade. O tema proposto abrange apenas uma fração do problema (alternativas A e B).; distincao_de_concorrentes: inadequado — A justificativa e a escolha falham ao eleger um tema específico (Falsidade Documental) em detrimento de concorrentes igualmente abordados (como Crimes contra a Honra - 5120).; Questão com escopo misto, abrangendo múltiplos delitos da Parte Especial e legislação extravagante. A classificação exigiria um nó genérico (Penal).; Juiz sugere 5062."
+Q0269,publicar,5172,,0.9500,
+Q0270,publicar,5091,,1.0000,
+Q0271,publicar,5562,,0.9500,
+Q0272,publicar,4703,,0.9500,
+Q0273,publicar,5089,,0.9500,
+Q0274,publicar,5160,,0.9500,
+Q0275,publicar,5539,,0.9500,
+Q0276,publicar,5543,,0.9500,
+Q0277,publicar,4696,,0.9500,
+Q0278,publicar,5542,,0.9500,
+Q0279,publicar,5188,,0.9800,
+Q0280,publicar,5121,,0.9500,
+Q0281,publicar,5543,,0.9200,
+Q0282,publicar,4704,4697;4690,0.9500,
+Q0283,publicar,5496,,1.0000,
+Q0284,publicar,5224,,0.9500,
+Q0285,publicar,4376,,1.0000,
+Q0286,publicar,5199,,0.9500,
+Q0287,revisar,5229,,0.9500,"tema_central: incerto — O nó 5229 foca em conceitos e elementos, mas a questão pede expressamente a identificação de uma das excludentes legais, recaindo especificamente sobre 'Estado de Necessidade'.; distincao_de_concorrentes: inadequado — A proposta pretere o nó específico 5230 (Estado de Necessidade), que corresponde exatamente ao instituto testado e exigido como gabarito da questão.; Juiz sugere 5230."
+Q0288,fora,,,0.0000,"A questão apresenta proposições independentes sobre temas distintos do direito penal e legislação especial, como estupro, crimes tributários, ambientais, concurso de crimes e crimes de responsabilidade, sem tema central único."
+Q0289,publicar,4704,,0.9500,
+Q0290,publicar,5539,,0.9500,
+Q0291,publicar,4708,,0.9500,
+Q0292,publicar,4374,,0.9000,
+Q0293,revisar,5189,,0.9500,"tema_central: inadequado — O destino proposto (Prescrição da Pretensão Executória) é excessivamente restrito. O problema exige analisar a prescrição da pretensão punitiva (alternativa D), da executória (B e C), da pena de multa (A) e as causas interruptivas (início e interrupção do cumprimento), cabendo ao nó pai 'Prescrição' (5185) representar todo o conhecimento determinante.; distincao_de_concorrentes: inadequado — A proposta reconhece a necessidade de diferenciar a prescrição executória da punitiva, mas falha ao eleger o nó restrito, ignorando que o aluno precisa dominar as demais espécies e a contagem de prazos e marcos interruptivos para julgar todas as assertivas.; Juiz sugere 5185."
+Q0294,publicar,5211,,0.9500,
+Q0295,publicar,5487,,0.9500,
+Q0296,publicar,5472,,0.9500,
+Q0297,publicar,4695,,0.9500,
+Q0298,fora,,,0.0000,"A questão aborda os crimes contra as relações de consumo da Lei 8.137/90. Os ramos mais próximos de Crimes Tributários e Crimes do CDC não contemplam este tema específico. Dúvida de escopo do classificador resolvida pelo juiz: O nó 'Crimes Tributários' abrange os arts. 1º a 3º da Lei 8.137/90, enquanto o nó 'Crimes previstos no CDC' foca na Lei 8.078/90. Nenhum contempla adequadamente os crimes contra relações de consumo da Lei 8.137/90."
+Q0299,revisar,4373,,0.9500,"tema_central: inadequado — O gabarito da questão baseia-se no conceito da teoria do 'labelling approach' (Alternativa D), que constitui uma teoria sociológica da criminalidade, não sendo adequadamente abrangida pelo nó restrito a Escolas Criminológicas tradicionais.; evidencia_textual: inadequado — Os trechos extraídos das alternativas A e D tratam da criminologia crítica e do labelling approach, que, embora sejam correntes criminológicas, inserem-se no escopo das teorias sociológicas, e não das clássicas Escolas Criminológicas propostas.; distincao_de_concorrentes: inadequado — A proposta ignora a distinção ontológica entre Escolas Criminológicas (Clássica e Positivista, abordadas nas erradas B e C) e as Teorias Sociológicas de Conflito (como o labelling approach e a criminologia crítica, cobradas no gabarito).; A classificação de questões mistas deve priorizar o instituto que fundamenta o gabarito. Neste caso, o conhecimento determinante é a teoria do labelling approach.; Juiz sugere 4387."
+Q0300,publicar,5084,,0.9500,
+Q0301,publicar,5197,,0.9500,
+Q0302,publicar,5224,,0.9500,
+Q0303,publicar,5180,,0.9500,
+Q0304,publicar,5540,,0.9800,
+Q0305,publicar,5466,,0.9500,
+Q0306,publicar,5146,,0.9500,
+Q0307,publicar,4707,,0.9500,
+Q0308,publicar,5501,,0.9500,
+Q0309,publicar,4688,,1.0000,
+Q0310,publicar,5505,,0.9500,
+Q0311,publicar,5488,,0.9500,
+Q0312,publicar,5200,,0.9500,
+Q0313,publicar,5209,,0.9500,
+Q0314,publicar,5477,,1.0000,
+Q0315,publicar,5189,,0.9500,
+Q0316,publicar,5224,,0.9500,
+Q0317,publicar,5198,,0.9500,
+Q0318,publicar,5178,,0.9500,
+Q0319,publicar,5073,,0.9500,
+Q0320,publicar,5550,,0.9500,
+Q0321,publicar,5071,,0.9500,
+Q0322,revisar,4684,,0.9500,"tema_central: inadequado — O crime narrado possui pena máxima de 2 anos (art. 12 da Lei 13.869/19), configurando infração de menor potencial ofensivo. O tema cobrado é puramente processual: o recurso cabível contra rejeição de denúncia no JECRIM.; evidencia_textual: incerto — As citações destacam a tipificação material, mas não englobam os trechos que determinam a resolução processual do recurso e do prazo aplicável.; distincao_de_concorrentes: inadequado — A proposta privilegiou o pano de fundo material, falhando em notar que as alternativas exigem o domínio das regras recursais processuais (CPP vs. Lei 9.099/95).; A justificativa da proposta baseia-se em lei de abuso de autoridade revogada (Lei 4.898/65) e desconsidera a incidência da Lei dos Juizados Especiais, essencial para resolver a questão.; Juiz sugere 5569."
+Q0323,publicar,5590,5593;5557,0.9500,
+Q0324,revisar,5199,,0.9000,"A questão é altamente interdisciplinar, demandando conhecimentos adicionais de 'Lei de Execução Penal' e 'Medida de Segurança', que poderiam constar como extras."
+Q0325,publicar,5466,,0.9500,
+Q0326,publicar,4708,,0.9500,
+Q0327,publicar,5203,,0.9500,
+Q0328,publicar,4381,,0.9500,
+Q0329,publicar,4705,5557,0.9000,
+Q0330,publicar,5501,,0.9800,
+Q0331,publicar,5477,,1.0000,
+Q0332,publicar,5541,,1.0000,
+Q0333,revisar,4373,,0.9500,"A questão é composta por assertivas de disciplinas distintas (Direito Penal, Processo Penal e Criminologia), o que concentra a classificação na alternativa que funciona como gabarito."
+Q0334,publicar,4381,,1.0000,
+Q0335,revisar,5170,,0.9500,"tema_central: inadequado — O destino proposto (Introdução ao Estudo do Direito Penal) não engloba o núcleo da questão, que recai sobre a Teoria do Delito, especificamente o Fato Típico (teoria da ação, crimes omissivos, teorias do dolo), abordados no gabarito e na maioria das alternativas.; evidencia_textual: incerto — As evidências capturam as menções à lei penal em branco, mas falham em evidenciar a forte carga de teoria do crime (ação finalista, omissão, dolo) exigida pela questão.; distincao_de_concorrentes: inadequado — A proposta erra ao priorizar a Introdução ao Direito Penal em detrimento da Teoria do Crime, subestimando o peso das alternativas A, B e C, que tratam exclusivamente dos elementos do fato típico.; Juiz sugere 5218."
+Q0336,publicar,5159,,0.9500,
+Q0337,publicar,4684,,0.9800,
+Q0338,revisar,5590,,0.9500,"evidencia_textual: incerto — A citação focou apenas no comando genérico do enunciado, que não é suficiente por si só para diferenciar Teoria Geral das Provas das diversas provas em espécie citadas nas alternativas.; A evidência textual apontada não contempla o gabarito (alternativa D), que era essencial para amarrar definitivamente a questão à 'Teoria Geral das Provas'."
+Q0339,revisar,5572,,0.9000,"evidencia_textual: incerto — As citações são insuficientes, pois destacam apenas o enunciado genérico e a alternativa D, ignorando as demais alternativas que também fundamentam o direcionamento ao nó pai."
+Q0340,publicar,5071,,0.9500,
+Q0341,revisar,5157,,0.9500,"evidencia_textual: incerto — A citação focou apenas em uma alternativa específica (furto), o que não demonstra a multiplicidade de crimes alegada na justificativa."
+Q0342,revisar,5546,,0.9500,"distincao_de_concorrentes: incerto — A árvore distingue 'Exame de Corpo de Delito' e 'Perícia'. Como a questão cobra regras conjuntas para ambos (autópsia e assistente técnico), ambos os nós mostram-se igualmente plausíveis."
+Q0343,publicar,5196,,0.9500,
+Q0344,publicar,4688,,0.9800,
+Q0345,publicar,5103,,0.9500,
+Q0346,publicar,5583,,0.9500,
+Q0347,revisar,5230,,0.8500,"tema_central: inadequado — A questão abrange múltiplos institutos da Parte Geral do CP, mas o conhecimento central exigido (gabarito na alternativa B) refere-se à Suspensão Condicional da Pena, não ao estado de necessidade.; evidencia_textual: inadequado — As evidências citadas remetem às alternativas A e C, que estão incorretas. A justificativa ignora o texto da alternativa que efetivamente resolve a questão.; distincao_de_concorrentes: inadequado — A proposta erra ao priorizar o assunto de alternativas incorretas em vez do tema da alternativa correta (5207), o qual deveria figurar como tema central.; Juiz sugere 5207."
+Q0348,publicar,5087,,0.9500,
+Q0349,publicar,5178,,0.9500,
+Q0350,revisar,4702,,0.9500,"distincao_de_concorrentes: incerto — Embora o destino esteja correto, a proposta identificou um ramo idêntico na disciplina Penal (6723) e não justificou a preferência por Legislação Especial."
+Q0351,publicar,5118,,0.9500,
+Q0352,revisar,5512,,0.9500,"evidencia_textual: incerto — A evidência textual falha ao omitir o enunciado da questão ('acerca de recursos em geral no processo penal'), que é o trecho que melhor fundamenta o destino proposto, baseando-se apenas em uma alternativa isolada e no comando genérico.; A evidência textual omitiu o enunciado, que direciona expressamente à parte geral dos recursos, citando apenas o comando e uma alternativa isolada."
+Q0353,publicar,5188,,0.9000,
+Q0354,publicar,5218,,0.9500,
+Q0355,publicar,4708,,0.9500,
+Q0356,publicar,5066,,0.9500,
+Q0357,publicar,5135,,0.9500,
+Q0358,revisar,5133,,0.0000,"tema_central: inadequado — O crime de invasão de dispositivo informático (art. 154-A do CP) encontra-se topograficamente no capítulo dos crimes contra a inviolabilidade dos segredos, possuindo nó próprio.; distincao_de_concorrentes: inadequado — A proposta não observou que a árvore de Penal abrange os crimes contra a inviolabilidade dos segredos, que comportam o art. 154-A.; O crime previsto na Lei Carolina Dieckmann foi incorporado ao Código Penal, exigindo busca topográfica na taxonomia de Penal, e não apenas pelo nome da lei.; Juiz sugere 5133.; Ausência de enquadramento não confirmada."
+Q0359,revisar,5539,,0.9500,"distincao_de_concorrentes: inadequado — A proposta lista 'Estatuto do Idoso - Crimes' (4696) como concorrente, mas não oferece qualquer distinção para preferir o ramo processual genérico em vez do específico da legislação especial.; A justificativa ignorou a necessidade de afastar o tema da legislação especial (Estatuto do Idoso - Crimes), que traz a regra excepcional do art. 94 abordada na questão."

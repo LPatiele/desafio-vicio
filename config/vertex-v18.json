@@ -1,0 +1,39 @@
+{
+  "project": "gen-lang-client-0789985100",
+  "location": "global",
+  "apiVersion": "v1",
+  "classifierModel": "gemini-3.5-flash-lite",
+  "judgeModel": "gemini-3.8-flash",
+  "creditName": "FreeTrialUpgrade:CreditId-FreeTrial:Credit-01CAC1-F269BE-086EDB",
+  "creditEligibilityVerified": true,
+  "billingAccountDisplayName": "Minha conta de faturamento",
+  "creditEvidence": {
+    "basis": "user_credit_id_and_official_policy",
+    "sourceUrls": [
+      "https://docs.cloud.google.com/free/docs/free-cloud-features",
+      "https://cloud.google.com/products/gemini-enterprise-agent-platform"
+    ],
+    "billingLinkVerified": false,
+    "creditBalanceVerified": false,
+    "creditApplicationVerified": false,
+    "note": "Compatibilidade documental do programa Free Trial com chamadas Gemini pela Agent Platform, com base no ID e na conta informados pela usuária. Não verifica saldo, validade ou abatimento desse crédito específico. A consulta ao vínculo foi impedida pela Cloud Billing API desativada; a tentativa de habilitação foi impedida pela Service Usage API desativada. Nenhuma inferência foi enviada."
+  },
+  "pricing": {
+    "classifier": {
+      "inputUsdPerMillion": 0.3,
+      "cachedInputUsdPerMillion": 0.03,
+      "outputUsdPerMillion": 2.5,
+      "source": "https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing",
+      "verifiedAt": "2026-10-19T00:04:43.000Z",
+      "note": "Standard PayGo global; os lotes deste projeto usam generateContent síncrono e não a Batch API."
+    },
+    "judge": {
+      "inputUsdPerMillion": 1.5,
+      "cachedInputUsdPerMillion": 0.15,
+      "outputUsdPerMillion": 7.5,
+      "source": "https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing",
+      "verifiedAt": "2026-10-19T00:04:43.000Z",
+      "note": "Reserva conservadora pelo preço bruto global, antes da promoção de 50% devolvida como créditos. A tabela anuncia preço líquido de 0.75/0.075/3.75 até 31/12/2026; o crédito promocional não é tratado como abatimento já recebido."
+    }
+  }
+}

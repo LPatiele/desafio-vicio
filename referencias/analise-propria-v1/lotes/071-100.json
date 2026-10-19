@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "Q0071",
+    "questao": {
+      "id": "Q0071",
+      "enunciado": "Nos crimes contra a Flora, previstos na Lei n. 9.605/98, a pena é majorada no patamar de um sexto a um terço se: do fato resulta a diminuição de águas naturais, a erosão do solo ou a modificação do regime climático; e o crime é cometido: no período de queda das sementes; no período de formação de vegetações; contra espécies raras ou ameaçadas de extinção, ainda que a ameaça ocorra somente no local da infração; em época de seca ou inundação; e durante a noite, em domingo ou feriado.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A assertiva reproduz as circunstâncias e o intervalo de aumento previsto para crimes contra a flora.",
+    "fontes": [
+      "L9605:53"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4688",
+      "caminho": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0072",
+    "questao": {
+      "id": "Q0072",
+      "enunciado": "Para formar seu juízo de convicção a respeito de fato submetido a julgamento, o juiz.",
+      "comando": "Complete a frase sobre como o juiz forma seu juízo de convicção a respeito de fato submetido a julgamento.",
+      "alternativas": {
+        "A": "poderá considerar elementos colhidos na investigação policial, desde que não contrariados pelas partes.",
+        "B": "poderá considerar elementos colhidos na investigação policial, desde que em consonância com provas produzidas sob o contraditório.",
+        "C": "poderá considerar elementos colhidos na investigação policial desde que não contrariados por provas judiciais",
+        "D": "não poderá considerar elementos colhidos na investigação policial, porque não produzidos sob o contraditório.",
+        "E": "não poderá considerar exclusivamente elementos constantes da investigação policial, exceto se colhidos em presença de defensor do investigado."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "poderá considerar elementos colhidos na investigação policial, desde que em consonância com provas produzidas sob o contraditório.",
+    "fundamento_resposta": "Elementos da investigação podem corroborar prova judicial, mas não substituir exclusivamente o contraditório, ressalvadas as exceções legais.",
+    "fontes": [
+      "CPP:155"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5592",
+      "caminho": "Processo Penal > Teoria Geral das Provas > Sistemas de Avaliação da Prova",
+      "extras_ids": [
+        "5595"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0073",
+    "questao": {
+      "id": "Q0073",
+      "enunciado": "Quanto aos crimes praticados contra a Administração Pública é CORRETO afirmar:",
+      "comando": "",
+      "alternativas": {
+        "A": "O funcionário que, nos crimes de peculato, reparar o dano até a publicação da sentença condenatória, fará jus à extinção da punibilidade.\n",
+        "B": "Constitui crime de corrupção ativa prometer vantagem indevida a funcionário público, para determiná-lo omitir ato de ofício.\n",
+        "C": "Nos crimes de favorecimento pessoal e real, caso o sujeito ativo seja ascendente ou descendente do criminoso, fica isento de pena.\n",
+        "D": "O agente que pede dinheiro a pretexto de influir em ato a ser praticado pelo representante do Ministério Público incorre em crime de tráfico de influência.\n",
+        "E": "Comete crime contra as finanças públicas gestor que ordenar, autorizar ou executar ato que acarrete aumento de despesa total com pessoal nos doze meses anteriores ao final do mandato ou da legislatura.\\n"
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Constitui crime de corrupção ativa prometer vantagem indevida a funcionário público, para determiná-lo omitir ato de ofício.\n",
+    "fundamento_resposta": "Prometer vantagem para omitir ato de ofício basta à corrupção ativa; a consumação não exige aceitação.",
+    "fontes": [
+      "CP:333"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5093",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa",
+      "extras_ids": [
+        "5087"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0074",
+    "questao": {
+      "id": "Q0074",
+      "enunciado": "Considere a seguinte situação hipotética. Antônio foi condenado pela prática do delito X pelo juízo da 5.ª vara criminal de Maceió, sendo certo que a condenação foi mantida pelo Tribunal de Justiça do Estado de Alagoas.\n\nTransitado em julgado o decisum e iniciado o cumprimento da pena privativa de liberdade, foi publicada pelo Congresso Nacional lei ordinária reduzindo pela metade a pena cominada ao delito X.\n\nNessa situação, compete ao juízo da 5.ª vara criminal da capital alagoana a aplicação da lei penal mais benigna.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "Após o trânsito, cabe ao juízo da execução aplicar lei penal mais benéfica, não necessariamente ao juízo de conhecimento.",
+    "fontes": [
+      "LEP:66 I",
+      "STF_SUMULAS:611"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5181",
+      "caminho": "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo",
+      "extras_ids": [
+        "4703"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0075",
+    "questao": {
+      "id": "Q0075",
+      "enunciado": "Quanto à comunicabilidade da extinção da punibilidade, é INCORRETO afirmar:",
+      "comando": "",
+      "alternativas": {
+        "A": "A extinção da punibilidade de crime que é circunstância agravante de outro não se estende a este.",
+        "B": "Nos crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão.",
+        "C": "A extinção da punibilidade de crime que é pressuposto de outro não se estende a este.",
+        "D": "A extinção da punibilidade de crime que é elemento constitutivo de outro não se estende a este.",
+        "E": "Nos crimes conexos, a extinção da punibilidade de um deles impede, quanto aos outros, a agravação da pena resultante da conexão."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Nos crimes conexos, a extinção da punibilidade de um deles impede, quanto aos outros, a agravação da pena resultante da conexão.",
+    "fundamento_resposta": "A extinção de um crime não impede a agravação dos demais pela conexão; E afirma o contrário.",
+    "fontes": [
+      "CP:108"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5191",
+      "caminho": "Penal > Punibilidade",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0076",
+    "questao": {
+      "id": "Q0076",
+      "enunciado": "A Criminologia é definida tradicionalmente como a ciência que estuda de forma empírica o delito, o delinquente, a vítima e os mecanismos de controle social.\n\nOs autores que fundaram a Criminologia (Positivista) são:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Cesare Lombroso, Enrico Ferri e Raffaele Garofalo.",
+        "B": "Franz Von Liszt, Edmund Mezger e Marquês de Beccaria.",
+        "C": "Marquês de Beccaria, Cesare Lombroso e Michel Foucault.",
+        "D": "Cesare Lombroso, Enrico Ferri e Michel Foucault.",
+        "E": "Enrico Ferri, Michel Foucault e Nina Rodrigues."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Cesare Lombroso, Enrico Ferri e Raffaele Garofalo.",
+    "fundamento_resposta": "Lombroso, Ferri e Garofalo compõem o núcleo fundador da escola positiva italiana.",
+    "fontes": [
+      "CRIMINOLOGIA:escola positiva"
+    ],
+    "ressalvas": [
+      "Fonte doutrinária primária específica pendente."
+    ],
+    "classificacao": {
+      "tema_id": "4373",
+      "caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0077",
+    "questao": {
+      "id": "Q0077",
+      "enunciado": "Considere os artigos abaixo. Em seguida, marque a alternativa CORRETA:\n\nArtigo 1º da Lei 2.889/1956:\n“Quem, com a intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso, como tal”:\n\na) matar membros do grupo;\nSerá punido:\nCom as penas do art. 121, § 2º, do Código Penal, no caso da letra “a”;\n\nArtigo 309 do Código Eleitoral:\n“Votar ou tentar votar mais de uma vez, ou em lugar de outrem”:\nPena - reclusão de até três anos.",
+      "comando": "Marque a alternativa CORRETA.",
+      "alternativas": {
+        "A": "Norma penal em branco heterogênea homovitelina é aquela em que o complemento do preceito primário da norma advém da mesma fonte formal de produção.\n",
+        "B": "Norma penal em branco heterogênea heterovitelina é aquela em que o complemento do preceito primário da norma advém de diversa fonte formal de produção\n.",
+        "C": "Assim dispunha o artigo 214 do Código Penal Brasileiro: “Constranger alguém, mediante violência ou grave ameaça a praticar ou a permitir que com ele se pratique ato libidinoso diverso da conjunção carnal”. Considerando que tal dispositivo foi inteiramente revogado pela Lei 12.015/2009 é correto afirmar que, nesse caso, específico operou-se Abolitio Criminis.\n",
+        "D": "O art. 1º da Lei 2.889/1956 é exemplo de norma penal em branco ao avesso ou invertida. O artigo 309 do Código Eleitoral é, por sua vez, exemplo de crime de atentado ou de empreendimento.\n",
+        "E": "Compete ao Supremo Tribunal Federal a concessão de exequatur às cartas rogatórias.\n"
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "O art. 1º da Lei 2.889/1956 é exemplo de norma penal em branco ao avesso ou invertida. O artigo 309 do Código Eleitoral é, por sua vez, exemplo de crime de atentado ou de empreendimento.\n",
+    "fundamento_resposta": "A lei de genocídio remete a outra lei para a pena (norma invertida); o crime eleitoral equipara tentar e consumar o voto indevido.",
+    "fontes": [
+      "L2889:1",
+      "CE:309"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5174",
+      "caminho": "Penal > Introdução ao Estudo do Direito Penal > Classificações dos Crimes",
+      "extras_ids": [
+        "5171"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0078",
+    "questao": {
+      "id": "Q0078",
+      "enunciado": "EM oossstomnioconcunsos come Marcelo possui registro válido de um revólver de calibre 32 e o mantém em sua residência, e também possui uma pistola de calibre .380, com número de série raspada, que recebera de André, seu amigo foragido da pol a, que faleceu pouco tempo depois. Marcelo vendeu, por imil reis, a pistola a Hugo, que saiu da residência de Marcelo com a pistola escondida embaixo do banco da frente de seu veículo, em direção a sua residência, onde pretendia guardar a arma para sua defesa pessoal. No trajeto, Hugo, que conduzia o veiculo sem habilitação ou permissão para dirigi fi itercepiado por uma barreira policial e, assustado, acelerou o veiculo e fugiu do local. Apés perseguição policial, Hugo colidiu o cárro contra um poste de iluminação pública, foi preso em dagrante e conduzido até a delegacia de polícia. Revistado o veículo conduzido por Hugo, foi encontrada a pistola. A autoridade policial lavrou auto de apresentação e apreensão, fizendo constar que, na ama de fogo, havia seis projéteis, tendo um sido deflagrado. Hugo confessou ter adquirido a pistola de Marcelo. Os policiais estiveram na residência de Marcelo. Não o encontraram, mas presenciaram Daniel, de quinze anos de idade, filho de Marcelo, manuseando o revólver, municiado com dois projéteis Daniel disse aos policiais que encontrara a arma de fogo dentro da gaveta do banheiro. Logo em seguida, Elaine, companheira de Marcelo, chegou à residência e os policiais verificaram que ela isava um colar com um projétil de arma de fogo calibre AS pendurado ao pescoço.\n\nCom base na situação hipotética acima apresentada, na Lei n. o 10.826/2003 e no que dispõe o Código de Trânsito Brasileiro, assinale a opção correta.",
+      "comando": "Assinale a opção correta.",
+      "alternativas": {
+        "A": "Elaine deverá responder pelo crime de porte ilegal de munição de arma de fogo.\n",
+        "B": "Hugo deverá responder pelo crime de posse irregular de arma de fogo de uso permitido.\n",
+        "C": "Hugo deverá responder pelo crime de porte ilegal de arma de fogo de uso permitido, pelo crime de dirigir veículo automotor, em via pública, sem a devida habilitação ou permissão para dirigir.\n",
+        "D": "Marcelo deverá responder pelo crime de comércio ilegal de arma de fogo.\n",
+        "E": "Marcelo deverá responder pelo crime de omissão de cautela de arma de fogo.\n"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Marcelo deverá responder pelo crime de omissão de cautela de arma de fogo.\n",
+    "fundamento_resposta": "Deixar arma acessível ao filho de quinze anos configura omissão de cautela. Arma com identificação suprimida recebe tipo específico; venda isolada não prova comércio habitual.",
+    "fontes": [
+      "L10826:13,16"
+    ],
+    "ressalvas": [
+      "Texto com corrupção de OCR. A conclusão usa apenas os fatos legíveis; munição avulsa e conhecimento da raspagem requerem cautela."
+    ],
+    "classificacao": {
+      "tema_id": "4697",
+      "caminho": "Direito Penal - Legislação Especial > Estatuto do Desarmamento",
+      "extras_ids": [
+        "4691"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0079",
+    "questao": {
+      "id": "Q0079",
+      "enunciado": "Em relação aos sistemas processuais penais e aos seus princípios reitores, assinale a opção correta.",
+      "comando": "Assinale a opção correta.",
+      "alternativas": {
+        "A": "A efetividade da repressão criminal do sistema acusatório\\ncabe especialmente ao órgão julgador, responsável pela\\naplicação da pena no caso concreto. ",
+        "B": "No sistema acusatório, o legislador admite que a\\nimparcialidade judicial esteja comprometida com um objetivo\\nconsiderado mais importante.",
+        "C": "O modelo ideal de sistema acusatório é previsto em\\ninstrumento normativo internacional, a partir de critérios\\nuniformes definidos pela doutrina processual. ",
+        "D": "A crítica ao sistema inquisitivo está relacionada à sua falta de\\nrigor quanto à certeza de repressão dos fatos contrários à\\nordem social.  ",
+        "E": "A decisão sobre o sistema que deverá ser implantado em\\ndeterminado país pressupõe uma definição prévia, por parte\\ndo legislador, de alguns critérios de política criminal, entre os\\nquais está o grau de eficiência da repressão."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "A decisão sobre o sistema que deverá ser implantado em\\ndeterminado país pressupõe uma definição prévia, por parte\\ndo legislador, de alguns critérios de política criminal, entre os\\nquais está o grau de eficiência da repressão.",
+    "fundamento_resposta": "A escolha legislativa do modelo processual envolve política criminal; não existe um modelo internacional uniforme que dispense escolhas de garantias e eficiência.",
+    "fontes": [
+      "CPP:3-A",
+      "CRIMINOLOGIA:sistemas processuais"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5581",
+      "caminho": "Processo Penal > Sistemas e Princípios Processuais Penais > Sistemas Processuais Penais",
+      "extras_ids": [
+        "4374"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0080",
+    "questao": {
+      "id": "Q0080",
+      "enunciado": "Com relação às teorias da criminologia e à prevenção da infração penal no estado democrático de direito, julgue o item subsequente acerca dos modelos de reação ao delito.\n\nO cumprimento dos deveres legais por parte do apenado recluso constitui instrumento de reação ao delito analisado pelo modelo restaurador: o real impacto do castigo aplicado ao indivíduo no caso concreto é capaz de aferir os diagnósticos e de proporcionar adequadas soluções para prevenir a reincidência.",
+      "comando": "Julgue o item subsequente acerca dos modelos de reação ao delito.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "O foco no tratamento/castigo do apenado e na reincidência não caracteriza justiça restaurativa, que envolve danos e participação dos afetados.",
+    "fontes": [
+      "CRIMINOLOGIA:modelos de reação ao delito"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4370",
+      "caminho": "Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0081",
+    "questao": {
+      "id": "Q0081",
+      "enunciado": "Acerca das Escolas da Criminologia, assinale (V) para a afirmativa verdadeira e (F) para a falsa.\n\n( ) A Escola Clássica da Criminologia tem, como objeto principal de estudo, o crime como um ente jurídico.\n\n( ) A Escola da Criminologia Positivista tinha como principais adeptos Cesare Beccaria, Enrico Ferri e Raffaele Garofalo.\n\n( ) A Escola da Criminologia Crítica recebe influência da Teoria do Labelling Approach.\n\nAs afirmativas são, respectivamente,",
+      "comando": "Assinale (V) para a afirmativa verdadeira e (F) para a falsa.",
+      "alternativas": {
+        "A": " V – V – V.",
+        "B": "V – V – F.",
+        "C": "F – V – V.",
+        "D": " V – F – V. ",
+        "E": " F – F – V."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": " V – F – V. ",
+    "fundamento_resposta": "V-F-V: Beccaria pertence à escola clássica, não à tríade positivista; a crítica recebe influência do etiquetamento.",
+    "fontes": [
+      "CRIMINOLOGIA:escolas clássica, positiva e crítica"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4373",
+      "caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0082",
+    "questao": {
+      "id": "Q0082",
+      "enunciado": "João e Cléber, policiais militares do estado de Santa Catarina, receberam denúncia anônima no sentido de que Tício estaria agredindo a sua companheira. Em assim sendo, os agentes públicos compareceram ao local dos fatos e constataram, in loco, a violência perpetrada contra a mulher. Nesse contexto, durante a contenção de Tício, este se opôs à execução do ato afirmando que mataria João caso não fosse solto. Passados trinta minutos, o indivíduo foi acalmado pelos policiais e encaminhado à Delegacia de Polícia.",
+      "comando": "Nesse cenário, considerando as disposições do Código Penal, Tício responderá pelo crime de:",
+      "alternativas": {
+        "A": "excesso de exação, além da responsabilização pela infração\\npenal perpetrada contra a sua companheira; ",
+        "B": "desobediência, além da responsabilização pela infração penal\\nperpetrada contra a sua companheira;",
+        "C": "tergiversação, além da responsabilização pela infração penal\\nperpetrada contra a sua companheira; ",
+        "D": "resistência, além da responsabilização pela infração penal\\nperpetrada contra a sua companheira;",
+        "E": "concussão, além da responsabilização pela infração penal\\nperpetrada contra a sua companheira."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "resistência, além da responsabilização pela infração penal\\nperpetrada contra a sua companheira;",
+    "fundamento_resposta": "Ameaçar policial para impedir ato legal de contenção configura resistência, além do delito doméstico.",
+    "fontes": [
+      "CP:329"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5100",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",
+      "extras_ids": [
+        "4704"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0083",
+    "questao": {
+      "id": "Q0083",
+      "enunciado": "Osvaldo, desejando matar, disparou seu revólver contra Arnaldo, que, em razão do susto, desmaiou. Osvaldo, acreditando piamente que Arnaldo estava morto, colocou-o em uma cova rasa que já havia cavado, enterrando-o, vindo a vítima a efetivamente morrer, em face da asfixia.\n\nAssim, Osvaldo praticou:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "homicídio qualificado pela asfixia e homicídio culposo, bemcomo ocultação de cadáver.",
+        "B": "homicídio qualificado pela asfixia e ocultação de cadáver.",
+        "C": "homicídio simples e ocultação de cadáver.",
+        "D": "homicídio culposo.",
+        "E": "homicídio simples."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "homicídio simples.",
+    "fundamento_resposta": "A morte decorre do curso causal do plano homicida, apesar do erro sobre o momento de consumação. Não havia cadáver ao enterrar nem dolo específico de asfixiar.",
+    "fontes": [
+      "CP:13,18",
+      "CRIMINOLOGIA:dolo geral e erro sucessivo"
+    ],
+    "ressalvas": [
+      "Dolo geral e qualificadoras exigem apreciação doutrinária; o próprio enunciado favorece homicídio simples consumado."
+    ],
+    "classificacao": {
+      "tema_id": "5150",
+      "caminho": "Penal > Dos Crimes Contra a Vida > Homicídio",
+      "extras_ids": [
+        "5226"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0084",
+    "questao": {
+      "id": "Q0084",
+      "enunciado": "Sobre a assistência à mulher em situação de violência doméstica e familiar prevista na Lei Maria da Penha, analise as assertivas abaixo e assinale a alternativa correta.\n\nI. Será assegurado pelo juiz a manutenção do vínculo trabalhista por até seis meses da mulher em situação de violência doméstica e familiar quando for necessário o afastamento do local de trabalho.\n\nII. A mulher em situação de violência doméstica e familiar tem prioridade para matricular seus dependentes em instituição de educação básica mais próxima de seu domicílio mediante a apresentação dos documentos comprobatórios do registro da ocorrência policial ou do processo de violência doméstica e familiar em curso.\n\nIII. É de responsabilidade exclusiva das vítimas em situação de violência doméstica e familiar ressarcir ao Sistema Único de Saúde (SUS), de acordo com a tabela SUS, os custos relativos aos serviços de saúde prestados.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as assertivas estão corretas.",
+        "B": "Todas as assertivas estão incorretas.",
+        "C": "Apenas a assertiva I está correta. ",
+        "D": " Apenas a assertiva III está correta. ",
+        "E": "Apenas as assertivas I e II estão corretas."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Apenas as assertivas I e II estão corretas.",
+    "fundamento_resposta": "Vínculo trabalhista por até seis meses e prioridade de matrícula estão previstos; o ressarcimento ao SUS não é obrigação exclusiva da vítima.",
+    "fontes": [
+      "L11340:9 §§2-5"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4704",
+      "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0085",
+    "questao": {
+      "id": "Q0085",
+      "enunciado": "No crime de concussão, a circunstância de ser um dos agentes funcionário público",
+      "comando": "Complete a frase ou explique a importância dessa circunstância no crime de concussão.",
+      "alternativas": {
+        "A": "não é elementar, não se comunicando, portanto, ao concorrente particular.",
+        "B": "é elementar, comunicando-se ao concorrente particular, ainda que este desconheça a condição daquele.",
+        "C": "é elementar, mas não se comunica ao concorrente particular.",
+        "D": "é elementar, comunicando-se ao concorrente particular, se este conhecia a condição daquele.",
+        "E": "não é elementar, comunicando-se, em qualquer situação, ao concorrente particular."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "é elementar, comunicando-se ao concorrente particular, se este conhecia a condição daquele.",
+    "fundamento_resposta": "A qualidade funcional é elementar e se comunica ao particular que dela tem conhecimento.",
+    "fontes": [
+      "CP:30,316"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5076",
+      "caminho": "Penal > Concurso de Pessoas > Comunicabilidade de Circunstâncias, Condições e Elementares",
+      "extras_ids": [
+        "5091"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0086",
+    "questao": {
+      "id": "Q0086",
+      "enunciado": "Um Auditor-Fiscal do Trabalho deixou de autuar uma empresa que havia cometido infração às normas de segurança no trabalho porque o dirigente dessa empresa prometeu-lhe uma semana de estadia num hotel de luxo, com direito a acompanhante e todas as despesas inclusas.\n\nOcorre que, após o encerramento dos trabalhos de fiscalização e lavratura do termo de regularidade da empresa, o dirigente da mesma negou-se a cumprir a promessa.",
+      "comando": "Nessa hipótese, o Auditor:",
+      "alternativas": {
+        "A": "cometeu o crime de enriquecimento ilícito.",
+        "B": "cometeu o crime de corrupção passiva.",
+        "C": "cometeu o crime de concussão.",
+        "D": "cometeu o crime de facilitação de descaminho.",
+        "E": "não cometeu nenhum desses crimes porque não chegou a receber a vantagem prometida."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "cometeu o crime de corrupção passiva.",
+    "fundamento_resposta": "Aceitar promessa de vantagem consuma corrupção passiva, ainda que o pagamento não se efetive.",
+    "fontes": [
+      "CP:317"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5092",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0087",
+    "questao": {
+      "id": "Q0087",
+      "enunciado": "De acordo com a jurisprudência do Superior Tribunal de Justiça, a prisão domiciliar na execução penal",
+      "comando": "Complete a frase ou responda sobre a prisão domiciliar na execução penal conforme a jurisprudência do Superior Tribunal de Justiça.",
+      "alternativas": {
+        "A": "possui rol taxativo previsto no art. 117 da Lei de Execução Penal.",
+        "B": "é cabível apenas para sentenciado que cumpre pena no regime aberto. ",
+        "C": "depende de exame criminológico favorável para condenados reincidentes. ",
+        "D": "deve utilizar o marco etário de 60 anos em razão do disposto no Estatuto do Idoso. ",
+        "E": "é cabível excepcionalmente em regime fechado para mãe cujo cuidado do filho seja imprescindível. "
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "é cabível excepcionalmente em regime fechado para mãe cujo cuidado do filho seja imprescindível. ",
+    "fundamento_resposta": "A jurisprudência admite domiciliar excepcional fora do regime aberto em situações humanitárias, inclusive maternidade com cuidado imprescindível, sob condições concretas.",
+    "fontes": [
+      "LEP:117",
+      "STJ_DOMICILIAR:mães em regime fechado"
+    ],
+    "ressalvas": [
+      "Precedente específico pendente; a excepcionalidade não transforma a domiciliar em benefício automático."
+    ],
+    "classificacao": {
+      "tema_id": "4703",
+      "caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "extras_ids": [
+        "5521"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0088",
+    "questao": {
+      "id": "Q0088",
+      "enunciado": "Enquanto a criminologia pode ser identificada como a ciência que se dedica ao estudo do\n\ncrime, do criminoso e dos fatores da criminalidade, a vitimologia tem por objeto o estudo\n\nda vítima e de suas peculiaridades, sendo considerada por alguns autores como ciência\n\nautônoma.",
+      "comando": "Explique a diferença entre criminologia e vitimologia.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A vitimologia estuda a vítima e suas particularidades; a discussão sobre autonomia científica é reconhecida, embora ela também integre a criminologia moderna.",
+    "fontes": [
+      "CRIMINOLOGIA:objeto da vitimologia"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4389",
+      "caminho": "Criminologia > Vitimologia",
+      "extras_ids": [
+        "4381"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0089",
+    "questao": {
+      "id": "Q0089",
+      "enunciado": "De acordo com o Glossário Jurídico do Supremo Tribunal Federal, “o princípio da insignificância tem o sentido de excluir ou de afastar a própria tipicidade penal, ou seja, não considera o ato praticado como um crime, por isso, sua aplicação resulta na absolvição do réu e não apenas na diminuição e substituição da pena ou não sua não aplicação”. Sobre o tema princípio da insignificância, assinale a resposta correta.",
+      "comando": "Assinale a resposta correta sobre o princípio da insignificância.",
+      "alternativas": {
+        "A": "Buscando sua origem, de acordo com certa vertente doutrinária, no Direito Romano, o princípio da insignificância vem sendo objeto de recorrentes decisões do STF, nas quais são estabelecidos dois parâmetros para sua determinação: reduzidíssimo grau de reprovabi l idade do compor tamento e inexpressividade da lesão jurídica provocada.\n",
+        "B": "O princípio da insignificância, decorrência do caráter fragmentário do Direito Penal, tem base em uma orientação utilitarista, tem origem controversa, encontrando, na atual jurisprudência do STF, os seguintes requisitos de configuração: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada.\n",
+        "C": "Sua atual elaboração deita raízes na doutrina de Claus Roxin e, no Direito Penal brasileiro, consoante jurisprudência atual do STF, se limita à avaliação da inexpressividade da lesão jurídica provocada, ou seja, observa-se se a ofensa ao bem jurídico tutelado é relevante ou banal.\n",
+        "D": "Surgindo como uma consequência lógica do princípio da individualização das penas, a insignificância penal não aceita a periculosidade social da ação como parâmetro, de acordo com o posicionamento atual do STF, em razão da elevada abstração desse conceito, mas apresenta como requisi tos: a mínima ofensividade da conduta do agente; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada.\n",
+        "E": "Inserida no princípio da intervenção mínima, embora já mencionada anteriormente por Welzel como uma faceta do princípio da adequação social, a insignificância determina a inexistência do crime quando a conduta praticada apresentar a simultânea presença dos seguintes requisitos, exigidos pela atual jurisprudência do STF: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; a inexpressividade da lesão jurídica provocada; e a inexistência de um especial fim de agir.\n"
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "O princípio da insignificância, decorrência do caráter fragmentário do Direito Penal, tem base em uma orientação utilitarista, tem origem controversa, encontrando, na atual jurisprudência do STF, os seguintes requisitos de configuração: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada.\n",
+    "fundamento_resposta": "A alternativa reúne os quatro vetores usados pelo STF para insignificância; as demais reduzem ou acrescentam requisitos indevidos.",
+    "fontes": [
+      "STF_INSIGNIFICANCIA:HC84412"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5172",
+      "caminho": "Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal",
+      "extras_ids": [
+        "5227"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0090",
+    "questao": {
+      "id": "Q0090",
+      "enunciado": "Assinale a alternativa CORRETA.",
+      "comando": "",
+      "alternativas": {
+        "A": "Em havendo reunião de processos perante o juízo comum ou o tribunal do júri, decorrentes da aplicação das regras de conexão e continência, não serão observados os institutos da transação penal e da composição dos danos civis, em relação aos crimes de menor potencial ofensivo.",
+        "B": "Em razão de a Lei n° 9.099/95 admitir a aplicação subsidiária das disposições do Código de Processo Penal, o juiz determinará a suspensão do processo e do curso do prazo prescricional sempre que, nos crimes submetidos ao procedimento traçado por aquela lei, o acusado, citado por edital, não comparecer e nem constituir advogado.",
+        "C": "No direito processual penal brasileiro, a réplica à resposta à acusação não se constitui em uma regra prevista expressamente para todas as modalidades de procedimentos existentes, podendo ser encontrada no procedimento aplicável aos processos de competência do Tribunal do Júri e no procedimento para os processos perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal.",
+        "D": "De acordo com o Código de Processo Penal, nos processos submetidos ao rito comum ordinário, a denúncia ou queixa serão rejeitadas quando forem manifestamente ineptas, quando faltar pressuposto processual ou condição da ação para o exercício da ação penal, quando faltar justa causa para o oferecimento da ação penal e quando o fato narrado evidentemente não constitui crime.",
+        "E": "Tendo o funcionário público cometido o crime de racismo no exercício de sua função, e estando a denúncia ou queixa em devida ordem, o juiz mandará autuá-la e ordenará a notificação do acusado, para responder por escrito, dentro do prazo de quinze dias."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "No direito processual penal brasileiro, a réplica à resposta à acusação não se constitui em uma regra prevista expressamente para todas as modalidades de procedimentos existentes, podendo ser encontrada no procedimento aplicável aos processos de competência do Tribunal do Júri e no procedimento para os processos perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal.",
+    "fundamento_resposta": "Há previsão específica de réplica no rito do Júri; não é uma fase expressamente universal. As demais alternativas contrariam regras de JECRIM e recebimento.",
+    "fontes": [
+      "CPP:409,395",
+      "L8038:5"
+    ],
+    "ressalvas": [
+      "O item abrange procedimentos distintos; o nó do Júri representa o exemplo central, não todos os ritos citados."
+    ],
+    "classificacao": {
+      "tema_id": "5526",
+      "caminho": "Processo Penal > Procedimento do Tribunal do Júri > Procedimento Bifásico do Tribunal do Júri",
+      "extras_ids": [
+        "5533"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0091",
+    "questao": {
+      "id": "Q0091",
+      "enunciado": "Em cada item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional.\n\n Flávio, maior e capaz, condenado a pena de doze anos pela prática de homicídio doloso qualificado, iniciou o cumprimento da pena em regime fechado. Durante a execução da pena, ele apresentou comportamento excelente e colaborativo, por isso, após o período mínimo para a progressão de regime, seu advogado requereu ao juiz a passagem de Flávio para o regime aberto. Nessa situação, o pedido não poderá ser atendido: a progressão do regime prisional de Flávio deverá ser para o regime semiaberto.",
+      "comando": "Julgue a assertiva apresentada na situação hipotética.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A progressão ordinária ocorre sucessivamente, vedado o salto direto do fechado ao aberto apenas por bom comportamento.",
+    "fontes": [
+      "LEP:112",
+      "STJ_SUMULAS:491"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5201",
+      "caminho": "Penal > Teoria da Pena > Penas Privativas de Liberdade",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0092",
+    "questao": {
+      "id": "Q0092",
+      "enunciado": "A incompetência do juízo anula _________, devendo o processo, quando for declarada a nulidade, ser remetido ao juiz competente; a nulidade por ilegitimidade do representante da parte poderá ser _________, mediante ratificação dos atos processuais. Nos termos dos artigos 567 e 568 do CPP, assinale a alternativa que completa, correta e respectivamente, as lacunas do texto.",
+      "comando": "",
+      "alternativas": {
+        "A": "todos os atos praticados ... sanada até a denúncia",
+        "B": "todos os atos praticados ... a todo tempo sanada",
+        "C": "todos os atos praticados ... sanada somente até o trânsito em julgado",
+        "D": "o curso do prazo prescricional ... sanada somente até o trânsito em julgado",
+        "E": "somente os atos decisórios ... a todo tempo sanada"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "somente os atos decisórios ... a todo tempo sanada",
+    "fundamento_resposta": "Os textos legais limitam a incompetência aos atos decisórios e admitem saneamento da ilegitimidade de representante por ratificação.",
+    "fontes": [
+      "CPP:567,568"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5511",
+      "caminho": "Processo Penal > Nulidades > Nulidades em Espécie",
+      "extras_ids": [
+        "5480"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0093",
+    "questao": {
+      "id": "Q0093",
+      "enunciado": "JOÃO e JOSÉ estão na praia e resolveram entrar no mar. Em determinado momento eles começam a se afogar. Havia naquele local um salva-vidas que, ao avistar apenas JOÃO, notou que ele era seu desafeto e se recusou a salvá-lo; próximo a eles havia também um surfista, este avistou apenas JOSÉ pedindo socorro, mas, por ser seu inimigo, não atendeu aos pedidos dele, resolvendo sair do local. As duas pessoas acabam se afogando e morrendo.",
+      "comando": "Em relação ao caso, qual das alternativas abaixo está CORRETA?",
+      "alternativas": {
+        "A": "O salva-vidas responde por homicídio\\ndoloso por omissão.",
+        "B": "O salva-vidas responde por omissão de\\nsocorro.",
+        "C": "O surfista responde por homicídio doloso\\npor omissão.",
+        "D": "A conduta do surfista é atípica.",
+        "E": "O surfista responde por homicídio culposo."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "O salva-vidas responde por homicídio\\ndoloso por omissão.",
+    "fundamento_resposta": "O salva-vidas tem dever de garante e, podendo agir, responde pelo resultado dolosamente omitido; o surfista não assume automaticamente esse dever especial.",
+    "fontes": [
+      "CP:13 §2,121,135"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5223",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Crimes Omissivos e Comissivos",
+      "extras_ids": [
+        "5150",
+        "5142"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0094",
+    "questao": {
+      "id": "Q0094",
+      "enunciado": "Recentemente, o Superior Tribunal de Justiça decidiu que: “A utilização de roupas sociais pelo réu durante seu julgamento pelo Tribunal do Júri é um direito e não traria qualquer insegurança ou perigo, tendo em vista a existência de ostensivo policiamento nos Fóruns do Estado”.\n\nA utilização de roupas do presídio por um acusado no Tribunal do Júri está associada a qual tema da Criminologia?",
+      "comando": "A utilização de roupas do presídio por um acusado no Tribunal do Júri está associada a qual tema da Criminologia?",
+      "alternativas": {
+        "A": "Escola Clássica da Criminologia e princípios do iluminismo.",
+        "B": "Escola Positiva de Criminologia e anomia.",
+        "C": "Neoliberalismo e política da lei e ordem.",
+        "D": "Vitimologia e marxismo.",
+        "E": "Labelling approach ou etiquetamento social e Criminologia crítica."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Labelling approach ou etiquetamento social e Criminologia crítica.",
+    "fundamento_resposta": "A roupa prisional atua como rótulo/estigma social; o problema remete ao etiquetamento e à criminologia crítica.",
+    "fontes": [
+      "CRIMINOLOGIA:labelling approach"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4388",
+      "caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": [
+        "4378"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0095",
+    "questao": {
+      "id": "Q0095",
+      "enunciado": "Júpiter está arrumando a ligação elétrica de sua casa, com\n\najuda de Jano, seu amigo, que lhe segura a escada. Deixando de observar um dever objetivo de cuidado, Júpiter\n\nfaz uma ligação equivocada e recebe uma alta descarga\n\nde energia, sofrendo inutilização permanente de membro.\n\nNo mesmo incidente, Jano sofre uma lesão corporal leve.\n\nEm outro cenário, Saturno, pai dedicado e amoroso, está\n\ndando banho em seu filho, Nemestrino. Imprudentemente,\n\nSaturno deixa Nemestrino cair no chão, o que causa a\n\nmorte imediata do bebê.",
+      "comando": "No que concerne à lesão corporal sofrida por Jano e ao homicídio praticado por Saturno, o perdão judicial, ao menos em tese:",
+      "alternativas": {
+        "A": "aplica-se ao primeiro caso e depende de concordância da mãe de Nemestrino para aplicação ao segundo.",
+        "B": "aplica-se ao segundo caso, mas não ao primeiro.",
+        "C": "não se aplica a nenhum dos casos.",
+        "D": "aplica-se a ambos os casos.",
+        "E": "aplica-se ao primeiro caso, mas não ao segundo."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "aplica-se a ambos os casos.",
+    "fundamento_resposta": "O sofrimento físico gravíssimo do primeiro agente e o sofrimento do pai no segundo podem tornar desnecessária a pena nos delitos culposos.",
+    "fontes": [
+      "CP:121 §5,129 §8"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5197",
+      "caminho": "Penal > Punibilidade > Perdão Judicial",
+      "extras_ids": [
+        "5077",
+        "5150"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0096",
+    "questao": {
+      "id": "Q0096",
+      "enunciado": "Ocorre a derrogação da competência territorial:",
+      "comando": "Complete a frase sobre a derrogação da competência territorial.",
+      "alternativas": {
+        "A": "nos casos de conexão.",
+        "B": "nos casos de continência.",
+        "C": "na hipótese de prevenção.",
+        "D": "quando o crime é praticado fora do território nacional, em embarcações e aeronaves.",
+        "E": "na hipótese de desaforamento."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "na hipótese de desaforamento.",
+    "fundamento_resposta": "O desaforamento desloca excepcionalmente o julgamento do Júri, derrogando a regra territorial.",
+    "fontes": [
+      "CPP:427,428"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5486",
+      "caminho": "Processo Penal > Competência > Prorrogação, Perpetuação e Modificação de Competência",
+      "extras_ids": [
+        "5524"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0097",
+    "questao": {
+      "id": "Q0097",
+      "enunciado": "Inquérito policial revelou que um grupo de 16 pessoas, além de outras não identificadas, dedicava-se ao comércio ilícito de drogas e praticava extorsões contra comerciantes visando ao recolhimento de uma “taxa de segurança”. A investigação, que durou nove meses, contou com as medidas cautelares de interceptação telefônica e quebra do sigilo telemático, nas quais ficou claro que o grupo contava com uma liderança definida e que os demais integrantes se dedicavam à negociação para a aquisição das drogas e produtos químicos usados na mistura e preparo delas, ao abastecimento das “bocas de fumo” e ao recolhimento do dinheiro proveniente do comércio ilícito e das extorsões praticadas contra comerciantes. A investigação mostrou também que, com o dinheiro oriundo da atividade criminosa, o líder do grupo adquiriu cavalos e os mantinha em um haras registrado em seu nome. Ao longo da investigação, não houve apreensão de material entorpecente. O Ministério Público ofereceu denúncia contra os 16 investigados identificados e imputou os crimes de tráfico de drogas, associação para o tráfico de drogas, extorsão e organização criminosa. Imputou também ao líder do grupo o crime de lavagem de dinheiro (Art. 1º da Lei nº 9.613/1998).\n\nAo longo da instrução probatória, os fatos foram confirmados e o Ministério Público requereu a condenação na forma da denúncia. As defesas manifestaram-se e o processo foi à conclusão para sentença.\n\nÀ luz da jurisprudência do Superior Tribunal de Justiça, o magistrado deve considerar que:",
+      "comando": "À luz da jurisprudência do Superior Tribunal de Justiça, o magistrado deve considerar que:",
+      "alternativas": {
+        "A": "a sentença deve acolher integralmente a pretensão\\ncondenatória do Ministério Público;",
+        "B": "a ausência de apreensão de material entorpecente é\\nobstáculo à condenação pelos crimes de tráfico de drogas e\\nde associação para o tráfico de drogas;",
+        "C": "a sentença pode condenar os réus pela prática do crime de\\ntráfico de drogas, a despeito da ausência de apreensão de\\nmaterial entorpecente, desde que outros elementos dos\\nautos revelem a prática de uma das condutas previstas no\\ntipo penal; ",
+        "D": "é cabível a condenação do líder do grupo criminoso pelo\\ncrime de lavagem de dinheiro, porque, na hipótese, a\\ndestinação dada ao produto do crime configura ocultação ou\\ndissimulação da natureza, origem, localização, disposição,\\nmovimentação ou propriedade de bens, direitos ou valores\\nprovenientes, direta ou indiretamente, de crime;",
+        "E": "a condenação, em concurso material, pelos crimes de\\nassociação para o tráfico de drogas e organização criminosa\\nnão representa bis in idem, desde que demonstrado que o\\ngrupo criminoso, estruturalmente ordenado e caracterizado\\npela divisão de tarefas, dedicava-se à prática de outros\\ncrimes, além do tráfico de drogas."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "a condenação, em concurso material, pelos crimes de\\nassociação para o tráfico de drogas e organização criminosa\\nnão representa bis in idem, desde que demonstrado que o\\ngrupo criminoso, estruturalmente ordenado e caracterizado\\npela divisão de tarefas, dedicava-se à prática de outros\\ncrimes, além do tráfico de drogas.",
+    "fundamento_resposta": "Associação para tráfico e organização criminosa podem coexistir se há estrutura e dedicação a crimes adicionais. Comprar bens em nome próprio não demonstra por si lavagem.",
+    "fontes": [
+      "L12850:1 §1,2",
+      "L11343:35"
+    ],
+    "ressalvas": [
+      "Precedente específico da coexistência e a exigência de apreensão para tráfico ainda precisam de verificação individual."
+    ],
+    "classificacao": {
+      "tema_id": "4705",
+      "caminho": "Direito Penal - Legislação Especial > Organizações Criminosas",
+      "extras_ids": [
+        "4708",
+        "4702"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0098",
+    "questao": {
+      "id": "Q0098",
+      "enunciado": "A doutrina denomina “confissão qualificada” aquela em que o acusado",
+      "comando": "Complete a definição de \"confissão qualificada\" conforme a doutrina.",
+      "alternativas": {
+        "A": "admite a prática criminosa, mas alega, em sua defesa, alguma causa que o beneficia, como uma excludente de ilicitude.",
+        "B": "não só confessa os fatos cometidos por si, mas também aponta os demais coautores ou partícipes da\\nempreitada criminosa.",
+        "C": "fica em silêncio; contudo, tal modalidade não fora\\nrecepcionada pela Constituição de 1988, que garante\\nnenhum prejuízo ao acusado nesses casos.",
+        "D": "colabora ativamente com a apuração do crime, inclusive interrompendo ou impedindo que os fatos se\\nconsumem.",
+        "E": "se retrata da negativa dos fatos ocorrida perante a\\nautoridade policial e admite-os espontaneamente\\nperante o magistrado."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "admite a prática criminosa, mas alega, em sua defesa, alguma causa que o beneficia, como uma excludente de ilicitude.",
+    "fundamento_resposta": "Na confissão qualificada, o acusado admite o fato e acrescenta circunstância defensiva, como excludente de ilicitude.",
+    "fontes": [
+      "CPP:197,200",
+      "CRIMINOLOGIA:confissão qualificada"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5548",
+      "caminho": "Processo Penal > Provas em Espécies > Confissão",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0099",
+    "questao": {
+      "id": "Q0099",
+      "enunciado": "Filomena, camelô Irregular, é flagrada por dois agentes da fiscalização municipal, ocasião em que estes anunciam que irão lavrar um auto de infração e apreender sua mercadoria, levando-a ao depósito público, de onde poderá vir a ser retirada posteriormente, mediante pagamentos devidos, tudo conforme o previsto na legislação.\n\nInconformada com o fato, Filomena passa a agredir fisicamente os fiscais, no intuito de impedir que levem sua mercadoria, porém eles reagem, usando força corporal nos limites necessários para conter Filomena.\n\nComo resultado, Filomena e os fiscais ficam levemente feridos, sendo a mercadoria devidamente apreendida.\n\nDiante do caso narrado, é correto afirmar que:",
+      "comando": "Diante do caso narrado, é correto afirmar que:",
+      "alternativas": {
+        "A": "Filomena praticou o delito de resistência, ao passo que os fiscais cometeram o delito de lesão corporal leve;",
+        "B": "Filomena praticou o delito de resistência, na modalidade tentada, ao passo que os fiscais não cometeram crime algum, pois agiram amparados em excludente de ilicitude;",
+        "C": "Filomena praticou o delito de resistência qualificada, ao passo que os fiscais não cometeram crime algum, pois agiram amparados em excludente de ilicitude;",
+        "D": "Filomena praticou os delitos de resistência e lesões corporais leves, ao passo que os fiscais não cometeram crime algum, pois agiram amparados em excludente de ilicitude;",
+        "E": "Filomena praticou os delitos de resistências, na modalidade tentada, e lesões corporais leves, ao passo que os fiscais cometeram os crimes de lesão corporal leve e abuso de autoridade."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Filomena praticou os delitos de resistência e lesões corporais leves, ao passo que os fiscais não cometeram crime algum, pois agiram amparados em excludente de ilicitude;",
+    "fundamento_resposta": "A resistência se consuma com oposição violenta, mesmo que o ato seja executado, e não absorve as lesões. A reação necessária dos fiscais é justificada.",
+    "fontes": [
+      "CP:329 §§1-2,23"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5100",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",
+      "extras_ids": [
+        "5077",
+        "5232"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0100",
+    "questao": {
+      "id": "Q0100",
+      "enunciado": "Augusto levou sua filha, Ana, de treze anos de idade, a uma boate cuja entrada era permitida apenas para pessoas maiores de dezoito anos de idade, para que a menina se encontrasse com amigas que comemoravam o aniversário de uma delas.\n\nO segurança da boate não pediu documento de identificação à menina, que aparentava ser maior de idade.\n\nApós consumir algumas doses de tequila, Ana começou a flertar com Otávio, de vinte e oito anos de idade, e disse ao rapaz que tinha dezesseis anos de idade.\n\nApós breve conversa, Otávio convidou a adolescente a ir com ele a um motel.\n\nLisonjeada, porém indecisa, Ana perguntou a opinião de suas amigas, que foram unânimes em incentivá-la a aceitar o convite, pois conheciam muito bem Otávio.\n\nNa manhã seguinte, após ter relações sexuais consentidas com Otávio, com quem perdera a virgindade, Ana retornou, sozinha, para casa.\n\nDesconfiado do que a filha poderia ter feito na noite anterior, Augusto começou a interrogá-la, e ela, por medo, afirmou ter sido obrigada a manter relações sexuais com Otávio.\n\nAto contínuo, Augusto levou a filha até a delegacia de polícia, onde registrou ocorrência policial contra Otávio.",
+      "comando": "Com base nos fatos narrados na situação hipotética acima apresentada, assinale a opção correta.",
+      "alternativas": {
+        "A": "O crime de estupro de vulnerável impõe, em caráter absoluto, um dever geral de abstenção da conduta de manter conjunção carnal ou qualquer ato libidinoso com pessoa menor de quatorze anos de idade, podendo, entretanto, ser reconhecido o erro de tipo da parte de Otávio, o que engendraria a atipicidade de sua conduta.",
+        "B": "Caso Otávio seja absolvido da acusação, ficará configurado o crime de denunciação caluniosa cometido por Augusto.",
+        "C": "As amigas de Ana figuram como partícipes do crime do qual Otávio é acusado, pois incentivaram a vítima, menor de idade, a ir ao motel com pessoa maior de idade.",
+        "D": "Em razão de ter levado a filha a local exclusivo para pessoas maiores de dezoito anos de idade e de nada ter feito para impedir o fato, pode ser imputado a Augusto o crime de estupro de vulnerável praticado por omissão imprópria, visto que, na qualidade de pai e, portanto, de agente garantidor, deveria impedir a ocorrência do resultado.",
+        "E": "Otávio praticou o crime de corrupção sexual de menores, dado o consentimento das relações sexuais, figurando o segurança da boate como partícipe do referido delito, na medida em que sua negligência no trabalho foi determinante para a ocorrência do resultado."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "O crime de estupro de vulnerável impõe, em caráter absoluto, um dever geral de abstenção da conduta de manter conjunção carnal ou qualquer ato libidinoso com pessoa menor de quatorze anos de idade, podendo, entretanto, ser reconhecido o erro de tipo da parte de Otávio, o que engendraria a atipicidade de sua conduta.",
+    "fundamento_resposta": "A vulnerabilidade etária não é afastada pelo consentimento; erro efetivo sobre a idade pode excluir o dolo, sem estupro culposo. Não basta alegar desconhecimento.",
+    "fontes": [
+      "CP:20,217-A"
+    ],
+    "ressalvas": [
+      "A verificação concreta do erro de tipo e alterações recentes do regime de vulnerabilidade exigem cautela; a opção enuncia possibilidade, não absolvição automática."
+    ],
+    "classificacao": {
+      "tema_id": "5224",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "extras_ids": [
+        "5103"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  }
+]

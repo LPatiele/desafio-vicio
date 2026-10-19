@@ -1,0 +1,856 @@
+# Resultados das experimentações em tópicos
+
+Retrato dos dados: 2026-10-19T03:47:18.531963-03:00, horário de Fortaleza. A execução v20-r2 está encerrada e seus resultados foram incluídos.
+
+Métricas de tempo conferidas em 2026-10-19T03:47:19.780487-03:00.
+
+## Critérios de leitura
+
+- **Questões avaliadas:** têm proposta, parecer e decisão final salvos. Uma sondagem só do classificador não constitui avaliação completa.
+- **Precisão:** concordância por ramo entre publicadas contra a referência própria v2; aceita tema exato, pai ou filho. Não equivale a precisão jurídica independente. Sem publicações, a precisão não é calculável.
+- **Cobertura:** publicadas/selecionadas, incluindo pendências no denominador. Testes integrais usam 359; pilotos usam seu próprio recorte.
+- **Custo por questão avaliada:** custo conhecido do classificador e juiz, incluindo consultas e retentativas, dividido pelas avaliações concluídas. O consumo associado às pendências também participa do custo da condição.
+- **† Custo incompleto:** há chamadas sem custo confirmado. Zero conhecido não significa custo total comprovadamente zero. Reservas conservadoras não são cobrança confirmada.
+- **Custos históricos:** propostas reaproveitadas têm a origem indicada e incluem o custo conhecido do classificador original. Não somar os gastos de todos os tópicos: alguns compartilham etapas e orçamento. O b30 já incorpora sua preparação inicial e seus diagnósticos.
+- **Consumo:** tokens de saída já incluem raciocínio quando informado. Tokens/chamadas descrevem a execução local; o consumo original de propostas importadas não é repetido. Custos excluem revisão humana, infraestrutura e desenvolvimento.
+
+## Métricas de tempo
+
+- **Tempo de execução:** intervalo entre o primeiro envio e o último retorno registrado da condição. Inclui pausas e retomadas; na tentativa v20 inicial, o marco final é o registro de interrupção. Não inclui preparação anterior ao primeiro envio nem exportação posterior ao último retorno. Não é uma medida isolada da velocidade dos modelos.
+- **Tempo acumulado nas chamadas:** soma das durações conhecidas, incluindo consultas e retentativas. Pode diferir do tempo decorrido e ficar incompleto quando uma duração não foi registrada.
+- **Tempo por questão avaliada:** tempo de execução dividido pelas questões com decisão concluída, não apenas pelas publicadas. Nos pilotos antigos sem horário final, usa a soma conhecida das chamadas; a base é indicada em cada tópico.
+- **Estimativa para 359:** média por questão multiplicada por 359. É uma extrapolação linear, sem garantia de prazo ou conclusão das pendências. Quando as 359 já foram concluídas, corresponde ao tempo observado na base indicada.
+- **Propostas reaproveitadas:** os tempos descrevem a execução local e não incluem o tempo histórico do classificador de origem. Comparações devem respeitar essa diferença.
+
+## Resultados por experimento
+
+- **[gemma-v0](/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb/):**
+  - Questões avaliadas / selecionadas: 0/5
+  - Questões pendentes: 5
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/5 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 5
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 0 / 0
+  - Chamadas locais: 5
+  - Tempo de execução (total decorrido): Não registrado
+  - Tempo acumulado conhecido nas chamadas: Não registrado
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: Indisponível
+  - Observações sobre os tempos: Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível. 5 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Nenhuma avaliação completa com classificador e juiz; não há precisão publicada calculável.
+
+- **[sondagem-nemotron](/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-50-12-086Z-af3acb5d/):**
+  - Questões avaliadas / selecionadas: 0/1
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/1 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 37.820 / 1.939
+  - Chamadas locais: 1
+  - Tempo de execução (total decorrido): Não registrado
+  - Tempo acumulado conhecido nas chamadas: 42,8 s
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: tempo acumulado conhecido nas chamadas
+  - Observações sobre os tempos: Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Somente classificador: uma proposta válida; não é questão avaliada pelos dois papéis.
+
+- **[sondagem-gemma](/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-51-17-827Z-589a8bcf/):**
+  - Questões avaliadas / selecionadas: 0/1
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/1 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 0 / 0
+  - Chamadas locais: 0
+  - Tempo de execução (total decorrido): Não registrado
+  - Tempo acumulado conhecido nas chamadas: Não registrado
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: Indisponível
+  - Observações sobre os tempos: Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Repetição isolada de Q0001, sem proposta concluída.
+
+- **[nemotron-duplo-v1](/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/):**
+  - Questões avaliadas / selecionadas: 5/5
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 0/4/1
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/5 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 379.010 / 13.142
+  - Chamadas locais: 10
+  - Tempo de execução (total decorrido): Não registrado
+  - Tempo acumulado conhecido nas chamadas: 6 min 02 s
+  - Tempo médio por questão avaliada: 1 min 12 s
+  - Estimativa de tempo para 359 questões: 7 h 13 min 34 s
+  - Base da média e da estimativa: tempo acumulado conhecido nas chamadas
+  - Observações sobre os tempos: Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Cinco fluxos concluídos. Três candidatos à publicação; política experimental conservou revisão. Sem publicação liberada.
+
+- **[lote-v2-gemma-dots](/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-03-52-547Z-682480b0/):**
+  - Questões avaliadas / selecionadas: 0/5
+  - Questões pendentes: 5
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/5 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 39.573 / 1.449
+  - Chamadas locais: 2
+  - Tempo de execução (total decorrido): Não registrado
+  - Tempo acumulado conhecido nas chamadas: 20,3 s
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: tempo acumulado conhecido nas chamadas
+  - Observações sobre os tempos: Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível. 1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Nenhuma avaliação completa; o juiz não chegou a ser chamado.
+
+- **[lote-v3-dots-nemotron](/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/):**
+  - Questões avaliadas / selecionadas: 5/5
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 0/4/1
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/5 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 78.904 / 15.062
+  - Chamadas locais: 2
+  - Tempo de execução (total decorrido): Não registrado
+  - Tempo acumulado conhecido nas chamadas: 4 min 38 s
+  - Tempo médio por questão avaliada: 55,5 s
+  - Estimativa de tempo para 359 questões: 5 h 32 min 21 s
+  - Base da média e da estimativa: tempo acumulado conhecido nas chamadas
+  - Observações sobre os tempos: Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Esquema estruturado: cinco fluxos em duas chamadas. Quatro candidatos, mas publicação bloqueada. Comparado ao individual: −80% chamadas, −79,3% entrada e +24,5% tempo.
+
+- **[controle-individual-dots-nemotron](/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/):**
+  - Questões avaliadas / selecionadas: 5/5
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 0/4/1
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/5 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 381.330 / 10.272
+  - Chamadas locais: 10
+  - Tempo de execução (total decorrido): Não registrado
+  - Tempo acumulado conhecido nas chamadas: 3 min 43 s
+  - Tempo médio por questão avaliada: 44,6 s
+  - Estimativa de tempo para 359 questões: 4 h 26 min 58 s
+  - Base da média e da estimativa: tempo acumulado conhecido nas chamadas
+  - Observações sobre os tempos: Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Cinco fluxos em dez chamadas. Três candidatos à publicação; a política experimental manteve publicação bloqueada.
+
+- **[piloto-v1](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-v1/):**
+  - Questões avaliadas / selecionadas: 0/30
+  - Questões pendentes: 30
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/30 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 0 / 0
+  - Chamadas locais: 1
+  - Tempo de execução (total decorrido): 5 min 00 s
+  - Tempo acumulado conhecido nas chamadas: 5 min 00 s
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Primeiro lote de trinta da pasta atual; nenhuma avaliação completa. Não confundir com o v1 da pasta anterior.
+
+- **[piloto-20-v3](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3/):**
+  - Questões avaliadas / selecionadas: 0/20
+  - Questões pendentes: 20
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/20 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 44.710 / 18.000
+  - Chamadas locais: 1
+  - Tempo de execução (total decorrido): 6 min 46 s
+  - Tempo acumulado conhecido nas chamadas: 6 min 46 s
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Nenhuma avaliação completa; a condição seguinte testou raciocínio desativado.
+
+- **[piloto-20-v3-sem-raciocinio](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3-sem-raciocinio/):**
+  - Questões avaliadas / selecionadas: 20/20
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 20/0/0
+  - Precisão por ramo (referência v2): 14/20 (70,0%)
+  - Cobertura: 20/20 (100,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 172.391 / 11.748
+  - Chamadas locais: 4
+  - Tempo de execução (total decorrido): 7 min 25 s
+  - Tempo acumulado conhecido nas chamadas: 3 min 34 s
+  - Tempo médio por questão avaliada: 22,3 s
+  - Estimativa de tempo para 359 questões: 2 h 13 min 11 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Integração concluída, filtro publicou todas. Pela referência v1 histórica: 13/20; aqui recalculado contra v2.
+
+- **[piloto-2x10-v3-raciocinio](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-2x10-v3-raciocinio/):**
+  - Questões avaliadas / selecionadas: 19/20
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 19/0/0
+  - Precisão por ramo (referência v2): 13/19 (68,4%)
+  - Cobertura: 19/20 (95,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 250.270 / 50.355
+  - Chamadas locais: 6
+  - Tempo de execução (total decorrido): 20 min 36 s
+  - Tempo acumulado conhecido nas chamadas: 19 min 10 s
+  - Tempo médio por questão avaliada: 1 min 05 s
+  - Estimativa de tempo para 359 questões: 6 h 29 min 06 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Classificador manteve 13/20 na referência histórica. Seis chamadas; tempo somado 5,36 vezes o anterior; o aumento publicado histórico veio do denominador.
+
+- **[piloto-5x10-v3-juiz-nemotron35](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-juiz-nemotron35/):**
+  - Questões avaliadas / selecionadas: 49/50
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 39/9/1
+  - Precisão por ramo (referência v2): 30/39 (76,9%)
+  - Cobertura: 39/50 (78,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 584.534 / 134.216
+  - Chamadas locais: 14
+  - Tempo de execução (total decorrido): 1 h 14 min 33 s
+  - Tempo acumulado conhecido nas chamadas: 33 min 20 s
+  - Tempo médio por questão avaliada: 1 min 31 s
+  - Estimativa de tempo para 359 questões: 9 h 6 min 14 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Controle N3/N3.5: 14 chamadas. Comparar à inversão nos mesmos 50 IDs, não apenas publicações selecionadas.
+
+- **[piloto-5x10-v3-invertido-nemotron35](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-invertido-nemotron35/):**
+  - Questões avaliadas / selecionadas: 50/50
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 45/5/0
+  - Precisão por ramo (referência v2): 35/45 (77,8%)
+  - Cobertura: 45/50 (90,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 425.546 / 133.877
+  - Chamadas locais: 10
+  - Tempo de execução (total decorrido): 33 min 15 s
+  - Tempo acumulado conhecido nas chamadas: 33 min 15 s
+  - Tempo médio por questão avaliada: 39,9 s
+  - Estimativa de tempo para 359 questões: 3 h 58 min 43 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: N3.5/N3: 10 chamadas, todas as decisões. Nas mesmas 37 publicações do controle, 30 concordantes contra 29.
+
+- **[piloto-5x10-v2-invertido-nemotron35](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-invertido-nemotron35/):**
+  - Questões avaliadas / selecionadas: 39/50
+  - Questões pendentes: 11
+  - Publicadas / revisão / fora: 11/27/1
+  - Precisão por ramo (referência v2): 9/11 (81,8%)
+  - Cobertura: 11/50 (22,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 569.335 / 158.957
+  - Chamadas locais: 15
+  - Tempo de execução (total decorrido): 2 h 8 min 59 s
+  - Tempo acumulado conhecido nas chamadas: 54 min 23 s
+  - Tempo médio por questão avaliada: 3 min 18 s
+  - Estimativa de tempo para 359 questões: 19 h 47 min 19 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: V2 N3.5/N3: proporção publicada maior com apenas 11 publicações e 11 pendências; não é superioridade comprovada.
+
+- **[piloto-5x10-v2-juiz-nemotron35](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-juiz-nemotron35/):**
+  - Questões avaliadas / selecionadas: 48/50
+  - Questões pendentes: 2
+  - Publicadas / revisão / fora: 38/10/0
+  - Precisão por ramo (referência v2): 29/38 (76,3%)
+  - Cobertura: 38/50 (76,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 2
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 612.577 / 151.206
+  - Chamadas locais: 17
+  - Tempo de execução (total decorrido): 1 h 54 min 52 s
+  - Tempo acumulado conhecido nas chamadas: 1 h 8 min 48 s
+  - Tempo médio por questão avaliada: 2 min 24 s
+  - Estimativa de tempo para 359 questões: 14 h 19 min 03 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: V2 N3/N3.5: duas pendências; não demonstrou ganho consistente frente à v3. Q0044 sem proposta válida.
+
+- **[individual-v3-invertido-50](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/individual-v3-invertido-50/):**
+  - Questões avaliadas / selecionadas: 49/50
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 38/8/3
+  - Precisão por ramo (referência v2): 28/38 (73,7%)
+  - Cobertura: 38/50 (76,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 3
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 4.307.122 / 313.410
+  - Chamadas locais: 113
+  - Tempo de execução (total decorrido): 2 h 52 min 14 s
+  - Tempo acumulado conhecido nas chamadas: 2 h 51 min 22 s
+  - Tempo médio por questão avaliada: 3 min 31 s
+  - Estimativa de tempo para 359 questões: 21 h 1 min 55 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Individual: nas mesmas 36 publicações do lote invertido, 26 concordantes contra 31. Mais chamadas e menor cobertura.
+
+- **[contexto-api-v5-q0001](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/contexto-api-v5-q0001/):**
+  - Questões avaliadas / selecionadas: 1/1
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 0/1/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/1 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 79.749 / 3.491
+  - Chamadas locais: 3
+  - Tempo de execução (total decorrido): 1 min 21 s
+  - Tempo acumulado conhecido nas chamadas: 1 min 09 s
+  - Tempo médio por questão avaliada: 1 min 21 s
+  - Estimativa de tempo para 359 questões: 8 h 7 min 36 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Busca remota indisponível/incompleta levou a revisão; uma questão não mede ganho de pesquisa.
+
+- **[local-penal50-v7](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v7/):**
+  - Questões avaliadas / selecionadas: 49/50
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 28/20/1
+  - Precisão por ramo (referência v2): 24/28 (85,7%)
+  - Cobertura: 28/50 (56,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000 (origem reaproveitada)
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 2
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 2.219.299 / 136.569
+  - Chamadas locais: 52
+  - Tempo de execução (total decorrido): 1 h 8 min 05 s
+  - Tempo acumulado conhecido nas chamadas: 1 h 7 min 50 s
+  - Tempo médio por questão avaliada: 1 min 23 s
+  - Estimativa de tempo para 359 questões: 8 h 18 min 49 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Medição local da condição: não inclui o tempo histórico do classificador reaproveitado. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: RAG+prompt+política: 85,7% publicados e 56% cobertura, frente a 73,7%/76% no individual. Não isola RAG; propostas reaproveitadas. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.
+
+- **[local-penal50-v8-auto](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto/):**
+  - Questões avaliadas / selecionadas: 2/50
+  - Questões pendentes: 48
+  - Publicadas / revisão / fora: 1/1/0
+  - Precisão por ramo (referência v2): 1/1 (100,0%)
+  - Cobertura: 1/50 (2,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000 (origem reaproveitada)
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 2
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 88.390 / 2.704
+  - Chamadas locais: 3
+  - Tempo de execução (total decorrido): 1 min 05 s
+  - Tempo acumulado conhecido nas chamadas: 1 min 02 s
+  - Tempo médio por questão avaliada: 32,7 s
+  - Estimativa de tempo para 359 questões: 3 h 15 min 28 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. 1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento. Medição local da condição: não inclui o tempo histórico do classificador reaproveitado. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Ensaio preliminar com duas decisões; não integra a comparação definitiva v8, realizada nas condições r2. Classificador reaproveitado de individual-v3-invertido-50.
+
+- **[local-penal50-v8-tools](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools/):**
+  - Questões avaliadas / selecionadas: 2/50
+  - Questões pendentes: 48
+  - Publicadas / revisão / fora: 1/1/0
+  - Precisão por ramo (referência v2): 1/1 (100,0%)
+  - Cobertura: 1/50 (2,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000 (origem reaproveitada)
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 2
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 260.633 / 3.000
+  - Chamadas locais: 7
+  - Tempo de execução (total decorrido): 1 min 14 s
+  - Tempo acumulado conhecido nas chamadas: 1 min 13 s
+  - Tempo médio por questão avaliada: 37,1 s
+  - Estimativa de tempo para 359 questões: 3 h 42 min 05 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. 1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento. Medição local da condição: não inclui o tempo histórico do classificador reaproveitado. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Ensaio preliminar com duas decisões; não integra a comparação definitiva v8, realizada nas condições r2. Classificador reaproveitado de individual-v3-invertido-50.
+
+- **[local-penal50-v8-tools-r2](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools-r2/):**
+  - Questões avaliadas / selecionadas: 47/50
+  - Questões pendentes: 3
+  - Publicadas / revisão / fora: 36/11/0
+  - Precisão por ramo (referência v2): 29/36 (80,6%)
+  - Cobertura: 36/50 (72,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000 (origem reaproveitada)
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 6.184.610 / 117.351
+  - Chamadas locais: 142
+  - Tempo de execução (total decorrido): 42 min 15 s
+  - Tempo acumulado conhecido nas chamadas: 40 min 42 s
+  - Tempo médio por questão avaliada: 53,9 s
+  - Estimativa de tempo para 359 questões: 5 h 22 min 42 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Medição local da condição: não inclui o tempo histórico do classificador reaproveitado. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Contra automático: +18 p.p. cobertura, −4,6 p.p. concordância e 142/54 = 2,63 vezes envios do juiz. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.
+
+- **[local-penal50-v8-auto-r2](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto-r2/):**
+  - Questões avaliadas / selecionadas: 48/50
+  - Questões pendentes: 2
+  - Publicadas / revisão / fora: 27/19/2
+  - Precisão por ramo (referência v2): 23/27 (85,2%)
+  - Cobertura: 27/50 (54,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000 (origem reaproveitada)
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 2.381.411 / 138.835
+  - Chamadas locais: 54
+  - Tempo de execução (total decorrido): 44 min 58 s
+  - Tempo acumulado conhecido nas chamadas: 43 min 50 s
+  - Tempo médio por questão avaliada: 56,2 s
+  - Estimativa de tempo para 359 questões: 5 h 36 min 16 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Medição local da condição: não inclui o tempo histórico do classificador reaproveitado. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Controle v8 definitivo, menor custo de chamadas e maior concordância que ferramentas. 46 decisões comuns entre os braços. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.
+
+- **[local-penal50-v9-classifier-tools](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-classifier-tools/):**
+  - Questões avaliadas / selecionadas: 49/50
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 31/17/1
+  - Precisão por ramo (referência v2): 26/31 (83,9%)
+  - Cobertura: 31/50 (62,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000 †
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,000000
+  - Tokens informados de entrada / saída: 7.556.855 / 422.543
+  - Chamadas locais: 175
+  - Tempo de execução (total decorrido): 1 h 51 min 10 s
+  - Tempo acumulado conhecido nas chamadas: 1 h 49 min 26 s
+  - Tempo médio por questão avaliada: 2 min 16 s
+  - Estimativa de tempo para 359 questões: 13 h 34 min 27 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Contra controle: +8 p.p. cobertura, −1,3 p.p. concordância, +73,3% chamadas (175/101); três concordantes e uma divergente líquidas a mais.
+
+- **[local-penal50-v9-control](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-control/):**
+  - Questões avaliadas / selecionadas: 50/50
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 27/20/3
+  - Precisão por ramo (referência v2): 23/27 (85,2%)
+  - Cobertura: 27/50 (54,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,000000
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Tokens informados de entrada / saída: 4.197.373 / 317.098
+  - Chamadas locais: 101
+  - Tempo de execução (total decorrido): 1 h 28 min 45 s
+  - Tempo acumulado conhecido nas chamadas: 1 h 28 min 22 s
+  - Tempo médio por questão avaliada: 1 min 47 s
+  - Estimativa de tempo para 359 questões: 10 h 37 min 14 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Controle contemporâneo sem RAG no classificador; propostas novas nas duas condições v9.
+
+- **[pagos-v10-gemini-openai](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai/):**
+  - Questões avaliadas / selecionadas: 0/1
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/1 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,480884
+  - Tokens informados de entrada / saída: 0 / 0
+  - Chamadas locais: 1
+  - Tempo de execução (total decorrido): 0,7 s
+  - Tempo acumulado conhecido nas chamadas: 0,7 s
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Nenhuma decisão concluída; não há evidência para comparar a qualidade da dupla.
+
+- **[pagos-v10-juiz-isolado](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado/):**
+  - Questões avaliadas / selecionadas: 0/1
+  - Questões pendentes: 1
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/1 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000 (origem reaproveitada)
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 2
+  - Reserva registrada para consumo não confirmado: US$ 0,785767
+  - Tokens informados de entrada / saída: 0 / 0
+  - Chamadas locais: 2
+  - Tempo de execução (total decorrido): 1 min 04 s
+  - Tempo acumulado conhecido nas chamadas: 4,1 s
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Medição local da condição: não inclui o tempo histórico do classificador reaproveitado. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Verificação isolada do juiz, com proposta reaproveitada; sem avaliação completa. Classificador reaproveitado de local-penal50-v9-classifier-tools.
+
+- **[gemini-flash-v11-piloto](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto/):**
+  - Questões avaliadas / selecionadas: 10/10
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 7/3/0
+  - Precisão por ramo (referência v2): 7/7 (100,0%)
+  - Cobertura: 7/10 (70,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,028828
+  - Custo conhecido do classificador: US$ 0,149346
+  - Custo conhecido do juiz: US$ 0,138933
+  - Custo total conhecido: US$ 0,288280
+  - Tokens informados de entrada / saída: 1.401.423 / 46.011
+  - Chamadas locais: 36
+  - Tempo de execução (total decorrido): 7 min 52 s
+  - Tempo acumulado conhecido nas chamadas: 5 min 54 s
+  - Tempo médio por questão avaliada: 47,2 s
+  - Estimativa de tempo para 359 questões: 4 h 42 min 40 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Mesmos 10 IDs: 7/7 por ramo contra 6/7 no Nemotron v9. Só sete publicações; Wilson 95% ≈64,6%–100%.
+
+- **[gemini-flash-v13-livros-359](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359/):**
+  - Questões avaliadas / selecionadas: 10/359
+  - Questões pendentes: 349
+  - Publicadas / revisão / fora: 9/1/0
+  - Precisão por ramo (referência v2): 8/9 (88,9%)
+  - Cobertura: 9/359 (2,5%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,032937 †
+  - Custo conhecido do classificador: US$ 0,183430
+  - Custo conhecido do juiz: US$ 0,145940
+  - Custo total conhecido: US$ 0,329370
+  - Chamadas sem custo confirmado: 3
+  - Reserva registrada para consumo não confirmado: US$ 0,447773
+  - Tokens informados de entrada / saída: 1.444.732 / 53.872
+  - Chamadas locais: 40
+  - Tempo de execução (total decorrido): 8 min 13 s
+  - Tempo acumulado conhecido nas chamadas: 7 min 12 s
+  - Tempo médio por questão avaliada: 49,3 s
+  - Estimativa de tempo para 359 questões: 4 h 54 min 47 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Nos dez concluídos: 8/9 publicados contra 7/7 no v11; base/prompts/política mudaram juntos. Cobertura do case 9/359.
+
+- **[gemini35-v15-livros-359](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359/):**
+  - Questões avaliadas / selecionadas: 1/359
+  - Questões pendentes: 358
+  - Publicadas / revisão / fora: 1/0/0
+  - Precisão por ramo (referência v2): 1/1 (100,0%)
+  - Cobertura: 1/359 (0,3%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,083579 †
+  - Custo conhecido do classificador: US$ 0,047848
+  - Custo conhecido do juiz: US$ 0,035731
+  - Custo total conhecido: US$ 0,083579
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,152535
+  - Tokens informados de entrada / saída: 232.330 / 4.787
+  - Chamadas locais: 7
+  - Tempo de execução (total decorrido): 28,8 s
+  - Tempo acumulado conhecido nas chamadas: 28,2 s
+  - Tempo médio por questão avaliada: 28,8 s
+  - Estimativa de tempo para 359 questões: 2 h 52 min 27 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Somente uma avaliação completa; amostra insuficiente para concluir qualidade da condição.
+
+- **[gemini35-v16-projeto2-359](/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359/):**
+  - Questões avaliadas / selecionadas: 180/359
+  - Questões pendentes: 179
+  - Publicadas / revisão / fora: 152/26/2
+  - Precisão por ramo (referência v2): 130/152 (85,5%)
+  - Cobertura: 152/359 (42,3%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,023245 †
+  - Custo conhecido do classificador: US$ 2,086510
+  - Custo conhecido do juiz: US$ 2,097585
+  - Custo total conhecido: US$ 4,184095
+  - Chamadas sem custo confirmado: 12
+  - Reserva registrada para consumo não confirmado: US$ 1,405905
+  - Tokens informados de entrada / saída: 25.612.371 / 573.487
+  - Chamadas locais: 673
+  - Tempo de execução (total decorrido): 3 h 11 min 46 s
+  - Tempo acumulado conhecido nas chamadas: 57 min 41 s
+  - Tempo médio por questão avaliada: 1 min 04 s
+  - Estimativa de tempo para 359 questões: 6 h 22 min 28 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Individual interrompido por bloqueio financeiro; 179 pendências. Comparação pareada com b30 disponível, sem condição integral completa.
+
+- **[paid-v17-b30](/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b30/):**
+  - Questões avaliadas / selecionadas: 161/359
+  - Questões pendentes: 198
+  - Publicadas / revisão / fora: 131/30/0
+  - Precisão por ramo (referência v2): 112/131 (85,5%)
+  - Cobertura: 131/359 (36,5%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,013639 †
+  - Custo conhecido do classificador: US$ 1,179618
+  - Custo conhecido do juiz: US$ 1,015776
+  - Custo total conhecido: US$ 2,195868
+  - Diagnósticos incluídos no total conhecido: US$ 0,000474
+  - Chamadas sem custo confirmado: 2
+  - Reserva registrada para consumo não confirmado: US$ 0,266990
+  - Tokens informados de entrada / saída: 4.813.691 / 394.978
+  - Chamadas locais: 69
+  - Tempo de execução (total decorrido): 29 min 35 s
+  - Tempo acumulado conhecido nas chamadas: 24 min 10 s
+  - Tempo médio por questão avaliada: 11,0 s
+  - Estimativa de tempo para 359 questões: 1 h 5 min 58 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Lote 30: mais rápido e menor custo por decisão, mas 198 pendências. Nas 66 publicações comuns à v16: 54 concordantes contra 60.
+
+- **[paid-v17-b20](/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b20/):**
+  - Questões avaliadas / selecionadas: 27/359
+  - Questões pendentes: 332
+  - Publicadas / revisão / fora: 22/5/0
+  - Precisão por ramo (referência v2): 20/22 (90,9%)
+  - Cobertura: 22/359 (6,1%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,021924 †
+  - Custo conhecido do classificador: US$ 0,375315
+  - Custo conhecido do juiz: US$ 0,216632
+  - Custo total conhecido: US$ 0,591947
+  - Chamadas sem custo confirmado: 10
+  - Reserva registrada para consumo não confirmado: US$ 3,760203
+  - Tokens informados de entrada / saída: 1.556.312 / 93.727
+  - Chamadas locais: 35
+  - Tempo de execução (total decorrido): 1 h 0 min 30 s
+  - Tempo acumulado conhecido nas chamadas: 5 min 39 s
+  - Tempo médio por questão avaliada: 2 min 14 s
+  - Estimativa de tempo para 359 questões: 13 h 24 min 19 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Resultado parcial: 27 decisões entre 359 selecionadas. Não interpretar 20/22 concordantes como superioridade comprovada do lote vinte.
+
+- **[vertex-v18-piloto-10-b10](/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-piloto-10/b10/):**
+  - Questões avaliadas / selecionadas: 10/10
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 7/3/0
+  - Precisão por ramo (referência v2): 6/7 (85,7%)
+  - Cobertura: 7/10 (70,0%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,027354
+  - Custo conhecido do classificador: US$ 0,097804
+  - Custo conhecido do juiz: US$ 0,175737
+  - Custo total conhecido: US$ 0,273541
+  - Tokens informados de entrada / saída: 306.464 / 19.671
+  - Chamadas locais: 5
+  - Tempo de execução (total decorrido): 1 min 44 s
+  - Tempo acumulado conhecido nas chamadas: 1 min 44 s
+  - Tempo médio por questão avaliada: 10,4 s
+  - Estimativa de tempo para 359 questões: 1 h 2 min 23 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes.
+  - Comparações e resultados: Verificou funcionamento dos dois modelos pelo novo canal. Pequeno recorte já usado em desenvolvimento.
+
+- **[vertex-v18-359-b20](/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b20/):**
+  - Questões avaliadas / selecionadas: 218/359
+  - Questões pendentes: 141
+  - Publicadas / revisão / fora: 170/48/0
+  - Precisão por ramo (referência v2): 148/170 (87,1%)
+  - Cobertura: 170/359 (47,4%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,026971
+  - Custo conhecido do classificador: US$ 1,926670
+  - Custo conhecido do juiz: US$ 3,952946
+  - Custo total conhecido: US$ 5,879616
+  - Tokens informados de entrada / saída: 6.878.351 / 479.350
+  - Chamadas locais: 103
+  - Tempo de execução (total decorrido): 36 min 45 s
+  - Tempo acumulado conhecido nas chamadas: 35 min 48 s
+  - Tempo médio por questão avaliada: 10,1 s
+  - Estimativa de tempo para 359 questões: 1 h 0 min 32 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: 218 decisões; 141 pendências. Nas 158 publicações comuns à v19: 87,3% aqui contra 88,6% sem RAG.
+
+- **[vertex-v18-359-b10](/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b10/):**
+  - Questões avaliadas / selecionadas: 161/359
+  - Questões pendentes: 198
+  - Publicadas / revisão / fora: 138/22/1
+  - Precisão por ramo (referência v2): 112/138 (81,2%)
+  - Cobertura: 138/359 (38,4%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,025300 †
+  - Custo conhecido do classificador: US$ 1,074617
+  - Custo conhecido do juiz: US$ 2,998625
+  - Custo total conhecido: US$ 4,073243
+  - Chamadas sem custo confirmado: 1
+  - Reserva registrada para consumo não confirmado: US$ 0,891570
+  - Tokens informados de entrada / saída: 3.967.525 / 280.939
+  - Chamadas locais: 70
+  - Tempo de execução (total decorrido): 29 min 22 s
+  - Tempo acumulado conhecido nas chamadas: 28 min 47 s
+  - Tempo médio por questão avaliada: 10,9 s
+  - Estimativa de tempo para 359 questões: 1 h 5 min 28 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Interrompido a pedido da usuária; 198 pendências. Nas 126 publicações comuns à v19: 81,7% aqui contra 88,1% sem RAG.
+
+- **[model-only-v19-359](/Users/lorrainepatiele/Downloads/Desafio/output/no-rag-v19/model-only-v19-359/):**
+  - Questões avaliadas / selecionadas: 359/359
+  - Questões pendentes: 0
+  - Publicadas / revisão / fora: 311/43/5
+  - Precisão por ramo (referência v2): 265/311 (85,2%)
+  - Cobertura: 311/359 (86,6%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,013206
+  - Custo conhecido do classificador: US$ 1,513173
+  - Custo conhecido do juiz: US$ 3,227875
+  - Custo total conhecido: US$ 4,741048
+  - Tokens informados de entrada / saída: 3.599.513 / 520.715
+  - Chamadas locais: 94
+  - Tempo de execução (total decorrido): 38 min 49 s
+  - Tempo acumulado conhecido nas chamadas: 38 min 45 s
+  - Tempo médio por questão avaliada: 6,5 s
+  - Estimativa de tempo para 359 questões: 38 min 49 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. O conjunto de 359 já foi concluído: o valor para 359 corresponde ao observado na base escolhida.
+  - Comparações e resultados: 359 decisões; 94 chamadas e 38,8 minutos. A condição sem RAG completou o conjunto, mas não atingiu 95%. Prompts e política de retentativas também mudaram.
+
+- **[pro-judge-v20-359](/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359/):**
+  - Questões avaliadas / selecionadas: 0/359
+  - Questões pendentes: 359
+  - Publicadas / revisão / fora: 0/0/0
+  - Precisão por ramo (referência v2): Não calculável: sem publicações
+  - Cobertura: 0/359 (0,0%)
+  - Custo por questão avaliada (classificador + juiz): Não calculável: nenhuma avaliação concluída
+  - Custo conhecido do classificador: US$ 0,000000
+  - Custo conhecido do juiz: US$ 0,000000
+  - Custo total conhecido: US$ 0,000000
+  - Chamadas sem custo confirmado: 80
+  - Reserva registrada para consumo não confirmado: US$ 16,460485
+  - Tokens informados de entrada / saída: 0 / 0
+  - Chamadas locais: 80
+  - Tempo de execução (total decorrido): 2 min 24 s
+  - Tempo acumulado conhecido nas chamadas: 50,6 s
+  - Tempo médio por questão avaliada: Não calculável com os registros disponíveis
+  - Estimativa de tempo para 359 questões: Não calculável com os registros disponíveis
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. 1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento. Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas.
+  - Comparações e resultados: Tentativa encerrada sem propostas ou pareceres. Não permite avaliar a qualidade do juiz Pro; reservas não são cobrança confirmada.
+
+- **[pro-judge-v20-359-r2](/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2/):**
+  - Questões avaliadas / selecionadas: 354/359
+  - Questões pendentes: 5
+  - Publicadas / revisão / fora: 282/66/6
+  - Precisão por ramo (referência v2): 242/282 (85,8%)
+  - Cobertura: 282/359 (78,6%)
+  - Custo por questão avaliada (classificador + juiz): US$ 0,097896 †
+  - Custo conhecido do classificador: US$ 6,049668
+  - Custo conhecido do juiz: US$ 28,605615
+  - Custo total conhecido: US$ 34,655283
+  - Chamadas sem custo confirmado: 19
+  - Reserva registrada para consumo não confirmado: US$ 20,332426
+  - Tokens informados de entrada / saída: 26.931.733 / 1.297.508
+  - Chamadas locais: 767
+  - Tempo de execução (total decorrido): 2 h 47 min 02 s
+  - Tempo acumulado conhecido nas chamadas: 2 h 24 min 29 s
+  - Tempo médio por questão avaliada: 28,3 s
+  - Estimativa de tempo para 359 questões: 2 h 49 min 24 s
+  - Base da média e da estimativa: tempo total decorrido da execução local
+  - Observações sobre os tempos: Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados. Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração.
+  - Comparações e resultados: Encerrado com 354 decisões e cinco pendências; a meta de 95% não foi atingida. Contra v19: concordância agregada 85,8%/85,2% e cobertura 78,6%/86,6%. Nas mesmas 262 publicações: v20 225/262 e v19 224/262 concordantes. Modelo do juiz e tamanho do lote mudaram juntos; não isola o efeito do Pro. Custos desta linha correspondem à r2; a tentativa inicial permanece separada.
+
+## Ensaios técnicos e análises complementares
+
+- **[b30 inicial arquivado](/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/archive/b30-initial-400/):**
+  - Resultado: sem avaliação completa; gastos e chamadas incorporados à condição b30 recuperada, sem duplicação.
+
+- **[Diagnóstico de esquema](/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/diagnostics/schema/):**
+  - Resultado: duas chamadas sintéticas; consumo incluído no custo operacional do b30, sem contar como questões avaliadas.
+
+- **[Protocolo MCP](/Users/lorrainepatiele/Downloads/Desafio/output/integration/lexml-mcp/protocol/):**
+  - Resultado: verificação técnica de ferramentas; precisão, cobertura temática e custo por questão avaliada não se aplicam.
+
+- **[Retrospectiva sem juiz](/Users/lorrainepatiele/Downloads/Desafio/output/comparisons/sem-juiz-retrospectiva-20261016T235150Z/):**
+  - Resultado: simulação com respostas salvas, sem novas inferências ou novo gasto de classificação.
+
+- **[Finalização v19](/Users/lorrainepatiele/Downloads/Desafio/output/delivery/model-only-v19-359/):**
+  - Resultado: conferência e exportação das 359 decisões; resultados e custos pertencem ao tópico v19.
+
+## Referências
+
+- [Dados numéricos e proveniência](evidencias/resultados-experimentacoes.json).
+- [Decisões e justificativas](decisoes-por-experimento.md).
+- [Comparação v19/RAG](../output/comparisons/no-rag-v19/analysis.md).
+- [Comparação b30/v16](../output/comparisons/v16-v17-b30/analysis.md).

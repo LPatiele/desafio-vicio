@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "date": "2026-10-19",
+  "files": {
+    "v20-entrega.json.gz": "69aac84f17a50fc617028dac9c47764514173677c72954722b4d8ee20aeeff9c",
+    "vertex-baseline.json.gz": "8e79458ab6bfb1681044c70f9cbf8f512df9dae994fc30ca9bed55538fd170a5"
+  },
+  "csvSha256": "7252f2379f52afc0d011ada0a4da9ab5042eab0057ba16b2be791e68ffe55cb7",
+  "sourceSuite": "pro-judge-v20-359-repair-1-final",
+  "referenceVersion": "analise-propria-v2",
+  "privateNetworkLogsIncluded": false
+}

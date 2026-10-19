@@ -1,0 +1,4325 @@
+{
+  "gerado_em": "2026-10-19T03:47:18.531963-03:00",
+  "referencia": "analise-propria-v2",
+  "em_execucao_excluida": null,
+  "linhas": [
+    {
+      "key": "gemma-v0",
+      "pasta": "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb",
+      "createdAt": "2026-10-15T19:47:06.483Z",
+      "metricas": {
+        "selecionadas": 5,
+        "propostas": 0,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 5,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 5,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 5
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 5,
+      "erros": {
+        "ocorrencias_registradas": 5,
+        "categorias": {},
+        "http": {
+          "429": 5
+        },
+        "rede": 0
+      },
+      "nota": "Gemma bloqueado nas cinco questões; a sexta falha é sondagem separada. Não houve julgamento.",
+      "legado": true,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 5,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": null,
+        "fim_utc": null,
+        "marco_tempo_decorrido": null,
+        "metodo_fonte": "duração por resposta; horário final da execução não registrado",
+        "tempo_total_decorrido_s": null,
+        "tempo_acumulado_chamadas_conhecido_s": null,
+        "chamadas_com_duracao": 0,
+        "chamadas_sem_duracao_completa": 5,
+        "base_media_e_projecao": null,
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível.",
+          "5 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "sondagem-nemotron",
+      "pasta": "/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-50-12-086Z-af3acb5d",
+      "createdAt": "2026-10-15T19-50-12-086Z",
+      "metricas": {
+        "selecionadas": 1,
+        "propostas": 1,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 1,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 37820,
+          "output_tokens": 1939,
+          "usage_calls": 1,
+          "calls": 1
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 1,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0
+      },
+      "nota": "Somente classificador: uma proposta válida; não é questão avaliada pelos dois papéis.",
+      "legado": true,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": null,
+        "fim_utc": null,
+        "marco_tempo_decorrido": null,
+        "metodo_fonte": "duração por resposta; horário final da execução não registrado",
+        "tempo_total_decorrido_s": null,
+        "tempo_acumulado_chamadas_conhecido_s": 42.807,
+        "chamadas_com_duracao": 1,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo acumulado conhecido nas chamadas",
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "sondagem-gemma",
+      "pasta": "/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-51-17-827Z-589a8bcf",
+      "createdAt": "2026-10-15T19-51-17-827Z",
+      "metricas": {
+        "selecionadas": 1,
+        "propostas": 0,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 1,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 0,
+      "erros": {
+        "ocorrencias_registradas": 1,
+        "categorias": {},
+        "http": {
+          "429": 1
+        },
+        "rede": 0
+      },
+      "nota": "Repetição isolada de Q0001: novo 429, sem proposta.",
+      "legado": true,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": null,
+        "fim_utc": null,
+        "marco_tempo_decorrido": null,
+        "metodo_fonte": "duração por resposta; horário final da execução não registrado",
+        "tempo_total_decorrido_s": null,
+        "tempo_acumulado_chamadas_conhecido_s": null,
+        "chamadas_com_duracao": 0,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": null,
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "nemotron-duplo-v1",
+      "pasta": "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f",
+      "createdAt": "2026-10-15T20:09:14.504Z",
+      "metricas": {
+        "selecionadas": 5,
+        "propostas": 5,
+        "pareceres": 5,
+        "concluidas": 5,
+        "publicar": 0,
+        "revisar": 4,
+        "fora": 1,
+        "pendentes": 0,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 189149,
+          "output_tokens": 4770,
+          "usage_calls": 5,
+          "calls": 5
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 189861,
+          "output_tokens": 8372,
+          "usage_calls": 5,
+          "calls": 5
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 10,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0
+      },
+      "nota": "Cinco fluxos concluídos. Três candidatos à publicação; política experimental conservou revisão. Sem publicação liberada.",
+      "legado": true,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": null,
+        "fim_utc": null,
+        "marco_tempo_decorrido": null,
+        "metodo_fonte": "duração por resposta; horário final da execução não registrado",
+        "tempo_total_decorrido_s": null,
+        "tempo_acumulado_chamadas_conhecido_s": 362.314,
+        "chamadas_com_duracao": 10,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo acumulado conhecido nas chamadas",
+        "tempo_medio_por_questao_avaliada_s": 72.4628,
+        "estimativa_359_questoes_s": 26014.1452,
+        "notas": [
+          "Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "lote-v2-gemma-dots",
+      "pasta": "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-03-52-547Z-682480b0",
+      "createdAt": "2026-10-16T00:03:52.547Z",
+      "metricas": {
+        "selecionadas": 5,
+        "propostas": 0,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 5,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 39573,
+          "output_tokens": 1449,
+          "usage_calls": 1,
+          "calls": 2
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 2,
+      "erros": {
+        "ocorrencias_registradas": 2,
+        "categorias": {},
+        "http": {
+          "429": 1
+        },
+        "rede": 0
+      },
+      "nota": "Gemma 429; Dots sem campos obrigatórios em cinco respostas. Juiz não chamado.",
+      "legado": true,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": null,
+        "fim_utc": null,
+        "marco_tempo_decorrido": null,
+        "metodo_fonte": "duração por resposta; horário final da execução não registrado",
+        "tempo_total_decorrido_s": null,
+        "tempo_acumulado_chamadas_conhecido_s": 20.312,
+        "chamadas_com_duracao": 1,
+        "chamadas_sem_duracao_completa": 1,
+        "base_media_e_projecao": "tempo acumulado conhecido nas chamadas",
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível.",
+          "1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "lote-v3-dots-nemotron",
+      "pasta": "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e",
+      "createdAt": "2026-10-16T00:06:51.323Z",
+      "metricas": {
+        "selecionadas": 5,
+        "propostas": 5,
+        "pareceres": 5,
+        "concluidas": 5,
+        "publicar": 0,
+        "revisar": 4,
+        "fora": 1,
+        "pendentes": 0,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 39573,
+          "output_tokens": 1390,
+          "usage_calls": 1,
+          "calls": 1
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 39331,
+          "output_tokens": 13672,
+          "usage_calls": 1,
+          "calls": 1
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 2,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0
+      },
+      "nota": "Esquema estruturado: cinco fluxos em duas chamadas. Quatro candidatos, mas publicação bloqueada. Comparado ao individual: −80% chamadas, −79,3% entrada e +24,5% tempo.",
+      "legado": true,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": null,
+        "fim_utc": null,
+        "marco_tempo_decorrido": null,
+        "metodo_fonte": "duração por resposta; horário final da execução não registrado",
+        "tempo_total_decorrido_s": null,
+        "tempo_acumulado_chamadas_conhecido_s": 277.734,
+        "chamadas_com_duracao": 2,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo acumulado conhecido nas chamadas",
+        "tempo_medio_por_questao_avaliada_s": 55.5468,
+        "estimativa_359_questoes_s": 19941.301199999998,
+        "notas": [
+          "Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "controle-individual-dots-nemotron",
+      "pasta": "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7",
+      "createdAt": "2026-10-16T00:11:29.308Z",
+      "metricas": {
+        "selecionadas": 5,
+        "propostas": 5,
+        "pareceres": 5,
+        "concluidas": 5,
+        "publicar": 0,
+        "revisar": 4,
+        "fora": 1,
+        "pendentes": 0,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 191439,
+          "output_tokens": 3610,
+          "usage_calls": 5,
+          "calls": 5
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 189891,
+          "output_tokens": 6662,
+          "usage_calls": 5,
+          "calls": 5
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 10,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0
+      },
+      "nota": "Cinco fluxos em dez chamadas. Três candidatos; publicação bloqueada. Juiz afirmou falsamente ausência de ramo na árvore em Q0001.",
+      "legado": true,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": null,
+        "fim_utc": null,
+        "marco_tempo_decorrido": null,
+        "metodo_fonte": "duração por resposta; horário final da execução não registrado",
+        "tempo_total_decorrido_s": null,
+        "tempo_acumulado_chamadas_conhecido_s": 223.09,
+        "chamadas_com_duracao": 10,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo acumulado conhecido nas chamadas",
+        "tempo_medio_por_questao_avaliada_s": 44.618,
+        "estimativa_359_questoes_s": 16017.862000000001,
+        "notas": [
+          "Tempo total decorrido indisponível; a média usa a soma conhecida das chamadas, quando disponível.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "piloto-v1",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-v1",
+      "createdAt": "2026-10-16T15:13:51.504Z",
+      "metricas": {
+        "selecionadas": 30,
+        "propostas": 0,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 30,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 1
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 1,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "tecnicas": 0,
+        "decisao": 0,
+        "ids_afetados": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 1,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 0,
+      "nota": "Primeiro lote de 30 da pasta atual: timeout, juiz não chamado; não confundir com v1 da pasta anterior.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": "2026-10-16T15:13:51.870000+00:00",
+        "fim_utc": "2026-10-16T15:18:51.887000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 300.017,
+        "tempo_acumulado_chamadas_conhecido_s": 300.015,
+        "chamadas_com_duracao": 1,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "piloto-20-v3",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3",
+      "createdAt": "2026-10-16T17:10:01.550Z",
+      "metricas": {
+        "selecionadas": 20,
+        "propostas": 0,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 20,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 44710,
+          "output_tokens": 18000,
+          "usage_calls": 1,
+          "calls": 1
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 1,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "tecnicas": 0,
+        "decisao": 0,
+        "ids_afetados": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {
+          "length": 1
+        }
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 405825,
+      "nota": "JSON truncado: 17.669/18.000 tokens de saída em raciocínio. Motivou teste sem raciocínio.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": "2026-10-16T17:10:01.951000+00:00",
+        "fim_utc": "2026-10-16T17:16:47.779000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 405.828,
+        "tempo_acumulado_chamadas_conhecido_s": 405.825,
+        "chamadas_com_duracao": 1,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "piloto-20-v3-sem-raciocinio",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3-sem-raciocinio",
+      "createdAt": "2026-10-16T17:19:40.978Z",
+      "metricas": {
+        "selecionadas": 20,
+        "propostas": 20,
+        "pareceres": 20,
+        "concluidas": 20,
+        "publicar": 20,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 0,
+        "concordantes_publicadas": 14,
+        "divergentes_publicadas": 6,
+        "exatas_publicadas": 9,
+        "precisao_ramo": 0.7,
+        "precisao_exata": 0.45,
+        "cobertura": 1.0,
+        "cobertura_359": 0.055710306406685235,
+        "relacoes_publicadas": {
+          "exato": 9,
+          "distinto": 6,
+          "ancestral": 3,
+          "descendente": 2
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 84103,
+          "output_tokens": 6342,
+          "usage_calls": 2,
+          "calls": 2
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 88288,
+          "output_tokens": 5406,
+          "usage_calls": 2,
+          "calls": 2
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 4,
+      "erros": {
+        "ocorrencias_registradas": 4,
+        "tecnicas": 4,
+        "decisao": 0,
+        "ids_afetados": 4,
+        "categorias": {
+          "evidência/campo": 4
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 214443,
+      "nota": "Integração concluída, filtro publicou todas. Pela referência v1 histórica: 13/20; aqui recalculado contra v2.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-16T17:19:41.412000+00:00",
+        "fim_utc": "2026-10-16T17:27:06.616000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 445.204,
+        "tempo_acumulado_chamadas_conhecido_s": 214.44299999999998,
+        "chamadas_com_duracao": 4,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 22.2602,
+        "estimativa_359_questoes_s": 7991.411800000001,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "piloto-2x10-v3-raciocinio",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-2x10-v3-raciocinio",
+      "createdAt": "2026-10-16T17:44:41.025Z",
+      "metricas": {
+        "selecionadas": 20,
+        "propostas": 20,
+        "pareceres": 20,
+        "concluidas": 19,
+        "publicar": 19,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 1,
+        "concordantes_publicadas": 13,
+        "divergentes_publicadas": 6,
+        "exatas_publicadas": 10,
+        "precisao_ramo": 0.6842105263157895,
+        "precisao_exata": 0.5263157894736842,
+        "cobertura": 0.95,
+        "cobertura_359": 0.052924791086350974,
+        "relacoes_publicadas": {
+          "exato": 10,
+          "distinto": 4,
+          "ancestral": 3,
+          "irmao": 2
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 123391,
+          "output_tokens": 39501,
+          "usage_calls": 3,
+          "calls": 3
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 126879,
+          "output_tokens": 10854,
+          "usage_calls": 3,
+          "calls": 3
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 6,
+      "erros": {
+        "ocorrencias_registradas": 5,
+        "tecnicas": 4,
+        "decisao": 1,
+        "ids_afetados": 4,
+        "categorias": {
+          "evidência/campo": 4,
+          "decisão sem tema válido": 1
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 1149657,
+      "nota": "Classificador manteve 13/20 na referência histórica. Seis chamadas; tempo somado 5,36 vezes o anterior; o aumento publicado histórico veio do denominador.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-16T17:44:41.437000+00:00",
+        "fim_utc": "2026-10-16T18:05:17.007000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 1235.57,
+        "tempo_acumulado_chamadas_conhecido_s": 1149.6570000000002,
+        "chamadas_com_duracao": 6,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 65.03,
+        "estimativa_359_questoes_s": 23345.77,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "piloto-5x10-v3-juiz-nemotron35",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-juiz-nemotron35",
+      "createdAt": "2026-10-16T18:32:47.396Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 50,
+        "concluidas": 49,
+        "publicar": 39,
+        "revisar": 9,
+        "fora": 1,
+        "pendentes": 1,
+        "concordantes_publicadas": 30,
+        "divergentes_publicadas": 9,
+        "exatas_publicadas": 23,
+        "precisao_ramo": 0.7692307692307693,
+        "precisao_exata": 0.5897435897435898,
+        "cobertura": 0.78,
+        "cobertura_359": 0.10863509749303621,
+        "relacoes_publicadas": {
+          "exato": 23,
+          "distinto": 5,
+          "ancestral": 7,
+          "irmao": 4
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 287616,
+          "output_tokens": 61956,
+          "usage_calls": 7,
+          "calls": 7
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 296918,
+          "output_tokens": 72260,
+          "usage_calls": 7,
+          "calls": 7
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 14,
+      "erros": {
+        "ocorrencias_registradas": 7,
+        "tecnicas": 6,
+        "decisao": 1,
+        "ids_afetados": 4,
+        "categorias": {
+          "evidência/campo": 6,
+          "decisão sem tema válido": 1
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {
+          "length": 1
+        }
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 2000339,
+      "nota": "Controle N3/N3.5: 14 chamadas. Comparar à inversão nos mesmos 50 IDs, não apenas publicações selecionadas.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-16T18:32:47.830000+00:00",
+        "fim_utc": "2026-10-16T19:47:21.114000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 4473.284,
+        "tempo_acumulado_chamadas_conhecido_s": 2000.3390000000002,
+        "chamadas_com_duracao": 14,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 91.29151020408163,
+        "estimativa_359_questoes_s": 32773.65216326531,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "piloto-5x10-v3-invertido-nemotron35",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-invertido-nemotron35",
+      "createdAt": "2026-10-16T19:08:50.581Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 50,
+        "concluidas": 50,
+        "publicar": 45,
+        "revisar": 5,
+        "fora": 0,
+        "pendentes": 0,
+        "concordantes_publicadas": 35,
+        "divergentes_publicadas": 10,
+        "exatas_publicadas": 28,
+        "precisao_ramo": 0.7777777777777778,
+        "precisao_exata": 0.6222222222222222,
+        "cobertura": 0.9,
+        "cobertura_359": 0.12534818941504178,
+        "relacoes_publicadas": {
+          "exato": 28,
+          "ancestral": 6,
+          "distinto": 7,
+          "irmao": 3,
+          "descendente": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 207344,
+          "output_tokens": 80713,
+          "usage_calls": 5,
+          "calls": 5
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 218202,
+          "output_tokens": 53164,
+          "usage_calls": 5,
+          "calls": 5
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 10,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "tecnicas": 0,
+        "decisao": 0,
+        "ids_afetados": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 1994600,
+      "nota": "N3.5/N3: 10 chamadas, todas as decisões. Nas mesmas 37 publicações do controle, 30 concordantes contra 29.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-16T19:08:50.980000+00:00",
+        "fim_utc": "2026-10-16T19:42:05.822000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 1994.842,
+        "tempo_acumulado_chamadas_conhecido_s": 1994.6000000000001,
+        "chamadas_com_duracao": 10,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 39.896840000000005,
+        "estimativa_359_questoes_s": 14322.965560000002,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "piloto-5x10-v2-invertido-nemotron35",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-invertido-nemotron35",
+      "createdAt": "2026-10-16T21:37:56.145Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 39,
+        "pareceres": 39,
+        "concluidas": 39,
+        "publicar": 11,
+        "revisar": 27,
+        "fora": 1,
+        "pendentes": 11,
+        "concordantes_publicadas": 9,
+        "divergentes_publicadas": 2,
+        "exatas_publicadas": 9,
+        "precisao_ramo": 0.8181818181818182,
+        "precisao_exata": 0.8181818181818182,
+        "cobertura": 0.22,
+        "cobertura_359": 0.03064066852367688,
+        "relacoes_publicadas": {
+          "exato": 9,
+          "irmao": 1,
+          "distinto": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 285117,
+          "output_tokens": 116649,
+          "usage_calls": 7,
+          "calls": 8
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 284218,
+          "output_tokens": 42308,
+          "usage_calls": 7,
+          "calls": 7
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 15,
+      "erros": {
+        "ocorrencias_registradas": 28,
+        "tecnicas": 28,
+        "decisao": 0,
+        "ids_afetados": 17,
+        "categorias": {
+          "evidência/campo": 28
+        },
+        "http": {},
+        "rede": 1,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 2224313,
+      "nota": "V2 N3.5/N3: proporção publicada maior com apenas 11 publicações e 11 pendências; não é superioridade comprovada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-16T21:37:56.428000+00:00",
+        "fim_utc": "2026-10-16T23:46:55.458000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 7739.03,
+        "tempo_acumulado_chamadas_conhecido_s": 3262.9910000000004,
+        "chamadas_com_duracao": 15,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 198.43666666666667,
+        "estimativa_359_questoes_s": 71238.76333333334,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "piloto-5x10-v2-juiz-nemotron35",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-juiz-nemotron35",
+      "createdAt": "2026-10-16T21:38:12.474Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 49,
+        "pareceres": 49,
+        "concluidas": 48,
+        "publicar": 38,
+        "revisar": 10,
+        "fora": 0,
+        "pendentes": 2,
+        "concordantes_publicadas": 29,
+        "divergentes_publicadas": 9,
+        "exatas_publicadas": 24,
+        "precisao_ramo": 0.7631578947368421,
+        "precisao_exata": 0.631578947368421,
+        "cobertura": 0.76,
+        "cobertura_359": 0.10584958217270195,
+        "relacoes_publicadas": {
+          "exato": 24,
+          "distinto": 5,
+          "irmao": 4,
+          "ancestral": 5
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 2,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 321857,
+          "output_tokens": 69627,
+          "usage_calls": 8,
+          "calls": 10
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 290720,
+          "output_tokens": 81579,
+          "usage_calls": 7,
+          "calls": 7
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 17,
+      "erros": {
+        "ocorrencias_registradas": 14,
+        "tecnicas": 13,
+        "decisao": 1,
+        "ids_afetados": 12,
+        "categorias": {
+          "evidência/campo": 13,
+          "decisão sem tema válido": 1
+        },
+        "http": {},
+        "rede": 2,
+        "encerramentos_anormais": {
+          "length": 2
+        }
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 1971643,
+      "nota": "V2 N3/N3.5: duas pendências; não demonstrou ganho consistente frente à v3. Q0044 sem proposta válida.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 2,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-16T21:38:12.744000+00:00",
+        "fim_utc": "2026-10-16T23:33:04.263000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 6891.519,
+        "tempo_acumulado_chamadas_conhecido_s": 4128.154,
+        "chamadas_com_duracao": 17,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 143.57331250000001,
+        "estimativa_359_questoes_s": 51542.819187500005,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "individual-v3-invertido-50",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/individual-v3-invertido-50",
+      "createdAt": "2026-10-17T00:46:12.793Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 49,
+        "concluidas": 49,
+        "publicar": 38,
+        "revisar": 8,
+        "fora": 3,
+        "pendentes": 1,
+        "concordantes_publicadas": 28,
+        "divergentes_publicadas": 10,
+        "exatas_publicadas": 23,
+        "precisao_ramo": 0.7368421052631579,
+        "precisao_exata": 0.6052631578947368,
+        "cobertura": 0.76,
+        "cobertura_359": 0.10584958217270195,
+        "relacoes_publicadas": {
+          "exato": 23,
+          "distinto": 7,
+          "irmao": 3,
+          "ancestral": 5
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2069776,
+          "output_tokens": 184296,
+          "usage_calls": 53,
+          "calls": 54
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 2,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2237346,
+          "output_tokens": 129114,
+          "usage_calls": 57,
+          "calls": 59
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 113,
+      "erros": {
+        "ocorrencias_registradas": 14,
+        "tecnicas": 14,
+        "decisao": 0,
+        "ids_afetados": 8,
+        "categorias": {
+          "timeout": 3,
+          "evidência/campo": 3,
+          "saída interrompida": 3,
+          "contradição do parecer": 5
+        },
+        "http": {},
+        "rede": 3,
+        "encerramentos_anormais": {
+          "error": 3
+        }
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 7148922,
+      "nota": "Individual: nas mesmas 36 publicações do lote invertido, 26 concordantes contra 31. Mais chamadas e menor cobertura.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 3,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-17T00:46:13.186000+00:00",
+        "fim_utc": "2026-10-17T03:38:27.536000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 10334.35,
+        "tempo_acumulado_chamadas_conhecido_s": 10281.592,
+        "chamadas_com_duracao": 113,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 210.90510204081633,
+        "estimativa_359_questoes_s": 75714.93163265307,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "contexto-api-v5-q0001",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/contexto-api-v5-q0001",
+      "createdAt": "2026-10-17T14:28:59.190Z",
+      "metricas": {
+        "selecionadas": 1,
+        "propostas": 1,
+        "pareceres": 1,
+        "concluidas": 1,
+        "publicar": 0,
+        "revisar": 1,
+        "fora": 0,
+        "pendentes": 0,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 39025,
+          "output_tokens": 1888,
+          "usage_calls": 1,
+          "calls": 2
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 40724,
+          "output_tokens": 1603,
+          "usage_calls": 1,
+          "calls": 1
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 3,
+      "erros": {
+        "ocorrencias_registradas": 1,
+        "tecnicas": 1,
+        "decisao": 0,
+        "ids_afetados": 1,
+        "categorias": {
+          "HTTP": 1
+        },
+        "http": {
+          "502": 1
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 69367,
+      "nota": "Busca remota indisponível/incompleta levou a revisão; uma questão não mede ganho de pesquisa.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-17T14:28:59.638000+00:00",
+        "fim_utc": "2026-10-17T14:30:21.130000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 81.492,
+        "tempo_acumulado_chamadas_conhecido_s": 69.367,
+        "chamadas_com_duracao": 3,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 81.492,
+        "estimativa_359_questoes_s": 29255.628,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "local-penal50-v7",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v7",
+      "createdAt": "2026-10-17T17:58:04.251Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 50,
+        "concluidas": 49,
+        "publicar": 28,
+        "revisar": 20,
+        "fora": 1,
+        "pendentes": 1,
+        "concordantes_publicadas": 24,
+        "divergentes_publicadas": 4,
+        "exatas_publicadas": 20,
+        "precisao_ramo": 0.8571428571428571,
+        "precisao_exata": 0.7142857142857143,
+        "cobertura": 0.56,
+        "cobertura_359": 0.07799442896935933,
+        "relacoes_publicadas": {
+          "exato": 20,
+          "irmao": 2,
+          "ancestral": 4,
+          "distinto": 2
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2219299,
+          "output_tokens": 136569,
+          "usage_calls": 51,
+          "calls": 52
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 52,
+      "erros": {
+        "ocorrencias_registradas": 3,
+        "tecnicas": 2,
+        "decisao": 1,
+        "ids_afetados": 3,
+        "categorias": {
+          "decisão sem tema válido": 1,
+          "HTTP": 1,
+          "saída interrompida": 1
+        },
+        "http": {
+          "502": 1
+        },
+        "rede": 0,
+        "encerramentos_anormais": {
+          "error": 1
+        }
+      },
+      "inclui_custos": [],
+      "importacao": "individual-v3-invertido-50",
+      "duracao_somada_respostas_ms": 4069737,
+      "nota": "RAG+prompt+política: 85,7% publicados e 56% cobertura, frente a 73,7%/76% no individual. Não isola RAG; propostas reaproveitadas. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 1,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 2,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-17T17:58:04.702000+00:00",
+        "fim_utc": "2026-10-17T19:06:09.652000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 4084.95,
+        "tempo_acumulado_chamadas_conhecido_s": 4069.7369999999996,
+        "chamadas_com_duracao": 52,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 83.36632653061224,
+        "estimativa_359_questoes_s": 29928.511224489794,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Medição local da condição: não inclui o tempo histórico do classificador reaproveitado.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "local-penal50-v8-auto",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto",
+      "createdAt": "2026-10-17T23:09:51.463Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 2,
+        "concluidas": 2,
+        "publicar": 1,
+        "revisar": 1,
+        "fora": 0,
+        "pendentes": 48,
+        "concordantes_publicadas": 1,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 1,
+        "precisao_ramo": 1.0,
+        "precisao_exata": 1.0,
+        "cobertura": 0.02,
+        "cobertura_359": 0.002785515320334262,
+        "relacoes_publicadas": {
+          "exato": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 88390,
+          "output_tokens": 2704,
+          "usage_calls": 2,
+          "calls": 3
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 3,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "tecnicas": 0,
+        "decisao": 0,
+        "ids_afetados": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": "individual-v3-invertido-50",
+      "duracao_somada_respostas_ms": 62075,
+      "nota": "Ensaio interrompido por campo extra index no protocolo; excluir da comparação final v8. Propostas importadas. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 1,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 2,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-17T23:09:51.878000+00:00",
+        "fim_utc": "2026-10-17T23:10:57.217000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 65.339,
+        "tempo_acumulado_chamadas_conhecido_s": 62.075,
+        "chamadas_com_duracao": 2,
+        "chamadas_sem_duracao_completa": 1,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 32.6695,
+        "estimativa_359_questoes_s": 11728.3505,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento.",
+          "Medição local da condição: não inclui o tempo histórico do classificador reaproveitado.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "local-penal50-v8-tools",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools",
+      "createdAt": "2026-10-17T23:09:53.010Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 2,
+        "concluidas": 2,
+        "publicar": 1,
+        "revisar": 1,
+        "fora": 0,
+        "pendentes": 48,
+        "concordantes_publicadas": 1,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 1,
+        "precisao_ramo": 1.0,
+        "precisao_exata": 1.0,
+        "cobertura": 0.02,
+        "cobertura_359": 0.002785515320334262,
+        "relacoes_publicadas": {
+          "exato": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 260633,
+          "output_tokens": 3000,
+          "usage_calls": 6,
+          "calls": 7
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 7,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "tecnicas": 0,
+        "decisao": 0,
+        "ids_afetados": 0,
+        "categorias": {},
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": "individual-v3-invertido-50",
+      "duracao_somada_respostas_ms": 72663,
+      "nota": "Ensaio interrompido pela mesma incompatibilidade; excluir da comparação final v8. Propostas importadas. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 1,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 2,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-17T23:09:55.885000+00:00",
+        "fim_utc": "2026-10-17T23:11:10.118000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 74.233,
+        "tempo_acumulado_chamadas_conhecido_s": 72.66300000000001,
+        "chamadas_com_duracao": 6,
+        "chamadas_sem_duracao_completa": 1,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 37.1165,
+        "estimativa_359_questoes_s": 13324.8235,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento.",
+          "Medição local da condição: não inclui o tempo histórico do classificador reaproveitado.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "local-penal50-v8-tools-r2",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools-r2",
+      "createdAt": "2026-10-17T23:12:05.849Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 49,
+        "concluidas": 47,
+        "publicar": 36,
+        "revisar": 11,
+        "fora": 0,
+        "pendentes": 3,
+        "concordantes_publicadas": 29,
+        "divergentes_publicadas": 7,
+        "exatas_publicadas": 25,
+        "precisao_ramo": 0.8055555555555556,
+        "precisao_exata": 0.6944444444444444,
+        "cobertura": 0.72,
+        "cobertura_359": 0.10027855153203342,
+        "relacoes_publicadas": {
+          "exato": 25,
+          "distinto": 5,
+          "irmao": 2,
+          "ancestral": 4
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 6184610,
+          "output_tokens": 117351,
+          "usage_calls": 142,
+          "calls": 142
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 142,
+      "erros": {
+        "ocorrencias_registradas": 6,
+        "tecnicas": 4,
+        "decisao": 2,
+        "ids_afetados": 4,
+        "categorias": {
+          "decisão sem tema válido": 2,
+          "contradição do parecer": 4
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": "individual-v3-invertido-50",
+      "duracao_somada_respostas_ms": 2442170,
+      "nota": "Contra automático: +18 p.p. cobertura, −4,6 p.p. concordância e 142/54 = 2,63 vezes envios do juiz. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 1,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-17T23:12:06.299000+00:00",
+        "fim_utc": "2026-10-17T23:54:21.109000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 2534.81,
+        "tempo_acumulado_chamadas_conhecido_s": 2442.169999999999,
+        "chamadas_com_duracao": 142,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 53.93212765957447,
+        "estimativa_359_questoes_s": 19361.633829787235,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Medição local da condição: não inclui o tempo histórico do classificador reaproveitado.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "local-penal50-v8-auto-r2",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto-r2",
+      "createdAt": "2026-10-17T23:15:04.906Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 49,
+        "concluidas": 48,
+        "publicar": 27,
+        "revisar": 19,
+        "fora": 2,
+        "pendentes": 2,
+        "concordantes_publicadas": 23,
+        "divergentes_publicadas": 4,
+        "exatas_publicadas": 20,
+        "precisao_ramo": 0.8518518518518519,
+        "precisao_exata": 0.7407407407407407,
+        "cobertura": 0.54,
+        "cobertura_359": 0.07520891364902507,
+        "relacoes_publicadas": {
+          "exato": 20,
+          "irmao": 2,
+          "ancestral": 3,
+          "distinto": 2
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2381411,
+          "output_tokens": 138835,
+          "usage_calls": 54,
+          "calls": 54
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 54,
+      "erros": {
+        "ocorrencias_registradas": 6,
+        "tecnicas": 5,
+        "decisao": 1,
+        "ids_afetados": 2,
+        "categorias": {
+          "decisão sem tema válido": 1,
+          "contradição do parecer": 5
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": "individual-v3-invertido-50",
+      "duracao_somada_respostas_ms": 2629982,
+      "nota": "Controle v8 definitivo, menor custo de chamadas e maior concordância que ferramentas. 46 decisões comuns entre os braços. Classificador reaproveitado de individual-v3-invertido-50; custo histórico desse papel incluído na visão C+J, sem nova chamada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 1,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-17T23:15:05.209000+00:00",
+        "fim_utc": "2026-10-18T00:00:02.860000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 2697.651,
+        "tempo_acumulado_chamadas_conhecido_s": 2629.9820000000013,
+        "chamadas_com_duracao": 54,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 56.2010625,
+        "estimativa_359_questoes_s": 20176.1814375,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Medição local da condição: não inclui o tempo histórico do classificador reaproveitado.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "local-penal50-v9-classifier-tools",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-classifier-tools",
+      "createdAt": "2026-10-18T02:00:37.959Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 49,
+        "concluidas": 49,
+        "publicar": 31,
+        "revisar": 17,
+        "fora": 1,
+        "pendentes": 1,
+        "concordantes_publicadas": 26,
+        "divergentes_publicadas": 5,
+        "exatas_publicadas": 22,
+        "precisao_ramo": 0.8387096774193549,
+        "precisao_exata": 0.7096774193548387,
+        "cobertura": 0.62,
+        "cobertura_359": 0.08635097493036212,
+        "relacoes_publicadas": {
+          "exato": 22,
+          "ancestral": 3,
+          "distinto": 4,
+          "descendente": 1,
+          "irmao": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 5216984,
+          "output_tokens": 297020,
+          "usage_calls": 121,
+          "calls": 121
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2339871,
+          "output_tokens": 125523,
+          "usage_calls": 53,
+          "calls": 54
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 175,
+      "erros": {
+        "ocorrencias_registradas": 9,
+        "tecnicas": 9,
+        "decisao": 0,
+        "ids_afetados": 5,
+        "categorias": {
+          "saída interrompida": 2,
+          "protocolo/ferramenta": 1,
+          "contradição do parecer": 4,
+          "HTTP": 1,
+          "evidência/campo": 1
+        },
+        "http": {
+          "502": 1
+        },
+        "rede": 0,
+        "encerramentos_anormais": {
+          "error": 2
+        }
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 6565547,
+      "nota": "Contra controle: +8 p.p. cobertura, −1,3 p.p. concordância, +73,3% chamadas (175/101); três concordantes e uma divergente líquidas a mais.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-18T02:00:38.372000+00:00",
+        "fim_utc": "2026-10-18T03:51:48.246000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 6669.874,
+        "tempo_acumulado_chamadas_conhecido_s": 6565.547000000002,
+        "chamadas_com_duracao": 175,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 136.1198775510204,
+        "estimativa_359_questoes_s": 48867.036040816325,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "local-penal50-v9-control",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-control",
+      "createdAt": "2026-10-18T02:02:40.954Z",
+      "metricas": {
+        "selecionadas": 50,
+        "propostas": 50,
+        "pareceres": 50,
+        "concluidas": 50,
+        "publicar": 27,
+        "revisar": 20,
+        "fora": 3,
+        "pendentes": 0,
+        "concordantes_publicadas": 23,
+        "divergentes_publicadas": 4,
+        "exatas_publicadas": 19,
+        "precisao_ramo": 0.8518518518518519,
+        "precisao_exata": 0.7037037037037037,
+        "cobertura": 0.54,
+        "cobertura_359": 0.07520891364902507,
+        "relacoes_publicadas": {
+          "exato": 19,
+          "ancestral": 4,
+          "irmao": 1,
+          "distinto": 3
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 1991633,
+          "output_tokens": 203591,
+          "usage_calls": 51,
+          "calls": 51
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2205740,
+          "output_tokens": 113507,
+          "usage_calls": 50,
+          "calls": 50
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 101,
+      "erros": {
+        "ocorrencias_registradas": 1,
+        "tecnicas": 1,
+        "decisao": 0,
+        "ids_afetados": 1,
+        "categorias": {
+          "evidência/campo": 1
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 5301584,
+      "nota": "Controle contemporâneo sem RAG no classificador; propostas novas nas duas condições v9.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.0,
+      "tempos": {
+        "inicio_utc": "2026-10-18T02:02:41.268000+00:00",
+        "fim_utc": "2026-10-18T03:31:26.353000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 5325.085,
+        "tempo_acumulado_chamadas_conhecido_s": 5301.583999999998,
+        "chamadas_com_duracao": 101,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 106.5017,
+        "estimativa_359_questoes_s": 38234.1103,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "pagos-v10-gemini-openai",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai",
+      "createdAt": "2026-10-18T14:10:49.171Z",
+      "metricas": {
+        "selecionadas": 1,
+        "propostas": 0,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 1,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.480884,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 1
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 1,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "tecnicas": 0,
+        "decisao": 0,
+        "ids_afetados": 0,
+        "categorias": {},
+        "http": {
+          "429": 1
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 716,
+      "nota": "Cota zero para o classificador; nenhuma decisão. Não há evidência sobre a qualidade da dupla.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.480884,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": "2026-10-18T14:10:50.095000+00:00",
+        "fim_utc": "2026-10-18T14:10:50.814000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 0.719,
+        "tempo_acumulado_chamadas_conhecido_s": 0.716,
+        "chamadas_com_duracao": 1,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "pagos-v10-juiz-isolado",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado",
+      "createdAt": "2026-10-18T14:18:36.472Z",
+      "metricas": {
+        "selecionadas": 1,
+        "propostas": 1,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 1,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 2,
+          "reserved_unknown_usd": 0.7857675,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 2
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 2,
+      "erros": {
+        "ocorrencias_registradas": 2,
+        "tecnicas": 2,
+        "decisao": 0,
+        "ids_afetados": 1,
+        "categorias": {
+          "HTTP": 2
+        },
+        "http": {
+          "429": 2
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": "local-penal50-v9-classifier-tools",
+      "duracao_somada_respostas_ms": 4131,
+      "nota": "Proposta importada; juiz sem resposta válida e reserva insuficiente para continuar. Não mede qualidade de GPT-5.2. Classificador reaproveitado de local-penal50-v9-classifier-tools; custo histórico desse papel incluído na visão C+J, sem nova chamada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 2,
+      "reserva_desconhecida_usd": 0.7857675,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": "2026-10-18T14:18:37.492000+00:00",
+        "fim_utc": "2026-10-18T14:19:41.658000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 64.166,
+        "tempo_acumulado_chamadas_conhecido_s": 4.131,
+        "chamadas_com_duracao": 2,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Medição local da condição: não inclui o tempo histórico do classificador reaproveitado.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "gemini-flash-v11-piloto",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto",
+      "createdAt": "2026-10-18T14:31:29.566Z",
+      "metricas": {
+        "selecionadas": 10,
+        "propostas": 10,
+        "pareceres": 10,
+        "concluidas": 10,
+        "publicar": 7,
+        "revisar": 3,
+        "fora": 0,
+        "pendentes": 0,
+        "concordantes_publicadas": 7,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 5,
+        "precisao_ramo": 1.0,
+        "precisao_exata": 0.7142857142857143,
+        "cobertura": 0.7,
+        "cobertura_359": 0.019498607242339833,
+        "relacoes_publicadas": {
+          "descendente": 1,
+          "exato": 5,
+          "ancestral": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.149346475,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 1000117,
+          "output_tokens": 31482,
+          "usage_calls": 26,
+          "calls": 26
+        },
+        "judge": {
+          "known_usd": 0.138933375,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 401306,
+          "output_tokens": 14529,
+          "usage_calls": 10,
+          "calls": 10
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 36,
+      "erros": {
+        "ocorrencias_registradas": 4,
+        "tecnicas": 4,
+        "decisao": 0,
+        "ids_afetados": 3,
+        "categorias": {
+          "evidência/campo": 4
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 353984,
+      "nota": "Mesmos 10 IDs: 7/7 por ramo contra 6/7 no Nemotron v9. Só sete publicações; Wilson 95% ≈64,6%–100%.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.28827985,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.028827985,
+      "tempos": {
+        "inicio_utc": "2026-10-18T14:31:30.063000+00:00",
+        "fim_utc": "2026-10-18T14:39:22.476000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 472.413,
+        "tempo_acumulado_chamadas_conhecido_s": 353.9839999999999,
+        "chamadas_com_duracao": 36,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 47.2413,
+        "estimativa_359_questoes_s": 16959.6267,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "gemini-flash-v13-livros-359",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359",
+      "createdAt": "2026-10-18T18:07:37.379Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 11,
+        "pareceres": 10,
+        "concluidas": 10,
+        "publicar": 9,
+        "revisar": 1,
+        "fora": 0,
+        "pendentes": 349,
+        "concordantes_publicadas": 8,
+        "divergentes_publicadas": 1,
+        "exatas_publicadas": 5,
+        "precisao_ramo": 0.8888888888888888,
+        "precisao_exata": 0.5555555555555556,
+        "cobertura": 0.025069637883008356,
+        "cobertura_359": 0.025069637883008356,
+        "relacoes_publicadas": {
+          "descendente": 2,
+          "exato": 5,
+          "ancestral": 1,
+          "irmao": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.183429725,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 1039505,
+          "output_tokens": 37054,
+          "usage_calls": 27,
+          "calls": 27
+        },
+        "judge": {
+          "known_usd": 0.14594009999999996,
+          "unknown_calls": 3,
+          "reserved_unknown_usd": 0.44777325,
+          "input_tokens": 405227,
+          "output_tokens": 16818,
+          "usage_calls": 10,
+          "calls": 13
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 40,
+      "erros": {
+        "ocorrencias_registradas": 6,
+        "tecnicas": 6,
+        "decisao": 0,
+        "ids_afetados": 3,
+        "categorias": {
+          "protocolo/ferramenta": 2,
+          "evidência/campo": 2,
+          "HTTP": 2
+        },
+        "http": {
+          "503": 2,
+          "429": 1
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 432481,
+      "nota": "Nos dez concluídos: 8/9 publicados contra 7/7 no v11; base/prompts/política mudaram juntos. Cobertura do case 9/359.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.32936982499999995,
+      "chamadas_custo_desconhecido_cj": 3,
+      "reserva_desconhecida_usd": 0.44777325,
+      "custo_conhecido_por_avaliada_usd": 0.032936982499999996,
+      "tempos": {
+        "inicio_utc": "2026-10-18T18:07:37.856000+00:00",
+        "fim_utc": "2026-10-18T18:15:50.527000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 492.671,
+        "tempo_acumulado_chamadas_conhecido_s": 432.48100000000005,
+        "chamadas_com_duracao": 40,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 49.2671,
+        "estimativa_359_questoes_s": 17686.888899999998,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "gemini35-v15-livros-359",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359",
+      "createdAt": "2026-10-18T19:09:57.438Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 2,
+        "pareceres": 1,
+        "concluidas": 1,
+        "publicar": 1,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 358,
+        "concordantes_publicadas": 1,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": 1.0,
+        "precisao_exata": 0.0,
+        "cobertura": 0.002785515320334262,
+        "cobertura_359": 0.002785515320334262,
+        "relacoes_publicadas": {
+          "descendente": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.04784794,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 190874,
+          "output_tokens": 3550,
+          "usage_calls": 5,
+          "calls": 5
+        },
+        "judge": {
+          "known_usd": 0.03573075,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.152535,
+          "input_tokens": 41456,
+          "output_tokens": 1237,
+          "usage_calls": 1,
+          "calls": 2
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 7,
+      "erros": {
+        "ocorrencias_registradas": 0,
+        "tecnicas": 0,
+        "decisao": 0,
+        "ids_afetados": 0,
+        "categorias": {},
+        "http": {
+          "429": 1
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 28193,
+      "nota": "Somente uma decisão; bloqueio diário do juiz, não excesso observado de RPM. Sem conclusão de qualidade.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.08357869,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.152535,
+      "custo_conhecido_por_avaliada_usd": 0.08357869,
+      "tempos": {
+        "inicio_utc": "2026-10-18T19:09:58.126000+00:00",
+        "fim_utc": "2026-10-18T19:10:26.948000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 28.822,
+        "tempo_acumulado_chamadas_conhecido_s": 28.192999999999998,
+        "chamadas_com_duracao": 7,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 28.822,
+        "estimativa_359_questoes_s": 10347.098,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "gemini35-v16-projeto2-359",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359",
+      "createdAt": "2026-10-18T20:09:44.134Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 181,
+        "pareceres": 180,
+        "concluidas": 180,
+        "publicar": 152,
+        "revisar": 26,
+        "fora": 2,
+        "pendentes": 179,
+        "concordantes_publicadas": 130,
+        "divergentes_publicadas": 22,
+        "exatas_publicadas": 110,
+        "precisao_ramo": 0.8552631578947368,
+        "precisao_exata": 0.7236842105263158,
+        "cobertura": 0.4233983286908078,
+        "cobertura_359": 0.4233983286908078,
+        "relacoes_publicadas": {
+          "exato": 110,
+          "irmao": 6,
+          "ancestral": 16,
+          "descendente": 4,
+          "distinto": 16
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 2.0865104100000003,
+          "unknown_calls": 6,
+          "reserved_unknown_usd": 0.5137383,
+          "input_tokens": 18323860,
+          "output_tokens": 344886,
+          "usage_calls": 481,
+          "calls": 487
+        },
+        "judge": {
+          "known_usd": 2.0975848499999996,
+          "unknown_calls": 6,
+          "reserved_unknown_usd": 0.89216625,
+          "input_tokens": 7288511,
+          "output_tokens": 228601,
+          "usage_calls": 180,
+          "calls": 186
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 673,
+      "erros": {
+        "ocorrencias_registradas": 16,
+        "tecnicas": 16,
+        "decisao": 0,
+        "ids_afetados": 11,
+        "categorias": {
+          "evidência/campo": 8,
+          "outra validação/execução": 1,
+          "HTTP": 7
+        },
+        "http": {
+          "402": 4,
+          "429": 8
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 3461423,
+      "nota": "Individual interrompido por bloqueio financeiro; 179 pendências. Comparação pareada com b30 disponível, sem condição integral completa.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 4.184095259999999,
+      "chamadas_custo_desconhecido_cj": 12,
+      "reserva_desconhecida_usd": 1.40590455,
+      "custo_conhecido_por_avaliada_usd": 0.023244973666666665,
+      "tempos": {
+        "inicio_utc": "2026-10-18T20:09:45.405000+00:00",
+        "fim_utc": "2026-10-18T23:21:31.272000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 11505.867,
+        "tempo_acumulado_chamadas_conhecido_s": 3461.4229999999975,
+        "chamadas_com_duracao": 673,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 63.921483333333335,
+        "estimativa_359_questoes_s": 22947.81251666667,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "paid-v17-b30",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b30",
+      "createdAt": "2026-10-18T21:56:48.226Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 161,
+        "pareceres": 161,
+        "concluidas": 161,
+        "publicar": 131,
+        "revisar": 30,
+        "fora": 0,
+        "pendentes": 198,
+        "concordantes_publicadas": 112,
+        "divergentes_publicadas": 19,
+        "exatas_publicadas": 93,
+        "precisao_ramo": 0.8549618320610687,
+        "precisao_exata": 0.7099236641221374,
+        "cobertura": 0.3649025069637883,
+        "cobertura_359": 0.3649025069637883,
+        "relacoes_publicadas": {
+          "exato": 93,
+          "descendente": 4,
+          "irmao": 6,
+          "distinto": 13,
+          "ancestral": 15
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 1.17961837,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.2623585,
+          "input_tokens": 3737607,
+          "output_tokens": 263116,
+          "usage_calls": 54,
+          "calls": 55
+        },
+        "judge": {
+          "known_usd": 1.015775625,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 1075737,
+          "output_tokens": 131714,
+          "usage_calls": 12,
+          "calls": 12
+        },
+        "diagnostic": {
+          "known_usd": 0.00047410000000000003,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.0046312,
+          "input_tokens": 347,
+          "output_tokens": 148,
+          "usage_calls": 1,
+          "calls": 2
+        }
+      },
+      "chamadas": 69,
+      "erros": {
+        "ocorrencias_registradas": 643,
+        "tecnicas": 643,
+        "decisao": 0,
+        "ids_afetados": 236,
+        "categorias": {
+          "consulta obrigatória ausente": 518,
+          "evidência/campo": 19,
+          "resultado ausente": 76,
+          "outra validação/execução": 30
+        },
+        "http": {
+          "400": 2
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [
+        "output/paid-v17/paid-v17-359/archive/b30-initial-400",
+        "output/paid-v17/paid-v17-359/diagnostics/schema"
+      ],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 1450341,
+      "nota": "Lote 30: mais rápido e menor custo por decisão, mas 198 pendências. Nas 66 publicações comuns à v16: 54 concordantes contra 60.",
+      "duracao_ultima_invocacao_segundos": 1462.004,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 2.195868095,
+      "chamadas_custo_desconhecido_cj": 2,
+      "reserva_desconhecida_usd": 0.2669897,
+      "custo_conhecido_por_avaliada_usd": 0.013638932267080744,
+      "tempos": {
+        "inicio_utc": "2026-10-18T21:51:34.836000+00:00",
+        "fim_utc": "2026-10-18T22:21:09.917000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 1775.081,
+        "tempo_acumulado_chamadas_conhecido_s": 1450.3410000000001,
+        "chamadas_com_duracao": 69,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 11.025347826086955,
+        "estimativa_359_questoes_s": 3958.099869565217,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "paid-v17-b20",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b20",
+      "createdAt": "2026-10-18T22:21:10.232Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 46,
+        "pareceres": 27,
+        "concluidas": 27,
+        "publicar": 22,
+        "revisar": 5,
+        "fora": 0,
+        "pendentes": 332,
+        "concordantes_publicadas": 20,
+        "divergentes_publicadas": 2,
+        "exatas_publicadas": 19,
+        "precisao_ramo": 0.9090909090909091,
+        "precisao_exata": 0.8636363636363636,
+        "cobertura": 0.06128133704735376,
+        "cobertura_359": 0.06128133704735376,
+        "relacoes_publicadas": {
+          "exato": 19,
+          "irmao": 1,
+          "ancestral": 1,
+          "distinto": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.3753154999999999,
+          "unknown_calls": 5,
+          "reserved_unknown_usd": 1.1161106,
+          "input_tokens": 1296259,
+          "output_tokens": 68810,
+          "usage_calls": 21,
+          "calls": 26
+        },
+        "judge": {
+          "known_usd": 0.2166315,
+          "unknown_calls": 5,
+          "reserved_unknown_usd": 2.64409275,
+          "input_tokens": 260053,
+          "output_tokens": 24917,
+          "usage_calls": 4,
+          "calls": 9
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 35,
+      "erros": {
+        "ocorrencias_registradas": 277,
+        "tecnicas": 277,
+        "decisao": 0,
+        "ids_afetados": 87,
+        "categorias": {
+          "HTTP": 137,
+          "evidência/campo": 8,
+          "consulta obrigatória ausente": 132
+        },
+        "http": {
+          "429": 8,
+          "402": 2
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 339199,
+      "nota": "Interrompido por HTTP 402. Amostra concluída parcial; não interpretar 20/22 como vitória do lote vinte.",
+      "duracao_ultima_invocacao_segundos": 292.39,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.5919469999999999,
+      "chamadas_custo_desconhecido_cj": 10,
+      "reserva_desconhecida_usd": 3.7602033500000003,
+      "custo_conhecido_por_avaliada_usd": 0.021923962962962958,
+      "tempos": {
+        "inicio_utc": "2026-10-18T22:21:10.244000+00:00",
+        "fim_utc": "2026-10-18T23:21:39.766000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 3629.522,
+        "tempo_acumulado_chamadas_conhecido_s": 339.199,
+        "chamadas_com_duracao": 35,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 134.42674074074074,
+        "estimativa_359_questoes_s": 48259.199925925925,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "vertex-v18-piloto-10-b10",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-piloto-10/b10",
+      "createdAt": "2026-10-19T00:14:26.931Z",
+      "metricas": {
+        "selecionadas": 10,
+        "propostas": 10,
+        "pareceres": 10,
+        "concluidas": 10,
+        "publicar": 7,
+        "revisar": 3,
+        "fora": 0,
+        "pendentes": 0,
+        "concordantes_publicadas": 6,
+        "divergentes_publicadas": 1,
+        "exatas_publicadas": 4,
+        "precisao_ramo": 0.8571428571428571,
+        "precisao_exata": 0.5714285714285714,
+        "cobertura": 0.7,
+        "cobertura_359": 0.019498607242339833,
+        "relacoes_publicadas": {
+          "descendente": 1,
+          "exato": 4,
+          "ancestral": 1,
+          "irmao": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.09780430000000001,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 230131,
+          "output_tokens": 11506,
+          "usage_calls": 4,
+          "calls": 4
+        },
+        "judge": {
+          "known_usd": 0.175737,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 76333,
+          "output_tokens": 8165,
+          "usage_calls": 1,
+          "calls": 1
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 5,
+      "erros": {
+        "ocorrencias_registradas": 3,
+        "tecnicas": 3,
+        "decisao": 0,
+        "ids_afetados": 3,
+        "categorias": {
+          "evidência/campo": 3
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 103814,
+      "nota": "Verificou funcionamento dos dois modelos pelo novo canal. Pequeno recorte já usado em desenvolvimento.",
+      "duracao_ultima_invocacao_segundos": 104.379,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.2735413,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.027354129999999997,
+      "tempos": {
+        "inicio_utc": "2026-10-19T00:14:26.991000+00:00",
+        "fim_utc": "2026-10-19T00:16:11.257000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 104.266,
+        "tempo_acumulado_chamadas_conhecido_s": 103.814,
+        "chamadas_com_duracao": 5,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 10.4266,
+        "estimativa_359_questoes_s": 3743.1494000000002,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção linear da amostra; depende de manter ritmo, tamanho dos lotes e perfil de consumo semelhantes."
+        ]
+      }
+    },
+    {
+      "key": "vertex-v18-359-b20",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b20",
+      "createdAt": "2026-10-19T00:18:30.030Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 218,
+        "pareceres": 218,
+        "concluidas": 218,
+        "publicar": 170,
+        "revisar": 48,
+        "fora": 0,
+        "pendentes": 141,
+        "concordantes_publicadas": 148,
+        "divergentes_publicadas": 22,
+        "exatas_publicadas": 121,
+        "precisao_ramo": 0.8705882352941177,
+        "precisao_exata": 0.711764705882353,
+        "cobertura": 0.4735376044568245,
+        "cobertura_359": 0.4735376044568245,
+        "relacoes_publicadas": {
+          "descendente": 4,
+          "exato": 121,
+          "distinto": 12,
+          "ancestral": 23,
+          "irmao": 10
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 1.9266700699999997,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 5179213,
+          "output_tokens": 276665,
+          "usage_calls": 84,
+          "calls": 84
+        },
+        "judge": {
+          "known_usd": 3.95294565,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 1699138,
+          "output_tokens": 202685,
+          "usage_calls": 19,
+          "calls": 19
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 103,
+      "erros": {
+        "ocorrencias_registradas": 475,
+        "tecnicas": 475,
+        "decisao": 0,
+        "ids_afetados": 182,
+        "categorias": {
+          "evidência/campo": 47,
+          "consulta obrigatória ausente": 417,
+          "outra validação/execução": 11
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 2148239,
+      "nota": "218 decisões; 141 pendências. Nas 158 publicações comuns à v19: 87,3% aqui contra 88,6% sem RAG.",
+      "duracao_ultima_invocacao_segundos": 2205.786,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 5.87961572,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.026970714311926606,
+      "tempos": {
+        "inicio_utc": "2026-10-19T00:18:30.101000+00:00",
+        "fim_utc": "2026-10-19T00:55:15.411000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 2205.31,
+        "tempo_acumulado_chamadas_conhecido_s": 2148.2389999999996,
+        "chamadas_com_duracao": 103,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 10.116100917431192,
+        "estimativa_359_questoes_s": 3631.680229357798,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "vertex-v18-359-b10",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b10",
+      "createdAt": "2026-10-19T00:55:21.228Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 171,
+        "pareceres": 161,
+        "concluidas": 161,
+        "publicar": 138,
+        "revisar": 22,
+        "fora": 1,
+        "pendentes": 198,
+        "concordantes_publicadas": 112,
+        "divergentes_publicadas": 26,
+        "exatas_publicadas": 95,
+        "precisao_ramo": 0.8115942028985508,
+        "precisao_exata": 0.6884057971014492,
+        "cobertura": 0.38440111420612816,
+        "cobertura_359": 0.38440111420612816,
+        "relacoes_publicadas": {
+          "descendente": 4,
+          "exato": 95,
+          "distinto": 12,
+          "irmao": 14,
+          "ancestral": 13
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 1.0746173499999998,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2669746,
+          "output_tokens": 122290,
+          "usage_calls": 52,
+          "calls": 52
+        },
+        "judge": {
+          "known_usd": 2.9986254,
+          "unknown_calls": 1,
+          "reserved_unknown_usd": 0.89157,
+          "input_tokens": 1297779,
+          "output_tokens": 158649,
+          "usage_calls": 17,
+          "calls": 18
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 70,
+      "erros": {
+        "ocorrencias_registradas": 45,
+        "tecnicas": 45,
+        "decisao": 0,
+        "ids_afetados": 26,
+        "categorias": {
+          "consulta obrigatória ausente": 26,
+          "outra validação/execução": 1,
+          "evidência/campo": 8,
+          "HTTP": 10
+        },
+        "http": {
+          "429": 1
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 1727391,
+      "nota": "Interrompido a pedido da usuária; 198 pendências. Nas 126 publicações comuns à v19: 81,7% aqui contra 88,1% sem RAG.",
+      "duracao_ultima_invocacao_segundos": 1855.533,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 4.0732427499999995,
+      "chamadas_custo_desconhecido_cj": 1,
+      "reserva_desconhecida_usd": 0.89157,
+      "custo_conhecido_por_avaliada_usd": 0.025299644409937885,
+      "tempos": {
+        "inicio_utc": "2026-10-19T00:55:21.298000+00:00",
+        "fim_utc": "2026-10-19T01:24:43.060000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 1761.762,
+        "tempo_acumulado_chamadas_conhecido_s": 1727.3909999999996,
+        "chamadas_com_duracao": 70,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 10.942621118012422,
+        "estimativa_359_questoes_s": 3928.4009813664593,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    },
+    {
+      "key": "model-only-v19-359",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/no-rag-v19/model-only-v19-359",
+      "createdAt": "2026-10-19T01:39:50.347Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 359,
+        "pareceres": 359,
+        "concluidas": 359,
+        "publicar": 311,
+        "revisar": 43,
+        "fora": 5,
+        "pendentes": 0,
+        "concordantes_publicadas": 265,
+        "divergentes_publicadas": 46,
+        "exatas_publicadas": 222,
+        "precisao_ramo": 0.8520900321543409,
+        "precisao_exata": 0.7138263665594855,
+        "cobertura": 0.8662952646239555,
+        "cobertura_359": 0.8662952646239555,
+        "relacoes_publicadas": {
+          "descendente": 5,
+          "exato": 222,
+          "ancestral": 38,
+          "irmao": 20,
+          "distinto": 25,
+          "sem_tema": 1
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 1.5131728299999998,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 2127747,
+          "output_tokens": 361177,
+          "usage_calls": 57,
+          "calls": 57
+        },
+        "judge": {
+          "known_usd": 3.22787535,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 1471766,
+          "output_tokens": 159538,
+          "usage_calls": 37,
+          "calls": 37
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 94,
+      "erros": {
+        "ocorrencias_registradas": 32,
+        "tecnicas": 32,
+        "decisao": 0,
+        "ids_afetados": 32,
+        "categorias": {
+          "evidência/campo": 31,
+          "contradição do parecer": 1
+        },
+        "http": {},
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 2325192,
+      "nota": "359 decisões; 94 chamadas, 38,8 min, sem erros HTTP/rede. Retirar RAG resolveu completude nesta condição, mas não atingiu 95%. Prompts/retentativas também mudaram.",
+      "duracao_ultima_invocacao_segundos": 2329.113,
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 4.74104818,
+      "chamadas_custo_desconhecido_cj": 0,
+      "reserva_desconhecida_usd": 0.0,
+      "custo_conhecido_por_avaliada_usd": 0.013206262339832868,
+      "tempos": {
+        "inicio_utc": "2026-10-19T01:39:54.496000+00:00",
+        "fim_utc": "2026-10-19T02:18:43.544000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 2329.048,
+        "tempo_acumulado_chamadas_conhecido_s": 2325.1919999999996,
+        "chamadas_com_duracao": 94,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 6.487598885793871,
+        "estimativa_359_questoes_s": 2329.048,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "O conjunto de 359 já foi concluído: o valor para 359 corresponde ao observado na base escolhida."
+        ]
+      }
+    },
+    {
+      "key": "pro-judge-v20-359",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359",
+      "createdAt": "2026-10-19T03:49:21.844Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 0,
+        "pareceres": 0,
+        "concluidas": 0,
+        "publicar": 0,
+        "revisar": 0,
+        "fora": 0,
+        "pendentes": 359,
+        "concordantes_publicadas": 0,
+        "divergentes_publicadas": 0,
+        "exatas_publicadas": 0,
+        "precisao_ramo": null,
+        "precisao_exata": null,
+        "cobertura": 0.0,
+        "cobertura_359": 0.0,
+        "relacoes_publicadas": {}
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 0.0,
+          "unknown_calls": 80,
+          "reserved_unknown_usd": 16.460484800000003,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 80
+        },
+        "judge": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 80,
+      "erros": {
+        "ocorrencias_registradas": 79,
+        "tecnicas": 79,
+        "decisao": 0,
+        "ids_afetados": 16,
+        "categorias": {
+          "rede": 79
+        },
+        "http": {},
+        "rede": 79,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 0,
+      "nota": "Tentativa encerrada sem conectividade: nenhuma resposta HTTP/proposta/parecer. Não avalia o juiz Pro; reservas não são cobrança confirmada.",
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 0.0,
+      "chamadas_custo_desconhecido_cj": 80,
+      "reserva_desconhecida_usd": 16.460484800000003,
+      "custo_conhecido_por_avaliada_usd": null,
+      "tempos": {
+        "inicio_utc": "2026-10-19T03:49:21.851000+00:00",
+        "fim_utc": "2026-10-19T03:51:45.402000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o registro da interrupção",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 143.551,
+        "tempo_acumulado_chamadas_conhecido_s": 50.64099999999998,
+        "chamadas_com_duracao": 79,
+        "chamadas_sem_duracao_completa": 1,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": null,
+        "estimativa_359_questoes_s": null,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "1 chamada(s) sem duração completa; o tempo acumulado conhecido não representa necessariamente todo o processamento.",
+          "Média por avaliação e projeção para 359 não são calculáveis sem decisões concluídas."
+        ]
+      }
+    },
+    {
+      "key": "pro-judge-v20-359-r2",
+      "pasta": "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2",
+      "createdAt": "2026-10-19T03:52:44.886Z",
+      "metricas": {
+        "selecionadas": 359,
+        "propostas": 359,
+        "pareceres": 354,
+        "concluidas": 354,
+        "publicar": 282,
+        "revisar": 66,
+        "fora": 6,
+        "pendentes": 5,
+        "concordantes_publicadas": 242,
+        "divergentes_publicadas": 40,
+        "exatas_publicadas": 212,
+        "precisao_ramo": 0.8581560283687943,
+        "precisao_exata": 0.75177304964539,
+        "cobertura": 0.7855153203342619,
+        "cobertura_359": 0.7855153203342619,
+        "relacoes_publicadas": {
+          "exato": 212,
+          "irmao": 15,
+          "ancestral": 28,
+          "descendente": 2,
+          "distinto": 25
+        }
+      },
+      "custo_por_papel": {
+        "classifier": {
+          "known_usd": 6.049667659999997,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 13239004,
+          "output_tokens": 951029,
+          "usage_calls": 371,
+          "calls": 371
+        },
+        "judge": {
+          "known_usd": 28.605615000000007,
+          "unknown_calls": 19,
+          "reserved_unknown_usd": 20.332426000000005,
+          "input_tokens": 13692729,
+          "output_tokens": 346479,
+          "usage_calls": 377,
+          "calls": 396
+        },
+        "diagnostic": {
+          "known_usd": 0.0,
+          "unknown_calls": 0,
+          "reserved_unknown_usd": 0.0,
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "usage_calls": 0,
+          "calls": 0
+        }
+      },
+      "chamadas": 767,
+      "erros": {
+        "ocorrencias_registradas": 54,
+        "tecnicas": 54,
+        "decisao": 0,
+        "ids_afetados": 31,
+        "categorias": {
+          "evidência/campo": 12,
+          "HTTP": 19,
+          "contradição do parecer": 6,
+          "outra validação/execução": 17
+        },
+        "http": {
+          "429": 19
+        },
+        "rede": 0,
+        "encerramentos_anormais": {}
+      },
+      "inclui_custos": [],
+      "importacao": null,
+      "duracao_somada_respostas_ms": 8668686,
+      "nota": "Encerrado com 354 decisões e cinco pendências; a meta de 95% não foi atingida. Contra v19: concordância agregada 85,8%/85,2% e cobertura 78,6%/86,6%. Nas mesmas 262 publicações: v20 225/262 e v19 224/262 concordantes. Modelo do juiz e tamanho do lote mudaram juntos; não isola o efeito do Pro. Custos desta linha correspondem à r2; a tentativa inicial permanece separada.",
+      "duracao_ultima_invocacao_segundos": 4790.306,
+      "comparacao_v19": {
+        "publicacoes_comuns": 262,
+        "concordantes_v19": 224,
+        "concordantes_v20": 225
+      },
+      "custo_classificador_reaproveitado_conhecido_usd": 0.0,
+      "classificador_origem_desconhecida": 0,
+      "custo_conhecido_total_cj_usd": 34.655282660000005,
+      "chamadas_custo_desconhecido_cj": 19,
+      "reserva_desconhecida_usd": 20.332426000000005,
+      "custo_conhecido_por_avaliada_usd": 0.09789627870056498,
+      "tempos": {
+        "inicio_utc": "2026-10-19T03:52:48.994000+00:00",
+        "fim_utc": "2026-10-19T06:39:51.136000+00:00",
+        "marco_tempo_decorrido": "primeiro envio até o último retorno registrado",
+        "metodo_fonte": "registros de início/fim das requisições",
+        "tempo_total_decorrido_s": 10022.142,
+        "tempo_acumulado_chamadas_conhecido_s": 8668.685999999998,
+        "chamadas_com_duracao": 767,
+        "chamadas_sem_duracao_completa": 0,
+        "base_media_e_projecao": "tempo total decorrido da execução local",
+        "tempo_medio_por_questao_avaliada_s": 28.31113559322034,
+        "estimativa_359_questoes_s": 10163.697677966102,
+        "notas": [
+          "Inclui intervalos entre chamadas, pausas e retomadas existentes entre os marcos registrados.",
+          "Projeção condicional de ritmo; não demonstra que as pendências possam ser concluídas com a mesma configuração."
+        ]
+      }
+    }
+  ],
+  "fontes": {
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359/spend.json": {
+      "sha256": "25c7dc63e7bd3b0b9f1c01447604705cf35e473a69c49b898bd4789380d4fdd6"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/spend.json": {
+      "sha256": "a7ec8f84238edf7e9be2b7bb78722113608ab559abe5eb54e7ee0542082e4abb"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359/spend.json": {
+      "sha256": "a09ca20a6d7ba718cf527fb8c1ea997891e46d737150af8ec72bb1f21e2d5a61"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359/spend.json": {
+      "sha256": "9fa5362ea26b5f83d7f9143a8e0ee3ae6f6e6656edcb8e30eedfbf46efae1120"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359/spend.json": {
+      "sha256": "d50ed795640584bbf2df7adfe6010461db442b14f5b83d980eaa422bb618117c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto/spend.json": {
+      "sha256": "2d769671c8341ff0611a948f6cba2c613721cdb1f4911c7866c8ca3954ed4fca"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai/spend.json": {
+      "sha256": "48281e64ffc73bc804317a69e8b9325635e4b0209d5f070017f2130fac8cf29b"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado/spend.json": {
+      "sha256": "f1a3a5bd47d7d5e61e905a878968456a74db8e7939acc28a5963f8787e3035db"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2/status.json": {
+      "sha256": "34b2c8f6e7656e93d043e4a510ed31e146354982b439bb8e9f9d9d873856fd68"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-classifier-tools/records.json": {
+      "sha256": "77af4c1e65f7e4c7840e17e4be75849685ad817af4e68d7e3ba2e116b33f244d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-classifier-tools/manifest.json": {
+      "sha256": "98c34aaffcc49f737516e56f9a23db74b18b84c976a985a913ab32e0c8e0bc47"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-classifier-tools/requests.jsonl": {
+      "sha256": "36805d06906b565ca2b967ba268bb0aa56e08bc8772b0e205f2f98ae362369ae"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-classifier-tools/events.jsonl": {
+      "sha256": "a6f1073bbc48931982e317a35e99fa9cb54a88832e3286475fc47a714e650021"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-classifier-tools/last-run.json": {
+      "sha256": "1500d0026b00462170b2fec84f7ccc3ecdf5fa9039c1fc5e4de182b0c7363062"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-control/records.json": {
+      "sha256": "b6ea5edde6c1fbede6c1f6fde398fe1d81f5c46af824288b1d0a8c2860beb29e"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-control/manifest.json": {
+      "sha256": "21985f6a488ee660888cb85c63597b59f31e6cb6814074ab6c04213e40f39880"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-control/requests.jsonl": {
+      "sha256": "37d5ad11b7ab45a4248924944bd3c44437d31c70b101a341a17e10ce196ae3d6"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-control/events.jsonl": {
+      "sha256": "d66bcb1ab33a225e2a1c06df81e34240ed7632767a675d0cfc4c636838205b5f"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v9-control/last-run.json": {
+      "sha256": "6fc8d3fa326699c2cd58ed7af509b3987896c2562162d705aad2a015f2c130cd"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359/records.json": {
+      "sha256": "59cf551474b611ccd3bfd72dc248a77e21c6ce4259c34b5555385185ffd74a6f"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359/manifest.json": {
+      "sha256": "4f19b0330c3dd7a4af5882390c8f4a3955f47f72ec4827d489cb46d62ae1a0b6"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359/requests.jsonl": {
+      "sha256": "115d068f40eed38d484e33638f549e1e274aa70fa8055af8fb5dddc956f2730f"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359/events.jsonl": {
+      "sha256": "5d307643d1c7f59d1cf6402932f000579ff225775dcf1bfd09b8e277b94c3ac4"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v13-livros-359/last-run.json": {
+      "sha256": "f557805afa138f36222b7cc14918aa6257886e9a3e90746ac2a2dbf57cc68aea"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-invertido-nemotron35/records.json": {
+      "sha256": "fa76924e7cf95e22fc8445198cd6970726b7787ffa536d8172ed2859e46e96d7"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-invertido-nemotron35/manifest.json": {
+      "sha256": "cd40147ad99da780412928ab295abfb650444b8aec78a6e433b005127feb3add"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-invertido-nemotron35/requests.jsonl": {
+      "sha256": "bd115254aee8cc82843af53baccabd339da3fdf01e7a367e25658547d13fc2d1"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-invertido-nemotron35/events.jsonl": {
+      "sha256": "db4fb4c8e7694c14273366e385876a7a6dbf61eb0261d827d55a1970ff50605e"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-invertido-nemotron35/last-run.json": {
+      "sha256": "d66cc935612edf5ea17bf7b3516cabe522353c0a98fa8aa9fc0c6d3ced724ded"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359/records.json": {
+      "sha256": "a11f42755cbef9f547a4a73fbb38e516dca2e27e2ccfa6d58c2303a1475307fe"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359/manifest.json": {
+      "sha256": "ea5e45adfd5840e702db779cf65e6b590f73498b6fc855a5ba631c9b5a4f8174"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359/requests.jsonl": {
+      "sha256": "1830dae65f2dc4005d2f9a8f8bbbe30495bc68d77140749eab914fe5d0a3912c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359/events.jsonl": {
+      "sha256": "204e52ccd021f2cfa0301a213559506855ad4b467088e32164ea679bc2d7c518"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v15-livros-359/last-run.json": {
+      "sha256": "330b1ce39741bde307296047f13e1d9cc983fc1347be050cd86fb453d4e37728"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v7/records.json": {
+      "sha256": "1abb674fab1a9a415df969b0a4440cdf97c179c2eb474c40216e0bae46fb99df"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v7/manifest.json": {
+      "sha256": "bd9b5363a74343fb47e5004c110da877b25ea3f2033041ed857f4e7e90c162f8"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v7/requests.jsonl": {
+      "sha256": "39ab0c6c6b7c995e7506678c35a0836c3330d06499c02e1503ae07589733613a"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v7/events.jsonl": {
+      "sha256": "cb7df97f45b1a328d9149f9102e53bd1cfba238aac33a052eed0cb0c6e4f769c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v7/last-run.json": {
+      "sha256": "9e243281a92039da348fc54099c64fc2bd5650a398cce29c682874d57298ade3"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359/records.json": {
+      "sha256": "d17856350fcd375568cae5d2b02bded5e38532dd799705e0d201d58124fbe63c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359/manifest.json": {
+      "sha256": "ed0085ae71e185f2b893116d034645cb032b38e2e6be08bfd616f2f3efebed66"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359/requests.jsonl": {
+      "sha256": "7dfb66e1b4b92ae6227c30226e6b7c7711f5ec529d61157e2d575e99469f92a0"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359/events.jsonl": {
+      "sha256": "20f0b90ba519f97b865cfd6385afec3bc715e6ac748a3c0d228a0cdea9da3803"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini35-v16-projeto2-359/last-run.json": {
+      "sha256": "1e8386f57a92138bfd8657ae675e1a930b767ee37d2fddfd23836734b458c8c5"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-juiz-nemotron35/records.json": {
+      "sha256": "73ae5727ac242e300665699901c5d8cff836cb81c7b042c444aaac39448d2897"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-juiz-nemotron35/manifest.json": {
+      "sha256": "9e36d9d4fdb3274c121939d39cb4c6d4f8d5615641505e15b2ff4185efb41f11"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-juiz-nemotron35/requests.jsonl": {
+      "sha256": "387b6bbd3c540b8d4757946b4fdcf16bf64b9001651e9419db0c2b4cad5cb2e5"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-juiz-nemotron35/events.jsonl": {
+      "sha256": "1193a7f4e14103dff46445a7e6c959ff1ef5aff68a322a59313937e093c13603"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v3-juiz-nemotron35/last-run.json": {
+      "sha256": "8016a732d2f37d1c579f77ebe0aa67f298b0e615d9c9f22f59f1e08662530b50"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3-sem-raciocinio/records.json": {
+      "sha256": "e32d94fc14c11dae9fd6774b82830df064200431df8f2874d459a4a2eb4fe944"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3-sem-raciocinio/manifest.json": {
+      "sha256": "f43d212117a554913ff1269aedd2565a639d4ea18502da4773e8aa650764aee4"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3-sem-raciocinio/requests.jsonl": {
+      "sha256": "903c5114ce846c1c52618a612535ca3218f96a2a6d0f2719b090372d3ae7a85a"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3-sem-raciocinio/events.jsonl": {
+      "sha256": "c63173612d351f7422b904e6b94dbaa77657d7d1b5741bc9cb4fc474703170ec"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3-sem-raciocinio/last-run.json": {
+      "sha256": "42463a2a348fc4a6198163ede49e1c3f375b46917a1923e4c9c1feba26904f7d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/individual-v3-invertido-50/records.json": {
+      "sha256": "c85c7cd5ff321825ba92faccce5c0921f7c09ea137594b8b7721c4bf615811ab"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/individual-v3-invertido-50/manifest.json": {
+      "sha256": "ea0e47aad3394c99fa6c98890a10bcba724f71bcfe8e19529939a1abf2fcfe4d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/individual-v3-invertido-50/requests.jsonl": {
+      "sha256": "779d413ec2eddea7a8555191e039d723a7a1092c64cccea708a8ac5350fd7ca3"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/individual-v3-invertido-50/events.jsonl": {
+      "sha256": "faf2d8b7484fdf28ee4ce373b0338048c57c45b28abc5dcb816203e123de0149"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/individual-v3-invertido-50/last-run.json": {
+      "sha256": "83502405b513140b74d8ed17a46cf25576e2f688894d62b168559a4a400e99c1"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-invertido-nemotron35/records.json": {
+      "sha256": "b5c0398fab57461d8a53d977a1763d69876a310296851497e6cc647a37e32d1c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-invertido-nemotron35/manifest.json": {
+      "sha256": "0634f81b087f46cd74880eb632d155821e0671ccee6bf21c64e7c685db634b0f"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-invertido-nemotron35/requests.jsonl": {
+      "sha256": "11c28108297b13b3014868d0ddc4278ecb74b708664a6a3b0d718d60f8a1c63d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-invertido-nemotron35/events.jsonl": {
+      "sha256": "1d28c916ee236f1acd339c54118cddc327ed6303c2c9ba6041836fde3004de23"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-invertido-nemotron35/last-run.json": {
+      "sha256": "1323aa7afc11b8f060c6c5ac8b6e9e3a8b0f03a939bc53cc5af57ebfff7069ff"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools-r2/records.json": {
+      "sha256": "5ed5bd438f12377bbe6f585c7166b9db4ffc095139b9e6e1da692aef9808f7db"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools-r2/manifest.json": {
+      "sha256": "682ae8bb112af96b9356f98d54fd9508b757c57ead36353d028d41e9bf0824c1"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools-r2/requests.jsonl": {
+      "sha256": "3e862344c4f72a665233a759a4f7991042daeea4a868ac244285a1cd96d691ef"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools-r2/events.jsonl": {
+      "sha256": "5b06d6a55daa647126f0799abca94427a5f259d1fde81f3b571390d47e24c0fe"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools-r2/last-run.json": {
+      "sha256": "56bff920d4015649878568b50c15a4680d53ca592fc3249fe5cfd4272043b9ad"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-juiz-nemotron35/records.json": {
+      "sha256": "3f9b759552382a92194f1540aa93586f6dbabd192355413457c50118d0fca4a5"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-juiz-nemotron35/manifest.json": {
+      "sha256": "e058c230cd982bd50c1737e67afe3bf011ebed5e90a0eb2834143de8a519a6ee"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-juiz-nemotron35/requests.jsonl": {
+      "sha256": "20f3ed92993e222cae8569302e26b7b311e15ab5934bed2463f7aa9fdf7cfad6"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-juiz-nemotron35/events.jsonl": {
+      "sha256": "450f0b19ebcf44eeb89f4387ccd3f5c54fbd430082219ed97de2437f1211be54"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-5x10-v2-juiz-nemotron35/last-run.json": {
+      "sha256": "7232f6a638f56be7f1760dc70f63faebbcc3d3598aad8139eac4d2276b693729"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/contexto-api-v5-q0001/records.json": {
+      "sha256": "99040d5596f0f772b02afb4bd8571072aa7af5bc2a8701070b353472cecb189c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/contexto-api-v5-q0001/manifest.json": {
+      "sha256": "7db4a7577967f06d1c6216f04a81edd89bae1c3e7f3c71dac42abd1b54dd375e"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/contexto-api-v5-q0001/requests.jsonl": {
+      "sha256": "c7b950c598b95e0b10dfa90dfde0f96e73cfc531c7f527a3306dd3fefc648912"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/contexto-api-v5-q0001/events.jsonl": {
+      "sha256": "4f52bc067ff64d373a646fda0e527ffd3c10ebabb38386d73f520c70502819de"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/contexto-api-v5-q0001/last-run.json": {
+      "sha256": "94681e90afd58b7c681ba7be5570ff8db5875df99af5816f821e44a681c07ab2"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto/records.json": {
+      "sha256": "2463d254bed2156e99e683857e20f21944071aaca107938f7fa2adbc6b47c4a4"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto/manifest.json": {
+      "sha256": "c452185ea13f9066e7fc866c31434d66fb877ea9deac5ccdb9a096a3450491da"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto/requests.jsonl": {
+      "sha256": "6734c7030ebcdb9554528a47f30df884035528223db4c333ab1b6278674880c9"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto/events.jsonl": {
+      "sha256": "4a7056b3baf29e2fa08a79342a7f6f4a2a8ff6bce3258fb035bb069fef52aa04"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/gemini-flash-v11-piloto/last-run.json": {
+      "sha256": "58778851f67131aca816c9be036c2d9ace6c8e362bc767b457e3c2497d450fbc"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-v1/records.json": {
+      "sha256": "7aa0128f356a4ff52196e0ba1b60331ff89157866924282b707c34fdbb7ccb50"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-v1/manifest.json": {
+      "sha256": "853374919955b5ae90095bacac336cadc65d17a4c5b62ba82aec1a78a2a8a409"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-v1/requests.jsonl": {
+      "sha256": "3c33dca76aedaf952d2d8e0619a1d3f10925483fca877f39b8c2294f52400d1c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-v1/events.jsonl": {
+      "sha256": "442bbc09dd26289e5cfa48d3aed8a9b8ced7c7998a73dd13bea10514eb725737"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-v1/last-run.json": {
+      "sha256": "a2a18e43ba5b6a86ae8589d29e8ed0892700ba5a786d0537768f42bafc6ee3c2"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3/records.json": {
+      "sha256": "78051c690de3f5affbbf5c8b3968600255e141a101637e9bd2096269bc083994"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3/manifest.json": {
+      "sha256": "c9f662762518d03f4659e72da074024cec453bcff523f86bf946a7b6fb4a2ad7"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3/requests.jsonl": {
+      "sha256": "f7bd71815878eea64300003d6a4c34f92169a7a38b4936c4a139c0c77f14b025"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3/events.jsonl": {
+      "sha256": "717f543ebe6a5c64b69799f08ae83eb157c274b149b6fe892dcbdc77867029ff"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-20-v3/last-run.json": {
+      "sha256": "3cd4d3b04eb9ac346fe94c8bec06137698049ee604dc437f0a0ac7fd52a76c6a"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools/records.json": {
+      "sha256": "d3a47fa66250f2705be36da845d067f4d244bdfc09acc1d32b72a0742c46d31d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools/manifest.json": {
+      "sha256": "04480239b9f33590cba3827800f68abef260ad103247a17ea87dab56bbec3484"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools/requests.jsonl": {
+      "sha256": "4702ac813bb99a19eeb7a809bbdff5924c65e3256bacd4ede1af6a49b5aaf759"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-tools/events.jsonl": {
+      "sha256": "d474dd31087754e1e95f324af5863c69efc8df5880a307aac5d1382fc2e36235"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto/records.json": {
+      "sha256": "e3a75a494106b98a588d0ee7e4507261400cc6a6e6d141cd2d3929bb6b00df9e"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto/manifest.json": {
+      "sha256": "99aa2a0d7e8533de62bc7ba767694bcedb89b63b939d2c4bf8fe8f038dc8691d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto/requests.jsonl": {
+      "sha256": "9b4aba449a64992b8f805262e418c061d9789cfa28bc54b7aa77784a1b249d8c"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto/events.jsonl": {
+      "sha256": "84c07381e6603d86afa963fd5e3e911ee860c0b1e18a2727a40a2ab51062054d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto-r2/records.json": {
+      "sha256": "8131374c24759df309dd8c0dacbbfe0201a328b24d553082d8568f2b6b908adc"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto-r2/manifest.json": {
+      "sha256": "1ec01013e1b7157e7ab74e52ff2b8011a346ef334a3bf7dc6f81411845e8f7b5"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto-r2/requests.jsonl": {
+      "sha256": "dfbf36229cca70909b6491929f8892983664c5b9743455cd09905898bdc2ddb5"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto-r2/events.jsonl": {
+      "sha256": "8832ac98aef4ff92df25d8972cc3992bdb996aed956d08decb4fba16ef17f816"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/local-penal50-v8-auto-r2/last-run.json": {
+      "sha256": "29caea307f4b4601e341ae1a7e22ae845fe08aedd4d48fc35edc88e0a65e4066"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-2x10-v3-raciocinio/records.json": {
+      "sha256": "183059188945fc891097129fd4dd728cefc7412b4795560f62a433ec6c8c8033"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-2x10-v3-raciocinio/manifest.json": {
+      "sha256": "23d1220500f4666d5a576ba9dee8f102d49b07de8fd9aff32218fb6377c041cc"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-2x10-v3-raciocinio/requests.jsonl": {
+      "sha256": "aa4017fd4837e6d49063db0b1fde5981ec88b6f48ccbefca50cc8d66340f93d6"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-2x10-v3-raciocinio/events.jsonl": {
+      "sha256": "4f28c4fe8496095320f215f49e9a2ba8653799e51919ff24ea50604a021716c4"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/piloto-2x10-v3-raciocinio/last-run.json": {
+      "sha256": "e7f3db5af39bdf3a84b56fd42b29824d20f2625dc871ae03fb97bb9c197753af"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai/records.json": {
+      "sha256": "4a89ffbffafce819ab9ac1b34e06c663e10b6a023a497ca67517b41b313ad768"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai/manifest.json": {
+      "sha256": "933845ec2ab2408a95e2aff6ab73b69f09687172084bb96af6e0d5b222cbdb52"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai/requests.jsonl": {
+      "sha256": "c1c5df11f8b48dad58eccd7cac65e684f8f8d405309337b0e47600f3fe55b56e"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai/events.jsonl": {
+      "sha256": "2f19ee7692201bb2ad6aee45e568b90198ec1a88578ce8971478f3e9216fdd2f"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-gemini-openai/last-run.json": {
+      "sha256": "38e36261b7b903491b9768fb9c7bdc1789e376b021bf74de56590404e76b04e2"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado/records.json": {
+      "sha256": "3d2d6de6b70ff5843b97137293f1913c1f8758f5e93c569491c0ff1dede8a3cd"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado/manifest.json": {
+      "sha256": "c512c74d8bac66a3255a379ab24152559d6996c1843ca148fc4b928752f24687"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado/requests.jsonl": {
+      "sha256": "d6645f2c745005836fe2d837c0541a5c656063b01ee94e43c07487682fcefd11"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado/events.jsonl": {
+      "sha256": "954cc0a18b0d0fc8da83a566e60ae47a25a1666ab6a606cab2c4667d285956c3"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/experiments/pagos-v10-juiz-isolado/last-run.json": {
+      "sha256": "527dc7206556b941903d8b8f272787653cdd930bd8fa54fc71f90fc54d1b1543"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b20/records.json": {
+      "sha256": "7386c41aebe1987717c960e661e35204c685ca82d242aaa6d702d14fabd927b2"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b20/manifest.json": {
+      "sha256": "9bea49466b072b8c597b0ba53764d85789bb881f3690d321cbe3f281349abe67"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b20/requests.jsonl": {
+      "sha256": "be100b0248d5fab387cc26843ebf61d559e3175fb8ec57b1e4f5a137ebb842c7"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b20/events.jsonl": {
+      "sha256": "fa507e224cce37105e6ac127e573b664f5c637274c398ae2c3aa5df1e09f9f2d"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b20/report.json": {
+      "sha256": "acba0a39caffe22ca62eb9fefac218d64768615b911364729aae7854820758bd"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b30/records.json": {
+      "sha256": "58a37429926fb453ec7957320cd679aff23f5d7406befc7a5043c6275feb204b"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b30/manifest.json": {
+      "sha256": "07f332a2bfd23667ee525eb8a1e9713d6fed9a2aff38c31da41fa107673bca2f"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b30/requests.jsonl": {
+      "sha256": "c34d2709de618b0b1736752bb40a9224629015ae06d339bf635392d400d14849"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b30/events.jsonl": {
+      "sha256": "c54143591939e7d9a52e724d186bf6ecd8ab13c4bf57e0693daa22b43ef10240"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/archive/b30-initial-400/requests.jsonl": {
+      "sha256": "f2969c5afbcff83ef1f6467fdc1a7ae916d08d160679b7772a132942a3e172bf"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/archive/b30-initial-400/events.jsonl": {
+      "sha256": "e5663b750990db060511407a2018e7927de40a6e4fe6a8f8226ef913369fecf3"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/diagnostics/schema/requests.jsonl": {
+      "sha256": "9bdc88e7425bc97ac81ab223f99a74415c44c6b3356f4fabc0c7d4212d8224b5"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/diagnostics/schema/events.jsonl": {
+      "sha256": "781bfb8cf5a4f80ba773db593bb6b669bfb10815bb5229431c44184e09cb9f93"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/paid-v17/paid-v17-359/b30/report.json": {
+      "sha256": "0392eaf3cbc99b2fca66f5681b24115b42a2c7e9d5ff74809c6a9ba9374470c2"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b10/records.json": {
+      "sha256": "15b966b8f86af16c7bd3dc005378abd0456c29fb3dbdc9fff9dcfaa588623a8a"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b10/manifest.json": {
+      "sha256": "1d4c3fc88df54f646f15b7d27342685ca1fea09fd59452bf99cdb46e6a80e717"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b10/requests.jsonl": {
+      "sha256": "30baae5d5374090641837bd8c33aafb2cadc1df20170acbbcaacdb605c7f33bf"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b10/events.jsonl": {
+      "sha256": "62c5c6c17ba06c35c424bb53d015b951853f90fe94942fa038f3df96f0a4d093"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b10/report.json": {
+      "sha256": "84900db2074fc87575f24e0c5a1d3652f1ea0fed1ffb9c5353e644afc4608ae5"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b20/records.json": {
+      "sha256": "afc6fe295371ada08b4ba1214295a934875fcad06ac6ed16f31c0288a7ac416b"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b20/manifest.json": {
+      "sha256": "fb38d15cf890be56059d9187ed31af93aae4bb27f12d5cd96e54301fe472c111"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b20/requests.jsonl": {
+      "sha256": "33a819b6cdf8991a095df013fea5fff493bca4abff518b07471a3025b3f18848"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b20/events.jsonl": {
+      "sha256": "2d4bdb39146b9f7195e442036ee4089e91c3b9830d83ba50f91ee3b78c86e2d4"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-359/b20/report.json": {
+      "sha256": "a07c9d26206f21172f41be0d94a18c705afddd830bf3b01161f0d5c97ca60f1e"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-piloto-10/b10/records.json": {
+      "sha256": "c7b8a3a98364dbc4d8708775a0e14ffb4e36e9d09eeee48d4f262e8f878638ba"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-piloto-10/b10/manifest.json": {
+      "sha256": "eac4d2b2b93e9df8a579cbbfcff332e08a0cc5bea9dddb3d4b93a4ee1107c666"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-piloto-10/b10/requests.jsonl": {
+      "sha256": "632543eb036b4bd4a75f7fdd178f53fa1ffb4fd6180ab6de74f7bff8ba0913de"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-piloto-10/b10/events.jsonl": {
+      "sha256": "07f74e1cb55cc44e9398ae6534021ad6e2224157eedffd69c832c9243fa172d6"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/vertex-v18/vertex-v18-piloto-10/b10/report.json": {
+      "sha256": "1c289ada719d9d2ec1036916130f0b52052fe873a1f68b051d96022bd96b3a03"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/no-rag-v19/model-only-v19-359/records.json": {
+      "sha256": "1a1fbdc3b035be0209c6402231d6aeb4f0cb1dbbfcd4366f62153627b4818536"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/no-rag-v19/model-only-v19-359/manifest.json": {
+      "sha256": "eca15ffe2155ee54e77d8cbf567e6c18d3918a41f664d52fd60fafbac1a0721f"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/no-rag-v19/model-only-v19-359/requests.jsonl": {
+      "sha256": "546307c59d55dc7b2cf0a5197823389328569a9448e87f0fe4f8ece92aa5f9eb"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/no-rag-v19/model-only-v19-359/events.jsonl": {
+      "sha256": "6eab72c639cad61e750ca7ddcb3f892d116efaa60402204df9fd52111373b124"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/no-rag-v19/model-only-v19-359/report.json": {
+      "sha256": "080583de0201e9ab41324908901b518f434ff17a151d7a68759ac94631ddb591"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359/records.json": {
+      "sha256": "2b7330b02f6bbd96b647dd232d7e3d4d8dd6fa223c62badc746fb106cf900e96"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359/manifest.json": {
+      "sha256": "3269aa9254f2fdbf89fd1a86574dc61057e4ab8ac66e719866ee1dafe681966a"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359/requests.jsonl": {
+      "sha256": "64d5d061ad87591f54fdefd640366d16b989aaf7ff28aea6b92b62d64c3de6cc"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359/events.jsonl": {
+      "sha256": "9920330490f1854ad7461153bdc2e8bc25de1094583e8267bddc35a945092e79"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2/records.json": {
+      "sha256": "f7917b3312ff8eb75f1ba15b99ceec8e2a5948b24bb77e5fed5becc2a0627906"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2/manifest.json": {
+      "sha256": "9a4d95471cb67a657a683d04948d02d075b5397f47b6d6cef98cb20b17def1d8"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2/requests.jsonl": {
+      "sha256": "0e096da09ef61671bff9d0e5cf5da0cba1a84f34d2de08f7c3cadb4383a567d4"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2/events.jsonl": {
+      "sha256": "12c270f5ab4b0baa4a3f92fef051a52bb451c04c9b0ab4b81db1d9a7d13d96dd"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359-r2/report.json": {
+      "sha256": "8f1604d5265c0e9667d188c440c298804c526714b68ad204e21750c663fe8f6c"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb/Q0359-erro.json": {
+      "sha256": "e6042ac6b13d0969cbd6d05a8d86505d9261e6ed8a362973df04f372463247e0"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb/Q0142-erro.json": {
+      "sha256": "93b29627dab83d55b79b8254e733e35d502557b3fd80105a4d26561adb2452ba"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb/Q0225-erro.json": {
+      "sha256": "b66e4521c5905062569d3aafa8a2a862d0b2128cfaf14c9b7b7ee5428e0f53a4"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb/Q0001-erro.json": {
+      "sha256": "b84b12519d18f63debd1a72dd8f343729bb1ccda804de201a748a3b6f5db0aad"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb/Q0014-erro.json": {
+      "sha256": "6ad77950997426c347a27092ba05638dc53ec319c39a5cfa495f23343fbb89da"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T19-47-06-481Z-af82a8bb/manifesto.json": {
+      "sha256": "3ba360924ca71e53ed24e766e285922c7974b703659c46f3217b2f46fb5b31d9"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-50-12-086Z-af3acb5d/proposta.json": {
+      "sha256": "366faddec8392a62e29819d3397272bed42bfc78d0051140d5160b403b48b438"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-50-12-086Z-af3acb5d/resposta.json": {
+      "sha256": "ec0bcc526044e110976e355056e09636a359643709bd409b18cb490dfeee907b"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-50-12-086Z-af3acb5d/manifesto.json": {
+      "sha256": "90f3ff150537a5a5e7b9126311c3b89509e357f22d98bf44fa334fad7c22667c"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-51-17-827Z-589a8bcf/erro.json": {
+      "sha256": "bb06824aa4c1b3d2de4f8b545e7108d8395cca379e2dda5a806173b08067c413"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/sondagens/2026-10-15T19-51-17-827Z-589a8bcf/manifesto.json": {
+      "sha256": "f33d1e04e27ccfb15650d0f6c586a810bdce951554e358d8b07f55a311705ed9"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0142-resultado.json": {
+      "sha256": "7bffa337c9cfc88b9a3a66bb5619f86eb84d5613a0a1ee50fb69d14e1a08c2fa"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0001-resultado.json": {
+      "sha256": "0856b43a9bf047977462eda911137256b5fd6fb1db9b23926731c544f1ef9566"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0014-resultado.json": {
+      "sha256": "253a2b3f0c4ea3ecb86c2a1f4d4e727d392bdc5631dce1ff45c7e17e4e0c68f6"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0225-resultado.json": {
+      "sha256": "2046c5cd53d6ee25eeecac880df4236f023082d57c71c3b987bd88d6c00afcb0"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0359-resultado.json": {
+      "sha256": "55d96409bcc0a25571f83ffd5ddeb6b94ab38deced58a1fb47b8976cb61a609c"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0142-classificador.json": {
+      "sha256": "ac577cf39aa7b3e4b7e515e3cbc8e456397dfa375d2983e33ff7c84b1c259ef7"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0014-classificador.json": {
+      "sha256": "d0462d40f25efd06da853da6e210a1d1bbf4638d298e53a03a66fbc3e141cd89"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0225-classificador.json": {
+      "sha256": "0b0a7c1637e2d077077d74cc582752e585ee4aba59b3b30112028f9e998bcca3"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0001-classificador.json": {
+      "sha256": "72d2762f36b82d93175f007b4fb9ada7382765409a9b3476e9772eafe7fb2ca3"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0359-classificador.json": {
+      "sha256": "7d6d4fca7fed5ea72aa0644be037b810973edb72cc9a583ef900b2543b7c21bf"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0142-juiz.json": {
+      "sha256": "bd8611f80dd89dad8065eace84c80d14e55a0dde5c2ac31e9fc618d05d4cebc8"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0359-juiz.json": {
+      "sha256": "02dce76f94a1fab1fcf690a179d809b37c2c017d3783d904a86a0fde1a635d8a"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0014-juiz.json": {
+      "sha256": "fa41298241539e17341cc59b1207b9721c4fd2518156e3238a41f32b135296e0"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0001-juiz.json": {
+      "sha256": "800c20f39e3b8467151db96163ee4600e225aa59816196e9defa8d2a7815732c"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/Q0225-juiz.json": {
+      "sha256": "f70f9a010eeb214e78c3f31f2e61d2bb153958b81391d98ce422af037e434f2c"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-15T20-09-14-502Z-42c1060f/manifesto.json": {
+      "sha256": "e5b16d2565e1954cad3774906f977cbeea8b25880aa37df62a217ebd195a1f31"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-03-52-547Z-682480b0/tentativa-2-classificador.json": {
+      "sha256": "c2023b11df63e41381fa8df6838caff87295b233b9e5e75a4d89a778c5a96a7f"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-03-52-547Z-682480b0/tentativa-2-erro.json": {
+      "sha256": "59f1f077da97954e4e3feb0ecef380e9b5872a5214bb8e8378d746016ff24a15"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-03-52-547Z-682480b0/tentativa-1-erro.json": {
+      "sha256": "048207f6b197d2e55227d3fcb74017428bdf452098540d301fc1f118fda09382"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-03-52-547Z-682480b0/manifesto.json": {
+      "sha256": "55a89befdcf295376f91371d2b7aa9d73483112bb2a239e855dacae966b13cef"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/Q0142-resultado.json": {
+      "sha256": "adff1ad3aefa8c9055a365037be6c6042d68dfeffc364844da46c8cf28551351"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/Q0001-resultado.json": {
+      "sha256": "7dcb35e2fab8917c6338857b1d0e80a602d86c7bcda181a51acc9231c3c898e5"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/Q0014-resultado.json": {
+      "sha256": "5ab5a25b1c98f7e79e55fb366156b454aef2e2bd05766de02f159ca3d0b8822b"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/Q0225-resultado.json": {
+      "sha256": "5a9ced57f31ea72890d16386e922c056ac5437b490b5c7b19b0e31e553b9d6ae"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/Q0359-resultado.json": {
+      "sha256": "fd9cf9a8b534102d8377de6a7dfe5bee8026aee045ed3c31d8f8761e8044e596"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/tentativa-1-classificador.json": {
+      "sha256": "e6c31b0d075a0398f295cc53eabbc34020d046ba67c21645b69f1139d8814657"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/juiz.json": {
+      "sha256": "6183c30b1f87e48cae4f4efe8f8a9fd696d2c38c9e71f371bebb836cf0900a4d"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/lotes/2026-10-16T00-06-51-322Z-fe56e37e/manifesto.json": {
+      "sha256": "e16aceab8a64936372ca0e1702f4501d005dd8b6f2646d83e70351877dc9da19"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0142-resultado.json": {
+      "sha256": "40105a2788673ad92fc28f5dfabe3b306be94c29d583d6fe92138762dcc2e750"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0001-resultado.json": {
+      "sha256": "04e75b4103741350f3df8156cb5070de6884201e06e99494d401c440bbb5d792"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0014-resultado.json": {
+      "sha256": "ae6b5f73b9c2471f3a97d7ac5d51a795f43b0b90a099ec645063aae0180f972b"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0225-resultado.json": {
+      "sha256": "a6de655d9f63789f4000a66f17727cb48e6ce0913be8a9a295592b4f947f6460"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0359-resultado.json": {
+      "sha256": "6aac0a7740a3bb3aa81646af0f9c6169f280bd9fecd2df0a0f00709c4906de68"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0142-classificador.json": {
+      "sha256": "cee716d8e9be8f0e4b00ff5edce4a9708324371473d4bae15d00e77ea339e698"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0014-classificador.json": {
+      "sha256": "aba682471e396e96c40e3a107ac03afa5ed8a47f5681c3561f892579d797f4a6"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0225-classificador.json": {
+      "sha256": "5c44796c43d598a9a2cfb5eff632d697f37fda19d86297c9b1e4691f9aa29f3a"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0001-classificador.json": {
+      "sha256": "579b933146c1a9535ae5918bb659d3319e45d5abcd15d8db4bcc1dfea3df3363"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0359-classificador.json": {
+      "sha256": "0dc1d59abbc605e33f62ef7d4bb41537b5dacc6eb0ec8e6fd25d7336acb61e8b"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0142-juiz.json": {
+      "sha256": "0b4cdf4f3975a439b70018ce2815d103c253f024eeadbd7295f5e22f2acacb77"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0359-juiz.json": {
+      "sha256": "e96192c9bcaa743dca1e9a4b24a1b7c384af7bd5d76f3a4f2cea91cf4e5acf7b"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0014-juiz.json": {
+      "sha256": "e6d39e82957694830deca16afa4772849caba90cad44a92d25b186dc493580c1"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0001-juiz.json": {
+      "sha256": "32481e4d2f19f6b91001bcd1a764b314f6e2ff8fda6ae8107ebcafc80d6ab2ee"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/Q0225-juiz.json": {
+      "sha256": "6873e790d96470ee212ae6f3acd4759cabcbe9a7fb380812419da201324f2d14"
+    },
+    "/Users/lorrainepatiele/Downloads/DesafioVicio/output/runs/2026-10-16T00-11-29-306Z-b37956b7/manifesto.json": {
+      "sha256": "b3303d871f145dcbbff5ed0497dd4ed1c918dbccbaca627ff5a738b2628400fb"
+    },
+    "/Users/lorrainepatiele/Downloads/Desafio/output/individual-v20/pro-judge-v20-359/operator-stop.json": {
+      "sha256": "9cad673354698509c7f46db0cd931c812ca8193e6de9fac7c97ef0510fe70d5a"
+    }
+  },
+  "tempos_atualizados_em": "2026-10-19T03:47:19.780487-03:00"
+}

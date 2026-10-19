@@ -1,0 +1,54 @@
+{
+  "name": "classificacao-topicos-juridicos",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "prepare:data": "tsx src/index.ts prepare",
+    "preflight": "tsx src/index.ts preflight",
+    "run": "tsx src/index.ts run",
+    "evaluate": "tsx src/index.ts evaluate",
+    "compare": "tsx src/index.ts compare",
+    "split:data": "tsx src/index.ts split",
+    "calibrate": "tsx src/index.ts calibrate",
+    "export": "tsx src/index.ts export",
+    "delivery:v19": "node --import tsx delivery/cli.ts",
+    "pipeline:v19": "node --import tsx delivery/pipeline.ts",
+    "pipeline:v20": "node --import tsx experiments/individual-v20/cli.ts",
+    "delivery:reproduce": "node --import tsx scripts/reproduce-delivery.ts",
+    "vertex:init": "node --import tsx scripts/init-vertex-reproduction.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "mcp:pin": "node --import tsx src/mcp/pin.ts",
+    "mcp:check": "node --import tsx src/mcp/check.ts",
+    "mcp:smoke": "node --import tsx src/mcp/smoke.ts",
+    "mcp:pilot": "node --import tsx src/mcp/pilot.ts",
+    "mcp:compat": "node --import tsx src/mcp/compat.ts",
+    "context:check": "node --import tsx src/retrieval/check.ts",
+    "knowledge:fetch": "node --import tsx src/knowledge/cli.ts fetch",
+    "knowledge:build": "node --import tsx src/knowledge/cli.ts build",
+    "knowledge:search": "node --import tsx src/knowledge/cli.ts search",
+    "knowledge:coverage": "node --import tsx src/knowledge/cli.ts coverage",
+    "knowledge:inspect": "node --import tsx src/knowledge/cli.ts inspect",
+    "knowledge:check": "node --import tsx src/knowledge/cli.ts check",
+    "knowledge:import-book": "node --import tsx src/knowledge/cli.ts import-book"
+  },
+  "dependencies": {
+    "@langchain/langgraph": "^1.4.7",
+    "@modelcontextprotocol/client": "2.3.1",
+    "ajv": "8.20.0",
+    "cheerio": "^1.1.2",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^17.2.0",
+    "fast-xml-parser": "5.11.2",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "~5.8.3"
+  }
+}

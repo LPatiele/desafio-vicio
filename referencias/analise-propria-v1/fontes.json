@@ -1,0 +1,814 @@
+{
+  "data_consulta": "2026-10-16",
+  "limite": "Registra consultas desta análise, inclusive por trechos oficiais indexados; não certifica todas as interpretações nem reconstrói integralmente a legislação histórica.",
+  "fontes": {
+    "ADI4424": {
+      "id": "ADI4424",
+      "titulo": "ADI4424",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "ANDRADE": {
+      "id": "ANDRADE",
+      "titulo": "Vera Regina Pereira de Andrade — violência sexual e sistema penal",
+      "url": "https://periodicos.ufsc.br/index.php/sequencia/article/view/15741",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Resumo autoral consultado; não leitura integral da obra.",
+      "data_consulta": "2026-10-16"
+    },
+    "BARATTA": {
+      "id": "BARATTA",
+      "titulo": "BARATTA",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "CDC": {
+      "id": "CDC",
+      "titulo": "Código de Defesa do Consumidor",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "CE": {
+      "id": "CE",
+      "titulo": "Código Eleitoral",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "CF": {
+      "id": "CF",
+      "titulo": "Constituição Federal",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "CNJ427": {
+      "id": "CNJ427",
+      "titulo": "CNJ — Resolução 427/2021",
+      "url": "https://atos.cnj.jus.br/files/original135604202110256176b774163a9.pdf",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Texto localizado em fonte oficial; enumeração do §2º conferida no resultado oficial indexado.",
+      "data_consulta": "2026-10-16"
+    },
+    "CNJ467": {
+      "id": "CNJ467",
+      "titulo": "CNJ — Resolução 467/2022 compilada",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/4650",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Consultadas também alterações da Resolução 566/2024.",
+      "data_consulta": "2026-10-16"
+    },
+    "CNJ487": {
+      "id": "CNJ487",
+      "titulo": "CNJ487",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "CP": {
+      "id": "CP",
+      "titulo": "Código Penal",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "CPC": {
+      "id": "CPC",
+      "titulo": "Código de Processo Civil",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "CPM": {
+      "id": "CPM",
+      "titulo": "Código Penal Militar",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "CPP": {
+      "id": "CPP",
+      "titulo": "Código de Processo Penal",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "CRIMINOLOGIA": {
+      "id": "CRIMINOLOGIA",
+      "titulo": "CRIMINOLOGIA",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "DETRACAO1277": {
+      "id": "DETRACAO1277",
+      "titulo": "STJ — Tema 1.277",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/25022025-Repetitivo-define-que-prisao-provisoria-deve-ser-considerada-para-obtencao-de-beneficios-do-decreto-natalino.aspx",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Cômputo de prisão provisória; não comprova elegibilidade de Q0070 ao decreto.",
+      "data_consulta": "2026-10-16"
+    },
+    "DL201": {
+      "id": "DL201",
+      "titulo": "Responsabilidade de prefeitos",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "DOUTRINA_AUTORIA": {
+      "id": "DOUTRINA_AUTORIA",
+      "titulo": "DOUTRINA_AUTORIA",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "DOUTRINA_CONFLITO": {
+      "id": "DOUTRINA_CONFLITO",
+      "titulo": "DOUTRINA_CONFLITO",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "DOUTRINA_CULPABILIDADE": {
+      "id": "DOUTRINA_CULPABILIDADE",
+      "titulo": "DOUTRINA_CULPABILIDADE",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "DOUTRINA_PROVA": {
+      "id": "DOUTRINA_PROVA",
+      "titulo": "DOUTRINA_PROVA",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "DOUTRINA_TIPICIDADE": {
+      "id": "DOUTRINA_TIPICIDADE",
+      "titulo": "DOUTRINA_TIPICIDADE",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "ECA": {
+      "id": "ECA",
+      "titulo": "Estatuto da Criança e do Adolescente",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "FERRAJOLI": {
+      "id": "FERRAJOLI",
+      "titulo": "FERRAJOLI",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "FORO2025": {
+      "id": "FORO2025",
+      "titulo": "STF — foro após saída do cargo",
+      "url": "https://noticias.stf.jus.br/postsnoticias/acoes-contra-autoridades-permanecem-no-stf-mesmo-apos-saida-do-cargo/",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Síntese institucional do julgamento de 2025.",
+      "data_consulta": "2026-10-16"
+    },
+    "FOUCAULT": {
+      "id": "FOUCAULT",
+      "titulo": "FOUCAULT",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "HERKENHOFF": {
+      "id": "HERKENHOFF",
+      "titulo": "HERKENHOFF",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "IP_COATOR": {
+      "id": "IP_COATOR",
+      "titulo": "IP_COATOR",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "ITCD_PA": {
+      "id": "ITCD_PA",
+      "titulo": "ITCD_PA",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "JAKOBS": {
+      "id": "JAKOBS",
+      "titulo": "JAKOBS",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "JG": {
+      "id": "JG",
+      "titulo": "STF — julgamento do juiz das garantias",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=512814&ori=1.",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Síntese institucional; não leitura integral dos quatro acórdãos.",
+      "data_consulta": "2026-10-16"
+    },
+    "JUIZ385": {
+      "id": "JUIZ385",
+      "titulo": "STJ — pedido de absolvição e condenação",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/11112021-Sexta-Turma-reafirma-que-manifestacao-do-MP-pela-absolvicao-nao-impede-a-Justica-de-condenar-o-reu.aspx",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Cotejado com informativo sobre REsp 2.022.413/PA; hipótese excepcional e motivação reforçada.",
+      "data_consulta": "2026-10-16"
+    },
+    "L10216": {
+      "id": "L10216",
+      "titulo": "Proteção em saúde mental",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L10684": {
+      "id": "L10684",
+      "titulo": "Pagamento de débitos e punibilidade",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L10741": {
+      "id": "L10741",
+      "titulo": "Estatuto da Pessoa Idosa",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L10826": {
+      "id": "L10826",
+      "titulo": "Estatuto do Desarmamento",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L11101": {
+      "id": "L11101",
+      "titulo": "Falências e recuperação",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L11340": {
+      "id": "L11340",
+      "titulo": "Lei Maria da Penha",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L11343": {
+      "id": "L11343",
+      "titulo": "Lei de Drogas",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L12830": {
+      "id": "L12830",
+      "titulo": "Investigação por delegado",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12830.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L12850": {
+      "id": "L12850",
+      "titulo": "Organizações criminosas",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L13260": {
+      "id": "L13260",
+      "titulo": "Terrorismo",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L13869": {
+      "id": "L13869",
+      "titulo": "Abuso de autoridade",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L13964": {
+      "id": "L13964",
+      "titulo": "Pacote anticrime",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13964.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L13968": {
+      "id": "L13968",
+      "titulo": "Suicídio e automutilação",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13968.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L14155": {
+      "id": "L14155",
+      "titulo": "Crimes informáticos e fraude eletrônica",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14155.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L14597": {
+      "id": "L14597",
+      "titulo": "Lei Geral do Esporte",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L14994": {
+      "id": "L14994",
+      "titulo": "Feminicídio e ameaça",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L15163": {
+      "id": "L15163",
+      "titulo": "Alteração do art. 94 do Estatuto da Pessoa Idosa",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15163.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L2889": {
+      "id": "L2889",
+      "titulo": "Genocídio",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L7716": {
+      "id": "L7716",
+      "titulo": "Crimes de racismo",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L7960": {
+      "id": "L7960",
+      "titulo": "Prisão temporária",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7960.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L8038": {
+      "id": "L8038",
+      "titulo": "Processos nos tribunais superiores",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L8072": {
+      "id": "L8072",
+      "titulo": "Crimes hediondos",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L8137": {
+      "id": "L8137",
+      "titulo": "Crimes tributários e de consumo",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L8176": {
+      "id": "L8176",
+      "titulo": "Crimes contra a ordem econômica",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8176.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L9029": {
+      "id": "L9029",
+      "titulo": "Discriminação nas relações de trabalho",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L9099": {
+      "id": "L9099",
+      "titulo": "Juizados especiais",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L9296": {
+      "id": "L9296",
+      "titulo": "Interceptações",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L9430": {
+      "id": "L9430",
+      "titulo": "L9430",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "L9455": {
+      "id": "L9455",
+      "titulo": "Tortura",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L9605": {
+      "id": "L9605",
+      "titulo": "Crimes ambientais",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L9609": {
+      "id": "L9609",
+      "titulo": "Proteção de software",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9609.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "L9613": {
+      "id": "L9613",
+      "titulo": "Lavagem de dinheiro",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9613.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "LC80": {
+      "id": "LC80",
+      "titulo": "Lei Orgânica da Defensoria Pública",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp80.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "LCP": {
+      "id": "LCP",
+      "titulo": "Lei das Contravenções Penais",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "LEP": {
+      "id": "LEP",
+      "titulo": "Lei de Execução Penal",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm",
+      "situacao": "documento_primario_consultado",
+      "limite": "Texto oficial consultado; não significa validação exaustiva da interpretação, da vigência histórica de cada trecho ou de cada resposta.",
+      "data_consulta": "2026-10-16"
+    },
+    "LISZT": {
+      "id": "LISZT",
+      "titulo": "LISZT",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "PRISAO_ESPECIAL": {
+      "id": "PRISAO_ESPECIAL",
+      "titulo": "STF — ADPF 334",
+      "url": "https://stf.jus.br/arquivo/informativo/documento/informativo1089.htm",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Informativo oficial sobre diploma e prisão especial.",
+      "data_consulta": "2026-10-16"
+    },
+    "ROXIN": {
+      "id": "ROXIN",
+      "titulo": "ROXIN",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "SENADO_RS5": {
+      "id": "SENADO_RS5",
+      "titulo": "SENADO_RS5",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "SISDEPEN": {
+      "id": "SISDEPEN",
+      "titulo": "SISDEPEN",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "STF_ANPP": {
+      "id": "STF_ANPP",
+      "titulo": "STF — ANPP e retroatividade",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-define-limites-da-retroatividade-dos-acordos-de-nao-persecucao-penal/",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Julgamento de 18/9/2024 e ausência de confissão anterior.",
+      "data_consulta": "2026-10-16"
+    },
+    "STF_INSIGNIFICANCIA": {
+      "id": "STF_INSIGNIFICANCIA",
+      "titulo": "STF_INSIGNIFICANCIA",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "STF_REGIME_HEDIONDO": {
+      "id": "STF_REGIME_HEDIONDO",
+      "titulo": "STF — HC 111.840",
+      "url": "https://portal.stf.jus.br/processos/listarProcessos.asp?classe=HC&numeroProcesso=111840",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Afastamento do regime fechado obrigatório.",
+      "data_consulta": "2026-10-16"
+    },
+    "STF_SUMULAS": {
+      "id": "STF_SUMULAS",
+      "titulo": "Índice de súmulas do STF",
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&su=",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Índice consultado; a localização não equivale à conferência individual de todos os verbetes.",
+      "data_consulta": "2026-10-16"
+    },
+    "STF_TEMA506": {
+      "id": "STF_TEMA506",
+      "titulo": "STF — Tema 506",
+      "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4034145&numeroTema=506",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Cannabis; cotejado com Informativo 1.143 do STF.",
+      "data_consulta": "2026-10-16"
+    },
+    "STF_TEMA788": {
+      "id": "STF_TEMA788",
+      "titulo": "STF — Tema 788",
+      "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=ARE&incidente=4661629&numeroProcesso=848107&numeroTema=788",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Termo executório; observar modulação em processos antigos.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_ANTECEDENTES": {
+      "id": "STJ_ANTECEDENTES",
+      "titulo": "STJ — Tema 1.077",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/30072021-Condenacao-definitiva-nao-considerada-para-reincidencia-so-pode-ser-valorada-como-antecedente.aspx",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Inclui condenação por fato anterior com trânsito no curso da ação.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_CHIP": {
+      "id": "STJ_CHIP",
+      "titulo": "STJ — ingresso de chip em presídio",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/27042021-Para-Quinta-Turma--introducao-de-chip-de-celular-em-presidio-nao-caracteriza-crime.aspx",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Distinção entre chip e aparelho no art. 349-A.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_COMPENSACAO": {
+      "id": "STJ_COMPENSACAO",
+      "titulo": "STJ — Tema 585",
+      "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_final=585&cod_tema_inicial=585&novaConsulta=true&tipo_pesquisa=T",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Compensação de reincidência e confissão; não elimina a ambiguidade de valoração em Q0148.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_DOMICILIAR": {
+      "id": "STJ_DOMICILIAR",
+      "titulo": "STJ_DOMICILIAR",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "STJ_FALTA_PRESCRICAO": {
+      "id": "STJ_FALTA_PRESCRICAO",
+      "titulo": "STJ — prazo disciplinar de três anos",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/MON?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20180426&formato=PDF&nreg=201800432688&salvar=false&seq=82417921&tipo=0",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Precedente consultado por resultado oficial indexado.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_FUGA": {
+      "id": "STJ_FUGA",
+      "titulo": "STJ — fuga e prazo desde recaptura",
+      "url": "https://stj.jus.br/websecstj/cgi/revista/REJ.cgi/MON?dt=20180813&formato=PDF&nreg=201800848870&salvar=false&seq=85260412&tipo=0",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Precedente consultado por resultado oficial indexado.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_FURTO_CONSUMACAO": {
+      "id": "STJ_FURTO_CONSUMACAO",
+      "titulo": "STJ — Tema 934 e consumação do furto",
+      "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303235085",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Trecho oficial sobre inversão da posse.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_MPU1249": {
+      "id": "STJ_MPU1249",
+      "titulo": "STJ — Tema 1.249",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFINFJ?edicao=0836",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Informativo oficial; cotejado com aplicação de 2025.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_MULTA": {
+      "id": "STJ_MULTA",
+      "titulo": "STJ — multa alternativa e institutos despenalizadores",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ATC?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20191104&formato=PDF&nreg=201902889013&salvar=false&seq=102366703&tipo=51",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Precedente de 2019; não verifica os outros quatro itens de Q0020.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_MUNICAO": {
+      "id": "STJ_MUNICAO",
+      "titulo": "STJ — insignificância de munição",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/13102021-Apreensao-de-pequena-quantidade-de-municao--por-si-so--nao-implica-atipicidade-da-conduta.aspx",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Excepcionalidade e exame das circunstâncias.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_ORG_PERMANENCIA": {
+      "id": "STJ_ORG_PERMANENCIA",
+      "titulo": "STJ — marco da permanência associativa",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ATC?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20200615&formato=PDF&nreg=201903394478&salvar=false&seq=109865426&tipo=91",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Trecho oficial consultado sobre recebimento da denúncia e nova imputação.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_PAD": {
+      "id": "STJ_PAD",
+      "titulo": "STJ — prescrição disciplinar e crime",
+      "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200300368",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Trecho oficial cita MS 20.869/DF, mudança de 2019.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_PRAZO_DEFENSORIA": {
+      "id": "STJ_PRAZO_DEFENSORIA",
+      "titulo": "STJ_PRAZO_DEFENSORIA",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    },
+    "STJ_PRD_PRESCRICAO": {
+      "id": "STJ_PRD_PRESCRICAO",
+      "titulo": "STJ — abandono de restritivas e saldo",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20120629&formato=PDF&nreg=201200239012&salvar=false&seq=1159901&tipo=0",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Pesquisa encontrou decisões com diferentes soluções para conversão e audiência admonitória; não consolidada como tese única.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_PREVIDENCIA": {
+      "id": "STJ_PREVIDENCIA",
+      "titulo": "STJ — pagamento integral e extinção da punibilidade",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=0611.cod.",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Informativo de 2017, cotejado com orientação de 2015. Há ressalva de extensão ao tipo previdenciário.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_SUMULAS": {
+      "id": "STJ_SUMULAS",
+      "titulo": "Súmulas do STJ",
+      "url": "https://www.stj.jus.br/docs_internet/jurisprudencia/tematica/download/SU/Sumulas/SumulasSTJ.pdf",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Compilação consultada; não houve auditoria integral de cada precedente e verbete.",
+      "data_consulta": "2026-10-16"
+    },
+    "STJ_TEMA1215": {
+      "id": "STJ_TEMA1215",
+      "titulo": "STJ — Tema 1.215",
+      "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_final=1215&cod_tema_inicial=1215&novaConsulta=true&tipo_pesquisa=T",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Exceção para cumulação fundada apenas na mesma autoridade.",
+      "data_consulta": "2026-10-16"
+    },
+    "SV": {
+      "id": "SV",
+      "titulo": "STF — aplicação da Súmula Vinculante 14",
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26+&sumula=1230",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Acesso defensivo aos elementos documentados.",
+      "data_consulta": "2026-10-16"
+    },
+    "SV35": {
+      "id": "SV35",
+      "titulo": "STF — Súmula Vinculante 35",
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1953",
+      "situacao": "fonte_primaria_consultada_com_limite",
+      "limite": "Homologação da transação penal e retomada da persecução em caso de descumprimento.",
+      "data_consulta": "2026-10-16"
+    },
+    "WELZEL": {
+      "id": "WELZEL",
+      "titulo": "WELZEL",
+      "url": null,
+      "situacao": "referencia_pendente_de_conferencia_primaria",
+      "limite": "Conceito, obra ou precedente indicado nas notas, sem fonte primária individualmente conferida nesta análise. Não é citação verificada.",
+      "data_consulta": null
+    }
+  },
+  "evidencias_adicionais": [
+    [
+      "Q0236",
+      "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2016/2016-10-17_13-51_Direito-de-presenca-do-reu-na-instrucao-processual-nao-e-absoluto.aspx",
+      "Ausência do réu e demonstração de prejuízo"
+    ],
+    [
+      "Q0323",
+      "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&livre=%40CNOT%3D%27020740%27",
+      "Sigilo e acesso ao acordo de colaboração"
+    ],
+    [
+      "Q0293",
+      "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=19%2F04%2F2016&num_registro=201502433156",
+      "Conversão de restritiva e restrição à aplicação do art. 113"
+    ],
+    [
+      "Q0293",
+      "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=13%2F06%2F2022&num_registro=202201369980",
+      "Audiência admonitória e encaminhamento como início da execução"
+    ],
+    [
+      "Q0064",
+      "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20170920&formato=PDF&nreg=201601823860&salvar=false&seq=1634024&tipo=0",
+      "HC 362.478/SP — pagamento após trânsito"
+    ],
+    [
+      "Q0064",
+      "https://sv03.stj.jus.br/docs_internet/informativos/anuais/informativo_anual_2015.pdf",
+      "Orientação anterior restritiva — cotejo temporal"
+    ]
+  ]
+}

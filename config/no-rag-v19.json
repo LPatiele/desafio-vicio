@@ -1,0 +1,11 @@
+{
+  "baseConfig": "config/individual-v16-projeto3.json",
+  "vertexConfig": "config/vertex-v18.json",
+  "batchSize": 10,
+  "classifierPrompt": "classificador.md",
+  "judgePrompt": "juiz.md",
+  "sharedBudgetSuite": "paid-v17-359",
+  "knowledgeEnabled": false,
+  "retrievalEnabled": false,
+  "toolsEnabled": false
+}

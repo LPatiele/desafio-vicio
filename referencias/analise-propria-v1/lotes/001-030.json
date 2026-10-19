@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "Q0001",
+    "questao": {
+      "id": "Q0001",
+      "enunciado": "No que se refere ao Tribunal do Júri, analise as assertivas abaixo.\n\nI - O desaforamento é admitido por interesse da ordem pública, em razão de dúvida sobre a imparcialidade do júri, em razão de dúvida sobre a segurança pessoal do réu e não realização de julgamento, no período de um ano a contar da preclusão da pronúncia, em virtude de comprovado excesso de serviço.\n\nII - A natureza jurídica da impronúncia é de uma decisão terminativa e está sujeita a Recurso em Sentido Estrito.\n\nIII - A absolvição sumária produz coisa julgada material.\n\nIV - A decisão de desclassificação tem natureza não terminativa.",
+      "comando": "Estão corretas as assertivas",
+      "alternativas": {
+        "A": "I, II e IV, apenas.",
+        "B": "II e IV, apenas.",
+        "C": "III e IV, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II, III e IV."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "III e IV, apenas.",
+    "fundamento_resposta": "I usa um ano onde o CPP prevê seis meses para excesso de serviço; II erra o recurso da impronúncia (apelação). III e IV são defensáveis.",
+    "fontes": [
+      "CPP:416,419,427,428"
+    ],
+    "ressalvas": [
+      "A qualificação doutrinária de IV deve ser conferida; há múltiplos institutos, inclusive desaforamento."
+    ],
+    "classificacao": {
+      "tema_id": "5527",
+      "caminho": "Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",
+      "extras_ids": [],
+      "concorrentes_ids": [
+        "5524"
+      ],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0002",
+    "questao": {
+      "id": "Q0002",
+      "enunciado": "Segundo Vera Regina Pereira de Andrade, a clientela do sistema penal é constituída de pobres, porque",
+      "comando": "Complete a frase de acordo com o autor.",
+      "alternativas": {
+        "A": "têm uma maior tendência a delinqüir.",
+        "B": "possuem uma cultura de nível inferior.",
+        "C": "não tiveram a devida educação.",
+        "D": "são naturalmente propensos à violência.",
+        "E": "têm maiores chances de serem criminalizados."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "têm maiores chances de serem criminalizados.",
+    "fundamento_resposta": "A seletividade da criminalização, e não propensão natural dos pobres, explica a composição da clientela penal.",
+    "fontes": [
+      "ANDRADE:seletividade penal"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4378",
+      "caminho": "Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária",
+      "extras_ids": [
+        "4388"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0003",
+    "questao": {
+      "id": "Q0003",
+      "enunciado": "Francisco foi processado pelo Ministério Público pelo delito de furto. Contudo, após a resposta preliminar, foi absolvido sumariamente, tendo o juízo decidido que o fato narrado na denúncia evidentemente não constitui crime.\n\nNesse contexto, é correto afirmar que, em face da referida decisão, caberá:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "recurso em sentido estrito a ser interposto pelo Ministério\\nPúblico e, se transitada em julgado, vinculará o juízo cível;",
+        "B": "recurso de apelação a ser interposto pelo Ministério Público\\ne, se transitada em julgado, não vinculará o juízo cível;",
+        "C": "correição parcial a ser manejada pelo Ministério Público e, se\\ntransitada em julgado, não vinculará o juízo cível; ",
+        "D": "recurso de apelação a ser interposto pelo Ministério Público\\ne, se transitada em julgado, vinculará o juízo cível;",
+        "E": "correição parcial a ser manejada pelo Ministério Público e, se\\ntransitada em julgado, vinculará o juízo cível."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "recurso de apelação a ser interposto pelo Ministério Público\\ne, se transitada em julgado, não vinculará o juízo cível;",
+    "fundamento_resposta": "Absolvição sumária é atacável por apelação; reconhecer atipicidade não impede reparação civil.",
+    "fontes": [
+      "CPP:397 III,593 I,67 III"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5562",
+      "caminho": "Processo Penal > Recursos em Espécies > Apelação",
+      "extras_ids": [
+        "5475",
+        "5534"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0004",
+    "questao": {
+      "id": "Q0004",
+      "enunciado": "Sobre jurisdição e competência no processo penal, analise as assertivas e assinale a alternativa correta:\n\nI – Caso um prefeito municipal cometa crimes contra bens da União, ele somente poderá ser processado criminalmente mediante ação penal instaurada no tribunal de justiça do respectivo estado.\n\nII – Compete ao Tribunal Regional Federal processar e julgar prefeito municipal acusado de crime federal vale dizer, crime praticado pelo prefeito em detrimento de bens, serviços ou interesses da União Federal, empresas públicas e autarquias federais.\n\nIII - Não sendo conhecido o lugar da infração penal, a competência regular-se-á pelo domicílio ou residência do réu.\n\nIV - O foro competente para processar e julgar os prefeitos municipais é o tribunal de justiça estadual.\n\nV - Prevalece o foro por prerrogativa de função, ainda que a ação judicial seja iniciada após a cessação do mandato eletivo do prefeito municipal.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Apenas as assertivas II, III e IV são verdadeiras.",
+        "B": "Apenas as assertivas I, II e III são verdadeiras.",
+        "C": "Apenas as assertivas I, II e IV são verdadeiras.",
+        "D": "Apenas as assertivas II, IV e V são verdadeiras.",
+        "E": "Apenas as alternativas II, III e V são verdadeiras."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "II e III refletem regras de competência; a permanência do foro após o mandato mudou em 2025 para crimes funcionais. Não há alternativa inequivocamente atual sem especificar o nexo funcional.",
+    "fontes": [
+      "CF:29 X,109",
+      "FORO2025:HC232627/INQ4787"
+    ],
+    "ressalvas": [
+      "A parece a resposta histórica; IV é uma regra geral com exceções, e V depende de crimes no cargo e em razão dele. Excluir da comparação de alternativas por ora."
+    ],
+    "classificacao": {
+      "tema_id": "5484",
+      "caminho": "Processo Penal > Competência > Competência por Prerrogativa de Função",
+      "extras_ids": [
+        "5483"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0005",
+    "questao": {
+      "id": "Q0005",
+      "enunciado": "Carlos foi denunciado pelo crime de furto qualificado,\n\npraticado em 15/5/2022. Após a tramitação regular do processo,\n\no juiz fixou a pena base no mínimo legal, tendo em seguida\n\nagravado em 1/6 a pena em face da reincidência, sob o\n\nfundamento de que o réu possuía uma condenação anterior\n\ntransitada em julgado, e impôs o regime fechado para início de\n\ncumprimento de pena. Na condenação anterior, Carlos havia\n\nrecebido o livramento condicional em 27/4/2015, cumprindo-o\n\nsem revogações até 27/4/2019, e a decisão que declarou extinta a\n\npena foi proferida em 29/6/2020.\n\nConsiderando-se a situação hipotética apresentada, bem como a\n\npena e o regime fixados pelo juiz, é correto afirmar que, em\n\nrelação ao crime de furto qualificado praticado em 15/5/2022,\n\nCarlos é",
+      "comando": "complete a frase com a alternativa correta.",
+      "alternativas": {
+        "A": "reincidente, e o regime inicial cabível é o fechado, visto que o\\nperíodo depurador referente à condenação anterior começou a\\ncorrer em 27/4/2019.",
+        "B": "reincidente, e o regime inicial cabível é o fechado, visto que o\\nperíodo depurador referente à condenação anterior começou a\\ncorrer em 29/6/2020.",
+        "C": "primário, e o regime inicial cabível é o semiaberto, visto que\\no período depurador se iniciou em 27/4/2015 e a pena é\\nsuperior a quatro anos. ",
+        "D": "primário, e o regime cabível é o aberto, visto que o período\\ndepurador foi cumprido sem revogação e a pena é inferior a\\nquatro anos.  ",
+        "E": "reincidente, e o regime cabível é o semiaberto, visto que,\\ndada a pena aplicada, incide no caso a súmula n.º 269 do STJ."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "primário, e o regime cabível é o aberto, visto que o período\\ndepurador foi cumprido sem revogação e a pena é inferior a\\nquatro anos.  ",
+    "fundamento_resposta": "O período de livramento sem revogação integra o prazo depurador: de abril de 2015 a maio de 2022 decorreram mais de cinco anos. Furto qualificado à época, no mínimo e sem reincidência: regime aberto.",
+    "fontes": [
+      "CP:33,64 I"
+    ],
+    "ressalvas": [
+      "Aplicar a lei penal dos fatos de 2022; lei posterior mais gravosa não retroage."
+    ],
+    "classificacao": {
+      "tema_id": "5203",
+      "caminho": "Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes",
+      "extras_ids": [
+        "5208",
+        "5201"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0006",
+    "questao": {
+      "id": "Q0006",
+      "enunciado": "Sobre os crimes de furto e roubo, analise as afirmativas a seguir.\n\nI. De acordo com a teoria da contrectatio, a consumação do crime de furto ocorre quando há o contato físico com a coisa alheia móvel, desde que haja a inversão da posse.\n\nII. Há delito de furto e não de roubo quando o sujeito ativo se vale de narcóticos para reduzir a vítima à impossibilidade de resistência para se apoderar dos pertences dela.\n\nIII. Não é cabível tentativa de roubo impróprio.",
+      "comando": "Está correto o que se afirma em",
+      "alternativas": {
+        "A": "III, apenas. ",
+        "B": "I e II, apenas.    ",
+        "C": "I e III, apenas.    ",
+        "D": "II e III, apenas.  ",
+        "E": "I, II e III.    "
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "III, apenas. ",
+    "fundamento_resposta": "Narcotizar para subtrair configura violência imprópria do roubo. Contrectatio não exige inversão da posse; na posição predominante, roubo impróprio não admite tentativa.",
+    "fontes": [
+      "CP:157",
+      "STJ_SUMULAS:consumação patrimonial"
+    ],
+    "ressalvas": [
+      "A assertiva III exige confirmação doutrinária específica; não usar como referência forte de alternativa antes disso."
+    ],
+    "classificacao": {
+      "tema_id": "5160",
+      "caminho": "Penal > Dos Crimes Contra o Patrimônio > Roubo",
+      "extras_ids": [
+        "5159",
+        "5177"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0007",
+    "questao": {
+      "id": "Q0007",
+      "enunciado": "Gilson foi denunciado por tráfico de drogas e, no curso da audiência de instrução de julgamento, sua irmã Regina, que aceitou prestar depoimento, narrou, além dos fatos descritos na denúncia, que Gilson é um irmão ciumento e a ameaçou de morte e a xingou de “puta”, quando ela arrumou um namorado.\n\nRegina contou também que Gilson, reiteradamente, a perseguia na faculdade e no trabalho e que, em certas ocasiões, sequer pode sair de casa.\n\nTerminada a audiência, o Promotor de Justiça requereu ao Juiz cópia da mídia com o depoimento de Regina, o que foi deferido. Em seguida, ofereceu denúncia em face de Gilson, imputando a ele os crimes de ameaça (Art. 147 do Código Penal), injúria (Art. 140 do Código Penal) e perseguição (Art. 147-A do Código Penal).",
+      "comando": "O Defensor Público encarregado de elaborar a resposta à acusação, deverá observar que",
+      "alternativas": {
+        "A": "todos os crimes são de ação penal pública condicionada à\\nrepresentação.",
+        "B": "todos os crimes são de ação penal pública incondicionada.",
+        "C": "há crimes de ação penal pública incondicionada, ação penal\\npública condicionada e ação penal privada.",
+        "D": "há dois crimes de ação penal pública condicionada à\\nrepresentação.",
+        "E": "não há crimes de ação penal privada."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "há crimes de ação penal pública incondicionada, ação penal\\npública condicionada e ação penal privada.",
+    "fundamento_resposta": "No regime atual, ameaça contra mulher por razões da condição do sexo feminino é incondicionada; perseguição exige representação e injúria simples é privada.",
+    "fontes": [
+      "CP:145,147 §§1-2,147-A §3",
+      "L14994:ameaça"
+    ],
+    "ressalvas": [
+      "D seria a resposta no regime anterior. A incidência atual depende de caracterizar a violência familiar baseada em gênero descrita."
+    ],
+    "classificacao": {
+      "tema_id": "5468",
+      "caminho": "Processo Penal > Ação Penal > Classificação da Ação Penal",
+      "extras_ids": [
+        "5063",
+        "5130",
+        "5124"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0008",
+    "questao": {
+      "id": "Q0008",
+      "enunciado": "A progressão de regime do cumprimento da pena de condenado por crime contra a administração pública condiciona-se à reparação do dano que ele causou, ou à devolução do produto do ilícito praticado, com os acréscimos legais.",
+      "comando": "Explique as condições para a progressão de regime do cumprimento da pena em crimes contra a administração pública.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A condição de reparar o dano ou devolver o produto do ilícito para progressão está expressa no CP para crimes contra a administração.",
+    "fontes": [
+      "CP:33 §4"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5201",
+      "caminho": "Penal > Teoria da Pena > Penas Privativas de Liberdade",
+      "extras_ids": [
+        "4703"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0009",
+    "questao": {
+      "id": "Q0009",
+      "enunciado": "“Ariel”, com 21 anos de idade, arromba a joalheria de seu pai, “Benoir”, com 60 anos de idade, de madrugada, levando bens avaliados em R$ 5.000,00 (cinco mil reais). Preso, após o fato, “Ariel” responderá por:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "crime de furto de coisa comum.\n",
+        "B": "crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa.\n",
+        "C": "crime de apropriação indébita.\n",
+        "D": "nenhum crime, pois é isento de pena (imunidade penal absoluta).\n"
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa.\n",
+    "fundamento_resposta": "Há rompimento de obstáculo; a imunidade patrimonial familiar não se aplica quando a vítima tem 60 anos ou mais.",
+    "fontes": [
+      "CP:155 §4 I,181,183 III"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5159",
+      "caminho": "Penal > Dos Crimes Contra o Patrimônio > Furto",
+      "extras_ids": [
+        "5158"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0010",
+    "questao": {
+      "id": "Q0010",
+      "enunciado": "Com relação aos crimes contra o meio ambiente, assinale a opção correta, conforme entendimento do STJ e do STF.",
+      "comando": "Assinale a opção correta, conforme entendimento do STJ e do STF.",
+      "alternativas": {
+        "A": "Considere que Gil, a fim de comemorar, durante a madrugada, em zona urbana, a vitória de determinado time de futebol, tenha ajustado o aparelho de som do veículo em volume muito acima do limite permitido na legislação local, perturbando o sono e o sossego da vizinhança, e que esta tenha acionado o órgão municipal responsável. Considere, ainda, que o referido aparelho de som tenha sido apreendido, e Gil, conduzido à delegacia de polícia. Nessa situação, a conduta de Gil é atípica, visto que a poluição sonora não está expressamente prevista na lei de crimes ambientais.",
+        "B": "O crime ambiental que consiste em impedir o nascimento de nova vegetação ou dificultar a regeneração natural de florestas e demais formas de vegetação é crime permanente, visto que a consumação do delito se protrai no tempo, violando o bem jurídico tutelado de forma contínua e duradoura, renovando-se, a cada momento a consumação, consoante entendimento do STF.",
+        "C": "Em se tratando dos crimes contra o meio ambiente, admite-se responsabilização penal unicamente da pessoa jurídica, salvo se a imputação for pela prática de delitos culposos.",
+        "D": "Os tribunais superiores, no que concerne aos crimes ambientais, rejeitam a incidência do sistema da dupla imputação ou sistema da imputação paralela dada a ocorrência de bis in idem na responsabilização, pelo mesmo crime, de mais de uma pessoa.",
+        "E": "O crime de deixar de cumprir obrigação de relevante interesse ambiental, previsto no rol dos crimes contra a administração pública ambiental, é crime omissivo próprio, punido apenas na forma dolosa, e se caracteriza quando o agente público deixa de praticar o ato, contrariando o dever legal de fazê-lo para evitar o resultado lesivo ao meio ambiente, consoante entendimento do STJ."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "O crime ambiental que consiste em impedir o nascimento de nova vegetação ou dificultar a regeneração natural de florestas e demais formas de vegetação é crime permanente, visto que a consumação do delito se protrai no tempo, violando o bem jurídico tutelado de forma contínua e duradoura, renovando-se, a cada momento a consumação, consoante entendimento do STF.",
+    "fundamento_resposta": "Impedir ou dificultar regeneração pode configurar delito permanente. As demais opções erram tipicidade, autonomia da pessoa jurídica ou possibilidade de culpa no art.68.",
+    "fontes": [
+      "L9605:48,54,68"
+    ],
+    "ressalvas": [
+      "Permanência exige confirmar a caracterização concreta em jurisprudência; fundamento normativo consultado, precedente específico não individualizado nesta nota."
+    ],
+    "classificacao": {
+      "tema_id": "4688",
+      "caminho": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "extras_ids": [
+        "6717"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0011",
+    "questao": {
+      "id": "Q0011",
+      "enunciado": "Com referência à interceptação de comunicação telefônica, ao crime de tráfico ilícito de entorpecentes, ao crime de lavagem de capitais e a crimes cibernéticos, julgue o seguinte item.\n\nSituação hipotética: Álvaro, servidor público federal, foi, por cinco anos, presidente da comissão de licitações de determinado órgão público federal. Em diversas ocasiões, Álvaro recebeu valores e bens para favorecer empresas nos certames licitatórios, e os transferiu para o patrimônio de Flávio, seu irmão, que os utilizava nos negócios da empresa da família, com vistas a ocultar o ingresso desses recursos e a sua origem ilícita. Assertiva: Nessa situação, Álvaro e Flávio responderão pelo crime de lavagem de capitais, e será da justiça federal a competência para processar e julgar a ação penal.",
+      "comando": "Julgue o item apresentado.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "Ocultar produto da corrupção configura lavagem, inclusive autolavagem; o antecedente ligado ao serviço federal atrai competência federal.",
+    "fontes": [
+      "L9613:1,2 III b"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4702",
+      "caminho": "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+      "extras_ids": [
+        "5482",
+        "5092"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0012",
+    "questao": {
+      "id": "Q0012",
+      "enunciado": "Da decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995, caberá:",
+      "comando": "Indique o recurso cabível contra a decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995.",
+      "alternativas": {
+        "A": "Apelação, no prazo de 10 dias.",
+        "B": "Apelação no prazo de 5 dias.",
+        "C": "Recurso em sentido estrito, no prazo de 15 dias.",
+        "D": "Recurso em sentido estrito, no prazo de 5 dias.",
+        "E": "Correição parcial."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Apelação, no prazo de 10 dias.",
+    "fundamento_resposta": "A rejeição da denúncia no Juizado é impugnável por apelação em dez dias, com razões no mesmo prazo.",
+    "fontes": [
+      "L9099:82 §1"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5569",
+      "caminho": "Processo Penal > Recursos em Espécies > Recursos no Âmbito dos Juizados Especiais",
+      "extras_ids": [
+        "4701"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0013",
+    "questao": {
+      "id": "Q0013",
+      "enunciado": "A Lei nº 13.964/2019, denominada “pacote anti-crime”, inovou o sistema processual penal brasileiro. A Defensoria Pública do Paraná, em seu portal da internet (21/06/2023), registrou “apoio à implementação do juiz das garantias”, então sob discussão no STF, por considerar a sua criação “uma iniciativa fundamental para aprimorar o funcionamento da Justiça penal no país.” A nota da Defensoria afirma que “A medida busca [...] assegurar o respeito às garantias individuais”, contribuindo para “uma maior imparcialidade da justiça [...] para uma justiça mais eficaz e para um processo penal mais justo, beneficiando toda a sociedade”. Nesse contexto, incluem-se na competência legal do Juiz de Garantias as seguintes hipóteses, EXCETO:",
+      "comando": "",
+      "alternativas": {
+        "A": "Julgar o habeas corpus impetrado durante a investigação, bem como determinar, de ofício, o trancamento do inquérito policial.",
+        "B": "Decidir sobre a homologação de acordo de não persecução penal celebrado durante a investigação ou decorrente de decisão desclassificatória.",
+        "C": "Ser informado sobre a instauração de inquérito policial ou de qualquer outro procedimento de investigação criminal, ainda que não presidida por autoridade policial.",
+        "D": "Decidir sobre o requerimento de produção antecipada de provas consideradas urgentes e não repetíveis, assegurados o contraditório e a ampla defesa em audiência pública e oral."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Decidir sobre a homologação de acordo de não persecução penal celebrado durante a investigação ou decorrente de decisão desclassificatória.",
+    "fundamento_resposta": "O juiz das garantias homologa ANPP celebrado na investigação; a extensão automática a acordo posterior à desclassificação extrapola essa competência.",
+    "fontes": [
+      "CPP:3-B XVII,28-A"
+    ],
+    "ressalvas": [
+      "A redação deve ser cotejada com o alcance temporal fixado pelo STF nas ADIs do juiz das garantias."
+    ],
+    "classificacao": {
+      "tema_id": "5503",
+      "caminho": "Processo Penal > Inquérito Policial > Juiz das Garantias",
+      "extras_ids": [
+        "5502"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0014",
+    "questao": {
+      "id": "Q0014",
+      "enunciado": "Caso a decisão do magistrado em relação à internação de Pedro seja questionada em juízo, ela não pode ser sanada pela via do habeas corpus, pois tal instrumento processual não se aplica às situações que envolvam decisões tomadas por vara da infância e da juventude em detrimento da liberdade de criança ou adolescente.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "Habeas corpus pode tutelar a liberdade de criança ou adolescente submetido a internação; a exclusão categórica é falsa.",
+    "fontes": [
+      "CF:5 LXVIII"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5477",
+      "caminho": "Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus",
+      "extras_ids": [
+        "4709"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0015",
+    "questao": {
+      "id": "Q0015",
+      "enunciado": "Com relação ao inquérito policial, segundo o Código de Processo Penal.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A polícia judiciária será exercida pelas autoridades policiais em todo o território nacional, independente de circunscrição, com o fim de apurar as infrações penais e sua autoria.",
+        "B": "Na legislação processual penal, é inaplicável a interpretação extensiva e analógica, bem como o suplemento dos princípios gerais do direito.",
+        "C": "O inquérito deverá terminar no prazo de trinta dias, se o indiciado tiver sido preso em flagrante, ou estiver preso preventivamente, contado o prazo a partir do dia da prisão.",
+        "D": "O Ministério Público não poderá requerer a devolução do inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao oferecimento da denúncia.",
+        "E": "O ofendido, ou seu representante legal, poderá requerer qualquer diligência, a qual será realizada obrigatoriamente, considerados os princípios do contraditório e da ampla defesa."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "O Ministério Público não poderá requerer a devolução do inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao oferecimento da denúncia.",
+    "fundamento_resposta": "A devolução do inquérito pelo Ministério Público só se justifica por diligências imprescindíveis ao oferecimento da denúncia.",
+    "fontes": [
+      "CPP:16"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5500",
+      "caminho": "Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0016",
+    "questao": {
+      "id": "Q0016",
+      "enunciado": "À luz da atual jurisprudência dos Tribunais Superiores sobre o tema prisão, avalie as assertivas a seguir.\n\nI. Consoante a jurisprudência do Superior Tribunal de Justiça, em razão da Lei nº 13.964/2019, não é mais possível ao Juiz, de ofício, decretar ou converter a prisão em flagrante em prisão preventiva.\n\nII. De acordo com o entendimento do Supremo Tribunal Federal, é incompatível com a Constituição Federal – por ofensa ao princípio da isonomia (Art. 3º, inciso IV; e Art. 5º, caput, da CRFB/88) – a previsão contida no inciso VII do Art. 295 do CPP que concede o direito à prisão especial, até decisão penal definitiva, a pessoas com diploma de ensino superior.\n\nIII. O Supremo Tribunal Federal atribuiu interpretação conforme a Constituição Federal, ao § 1º do Art. 3º-B do CPP, incluído pela Lei nº 13.964/2019, para estabelecer que o preso em flagrante ou por força de mandado de prisão provisória será sempre encaminhado à presença do Juiz das Garantias, no prazo de 72 horas.\n\n\nEstá correto o que se afirma em",
+      "comando": "",
+      "alternativas": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I e III, apenas."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "I e II, apenas.",
+    "fundamento_resposta": "I e II corretas: preventiva exige provocação e diploma superior não sustenta prisão especial. III erra o prazo de apresentação, de 24 horas.",
+    "fontes": [
+      "CPP:311,3-B §1",
+      "PRISAO_ESPECIAL:ADPF334"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5584",
+      "caminho": "Processo Penal > Teoria Geral das Prisões",
+      "extras_ids": [
+        "5519",
+        "5586",
+        "5589"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0017",
+    "questao": {
+      "id": "Q0017",
+      "enunciado": "No processo e julgamento dos crimes de responsabilidade dos funcionários públicos,",
+      "comando": "Complete a frase ou responda conforme o contexto do processo penal.",
+      "alternativas": {
+        "A": "nos crimes afiançáveis e inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+        "B": "nos crimes inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+        "C": "nos crimes afiançáveis e inafiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+        "D": "nos crimes afiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+        "E": "a falta de notificação do acusado para, se quiser, responder à acusação causa nulidade absoluta, conforme súmulas do Superior Tribunal de Justiça e do Supremo Tribunal Federal."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "nos crimes afiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+    "fundamento_resposta": "No rito dos crimes funcionais afiançáveis, defesa preliminar antecede o recebimento da denúncia, ressalvadas as hipóteses jurisprudenciais.",
+    "fontes": [
+      "CPP:514",
+      "STJ_SUMULAS:330"
+    ],
+    "ressalvas": [
+      "A taxonomia não possui nó específico para esse rito. 5533 está sob Procedimento Ordinário; uso a raiz em vez de atribuir um rito errado. Classificação ampla, não referência fina."
+    ],
+    "classificacao": {
+      "tema_id": "5465",
+      "caminho": "Processo Penal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0018",
+    "questao": {
+      "id": "Q0018",
+      "enunciado": "Marque “C” para certo e “E” para errado na assertiva abaixo.\n\nSão considerados casos de exclusão de competência dos Juizados Especiais Criminais a conexão, não localização do acusado e a complexidade da ocorrência ou circunstância diversa que não permita o imediato oferecimento da denúncia, como perícias complexas e amplas diligências para a identificação do autor.",
+      "comando": "Marque “C” para certo e “E” para errado na assertiva abaixo.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "Conexão/continência, necessidade de citação por edital e complexidade podem deslocar o processamento ao juízo comum; os institutos consensuais podem ser preservados.",
+    "fontes": [
+      "L9099:60 parágrafo único,66 parágrafo único,77 §2"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5540",
+      "caminho": "Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais",
+      "extras_ids": [
+        "4701"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0019",
+    "questao": {
+      "id": "Q0019",
+      "enunciado": "Considerando as relações entre as esferas criminal e cível e a ação civil ex delicto, assinale a alternativa INCORRETA:",
+      "comando": "\n",
+      "alternativas": {
+        "A": "Aplicando a “teoria da norma ainda constitucional”\\nou da “inconstitucionalidade progressiva” na\\ninterpretação do art. 68, CPP, o Supremo Tribunal\\nFederal admite, onde não haja Defensoria\\nPública instalada nos moldes previstos na\\nConstituição de 1988, que o Ministério Público\\npromova, a requerimento do titular à reparação\\ndo dano que for pobre, a ação civil ex delicto.\\n",
+        "B": "Proposta ação civil ex delicto, se o conhecimento\\ndo mérito depender de verificação da existência\\nde fato delituoso, o juiz cível poderá determinar\\na suspensão do processo até que se pronuncie a\\njustiça criminal, mesmo que ainda não proposta\\na ação penal.",
+        "C": "Independente do fundamento, a promoção de\\narquivamento de inquérito policial não impede a\\npropositura de ação civil ex delicto.\\n",
+        "D": "Faz coisa julgada no cível, determinando a\\nimprocedência de eventual ação civil ex delicto,\\na sentença penal definitiva que reconhece que o\\nautor incorreu em erro inevitável sobre existência\\nou limites de legítima defesa (descriminante\\nputativa)."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Faz coisa julgada no cível, determinando a\\nimprocedência de eventual ação civil ex delicto,\\na sentença penal definitiva que reconhece que o\\nautor incorreu em erro inevitável sobre existência\\nou limites de legítima defesa (descriminante\\nputativa).",
+    "fundamento_resposta": "Legítima defesa putativa não torna o fato objetivamente lícito para vincular o juízo civil; distingue-se da legítima defesa real.",
+    "fontes": [
+      "CPP:65,67",
+      "CP:20 §1"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5475",
+      "caminho": "Processo Penal > Ação Penal > Ação Civil Ex Delicto",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0020",
+    "questao": {
+      "id": "Q0020",
+      "enunciado": "Assinale com V (verdadeiro) ou com F (falso) as seguintes afirmações sobre posições jurisprudenciais do Superior Tribunal de Justiça.\n\n(   ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, é possível o reconhecimento do concurso material entre as condutas previstas nos artigos 241-A (artigo 241-A Oferecer, trocar, disponibilizar, transmitir, distribuir, publicar ou divulgar por qualquer meio, inclusive por meio de sistema de informática ou telemático, fotografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornografia envolvendo criança ou adolescente) e artigo 241-B (Adquirir, possuir ou armazenar, por qualquer meio, fotografia, vídeo ou outra forma de registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente) do Estatuto da Criança e do Adolescente, uma vez os tipos penais são autônomos, com verbos e condutas distintas, sendo que o crime previsto no artigo 241-B do ECA não configura fase normal, tampouco meio de execução, para o crime previsto no artigo 241-A do ECA.\n\n(   ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, mesmo que esta seja específica.\n\n(   ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, atribuir-se falsa identidade perante a Autoridade Policial com a finalidade de ocultar maus antecedentes constitui o crime previsto no artigo 307, caput, do Código Penal (atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem). Esse tipo de conduta não é protegido pelo princípio constitucional da autodefesa (artigo 5o, inciso LXIII, CF).\n\n(   ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, a causa de aumento de pena relativa ao crime de furto pelo repouso noturno não se aplica em nenhuma das hipóteses do furto qualificado.\n\n(   ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, é cabível a suspensão condicional do processo e a transação penal aos delitos que preveem a pena de multa alternativamente à pena privativa de liberdade, ainda que o preceito secundário da norma legal ultrapasse os parâmetros mínimos e máximos exigidos em lei para a incidência dos institutos em comento.\n\nA sequência correta do preenchimento dos parênteses, de cima para baixo, é",
+      "comando": "Assinale com V (verdadeiro) ou com F (falso) as seguintes afirmações sobre posições jurisprudenciais do Superior Tribunal de Justiça.",
+      "alternativas": {
+        "A": "V – F – V – V – F.",
+        "B": "F – V – F – V – F.",
+        "C": "F – F – V – F – V.",
+        "D": "V – V – F – F – V.",
+        "E": "Nenhuma das alternativas anteriores está correta. "
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Nenhuma das alternativas anteriores está correta. ",
+    "fundamento_resposta": "A sequência proposta é V-V-V-V-V: autonomia dos arts.241-A/B, compensação com reincidência específica, falsa identidade típica, afastamento do repouso noturno no furto qualificado e multa alternativa. Nenhuma das sequências A-D corresponde.",
+    "fontes": [
+      "STJ_SUMULAS:522",
+      "STJ_MULTA:transação e suspensão com multa alternativa"
+    ],
+    "ressalvas": [
+      "Questão multitemática; precedentes de todos os cinco itens ainda precisam de verificação individual. Não é referência forte de alternativa."
+    ],
+    "classificacao": {
+      "tema_id": "5062",
+      "caminho": "Penal",
+      "extras_ids": [
+        "5066",
+        "5203",
+        "5119",
+        "5159",
+        "4701"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0021",
+    "questao": {
+      "id": "Q0021",
+      "enunciado": "Sobre o Juiz das Garantias e o entendimento do STF no julgamento de ações diretas de inconstitucionalidade, julgue o item a seguir.\n\nO STF fixou o prazo, improrrogável, de doze meses, a contar da publicação da ata do julgamento, para que sejam adotadas as medidas legislativas e administrativas necessárias à adequação das diferentes leis de organização judiciária, à efetiva implantação e ao efetivo funcionamento do juiz das garantias em todo o país, tudo conforme as diretrizes do Conselho Nacional de Justiça e sob a supervisão dele.",
+      "comando": "Julgue o item a seguir.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "O prazo de implantação de doze meses admitia prorrogação por igual período; a palavra improrrogável torna a assertiva falsa.",
+    "fontes": [
+      "JG:ADIs6298,6299,6300,6305"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5503",
+      "caminho": "Processo Penal > Inquérito Policial > Juiz das Garantias",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0022",
+    "questao": {
+      "id": "Q0022",
+      "enunciado": "Admite a modalidade culposa",
+      "comando": "",
+      "alternativas": {
+        "A": "a concussão.",
+        "B": "a prevaricação.",
+        "C": "a corrupção passiva.",
+        "D": "o peculato.",
+        "E": "o falso testemunho."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "o peculato.",
+    "fundamento_resposta": "O peculato admite modalidade culposa; os demais tipos listados não a preveem.",
+    "fontes": [
+      "CP:312 §2"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5089",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0023",
+    "questao": {
+      "id": "Q0023",
+      "enunciado": "Sobre o Tribunal do Júri, é INCORRETO afirmar:",
+      "comando": "",
+      "alternativas": {
+        "A": "Seu procedimento desdobra-se em juízo da acusação, que analisa a admissibilidade da pretensão punitiva, e juízo da causa, que diz respeito ao mérito da acusação.\n",
+        "B": "Se o acusado houver permanecido preso durante a instrução criminal, a pronúncia do juiz importará em automática manutenção da cautela extrema, sendo, por outro lado, necessária a motivação do decreto de prisão na hipótese de o pronunciado encontrar-se solto.\n",
+        "C": "A decisão de impronúncia não faz coisa julgada formal e material.\n",
+        "D": "Se o advogado do acusado, regularmente intimado, não comparecer à sessão de julgamento, e não houver escusa legítima, o julgamento será adiado uma única vez, cabendo ao juiz-presidente intimar a Defensoria Pública para o novo julgamento.\n",
+        "E": "Nos termos da lei, o sistema de colheita de depoimentos em plenário é, para as partes, o do exame direto e cruzado, ao passo que, para os jurados, o sistema é o indireto, ou presidencialista."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Se o acusado houver permanecido preso durante a instrução criminal, a pronúncia do juiz importará em automática manutenção da cautela extrema, sendo, por outro lado, necessária a motivação do decreto de prisão na hipótese de o pronunciado encontrar-se solto.\n",
+    "fundamento_resposta": "A prisão não se mantém automaticamente na pronúncia: exige fundamentação específica.",
+    "fontes": [
+      "CPP:413 §3,414,456,473"
+    ],
+    "ressalvas": [
+      "C também é problemática se interpretada literalmente como ausência de coisa julgada formal e material: a impronúncia tem estabilidade formal. B é a objeção inequívoca; redação de C impede referência forte."
+    ],
+    "classificacao": {
+      "tema_id": "5527",
+      "caminho": "Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",
+      "extras_ids": [
+        "5519"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0024",
+    "questao": {
+      "id": "Q0024",
+      "enunciado": "A Criminologia é o ramo da Ciência Penal que abrange os conhecimentos relativos ao delito como fenômeno social, inclusive os processos de elaborar as leis, infringir as leis e reagir à infração das leis. Acerca das teorias criminológicas, analise as afirmativas a seguir.\n\nI. A teoria ecológica do delito foi criada no contexto da Escola de Chicago e consiste na sustentação, baseada em pesquisas empíricas, da correlação entre o ambiente comunitário e a formação de determinados padrões infracionais.\n\nII. A teoria da associação diferencial, também chamada de teoria da aprendizagem social, preconiza que as racionalidades motivacionais e metodológicas que envolvem o cometimento de ilicitudes podem ter origem genética, mas são principalmente transmitidas em circunstâncias específicas no curso da convivência grupal.\n\nIII. Os chamados crimes do colarinho branco são infrações praticadas por indivíduos dotados de elevado status socioeconômico no curso de atividades filantrópicas, sendo a razão pela qual as cifras negras não incidem sobre tais comportamentos ilícitos.",
+      "comando": "Está correto o que se afirma em.",
+      "alternativas": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "I, apenas.",
+    "fundamento_resposta": "A teoria ecológica relaciona ambiente e padrões infracionais; associação diferencial envolve aprendizagem, não genética. Colarinho branco se refere à atividade ocupacional, não filantrópica.",
+    "fontes": [
+      "CRIMINOLOGIA:Escola de Chicago e Sutherland"
+    ],
+    "ressalvas": [
+      "Base doutrinária ainda sem fonte primária específica consultada para estes três enunciados."
+    ],
+    "classificacao": {
+      "tema_id": "4388",
+      "caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": [
+        "4387"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0025",
+    "questao": {
+      "id": "Q0025",
+      "enunciado": "A conduta do particular de solicitar vantagem de contribuinte autuado pela fiscalização, a pretexto ilusório de influir em ato praticado por auditor fiscal, configura corrupção ativa.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "Solicitar vantagem a pretexto de influir em ato de funcionário é tráfico de influência; corrupção ativa envolve oferecer ou prometer vantagem ao funcionário.",
+    "fontes": [
+      "CP:332,333"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5101",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Tráfico de Influência",
+      "extras_ids": [
+        "5093"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0026",
+    "questao": {
+      "id": "Q0026",
+      "enunciado": "Está fora do âmbito de proteção da Lei n.º 11.340/2006, que trata da violência doméstica contra a mulher,",
+      "comando": "Assinale o que está fora do âmbito de proteção da Lei n.º 11.340/2006.",
+      "alternativas": {
+        "A": "a filha transexual que é ameaçada pelo pai dentro da própria\\nresidência. ",
+        "B": "a mãe vulnerável que é ameaçada e agredida pela própria\\nfilha com a qual convive. ",
+        "C": "a mulher agredida dentro do ambiente laboral por colega de\\ntrabalho do sexo masculino com quem nunca teve relação\\níntima ou de afeto.",
+        "D": "a empregada doméstica agredida pelo neto da empregadora\\ndentro da casa desta.",
+        "E": "a mulher vítima de contravenção penal em razão do gênero."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "a mulher agredida dentro do ambiente laboral por colega de\\ntrabalho do sexo masculino com quem nunca teve relação\\níntima ou de afeto.",
+    "fundamento_resposta": "Agressão por colega de trabalho sem vínculo doméstico, familiar ou afetivo não se enquadra, por si, na Lei Maria da Penha.",
+    "fontes": [
+      "L11340:5"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4704",
+      "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "extras_ids": [
+        "6724"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0027",
+    "questao": {
+      "id": "Q0027",
+      "enunciado": "O processo penal seguirá sem a presença do acusado que citado ou intimado:",
+      "comando": "",
+      "alternativas": {
+        "A": "pessoalmente para qualquer ato, deixar de comparecer com motivo justificado;",
+        "B": "por publicação para qualquer ato, deixar de comparecer sem motivo justificado;",
+        "C": "pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado;",
+        "D": "por publicação para qualquer ato, deixar de dar andamento ao processo;",
+        "E": "pessoalmente para o ato inicial, deixar de comparecer sem motivo justificado."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado;",
+    "fundamento_resposta": "O CPP admite prosseguimento sem o acusado pessoalmente citado ou intimado que falta sem justificativa.",
+    "fontes": [
+      "CPP:367"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5488",
+      "caminho": "Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0028",
+    "questao": {
+      "id": "Q0028",
+      "enunciado": "O Código de Processo Penal, em seu art. 406, estabelece que o juiz, ao receber a denúncia ou a queixa, ordenará a citação do acusado para responder a acusação, por escrito, no prazo de dez dias.\n\nO art. 409, do mesmo diploma legal, determina que, apresentada a defesa, o juiz ouvirá o Ministério Público ou o querelante sobre preliminares e documentos, em cinco dias.\n\nPor sua vez, segundo o parágrafo primeiro, do art. 421, do referido Estatuto Processual, ainda que preclusa a decisão de pronúncia, havendo circunstância superveniente que altere a classificação do crime, o juiz ordenará a remessa dos autos ao Ministério Público.",
+      "comando": "Analise as disposições mencionadas e explique o procedimento adotado pelo juiz em cada etapa processual descrita.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "O prazo para ouvir acusação sobre preliminares e documentos após a defesa é de três dias, não cinco.",
+    "fontes": [
+      "CPP:406,409,421 §1"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5526",
+      "caminho": "Processo Penal > Procedimento do Tribunal do Júri > Procedimento Bifásico do Tribunal do Júri",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0029",
+    "questao": {
+      "id": "Q0029",
+      "enunciado": "Nos termos da Lei nº 13.869/2019, configura crime de abuso de autoridade",
+      "comando": "Complete a frase ou explique o que configura crime de abuso de autoridade segundo a Lei nº 13.869/2019.",
+      "alternativas": {
+        "A": "deixar de entregar ao preso, imediatamente, a nota\\nde culpa, assinada pela autoridade, com o motivo da\\nprisão e os nomes do condutor e das testemunhas.",
+        "B": "prosseguir com o interrogatório de pessoa que tenha\\noptado por ser assistida por advogado, sem a presença de seu patrono.",
+        "C": "submeter a pessoa, presa em flagrante, a interrogatório policial, durante o período de repouso noturno.",
+        "D": "impedir a entrevista pessoal e reservada do preso\\ncom seu advogado, ainda que de modo justificado.",
+        "E": "adentrar, mediante consentimento do ocupante, imóvel alheio ou suas dependências, ou nele permanecer\\nnas mesmas condições, sem determinação judicial. "
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "prosseguir com o interrogatório de pessoa que tenha\\noptado por ser assistida por advogado, sem a presença de seu patrono.",
+    "fundamento_resposta": "Prosseguir no interrogatório de quem escolheu assistência de advogado, sem o patrono, é uma das condutas tipificadas. As demais opções retiram exceções ou alteram prazos/requisitos.",
+    "fontes": [
+      "L13869:13,15 parágrafo único II,18,22"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4684",
+      "caminho": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0030",
+    "questao": {
+      "id": "Q0030",
+      "enunciado": "Aquele que, mediante violência ou grave ameaça constrange alguém a trabalhar ou não trabalhar durante certo periodo:",
+      "comando": "Complete a definição ou responda conforme o enunciado.",
+      "alternativas": {
+        "A": "Não comete crime, por falta de capitulação legal;",
+        "B": "Comete crime de constrangimento ilegal;",
+        "C": "Comete crime de atentado contra a liberdade de trabalho;",
+        "D": "Comete crime por frustração de direito as­ segurado por lei trabalhista;",
+        "E": "Comete crime de atentado contra a liberdade do contrato de trabalho."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Comete crime de atentado contra a liberdade de trabalho;",
+    "fundamento_resposta": "Constranger com violência ou grave ameaça a trabalhar ou não trabalhar tipifica atentado contra a liberdade de trabalho.",
+    "fontes": [
+      "CP:197 I"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5135",
+      "caminho": "Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimes Contra a Organização do Trabalho",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  }
+]

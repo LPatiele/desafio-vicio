@@ -1,0 +1,63 @@
+{
+  "classifierModel": "gemini-3.5-flash-lite",
+  "judgeModel": "gemini-3.8-flash",
+  "classifierPrompt": "classificador.v11-livros.md",
+  "judgePrompt": "juiz.v10-livros.md",
+  "batchSize": 1,
+  "maxRequestCharacters": 400000,
+  "maxOutputTokens": 32000,
+  "maxCalls": 3590,
+  "maxRetries": 0,
+  "minIntervalMs": 0,
+  "timeoutMs": 900000,
+  "reasoningByModel": {},
+  "responseFormat": "json_schema",
+  "allowRootPublication": false,
+  "legalCutoff": "2026-10-16",
+  "maxAttemptsPerStage": 5,
+  "retryBaseDelayMs": 2000,
+  "requestsPerMinute": 18,
+  "knowledge": {
+    "enabled": true,
+    "snapshot": "output/knowledge/snapshots/desafio359-v6-livros/manifest.json",
+    "maxDocuments": 6,
+    "maxContextCharacters": 16000,
+    "requireContextForPublication": false,
+    "mode": "automatic",
+    "classifierMode": "tools",
+    "maxToolCalls": 4,
+    "maxToolRounds": 2
+  },
+  "direct": {
+    "version": 1,
+    "budgetUsd": 10,
+    "pricingCheckedAt": "2026-10-18",
+    "classifier": {
+      "provider": "gemini",
+      "reasoningEffort": "high",
+      "maxOutputTokens": 16384,
+      "requestsPerMinute": 30,
+      "tokensPerMinute": 1000000,
+      "inputUsdPerMillion": 0.3,
+      "cachedInputUsdPerMillion": 0.03,
+      "outputUsdPerMillion": 2.5,
+      "requestsPerDay": 1500,
+      "dailyResetTimeZone": "America/Los_Angeles",
+      "minIntervalMs": 2100
+    },
+    "judge": {
+      "provider": "gemini",
+      "reasoningEffort": "medium",
+      "maxOutputTokens": 8192,
+      "requestsPerMinute": 15,
+      "tokensPerMinute": 1000000,
+      "inputUsdPerMillion": 0.75,
+      "cachedInputUsdPerMillion": 0.075,
+      "outputUsdPerMillion": 3.75,
+      "requestsPerDay": 1500,
+      "dailyResetTimeZone": "America/Los_Angeles",
+      "minIntervalMs": 4100
+    },
+    "quotaScope": "google-projeto2"
+  }
+}

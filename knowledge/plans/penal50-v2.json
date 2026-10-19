@@ -1,0 +1,1191 @@
+{
+  "version": 1,
+  "id": "penal50-v2",
+  "cutoff": "2026-10-16",
+  "selection": {
+    "experiment": "individual-v3-invertido-50",
+    "recordsHash": "c85c7cd5ff321825ba92faccce5c0921f7c09ea137594b8b7721c4bf615811ab",
+    "inputHashes": {
+      "questions": "6815aad02f1577fb7f3c68bb76cd56b3b23df5a0bf951d3422a5ce7d5e492573",
+      "themes": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+    }
+  },
+  "sources": [
+    {
+      "id": "cp",
+      "kind": "norma",
+      "title": "Código Penal",
+      "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848"
+    },
+    {
+      "id": "cpp",
+      "kind": "norma",
+      "title": "Código de Processo Penal",
+      "urn": "urn:lex:br:federal:decreto.lei:1941-10-03;3689"
+    },
+    {
+      "id": "cf",
+      "kind": "norma",
+      "title": "Constituição Federal",
+      "urn": "urn:lex:br:federal:constituicao:1988-10-05;1988"
+    },
+    {
+      "id": "lep",
+      "kind": "norma",
+      "title": "Lei de Execução Penal",
+      "urn": "urn:lex:br:federal:lei:1984-07-11;7210"
+    },
+    {
+      "id": "drogas",
+      "kind": "norma",
+      "title": "Lei de Drogas",
+      "urn": "urn:lex:br:federal:lei:2006-08-23;11343"
+    },
+    {
+      "id": "maria-penha",
+      "kind": "norma",
+      "title": "Lei Maria da Penha",
+      "urn": "urn:lex:br:federal:lei:2006-08-07;11340"
+    },
+    {
+      "id": "ambientais",
+      "kind": "norma",
+      "title": "Crimes ambientais",
+      "urn": "urn:lex:br:federal:lei:1998-02-12;9605"
+    },
+    {
+      "id": "lavagem",
+      "kind": "norma",
+      "title": "Lavagem de dinheiro",
+      "urn": "urn:lex:br:federal:lei:1998-03-03;9613"
+    },
+    {
+      "id": "juizados",
+      "kind": "norma",
+      "title": "Juizados Especiais",
+      "urn": "urn:lex:br:federal:lei:1995-09-26;9099"
+    },
+    {
+      "id": "eca",
+      "kind": "norma",
+      "title": "Estatuto da Criança e do Adolescente",
+      "urn": "urn:lex:br:federal:lei:1990-07-13;8069"
+    },
+    {
+      "id": "abuso",
+      "kind": "norma",
+      "title": "Abuso de autoridade",
+      "urn": "urn:lex:br:federal:lei:2019-09-05;13869"
+    },
+    {
+      "id": "terrorismo",
+      "kind": "norma",
+      "title": "Lei Antiterrorismo",
+      "urn": "urn:lex:br:federal:lei:2016-03-16;13260"
+    },
+    {
+      "id": "ordem-economica",
+      "kind": "norma",
+      "title": "Crimes contra a ordem econômica",
+      "urn": "urn:lex:br:federal:lei:1990-12-27;8137"
+    },
+    {
+      "id": "bnp-c3e2cb83fa",
+      "kind": "precedente",
+      "title": "Tribunal do Júri",
+      "query": "Tribunal do Júri"
+    },
+    {
+      "id": "bnp-162248d73a",
+      "kind": "precedente",
+      "title": "absolvição sumária apelação",
+      "query": "absolvição sumária apelação"
+    },
+    {
+      "id": "bnp-9a5831f435",
+      "kind": "precedente",
+      "title": "competência prefeito crime federal",
+      "query": "competência prefeito crime federal"
+    },
+    {
+      "id": "bnp-22ccb7f62a",
+      "kind": "precedente",
+      "title": "reincidência regime livramento condicional",
+      "query": "reincidência regime livramento condicional"
+    },
+    {
+      "id": "bnp-a66ff71116",
+      "kind": "precedente",
+      "title": "furto roubo consumação",
+      "query": "furto roubo consumação"
+    },
+    {
+      "id": "bnp-6f98b8a1b9",
+      "kind": "precedente",
+      "title": "mutatio libelli",
+      "query": "mutatio libelli"
+    },
+    {
+      "id": "bnp-d342401dab",
+      "kind": "precedente",
+      "title": "progressão regime reparação dano administração pública",
+      "query": "progressão regime reparação dano administração pública"
+    },
+    {
+      "id": "bnp-efb937e1c3",
+      "kind": "precedente",
+      "title": "furto escusa absolutória idoso",
+      "query": "furto escusa absolutória idoso"
+    },
+    {
+      "id": "bnp-deeca2e657",
+      "kind": "precedente",
+      "title": "crime ambiental pessoa jurídica insignificância",
+      "query": "crime ambiental pessoa jurídica insignificância"
+    },
+    {
+      "id": "bnp-51a9e2d99b",
+      "kind": "precedente",
+      "title": "lavagem de dinheiro corrupção",
+      "query": "lavagem de dinheiro corrupção"
+    },
+    {
+      "id": "bnp-42aa3de90d",
+      "kind": "precedente",
+      "title": "juiz das garantias",
+      "query": "juiz das garantias"
+    },
+    {
+      "id": "bnp-a449e37e33",
+      "kind": "precedente",
+      "title": "habeas corpus adolescente internação",
+      "query": "habeas corpus adolescente internação"
+    },
+    {
+      "id": "bnp-5ba17870eb",
+      "kind": "precedente",
+      "title": "prisão preventiva de ofício",
+      "query": "prisão preventiva de ofício"
+    },
+    {
+      "id": "bnp-2767bdb8fa",
+      "kind": "precedente",
+      "title": "defesa preliminar funcionário público",
+      "query": "defesa preliminar funcionário público"
+    },
+    {
+      "id": "bnp-750d8b7045",
+      "kind": "precedente",
+      "title": "juizado especial criminal conexão complexidade",
+      "query": "juizado especial criminal conexão complexidade"
+    },
+    {
+      "id": "bnp-7052420595",
+      "kind": "precedente",
+      "title": "ação civil ex delicto",
+      "query": "ação civil ex delicto"
+    },
+    {
+      "id": "bnp-2c860794df",
+      "kind": "precedente",
+      "title": "concurso crimes armazenamento divulgação pornografia infantil",
+      "query": "concurso crimes armazenamento divulgação pornografia infantil"
+    },
+    {
+      "id": "bnp-0992e576bb",
+      "kind": "precedente",
+      "title": "Lei Maria da Penha âmbito aplicação",
+      "query": "Lei Maria da Penha âmbito aplicação"
+    },
+    {
+      "id": "bnp-08bb6a4dc0",
+      "kind": "precedente",
+      "title": "habeas corpus cabimento",
+      "query": "habeas corpus cabimento"
+    },
+    {
+      "id": "bnp-dac55f9c55",
+      "kind": "precedente",
+      "title": "lesão corporal violência doméstica ação penal",
+      "query": "lesão corporal violência doméstica ação penal"
+    },
+    {
+      "id": "bnp-c794eb71a9",
+      "kind": "precedente",
+      "title": "cartel ordem econômica",
+      "query": "cartel ordem econômica"
+    },
+    {
+      "id": "bnp-9fe2169e4a",
+      "kind": "precedente",
+      "title": "Tribunal do Júri execução imediata efeito suspensivo",
+      "query": "Tribunal do Júri execução imediata efeito suspensivo"
+    },
+    {
+      "id": "bnp-214f118684",
+      "kind": "precedente",
+      "title": "medida de segurança duração",
+      "query": "medida de segurança duração"
+    },
+    {
+      "id": "bnp-201e5550e7",
+      "kind": "precedente",
+      "title": "dosimetria pena",
+      "query": "dosimetria pena"
+    },
+    {
+      "id": "bnp-b232386f6a",
+      "kind": "precedente",
+      "title": "citação intimação processo penal",
+      "query": "citação intimação processo penal"
+    },
+    {
+      "id": "bnp-d9981c5255",
+      "kind": "precedente",
+      "title": "nulidade processo penal prejuízo",
+      "query": "nulidade processo penal prejuízo"
+    },
+    {
+      "id": "bnp-1574906966",
+      "kind": "precedente",
+      "title": "indulto comutação pena",
+      "query": "indulto comutação pena"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q0001",
+      "topics": "Tribunal do Júri",
+      "sources": [
+        "cpp",
+        "bnp-c3e2cb83fa"
+      ],
+      "articles": {
+        "cpp": [
+          "406",
+          "409",
+          "414",
+          "415",
+          "419",
+          "421",
+          "427",
+          "428",
+          "439",
+          "446"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0002",
+      "topics": "Seletividade do sistema penal",
+      "sources": [],
+      "articles": {},
+      "gaps": [
+        "Doutrina de criminologia ainda não incorporada; legislação e precedentes não substituem a fonte teórica cobrada."
+      ]
+    },
+    {
+      "id": "Q0003",
+      "topics": "Recurso contra absolvição sumária",
+      "sources": [
+        "cpp",
+        "bnp-162248d73a"
+      ],
+      "articles": {
+        "cpp": [
+          "397",
+          "581",
+          "593"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0004",
+      "topics": "Jurisdição e competência",
+      "sources": [
+        "cpp",
+        "cf",
+        "bnp-9a5831f435"
+      ],
+      "articles": {
+        "cpp": [
+          "69",
+          "74",
+          "78",
+          "83",
+          "84"
+        ],
+        "cf": [
+          "29",
+          "108",
+          "109"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0005",
+      "topics": "Reincidência regime livramento",
+      "sources": [
+        "cp",
+        "lep",
+        "bnp-22ccb7f62a"
+      ],
+      "articles": {
+        "cp": [
+          "33",
+          "59",
+          "61",
+          "63",
+          "64",
+          "83",
+          "90"
+        ],
+        "lep": [
+          "112"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0006",
+      "topics": "Furto roubo consumação",
+      "sources": [
+        "cp",
+        "bnp-a66ff71116"
+      ],
+      "articles": {
+        "cp": [
+          "155",
+          "157"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0007",
+      "topics": "Emendatio mutatio libelli",
+      "sources": [
+        "cpp",
+        "cp",
+        "maria-penha",
+        "bnp-6f98b8a1b9"
+      ],
+      "articles": {
+        "cpp": [
+          "41",
+          "383",
+          "384"
+        ],
+        "cp": [
+          "147",
+          "147-a"
+        ],
+        "maria-penha": [
+          "5",
+          "7"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0008",
+      "topics": "Progressão reparação do dano",
+      "sources": [
+        "cp",
+        "lep",
+        "bnp-d342401dab"
+      ],
+      "articles": {
+        "cp": [
+          "33"
+        ],
+        "lep": [
+          "112"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0009",
+      "topics": "Furto imunidade escusa absolutória",
+      "sources": [
+        "cp",
+        "bnp-efb937e1c3"
+      ],
+      "articles": {
+        "cp": [
+          "155",
+          "181",
+          "182",
+          "183"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0010",
+      "topics": "Crimes ambientais",
+      "sources": [
+        "ambientais",
+        "bnp-deeca2e657"
+      ],
+      "articles": {
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0011",
+      "topics": "Lavagem e corrupção",
+      "sources": [
+        "lavagem",
+        "cp",
+        "bnp-51a9e2d99b"
+      ],
+      "articles": {
+        "lavagem": [
+          "1",
+          "2"
+        ],
+        "cp": [
+          "317",
+          "333"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0012",
+      "topics": "Recurso juizados especiais",
+      "sources": [
+        "juizados"
+      ],
+      "articles": {
+        "juizados": [
+          "77",
+          "82"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0013",
+      "topics": "Juiz das garantias",
+      "sources": [
+        "cpp",
+        "bnp-42aa3de90d"
+      ],
+      "articles": {
+        "cpp": [
+          "3-a",
+          "3-b",
+          "3-c",
+          "3-d",
+          "3-e",
+          "3-f"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0014",
+      "topics": "Habeas corpus infância",
+      "sources": [
+        "eca",
+        "cpp",
+        "cf",
+        "bnp-a449e37e33"
+      ],
+      "articles": {
+        "eca": [
+          "108",
+          "111",
+          "122",
+          "123"
+        ],
+        "cpp": [
+          "647",
+          "648"
+        ],
+        "cf": [
+          "5"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0015",
+      "topics": "Inquérito policial",
+      "sources": [
+        "cpp"
+      ],
+      "articles": {
+        "cpp": [
+          "4",
+          "5",
+          "6",
+          "10",
+          "17",
+          "18"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0016",
+      "topics": "Prisão preventiva",
+      "sources": [
+        "cpp",
+        "bnp-5ba17870eb"
+      ],
+      "articles": {
+        "cpp": [
+          "311",
+          "312",
+          "313",
+          "315",
+          "316"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0017",
+      "topics": "Procedimento crimes funcionais",
+      "sources": [
+        "cpp",
+        "bnp-2767bdb8fa"
+      ],
+      "articles": {
+        "cpp": [
+          "513",
+          "514",
+          "515",
+          "516",
+          "517",
+          "518"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0018",
+      "topics": "Competência juizado criminal",
+      "sources": [
+        "juizados",
+        "bnp-750d8b7045"
+      ],
+      "articles": {
+        "juizados": [
+          "60",
+          "61",
+          "66",
+          "77",
+          "78"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0019",
+      "topics": "Ação civil ex delicto",
+      "sources": [
+        "cpp",
+        "cp",
+        "bnp-7052420595"
+      ],
+      "articles": {
+        "cpp": [
+          "63",
+          "64",
+          "65",
+          "66",
+          "67"
+        ],
+        "cp": [
+          "91"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0020",
+      "topics": "Concurso de crimes e crimes especiais",
+      "sources": [
+        "eca",
+        "cp",
+        "drogas",
+        "bnp-2c860794df"
+      ],
+      "articles": {
+        "eca": [
+          "241-a",
+          "241-b"
+        ],
+        "cp": [
+          "69",
+          "70",
+          "71"
+        ],
+        "drogas": [
+          "33",
+          "35"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0021",
+      "topics": "Juiz das garantias implantação",
+      "sources": [
+        "cpp",
+        "bnp-42aa3de90d"
+      ],
+      "articles": {
+        "cpp": [
+          "3-a",
+          "3-b",
+          "3-c",
+          "3-d",
+          "3-e",
+          "3-f"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0022",
+      "topics": "Crimes funcionais culposos",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "312",
+          "313",
+          "314",
+          "315",
+          "316",
+          "317",
+          "318",
+          "319",
+          "320",
+          "321",
+          "322",
+          "323",
+          "324",
+          "325",
+          "326",
+          "327"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0023",
+      "topics": "Procedimento Tribunal do Júri",
+      "sources": [
+        "cpp",
+        "bnp-c3e2cb83fa"
+      ],
+      "articles": {
+        "cpp": [
+          "406",
+          "413",
+          "414",
+          "415",
+          "419",
+          "422",
+          "423",
+          "427",
+          "428",
+          "439",
+          "447",
+          "483",
+          "492",
+          "497"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0024",
+      "topics": "Teorias criminológicas",
+      "sources": [],
+      "articles": {},
+      "gaps": [
+        "Doutrina de criminologia ainda não incorporada; legislação e precedentes não substituem a fonte teórica cobrada."
+      ]
+    },
+    {
+      "id": "Q0025",
+      "topics": "Tráfico de influência corrupção",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "332",
+          "333"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0026",
+      "topics": "Âmbito Lei Maria da Penha",
+      "sources": [
+        "maria-penha",
+        "bnp-0992e576bb"
+      ],
+      "articles": {
+        "maria-penha": [
+          "5",
+          "7",
+          "40-a"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0027",
+      "topics": "Ausência do acusado e revelia",
+      "sources": [
+        "cpp"
+      ],
+      "articles": {
+        "cpp": [
+          "362",
+          "366",
+          "367"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0028",
+      "topics": "Procedimento do Júri",
+      "sources": [
+        "cpp"
+      ],
+      "articles": {
+        "cpp": [
+          "406",
+          "409",
+          "421"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0029",
+      "topics": "Abuso de autoridade",
+      "sources": [
+        "abuso"
+      ],
+      "articles": {
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0030",
+      "topics": "Crimes contra liberdade de trabalho",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "197",
+          "198",
+          "199",
+          "200",
+          "201",
+          "202",
+          "203"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0031",
+      "topics": "Teoria da anomia",
+      "sources": [],
+      "articles": {},
+      "gaps": [
+        "Doutrina de criminologia ainda não incorporada; legislação e precedentes não substituem a fonte teórica cobrada."
+      ]
+    },
+    {
+      "id": "Q0032",
+      "topics": "Incidente de insanidade mental",
+      "sources": [
+        "cpp"
+      ],
+      "articles": {
+        "cpp": [
+          "149",
+          "150",
+          "151",
+          "152",
+          "153",
+          "154"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0033",
+      "topics": "Prisão preventiva",
+      "sources": [
+        "cpp"
+      ],
+      "articles": {
+        "cpp": [
+          "311",
+          "312",
+          "313",
+          "314",
+          "315",
+          "316"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0034",
+      "topics": "Habeas corpus cabimento",
+      "sources": [
+        "cpp",
+        "cf",
+        "bnp-08bb6a4dc0"
+      ],
+      "articles": {
+        "cpp": [
+          "647",
+          "648"
+        ],
+        "cf": [
+          "5"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0035",
+      "topics": "Terrorismo",
+      "sources": [
+        "terrorismo"
+      ],
+      "articles": {
+        "terrorismo": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0036",
+      "topics": "Ação penal violência doméstica",
+      "sources": [
+        "maria-penha",
+        "cp",
+        "bnp-dac55f9c55"
+      ],
+      "articles": {
+        "maria-penha": [
+          "5",
+          "7",
+          "16",
+          "41"
+        ],
+        "cp": [
+          "129"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0037",
+      "topics": "Crimes contra administração pública",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "312",
+          "313",
+          "314",
+          "315",
+          "316",
+          "317",
+          "318",
+          "319",
+          "320",
+          "321",
+          "322",
+          "323",
+          "324",
+          "325",
+          "326",
+          "327"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0038",
+      "topics": "Ofendido assistente",
+      "sources": [
+        "cpp"
+      ],
+      "articles": {
+        "cpp": [
+          "14",
+          "201",
+          "268",
+          "269",
+          "270",
+          "271",
+          "272",
+          "273"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0039",
+      "topics": "Cartel ordem econômica",
+      "sources": [
+        "ordem-economica",
+        "bnp-c794eb71a9"
+      ],
+      "articles": {
+        "ordem-economica": [
+          "4",
+          "12",
+          "16"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0040",
+      "topics": "Apelação júri execução",
+      "sources": [
+        "cpp",
+        "bnp-9fe2169e4a"
+      ],
+      "articles": {
+        "cpp": [
+          "492",
+          "593"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0041",
+      "topics": "Medidas de segurança",
+      "sources": [
+        "cp",
+        "lep",
+        "bnp-214f118684"
+      ],
+      "articles": {
+        "cp": [
+          "96",
+          "97",
+          "98",
+          "99"
+        ],
+        "lep": [
+          "171",
+          "172",
+          "173",
+          "174",
+          "175",
+          "176",
+          "177",
+          "178",
+          "179"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0042",
+      "topics": "Dolo direto",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "18"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0043",
+      "topics": "Dosimetria da pena",
+      "sources": [
+        "cp",
+        "bnp-201e5550e7"
+      ],
+      "articles": {
+        "cp": [
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0044",
+      "topics": "Citação e intimação",
+      "sources": [
+        "cpp",
+        "bnp-b232386f6a"
+      ],
+      "articles": {
+        "cpp": [
+          "351",
+          "361",
+          "362",
+          "363",
+          "364",
+          "366",
+          "367",
+          "368",
+          "369",
+          "570"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0045",
+      "topics": "Excesso de exação",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "316"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0046",
+      "topics": "Nulidades processuais",
+      "sources": [
+        "cpp",
+        "bnp-d9981c5255"
+      ],
+      "articles": {
+        "cpp": [
+          "563",
+          "564",
+          "565",
+          "566",
+          "567",
+          "568",
+          "569",
+          "570",
+          "571",
+          "572",
+          "573"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0047",
+      "topics": "Dano ao patrimônio",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "163",
+          "164",
+          "165",
+          "166",
+          "167"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0048",
+      "topics": "Indulto e comutação",
+      "sources": [
+        "cp",
+        "cf",
+        "lep",
+        "bnp-1574906966"
+      ],
+      "articles": {
+        "cp": [
+          "107"
+        ],
+        "cf": [
+          "84"
+        ],
+        "lep": [
+          "187",
+          "188",
+          "189",
+          "190",
+          "191",
+          "192",
+          "193"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0049",
+      "topics": "Induzimento ao suicídio",
+      "sources": [
+        "cp"
+      ],
+      "articles": {
+        "cp": [
+          "122"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0050",
+      "topics": "Colaboração Lei de Drogas",
+      "sources": [
+        "drogas"
+      ],
+      "articles": {
+        "drogas": [
+          "41"
+        ]
+      },
+      "gaps": []
+    }
+  ]
+}

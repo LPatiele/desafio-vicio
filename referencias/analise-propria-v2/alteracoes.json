@@ -1,0 +1,72 @@
+[
+  {
+    "id": "Q0001",
+    "antes": {
+      "resposta": "C",
+      "tema": "5527",
+      "fundamento": "I usa um ano onde o CPP prevê seis meses para excesso de serviço; II erra o recurso da impronúncia (apelação). III e IV são defensáveis."
+    },
+    "depois": {
+      "resposta": "C",
+      "tema": "5524",
+      "fundamento": "I usa um ano onde o CPP prevê seis meses para excesso de serviço; II erra o recurso da impronúncia (apelação). III e IV são defensáveis."
+    },
+    "motivo": "A questão reúne desaforamento e decisões da primeira fase; nenhum filho isolado representa todo o comando. CPP 416, 419, 427 e 428."
+  },
+  {
+    "id": "Q0004",
+    "antes": {
+      "resposta": null,
+      "tema": "5484",
+      "fundamento": "II e III refletem regras de competência; a permanência do foro após o mandato mudou em 2025 para crimes funcionais. Não há alternativa inequivocamente atual sem especificar o nexo funcional."
+    },
+    "depois": {
+      "resposta": null,
+      "tema": "5480",
+      "fundamento": "II e III refletem regras de competência; a permanência do foro após o mandato mudou em 2025 para crimes funcionais. Não há alternativa inequivocamente atual sem especificar o nexo funcional."
+    },
+    "motivo": "Há critérios territorial/domicílio, matéria federal e prerrogativa de função. O pai Competência cobre o conjunto; a alternativa continua indeterminada por ressalvas temporais/semânticas."
+  },
+  {
+    "id": "Q0006",
+    "antes": {
+      "resposta": "A",
+      "tema": "5160",
+      "fundamento": "Narcotizar para subtrair configura violência imprópria do roubo. Contrectatio não exige inversão da posse; na posição predominante, roubo impróprio não admite tentativa."
+    },
+    "depois": {
+      "resposta": "A",
+      "tema": "5157",
+      "fundamento": "Narcotizar para subtrair configura violência imprópria do roubo. Contrectatio não exige inversão da posse; na posição predominante, roubo impróprio não admite tentativa."
+    },
+    "motivo": "O conjunto cobra furto e roubo. O pai patrimonial é mais abrangente de modo necessário; não escolher Roubo apenas por ser o tema da assertiva remanescente."
+  },
+  {
+    "id": "Q0023",
+    "antes": {
+      "resposta": "B",
+      "tema": "5527",
+      "fundamento": "A prisão não se mantém automaticamente na pronúncia: exige fundamentação específica."
+    },
+    "depois": {
+      "resposta": "B",
+      "tema": "5524",
+      "fundamento": "A prisão não se mantém automaticamente na pronúncia: exige fundamentação específica."
+    },
+    "motivo": "Bifasicidade, prisão na pronúncia, impronúncia, defensor e oitiva em plenário exigem o rito do Júri como conjunto; CPP 413, 414, 456 e 473."
+  },
+  {
+    "id": "Q0028",
+    "antes": {
+      "resposta": "E",
+      "tema": "5526",
+      "fundamento": "O prazo para ouvir acusação sobre preliminares e documentos após a defesa é de três dias, não cinco."
+    },
+    "depois": {
+      "resposta": "C",
+      "tema": "5524",
+      "fundamento": "Os arts. 406, 409 e 421, § 1º, confirmam os três trechos: resposta escrita em dez dias, manifestação da acusação em cinco dias e remessa ao MP por circunstância superveniente após preclusão da pronúncia. A v1 confundiu o prazo do art. 409 com três dias."
+    },
+    "motivo": "Correção expressa do prazo na v1 e enquadramento no conjunto de etapas do rito; não apenas pronúncia nem uma troca automática para acompanhar modelo."
+  }
+]

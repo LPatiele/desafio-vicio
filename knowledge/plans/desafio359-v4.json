@@ -1,0 +1,8926 @@
+{
+  "version": 1,
+  "id": "desafio359-v4",
+  "cutoff": "2026-10-16",
+  "selection": {
+    "experiment": "anexos-completos-sem-rotulos-de-avaliacao",
+    "recordsHash": "6815aad02f1577fb7f3c68bb76cd56b3b23df5a0bf951d3422a5ce7d5e492573",
+    "inputHashes": {
+      "questions": "6815aad02f1577fb7f3c68bb76cd56b3b23df5a0bf951d3422a5ce7d5e492573",
+      "themes": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+    }
+  },
+  "sources": [
+    {
+      "id": "cp",
+      "kind": "norma",
+      "title": "Código Penal",
+      "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848"
+    },
+    {
+      "id": "cpp",
+      "kind": "norma",
+      "title": "Código de Processo Penal",
+      "urn": "urn:lex:br:federal:decreto.lei:1941-10-03;3689"
+    },
+    {
+      "id": "cf",
+      "kind": "norma",
+      "title": "Constituição Federal",
+      "urn": "urn:lex:br:federal:constituicao:1988-10-05;1988"
+    },
+    {
+      "id": "lep",
+      "kind": "norma",
+      "title": "Lei de Execução Penal",
+      "urn": "urn:lex:br:federal:lei:1984-07-11;7210"
+    },
+    {
+      "id": "drogas",
+      "kind": "norma",
+      "title": "Lei de Drogas",
+      "urn": "urn:lex:br:federal:lei:2006-08-23;11343"
+    },
+    {
+      "id": "maria-penha",
+      "kind": "norma",
+      "title": "Lei Maria da Penha",
+      "urn": "urn:lex:br:federal:lei:2006-08-07;11340"
+    },
+    {
+      "id": "ambientais",
+      "kind": "norma",
+      "title": "Crimes ambientais",
+      "urn": "urn:lex:br:federal:lei:1998-02-12;9605"
+    },
+    {
+      "id": "lavagem",
+      "kind": "norma",
+      "title": "Lavagem de dinheiro",
+      "urn": "urn:lex:br:federal:lei:1998-03-03;9613"
+    },
+    {
+      "id": "juizados",
+      "kind": "norma",
+      "title": "Juizados Especiais",
+      "urn": "urn:lex:br:federal:lei:1995-09-26;9099"
+    },
+    {
+      "id": "eca",
+      "kind": "norma",
+      "title": "Estatuto da Criança e do Adolescente",
+      "urn": "urn:lex:br:federal:lei:1990-07-13;8069"
+    },
+    {
+      "id": "abuso",
+      "kind": "norma",
+      "title": "Abuso de autoridade",
+      "urn": "urn:lex:br:federal:lei:2019-09-05;13869"
+    },
+    {
+      "id": "terrorismo",
+      "kind": "norma",
+      "title": "Lei Antiterrorismo",
+      "urn": "urn:lex:br:federal:lei:2016-03-16;13260"
+    },
+    {
+      "id": "ordem-economica",
+      "kind": "norma",
+      "title": "Crimes contra a ordem econômica",
+      "urn": "urn:lex:br:federal:lei:1990-12-27;8137"
+    },
+    {
+      "id": "bnp-c3e2cb83fa",
+      "kind": "precedente",
+      "title": "Tribunal do Júri",
+      "query": "Tribunal do Júri"
+    },
+    {
+      "id": "bnp-162248d73a",
+      "kind": "precedente",
+      "title": "absolvição sumária apelação",
+      "query": "absolvição sumária apelação"
+    },
+    {
+      "id": "bnp-9a5831f435",
+      "kind": "precedente",
+      "title": "competência prefeito crime federal",
+      "query": "competência prefeito crime federal"
+    },
+    {
+      "id": "bnp-22ccb7f62a",
+      "kind": "precedente",
+      "title": "reincidência regime livramento condicional",
+      "query": "reincidência regime livramento condicional"
+    },
+    {
+      "id": "bnp-a66ff71116",
+      "kind": "precedente",
+      "title": "furto roubo consumação",
+      "query": "furto roubo consumação"
+    },
+    {
+      "id": "bnp-6f98b8a1b9",
+      "kind": "precedente",
+      "title": "mutatio libelli",
+      "query": "mutatio libelli"
+    },
+    {
+      "id": "bnp-d342401dab",
+      "kind": "precedente",
+      "title": "progressão regime reparação dano administração pública",
+      "query": "progressão regime reparação dano administração pública"
+    },
+    {
+      "id": "bnp-efb937e1c3",
+      "kind": "precedente",
+      "title": "furto escusa absolutória idoso",
+      "query": "furto escusa absolutória idoso"
+    },
+    {
+      "id": "bnp-deeca2e657",
+      "kind": "precedente",
+      "title": "crime ambiental pessoa jurídica insignificância",
+      "query": "crime ambiental pessoa jurídica insignificância"
+    },
+    {
+      "id": "bnp-51a9e2d99b",
+      "kind": "precedente",
+      "title": "lavagem de dinheiro corrupção",
+      "query": "lavagem de dinheiro corrupção"
+    },
+    {
+      "id": "bnp-42aa3de90d",
+      "kind": "precedente",
+      "title": "juiz das garantias",
+      "query": "juiz das garantias"
+    },
+    {
+      "id": "bnp-a449e37e33",
+      "kind": "precedente",
+      "title": "habeas corpus adolescente internação",
+      "query": "habeas corpus adolescente internação"
+    },
+    {
+      "id": "bnp-5ba17870eb",
+      "kind": "precedente",
+      "title": "prisão preventiva de ofício",
+      "query": "prisão preventiva de ofício"
+    },
+    {
+      "id": "bnp-2767bdb8fa",
+      "kind": "precedente",
+      "title": "defesa preliminar funcionário público",
+      "query": "defesa preliminar funcionário público"
+    },
+    {
+      "id": "bnp-750d8b7045",
+      "kind": "precedente",
+      "title": "juizado especial criminal conexão complexidade",
+      "query": "juizado especial criminal conexão complexidade"
+    },
+    {
+      "id": "bnp-7052420595",
+      "kind": "precedente",
+      "title": "ação civil ex delicto",
+      "query": "ação civil ex delicto"
+    },
+    {
+      "id": "bnp-2c860794df",
+      "kind": "precedente",
+      "title": "concurso crimes armazenamento divulgação pornografia infantil",
+      "query": "concurso crimes armazenamento divulgação pornografia infantil"
+    },
+    {
+      "id": "bnp-0992e576bb",
+      "kind": "precedente",
+      "title": "Lei Maria da Penha âmbito aplicação",
+      "query": "Lei Maria da Penha âmbito aplicação"
+    },
+    {
+      "id": "bnp-08bb6a4dc0",
+      "kind": "precedente",
+      "title": "habeas corpus cabimento",
+      "query": "habeas corpus cabimento"
+    },
+    {
+      "id": "bnp-dac55f9c55",
+      "kind": "precedente",
+      "title": "lesão corporal violência doméstica ação penal",
+      "query": "lesão corporal violência doméstica ação penal"
+    },
+    {
+      "id": "bnp-c794eb71a9",
+      "kind": "precedente",
+      "title": "cartel ordem econômica",
+      "query": "cartel ordem econômica"
+    },
+    {
+      "id": "bnp-9fe2169e4a",
+      "kind": "precedente",
+      "title": "Tribunal do Júri execução imediata efeito suspensivo",
+      "query": "Tribunal do Júri execução imediata efeito suspensivo"
+    },
+    {
+      "id": "bnp-214f118684",
+      "kind": "precedente",
+      "title": "medida de segurança duração",
+      "query": "medida de segurança duração"
+    },
+    {
+      "id": "bnp-201e5550e7",
+      "kind": "precedente",
+      "title": "dosimetria pena",
+      "query": "dosimetria pena"
+    },
+    {
+      "id": "bnp-b232386f6a",
+      "kind": "precedente",
+      "title": "citação intimação processo penal",
+      "query": "citação intimação processo penal"
+    },
+    {
+      "id": "bnp-d9981c5255",
+      "kind": "precedente",
+      "title": "nulidade processo penal prejuízo",
+      "query": "nulidade processo penal prejuízo"
+    },
+    {
+      "id": "bnp-1574906966",
+      "kind": "precedente",
+      "title": "indulto comutação pena",
+      "query": "indulto comutação pena"
+    },
+    {
+      "id": "organizacoes",
+      "kind": "norma",
+      "title": "Organizações criminosas — Lei 12.850/2013",
+      "urn": "urn:lex:br:federal:lei:2013-08-02;12850"
+    },
+    {
+      "id": "armas",
+      "kind": "norma",
+      "title": "Estatuto do Desarmamento",
+      "urn": "urn:lex:br:federal:lei:2003-12-22;10826"
+    },
+    {
+      "id": "hediondos",
+      "kind": "norma",
+      "title": "Crimes hediondos",
+      "urn": "urn:lex:br:federal:lei:1990-07-25;8072"
+    },
+    {
+      "id": "temporaria",
+      "kind": "norma",
+      "title": "Prisão temporária",
+      "urn": "urn:lex:br:federal:lei:1989-12-21;7960"
+    },
+    {
+      "id": "interceptacao",
+      "kind": "norma",
+      "title": "Interceptação de comunicações",
+      "urn": "urn:lex:br:federal:lei:1996-07-24;9296"
+    },
+    {
+      "id": "genocidio",
+      "kind": "norma",
+      "title": "Genocídio",
+      "urn": "urn:lex:br:federal:lei:1956-10-01;2889"
+    },
+    {
+      "id": "tortura",
+      "kind": "norma",
+      "title": "Crimes de tortura",
+      "urn": "urn:lex:br:federal:lei:1997-04-07;9455"
+    },
+    {
+      "id": "racismo",
+      "kind": "norma",
+      "title": "Crimes de racismo",
+      "urn": "urn:lex:br:federal:lei:1989-01-05;7716"
+    },
+    {
+      "id": "idoso",
+      "kind": "norma",
+      "title": "Estatuto da Pessoa Idosa",
+      "urn": "urn:lex:br:federal:lei:2003-10-01;10741"
+    },
+    {
+      "id": "esporte",
+      "kind": "norma",
+      "title": "Lei Geral do Esporte",
+      "urn": "urn:lex:br:federal:lei:2023-06-14;14597"
+    },
+    {
+      "id": "discriminacao-trabalho",
+      "kind": "norma",
+      "title": "Práticas discriminatórias no trabalho",
+      "urn": "urn:lex:br:federal:lei:1995-04-13;9029"
+    },
+    {
+      "id": "software",
+      "kind": "norma",
+      "title": "Proteção de programas de computador",
+      "urn": "urn:lex:br:federal:lei:1998-02-19;9609"
+    },
+    {
+      "id": "investigacao",
+      "kind": "norma",
+      "title": "Investigação criminal pelo delegado de polícia",
+      "urn": "urn:lex:br:federal:lei:2013-06-20;12830"
+    },
+    {
+      "id": "identificacao",
+      "kind": "norma",
+      "title": "Identificação criminal",
+      "urn": "urn:lex:br:federal:lei:2009-10-01;12037"
+    },
+    {
+      "id": "protecao-testemunhas",
+      "kind": "norma",
+      "title": "Proteção de vítimas e testemunhas",
+      "urn": "urn:lex:br:federal:lei:1999-07-13;9807"
+    },
+    {
+      "id": "saude-mental",
+      "kind": "norma",
+      "title": "Proteção das pessoas com transtornos mentais",
+      "urn": "urn:lex:br:federal:lei:2001-04-06;10216"
+    },
+    {
+      "id": "deficiencia",
+      "kind": "norma",
+      "title": "Estatuto da Pessoa com Deficiência",
+      "urn": "urn:lex:br:federal:lei:2015-07-06;13146"
+    },
+    {
+      "id": "transito",
+      "kind": "norma",
+      "title": "Código de Trânsito Brasileiro",
+      "urn": "urn:lex:br:federal:lei:1997-09-23;9503"
+    },
+    {
+      "id": "licitacoes",
+      "kind": "norma",
+      "title": "Lei de Licitações e Contratos Administrativos",
+      "urn": "urn:lex:br:federal:lei:2021-04-01;14133"
+    },
+    {
+      "id": "improbidade",
+      "kind": "norma",
+      "title": "Improbidade administrativa",
+      "urn": "urn:lex:br:federal:lei:1992-06-02;8429"
+    },
+    {
+      "id": "marco-civil",
+      "kind": "norma",
+      "title": "Marco Civil da Internet",
+      "urn": "urn:lex:br:federal:lei:2014-04-23;12965"
+    },
+    {
+      "id": "acesso-informacao",
+      "kind": "norma",
+      "title": "Lei de Acesso à Informação",
+      "urn": "urn:lex:br:federal:lei:2011-11-18;12527"
+    },
+    {
+      "id": "drogas-historica",
+      "kind": "norma",
+      "title": "Lei 6.368/1976 — histórica, revogada",
+      "urn": "urn:lex:br:federal:lei:1976-10-21;6368"
+    },
+    {
+      "id": "abuso-historico",
+      "kind": "norma",
+      "title": "Lei 4.898/1965 — histórica, revogada",
+      "urn": "urn:lex:br:federal:lei:1965-12-09;4898"
+    },
+    {
+      "id": "contravencoes",
+      "kind": "norma",
+      "title": "Lei das Contravenções Penais",
+      "urn": "urn:lex:br:federal:decreto.lei:1941-10-03;3688"
+    },
+    {
+      "id": "cpm",
+      "kind": "norma",
+      "title": "Código Penal Militar",
+      "urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1001"
+    },
+    {
+      "id": "cppm",
+      "kind": "norma",
+      "title": "Código de Processo Penal Militar",
+      "urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1002"
+    },
+    {
+      "id": "criminologia-ufba",
+      "kind": "doutrina",
+      "title": "Criminologia — Thais Bandeira e Daniela Portugal, UFBA, 2017",
+      "url": "https://repositorio.ufba.br/bitstream/ri/24396/4/Livro_Criminologia.pdf",
+      "license": "CC BY-NC-SA 4.0; atribuição: Thais Bandeira, Daniela Portugal, UFBA/SEAD, 2017; excertos mantidos sob a mesma licença"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q0001",
+      "topics": "No que se refere ao Tribunal do Júri, analise as assertivas abaixo. I - O desaforamento é admitido por interesse da ordem pública, em razão de dúvida sobre a imparcialidade do júri",
+      "sources": [
+        "bnp-c3e2cb83fa",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0002",
+      "topics": "Segundo Vera Regina Pereira de Andrade, a clientela do sistema penal é constituída de pobres, porque",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0003",
+      "topics": "Francisco foi processado pelo Ministério Público pelo delito de furto. Contudo, após a resposta preliminar, foi absolvido sumariamente, tendo o juízo decidido que o fato narrado na",
+      "sources": [
+        "bnp-162248d73a",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0004",
+      "topics": "Sobre jurisdição e competência no processo penal, analise as assertivas e assinale a alternativa correta: I – Caso um prefeito municipal cometa crimes contra bens da União, ele som",
+      "sources": [
+        "bnp-9a5831f435",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0005",
+      "topics": "Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou a pena base no mínimo legal, tendo em seguida agr",
+      "sources": [
+        "bnp-22ccb7f62a",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0006",
+      "topics": "Sobre os crimes de furto e roubo, analise as afirmativas a seguir. I. De acordo com a teoria da contrectatio, a consumação do crime de furto ocorre quando há o contato físico com a",
+      "sources": [
+        "bnp-a66ff71116",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0007",
+      "topics": "Gilson foi denunciado por tráfico de drogas e, no curso da audiência de instrução de julgamento, sua irmã Regina, que aceitou prestar depoimento, narrou, além dos fatos descritos n",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0008",
+      "topics": "A progressão de regime do cumprimento da pena de condenado por crime contra a administração pública condiciona-se à reparação do dano que ele causou, ou à devolução do produto do i",
+      "sources": [
+        "bnp-d342401dab",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0009",
+      "topics": "“Ariel”, com 21 anos de idade, arromba a joalheria de seu pai, “Benoir”, com 60 anos de idade, de madrugada, levando bens avaliados em R$ 5.000,00 (cinco mil reais). Preso, após o ",
+      "sources": [
+        "bnp-efb937e1c3",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0010",
+      "topics": "Com relação aos crimes contra o meio ambiente, assinale a opção correta, conforme entendimento do STJ e do STF.",
+      "sources": [
+        "ambientais",
+        "bnp-deeca2e657",
+        "cf",
+        "cp",
+        "cpp",
+        "esporte"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "esporte": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0011",
+      "topics": "Com referência à interceptação de comunicação telefônica, ao crime de tráfico ilícito de entorpecentes, ao crime de lavagem de capitais e a crimes cibernéticos, julgue o seguinte i",
+      "sources": [
+        "bnp-51a9e2d99b",
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "interceptacao",
+        "lavagem",
+        "licitacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "interceptacao": [
+          "*"
+        ],
+        "licitacoes": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ],
+        "lavagem": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0012",
+      "topics": "Da decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995, caberá:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0013",
+      "topics": "A Lei nº 13.964/2019, denominada “pacote anti-crime”, inovou o sistema processual penal brasileiro. A Defensoria Pública do Paraná, em seu portal da internet (21/06/2023), registro",
+      "sources": [
+        "bnp-42aa3de90d",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0014",
+      "topics": "Caso a decisão do magistrado em relação à internação de Pedro seja questionada em juízo, ela não pode ser sanada pela via do habeas corpus, pois tal instrumento processual não se a",
+      "sources": [
+        "bnp-a449e37e33",
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0015",
+      "topics": "Com relação ao inquérito policial, segundo o Código de Processo Penal.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0016",
+      "topics": "À luz da atual jurisprudência dos Tribunais Superiores sobre o tema prisão, avalie as assertivas a seguir. I. Consoante a jurisprudência do Superior Tribunal de Justiça, em razão d",
+      "sources": [
+        "bnp-5ba17870eb",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0017",
+      "topics": "No processo e julgamento dos crimes de responsabilidade dos funcionários públicos,",
+      "sources": [
+        "bnp-2767bdb8fa",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0018",
+      "topics": "Marque “C” para certo e “E” para errado na assertiva abaixo. São considerados casos de exclusão de competência dos Juizados Especiais Criminais a conexão, não localização do acusad",
+      "sources": [
+        "bnp-750d8b7045",
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0019",
+      "topics": "Considerando as relações entre as esferas criminal e cível e a ação civil ex delicto, assinale a alternativa INCORRETA:",
+      "sources": [
+        "bnp-7052420595",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0020",
+      "topics": "Assinale com V (verdadeiro) ou com F (falso) as seguintes afirmações sobre posições jurisprudenciais do Superior Tribunal de Justiça. ( ) Segundo jurisprudência dominante do Superi",
+      "sources": [
+        "bnp-2c860794df",
+        "cf",
+        "cp",
+        "cpp",
+        "eca",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0021",
+      "topics": "Sobre o Juiz das Garantias e o entendimento do STF no julgamento de ações diretas de inconstitucionalidade, julgue o item a seguir. O STF fixou o prazo, improrrogável, de doze mese",
+      "sources": [
+        "bnp-42aa3de90d",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0022",
+      "topics": "Admite a modalidade culposa",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0023",
+      "topics": "Sobre o Tribunal do Júri, é INCORRETO afirmar:",
+      "sources": [
+        "bnp-c3e2cb83fa",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0024",
+      "topics": "A Criminologia é o ramo da Ciência Penal que abrange os conhecimentos relativos ao delito como fenômeno social, inclusive os processos de elaborar as leis, infringir as leis e reag",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0025",
+      "topics": "A conduta do particular de solicitar vantagem de contribuinte autuado pela fiscalização, a pretexto ilusório de influir em ato praticado por auditor fiscal, configura corrupção ati",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0026",
+      "topics": "Está fora do âmbito de proteção da Lei n.º 11.340/2006, que trata da violência doméstica contra a mulher,",
+      "sources": [
+        "ambientais",
+        "bnp-0992e576bb",
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0027",
+      "topics": "O processo penal seguirá sem a presença do acusado que citado ou intimado:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0028",
+      "topics": "O Código de Processo Penal, em seu art. 406, estabelece que o juiz, ao receber a denúncia ou a queixa, ordenará a citação do acusado para responder a acusação, por escrito, no praz",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0029",
+      "topics": "Nos termos da Lei nº 13.869/2019, configura crime de abuso de autoridade",
+      "sources": [
+        "abuso",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0030",
+      "topics": "Aquele que, mediante violência ou grave ameaça constrange alguém a trabalhar ou não trabalhar durante certo periodo:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0031",
+      "topics": "Julgue o item a seguir, relativos a modelos teóricos da criminologia. De acordo com a teoria da anomia, o crime se origina da impossibilidade social do indivíduo de atingir suas me",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0032",
+      "topics": "Quando, no curso da investigação, houver motivo para duvidar da integridade mental do investigado, a autoridade policial devera",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0033",
+      "topics": "A prisão preventiva",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0034",
+      "topics": "A situação em que o habeas corpus é medida de impugnação cabível é",
+      "sources": [
+        "bnp-08bb6a4dc0",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0035",
+      "topics": "Nos termos da Lei no 13.260/2016 (Lei Antiterrorismo), assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "terrorismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "terrorismo": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0036",
+      "topics": "Em uma Vara de Violência Doméstica e Familiar contra a Mulher, o Juiz de Direito recebeu os autos de inquérito policial concluído, no qual se apurou a prática de crime de lesão cor",
+      "sources": [
+        "bnp-dac55f9c55",
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0037",
+      "topics": "Assinale a alternativa INCORRETA:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0038",
+      "topics": "No que diz respeito ao ofendido e às suas prerrogativas no processo penal brasileiro, é correto afirmar que poderá:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "temporaria"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "temporaria": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0039",
+      "topics": "Suponha que todos os revendedores de gás liquefeito de petróleo (GLP) ajustem artificialmente preço final de venda do produto em determinada localidade. A esse respeito, é correto ",
+      "sources": [
+        "bnp-c794eb71a9",
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0040",
+      "topics": "Assinale a alternativa que traz duas características do recurso de apelação contra sentença condenatória do Tribunal do Júri que, cumuladas, podem levar à atribuição de efeito susp",
+      "sources": [
+        "bnp-9fe2169e4a",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0041",
+      "topics": "Sobre as medidas de segurança é correto afirmar:",
+      "sources": [
+        "bnp-214f118684",
+        "cf",
+        "cp",
+        "cpp",
+        "deficiencia",
+        "saude-mental"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "saude-mental": [
+          "*"
+        ],
+        "deficiencia": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0042",
+      "topics": "Sobre o elemento subjetivo da conduta, dolo direto é aquele em que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0043",
+      "topics": "Sobre a fixação da pena, tem-se o seguinte:",
+      "sources": [
+        "bnp-201e5550e7",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0044",
+      "topics": "Paulo e Jean foram denunciados pela prática do crime de furto de joias, praticado contra Maria, tia sexagenária de Paulo. A subtração foi facilitada pelo fato de Paulo residir com ",
+      "sources": [
+        "bnp-b232386f6a",
+        "cf",
+        "cp",
+        "cpp",
+        "idoso"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "idoso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0045",
+      "topics": "No crime de excesso de exação, o crime é qualificado se",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0046",
+      "topics": "Acerca das nulidades processuais e dos vícios procedimentais, assinale a alternativa correta.",
+      "sources": [
+        "bnp-d9981c5255",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0047",
+      "topics": "Durante um pacífico protesto realizado no interior do Município Alfa, Caio, destoando do público presente e agindo com dolo, lançou uma pedra em direção ao pequeno estabelecimento ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0048",
+      "topics": "“Predomina, segundo se conclui pelo conteúdo dos decretos presidenciais, a preocupação em se reduzir os prazos de encarceramento e o contingente carcerário e, além disso, proporcio",
+      "sources": [
+        "bnp-1574906966",
+        "cf",
+        "cp",
+        "cpp",
+        "hediondos",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "hediondos": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0049",
+      "topics": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0050",
+      "topics": "Sobre o instituto da delação premiada, previsto na Lei de Drogas (Lei no 11.343/2006), para os autores dos crimes nela descritos é correto afirmar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0051",
+      "topics": "O jogador Vinícius Júnior foi expulso, no dia 21/05/2023, em partida de futebol realizada contra o Valencia pelo campeonato espanhol, após reagir a ofensas racistas perpetradas por",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "esporte",
+        "racismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "racismo": [
+          "*"
+        ],
+        "esporte": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0052",
+      "topics": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0053",
+      "topics": "Com relação aos juizados especiais criminais, às nulidades, aos recursos no processo penal e à execução penal, julgue o item a seguir. Diferentemente da suspensão condicional do pr",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0054",
+      "topics": "A doutrina classifica os delitos em diversas categorias. Considerando algumas das classificações existentes, a alternativa que prevê delito de mera atividade, delito de lesão, deli",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0055",
+      "topics": "No que tange à oitiva das testemunhas arroladas pela acusação em audiência de instrução e julgamento, na forma do Art. 212 do Código de Processo Penal, é correto afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0056",
+      "topics": "No caso de pluralidade delitiva, deve-se adotar, na determinação da pena,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0057",
+      "topics": "Por iter criminis compreende-se o conjunto de",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0058",
+      "topics": "Sobre a relação entre sistema penal e pobreza é correto afirmar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba",
+        "deficiencia",
+        "saude-mental"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "saude-mental": [
+          "*"
+        ],
+        "deficiencia": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0059",
+      "topics": "Sobre a relação entre o preso e a sociedade, segundo Alessandro Baratta, é CORRETO afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0060",
+      "topics": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0061",
+      "topics": "Sobre a falta grave no processo de execução criminal, é correto afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0062",
+      "topics": "Camargo, terrorista, tenta explodir agência do Banco do Brasil, na França. Considerando o princípio da extraterritorialidade incondicionada, previsto no Código Penal brasileiro, é ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "terrorismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "terrorismo": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0063",
+      "topics": "No contexto da violência doméstica e familiar contra a mulher, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) As medidas protetivas de urgência, previstas",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0064",
+      "topics": "Francisco contratou empregada doméstica, porém, durante a relação de emprego, por três meses, realizou o desconto da contribuição previdenciária sem, contudo, fazer o devido repass",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0065",
+      "topics": "O crime de extorsão mediante sequestro (CP, art. 159)",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0066",
+      "topics": "O positivismo criminológico",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0067",
+      "topics": "Os fi ns da Administração Pública resumem-se em um único objetivo: o bem comum da coletividade administrativa. Toda atividade deve ser orientada para este objetivo; sendo que todo ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0068",
+      "topics": "Marque a alternativa correta do ponto de vista legal.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0069",
+      "topics": "Em termos de interpretação da lei penal, quando se encontram na legislação expressões como “qualquer outro meio”, “qualquer outra vantagem”, “outro recurso” ou “qualquer outro meio",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0070",
+      "topics": "Carlos Alberto foi preso preventivamente em 1º de fevereiro de 2024, pela suposta prática do crime de tráfico de drogas (Art. 33, caput, da Lei nº 11.343/2006). A prisão preventiva",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0071",
+      "topics": "Nos crimes contra a Flora, previstos na Lei n. 9.605/98, a pena é majorada no patamar de um sexto a um terço se: do fato resulta a diminuição de águas naturais, a erosão do solo ou",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0072",
+      "topics": "Para formar seu juízo de convicção a respeito de fato submetido a julgamento, o juiz.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0073",
+      "topics": "Quanto aos crimes praticados contra a Administração Pública é CORRETO afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0074",
+      "topics": "Considere a seguinte situação hipotética. Antônio foi condenado pela prática do delito X pelo juízo da 5.ª vara criminal de Maceió, sendo certo que a condenação foi mantida pelo Tr",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0075",
+      "topics": "Quanto à comunicabilidade da extinção da punibilidade, é INCORRETO afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0076",
+      "topics": "A Criminologia é definida tradicionalmente como a ciência que estuda de forma empírica o delito, o delinquente, a vítima e os mecanismos de controle social. Os autores que fundaram",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0077",
+      "topics": "Considere os artigos abaixo. Em seguida, marque a alternativa CORRETA: Artigo 1º da Lei 2.889/1956: “Quem, com a intenção de destruir, no todo ou em parte, grupo nacional, étnico, ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "genocidio"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "genocidio": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0078",
+      "topics": "EM oossstomnioconcunsos come Marcelo possui registro válido de um revólver de calibre 32 e o mantém em sua residência, e também possui uma pistola de calibre .380, com número de sé",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "transito"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ],
+        "transito": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0079",
+      "topics": "Em relação aos sistemas processuais penais e aos seus princípios reitores, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0080",
+      "topics": "Com relação às teorias da criminologia e à prevenção da infração penal no estado democrático de direito, julgue o item subsequente acerca dos modelos de reação ao delito. O cumprim",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0081",
+      "topics": "Acerca das Escolas da Criminologia, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) A Escola Clássica da Criminologia tem, como objeto principal de estudo, o crim",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0082",
+      "topics": "João e Cléber, policiais militares do estado de Santa Catarina, receberam denúncia anônima no sentido de que Tício estaria agredindo a sua companheira. Em assim sendo, os agentes p",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0083",
+      "topics": "Osvaldo, desejando matar, disparou seu revólver contra Arnaldo, que, em razão do susto, desmaiou. Osvaldo, acreditando piamente que Arnaldo estava morto, colocou-o em uma cova rasa",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0084",
+      "topics": "Sobre a assistência à mulher em situação de violência doméstica e familiar prevista na Lei Maria da Penha, analise as assertivas abaixo e assinale a alternativa correta. I. Será as",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0085",
+      "topics": "No crime de concussão, a circunstância de ser um dos agentes funcionário público",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0086",
+      "topics": "Um Auditor-Fiscal do Trabalho deixou de autuar uma empresa que havia cometido infração às normas de segurança no trabalho porque o dirigente dessa empresa prometeu-lhe uma semana d",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0087",
+      "topics": "De acordo com a jurisprudência do Superior Tribunal de Justiça, a prisão domiciliar na execução penal",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "idoso",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "idoso": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0088",
+      "topics": "Enquanto a criminologia pode ser identificada como a ciência que se dedica ao estudo do crime, do criminoso e dos fatores da criminalidade, a vitimologia tem por objeto o estudo da",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0089",
+      "topics": "De acordo com o Glossário Jurídico do Supremo Tribunal Federal, “o princípio da insignificância tem o sentido de excluir ou de afastar a própria tipicidade penal, ou seja, não cons",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0090",
+      "topics": "Assinale a alternativa CORRETA.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados",
+        "racismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ],
+        "racismo": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0091",
+      "topics": "Em cada item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superio",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0092",
+      "topics": "A incompetência do juízo anula _________, devendo o processo, quando for declarada a nulidade, ser remetido ao juiz competente; a nulidade por ilegitimidade do representante da par",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0093",
+      "topics": "JOÃO e JOSÉ estão na praia e resolveram entrar no mar. Em determinado momento eles começam a se afogar. Havia naquele local um salva-vidas que, ao avistar apenas JOÃO, notou que el",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0094",
+      "topics": "Recentemente, o Superior Tribunal de Justiça decidiu que: “A utilização de roupas sociais pelo réu durante seu julgamento pelo Tribunal do Júri é um direito e não traria qualquer i",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0095",
+      "topics": "Júpiter está arrumando a ligação elétrica de sua casa, com ajuda de Jano, seu amigo, que lhe segura a escada. Deixando de observar um dever objetivo de cuidado, Júpiter faz uma lig",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0096",
+      "topics": "Ocorre a derrogação da competência territorial:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0097",
+      "topics": "Inquérito policial revelou que um grupo de 16 pessoas, além de outras não identificadas, dedicava-se ao comércio ilícito de drogas e praticava extorsões contra comerciantes visando",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "interceptacao",
+        "lavagem",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lavagem": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ],
+        "interceptacao": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0098",
+      "topics": "A doutrina denomina “confissão qualificada” aquela em que o acusado",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0099",
+      "topics": "Filomena, camelô Irregular, é flagrada por dois agentes da fiscalização municipal, ocasião em que estes anunciam que irão lavrar um auto de infração e apreender sua mercadoria, lev",
+      "sources": [
+        "abuso",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0100",
+      "topics": "Augusto levou sua filha, Ana, de treze anos de idade, a uma boate cuja entrada era permitida apenas para pessoas maiores de dezoito anos de idade, para que a menina se encontrasse ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0101",
+      "topics": "De acordo com a Lei Maria da Penha, a ação de divórcio ou dissolução de união estável de mulher vítima de violência doméstica e familiar",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0102",
+      "topics": "Sobre a sentença e os seus efeitos, é correto afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0103",
+      "topics": "A respeito da revisão criminal, julgue os próximos itens. A revisão criminal, que é um dos aspectos diferenciadores do mero direito à defesa e do direito à ampla defesa, este carac",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0104",
+      "topics": "No que se refere à legislação processual e à jurisprudência pátrias, julgue o item subsequente. O fato de o inquérito policial ser instaurado por promotor de justiça não impede que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0105",
+      "topics": "Um homem branco, de 29 anos de idade, e um homem negro, de 21 anos de idade, foram presos por terem pichado, juntos, um prédio. Na posse deles, foram encontradas as tintas usadas n",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0106",
+      "topics": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemorações da instalação dos cursos jurídicos no País?",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0107",
+      "topics": "À luz das disposições legais de direito penal e da jurisprudência correlata, julgue o próximo item.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0108",
+      "topics": "Durante a realização de audiência de instrução e julgamento, em que se apurava a prática, por Caio, do crime de roubo simples, a defesa técnica do acusado requereu o reconhecimento",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0109",
+      "topics": "Aquele que oferece droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem, está sujeito à pena de",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0110",
+      "topics": "Sobre a competência em matéria processual penal é correto afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0111",
+      "topics": "Sobre a escola positivista da criminologia, é correto afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba",
+        "racismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "racismo": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0112",
+      "topics": "As penas do crime de promover, constituir, financiar ou integrar organização criminosa, do art. 2° da Lei n° 12.850/13, são aumentadas de 1/6 a 2/3, nos termos do parágrafo 4°, se",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0113",
+      "topics": "José, Auditor Fiscal da Receita do Estado Beta, aceitou propina para deixar de constituir, mediante lançamento, determinado crédito tributário. Diante de tal fato, José está respon",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0114",
+      "topics": "Um Delegado de Polícia, em 10/04/2012, ou seja, após o julgamento pelo STF da ADI 4424 (09/02/2012), que entendeu ser a ação penal por lesão corporal leve, no âmbito da violência d",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0115",
+      "topics": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0116",
+      "topics": "Em relação à Lei Federal no 11.343/06, que estabelece o Sistema Nacional de Políticas Públicas sobre Drogas, é correto afirmar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "transito"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "transito": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0117",
+      "topics": "O estudo das teorias relaciona-se intimamente com as finalidades da pena. Nesse sentido, a teoria que sustenta que a única função efetivamente desempenhada pela pena seria a neutra",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0118",
+      "topics": "Acerca de aspectos diversos do processo penal brasileiro, o próximo item apresenta uma situação hipotética, seguida de uma assertiva a ser julgada. Alberto e Adriano foram presos e",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0119",
+      "topics": "Considere que um indivíduo está sendo processado por um determinado crime. Lei posterior ao fato criminoso deixa de considerá-lo crime. Para que a nova lei beneficie o acusado,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0120",
+      "topics": "Acerca das provas, das sentenças e dos princípios do direito processual penal, julgue o item a seguir. No processo penal, o momento adequado para a especificação de provas pelo réu",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0121",
+      "topics": "Mário, maior e capaz, foi vítima do crime de dano simples e teve seu carro destruído por dois vizinhos em razão de uma discussão futebolística. Após o encerramento do inquérito pol",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "esporte"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "esporte": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0122",
+      "topics": "A remição",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "hediondos",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "hediondos": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0123",
+      "topics": "Dadas as assertivas abaixo, assinale a alternativa CORRETA. I – A partir da teoria do etiquetamento (labeling approach), pode-se afirmar que parcela significativa do conteúdo da no",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba",
+        "racismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "racismo": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0124",
+      "topics": "À luz das teorias das penas, julgue os seguintes itens. I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0125",
+      "topics": "A Lei Antitóxicos (Lei no 11.343/06) estabelece diminuição de pena no caso de agente primário, de bons antecedentes e que não se dedique às atividades criminosas ou integre organiz",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0126",
+      "topics": "Sobre o Direito Penal brasileiro, assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0127",
+      "topics": "Luiz foi denunciado pelo Ministério Público do Estado do Rio de Janeiro pelos crimes dos Arts. 33, caput , e 35, ambos da Lei nº 11.343/2006, na forma do Art. 69 do Código Penal (c",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "hediondos"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ],
+        "hediondos": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0128",
+      "topics": "A ação de prevenção penal é aquela ajuizada com a finalidade de se aplicar medida de segurança a acusado que, em virtude de doença mental ou de desenvolvimento mental incompleto ou",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0129",
+      "topics": "Em virtude de desavença familiar no interior de uma residência, um marido agrediu, mediante socos e chutes, sua esposa, na presença de familiares (pais, irmãos, filhos e primos) qu",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0130",
+      "topics": "Frederico, ao identificar que o pedestre Gumercindo traz, no bolso traseiro de sua bermuda, um aparelho de telefonia celular, passa a segui-lo e, ao chegar bem perto dele, levanta ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0131",
+      "topics": "A respeito do direito penal, julgue o item a seguir. Idealizada por Welzel e Roxin e considerada objetivo-subjetiva, a teoria do domínio do fato diferencia autoria de participação ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0132",
+      "topics": "Os tribunais deverão implementar, como medida para proteção de vítimas e testemunhas que se encontrem ameaçadas ou em grave risco, a possibilidade de proteção de seus dados qualifi",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "protecao-testemunhas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "protecao-testemunhas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0133",
+      "topics": "A respeito dos procedimentos, julgue o seguinte item. No procedimento do júri, o desaforamento é cabível a qualquer momento, a partir do recebimento da denúncia.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0134",
+      "topics": "Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0135",
+      "topics": "Com relação ao crime de receptação, é CORRETO afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0136",
+      "topics": "Após conturbada e conflitiva separação, um casal com filhos de 15 e 10 anos de idade, realizou divórcio judicial, oportunidade em que, dentre outros temas, foi fixada a questão da ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0137",
+      "topics": "No que dispõe a legislação sobre a investigação criminal, conduzida pelo delegado de polícia é CORRETO afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "investigacao"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "investigacao": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0138",
+      "topics": "Sobre a substituição das penas privativas de liberdade por penas restritivas de direitos e suspensão condicional da pena.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0139",
+      "topics": "A frase “há sujeitos que têm uma menor possibilidade de autodeterminação, condicionados dessa maneira por causas sociais”, está ligada à:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0140",
+      "topics": "Assinale a opção correta acerca dos crimes de furto e roubo.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0141",
+      "topics": "O efeito criminógeno da grande cidade, valendo-se dos conceitos de desorganização e contágio inerentes aos modernos núcleos urbanos, é explicado pela",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0142",
+      "topics": "Assinale a alternativa que corresponde a uma operação isenta do Imposto sobre a Transmissão \"Causa Mortis\" e Doação de quaisquer bens ou direitos (ITCD):",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0143",
+      "topics": "No que diz respeito à norma processual penal, aos sistemas processuais penais e à investigação criminal, julgue o item subsequente. No ordenamento jurídico brasileiro, em regra, a ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0144",
+      "topics": "Segundo o Código de Processo Penal, quando a sentença do juiz-presidente no Tribunal do Júri for contrária à Lei expressa ou à decisão dos jurados, caberá:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0145",
+      "topics": "Considerando as alterações provocadas pela Lei nº 12.683, de 09 de julho de 2012, no tocante aos crimes de lavagem de capitais e, ainda, aos crimes contra a ordem tributária, anali",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "improbidade",
+        "lavagem",
+        "ordem-economica"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "improbidade": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ],
+        "lavagem": [
+          "*"
+        ],
+        "ordem-economica": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0146",
+      "topics": "A Constituição Federal de 1988, no artigo 5°, inciso LVI, prevê expressamente a inadmissibilidade da utilização no processo de provas obtidas por meios ilícitos. De acordo com as t",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "interceptacao"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "interceptacao": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0147",
+      "topics": "Sobre a investigação preliminar e os meios de obtenção de provas e/ou elementos de convicção cabíveis em sede processual penal, assinale a alternativa correta, de acordo com a lei.",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0148",
+      "topics": "Ao proferir uma sentença condenatória em uma ação penal, o juiz vislumbra que o réu confessou em juízo a autoria do delito e que constam em sua folha de antecedentes criminais duas",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0149",
+      "topics": "Relativamente ao inquérito policial e às diligências neste levadas a efeito, é correto afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca",
+        "idoso"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "idoso": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0150",
+      "topics": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa: I - A majorante do tráfico transnacional de drogas (art. 40, i",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "drogas-historica"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ],
+        "drogas-historica": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0151",
+      "topics": "No que diz respeito às prisões e medidas cautelares no processo penal, assinale a alternativa CORRETA:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "temporaria"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "temporaria": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0152",
+      "topics": "Nos crimes de ação privada, se comparecer mais de uma pessoa com direito de queixa, terá preferência, numa ordem legal estabelecida pelo artigo 31 do Código de Processo Penal,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0153",
+      "topics": "O agente que imagina já ter obtido o resultado pensado por ele, sem tê-lo alcançado, e, por isso, pratica outra conduta que efetivamente alcança o objetivo primário realiza a condu",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0154",
+      "topics": "A Lei no 9.029/95, que define práticas discriminatórias relativas à gravidez no trabalho, expressamente considera crime:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "discriminacao-trabalho"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "discriminacao-trabalho": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0155",
+      "topics": "Sobre o Regime Disciplinar Diferenciado, segundo a legislação aplicável, assinale a alternativa correta:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0156",
+      "topics": "De acordo com a Lei n° 9.605/98, que dispõe sobre sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente,",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0157",
+      "topics": "A prisão temporária decretada no curso de inquérito policial instaurado para investigar crime de epidemia com resultado morte, artigo 267, § 1º, do Código Penal, tem prazo limite d",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "temporaria"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "temporaria": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0158",
+      "topics": "Considere a seguinte situação hipotética: João, agente público, foi processado e, ao final, condenado à pena de reclusão, por dezenove anos, iniciada em regime fechado, pela prátic",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "tortura"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "tortura": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0159",
+      "topics": "Caio, desejando matar Túlio, dispara projéteis de arma de fogo contra seu desafeto. Túlio, alvejado, cai e permanece inerte no chão enquanto Caio retira-se do local. Observando a c",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0160",
+      "topics": "Julgue o item subsequente, acerca do instituto da pena. É inadmissível a substituição de pena privativa de liberdade por restritiva de direitos ao réu reincidente, ainda que a subs",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0161",
+      "topics": "Analise o caso hipotético a seguir. Durante patrulhamento ostensivo em uma região da cidade conhecida pelo intenso tráfico de drogas, policiais militares abordaram um indivíduo que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0162",
+      "topics": "A moderna criminologia se dedica, também, ao estudo do controle social do delito, tendo este objeto representado um giro metodológico de grande importância.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0163",
+      "topics": "O Diretor de determinado presídio é informado, por bilhete anônimo, de que um preso estaria trocando informações por correspondência com membros do seu bando, a fim de viabilizar a",
+      "sources": [
+        "abuso-historico",
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "abuso-historico": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0164",
+      "topics": "Conforme o que a LEP prevê relativamente ao preso e ao egresso, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0165",
+      "topics": "A Lei n° 12.850, de 2 de agosto de 2013, dentre outras disposições, definiu organização criminosa e dispôs sobre a investigação criminal, os meios de obtenção da prova, infrações p",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp",
+        "eca",
+        "lep",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0166",
+      "topics": "O Defensor Público, na data de 15 de junho de 2010, ao atender os apenados da Casa do Albergado de um Município do interior do Estado do Rio Grande do Sul, deparouse com a situação",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0167",
+      "topics": "Acerca de desaforamento é incorreto afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0168",
+      "topics": "Mévio, técnico de futebol do X Sport Clube, recebeu de Tício, presidente do Y Sport Clube, a quantia de 10.000,00 (dez mil reais), para deixar de convocar o jogador Zeca, considera",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "esporte"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "esporte": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0169",
+      "topics": "A respeito das causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal, assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0170",
+      "topics": "Em 2024, Guilherme, Américo, Lucas, Rogério e Vladimir praticaram um crime. De acordo com as informações de antecedentes criminais fornecidas a seguir, assinale a opção que indica ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpm",
+        "cpp",
+        "cppm",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "cpm": [
+          "*"
+        ],
+        "cppm": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0171",
+      "topics": "Sobre as alterações trazidas pela Lei nº 13.964/2019 (Pacote Anticrime), é correto afirmar que:",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "hediondos",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ],
+        "hediondos": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0172",
+      "topics": "Assinale a alternativa incorreta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0173",
+      "topics": "Com relação à regressão de regime prisional e às faltas disciplinares, assinale a opção correta com base no disposto na LEP e no entendimento dos tribunais superiores.",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0174",
+      "topics": "Sobre os crimes cibernéticos ou informáticos, é CORRETO afirmar:",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0175",
+      "topics": "João, agente público federal competente, deu ordem de parada a um veículo automotor que transitava em excesso de velocidade no interior do estado do Pará. Realizado o exame de alco",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "transito"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "transito": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0176",
+      "topics": "Sobre o crime de falso testemunho, é CORRETO afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0177",
+      "topics": "Assinale a afirmativa incorreta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0178",
+      "topics": "A Resolução CNJ nº 467/2022 regulamentou o inciso XI do artigo 6º da Lei nº 10.826/2003 e prevê que o porte de arma de fogo de servidores dos quadros pessoais do Poder Judiciário é",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0179",
+      "topics": "Ações como controle dos meios de comunicação e ordenação urbana, orientadas a determinados grupos ou subgrupos sociais, estão inseridas no âmbito da chamada prevenção secundária do",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0180",
+      "topics": "João é investigado pela prática de um crime de peculato. Durante a fase de inquérito policial, o Delegado de Polícia, sem autorização judicial, determina a entrada de agentes na re",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0181",
+      "topics": "Identifique o que constitui crime contra a ordem tributária e assinale a alternativa correta. I Adquirir, distribuir e revender derivados de petróleo, gás natural e suas frações re",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "ordem-economica"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ordem-economica": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0182",
+      "topics": "Analise os itens e assinale a quantidade de itens errados. I - A instigação da gestante para permitir que terceiro lhe provoque aborto, em se consumando o crime, enseja para o inst",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0183",
+      "topics": "Julgue o item abaixo. Considere a seguinte situação hipotética. Pedro foi denunciado pelo Ministério Público pela prática de crime de dispensa de licitação fora das hipóteses previ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "licitacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "licitacoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0184",
+      "topics": "Julgue o item seguinte com base na Lei n.º 11.343/2006. A autoridade de polícia judiciária deve comunicar ao juiz competente a prisão em flagrante no prazo improrrogável de cinco d",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0185",
+      "topics": "Durante revista regular no interior de um presídio, um revólver foi encontrado na posse de Antônio, que cumpria pena no regime semiaberto, o que constitui falta grave. A partir des",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0186",
+      "topics": "No que concerne à fixação da pena-base, é certo que o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato delituoso e aspectos in",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0187",
+      "topics": "Dionísio é presidente da Comissão de Licitações do município de Carunchos e, mensalmente, dirige seu carro até um shopping center onde recebe uma mochila contendo dinheiro pago por",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "licitacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "licitacoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0188",
+      "topics": "Segundo sua classificação doutrinária dominante, o chamado ofendículo pode mais precisamente caracterizar situação de exclusão de",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0189",
+      "topics": "Acerca do direito processual penal, julgue o item subseqüente. A desistência da ação penal privada pode ocorrer a qualquer momento, somente surgindo óbice intransponível quando já ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0190",
+      "topics": "Considerando a temática dos Juizados Especiais Criminais, assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0191",
+      "topics": "Considere as seguintes afirmações a respeito dos recursos no Código de Processo Penal: I. Recurso de caráter subsidiário, cabível de decisão que denegar recurso. II. Recurso pelo q",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0192",
+      "topics": "Marque a opção INCORRETA.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0193",
+      "topics": "Sobre o tema da colaboração premiada, assinale a alternativa incorreta:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0194",
+      "topics": "Tício, funcionário público, convida Mévio, que trabalha em empresa privada, para ajudá-lo a subtrair um computador, pertencente à repartição, que se encontra na sala de trabalho de",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0195",
+      "topics": "Em relação ao conceito de crime, de criminoso e de pena nas diversas correntes do pensamento criminológico e ao desenvolvimento científico de seus modelos teóricos, é correto afirm",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0196",
+      "topics": "Constitui um dos objetivos metodológicos da teoria do Labelling Approach (Teoria do Etiquetamento Social) o estudo detalhado da atuação do controle social na configuração da crimin",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0197",
+      "topics": "É apresentada uma situação hipotética, seguida de uma assertiva a ser julgada em relação ao inquérito policial e suas peculiaridades, às atribuições da Polícia Federal e ao sistema",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0198",
+      "topics": "A moderna teoria do domínio do fato de Claus Roxin procura solucionar alguns problemas de autoria e, expressamente, já foi adotada em nossos tribunais. Além das previsões legais so",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0199",
+      "topics": "Assinale a alternativa correta, entre as seguintes assertivas relacionadas à teoria do crime:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0200",
+      "topics": "No que diz respeito às organizações criminosas, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0201",
+      "topics": "José, com trinta anos de idade, manteve, entre 2013 e 2015, relacionamento amoroso com uma menor que atualmente tem treze anos de idade. Nesse período, constantemente, José, pratic",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0202",
+      "topics": "Tício e Mévio são amigos, desde a infância. Enquanto Tício tem facilidade para se relacionar, Mévio é tímido, nunca tendo se relacionado. No aniversário de Mévio, Tício decide cont",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0203",
+      "topics": "Julgue o item a seguir com base na Lei n.º 9.613/1998, que dispõe sobre lavagem de dinheiro. Havendo indícios suficientes de infração penal, é admissível a indisponibilidade de ben",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lavagem"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lavagem": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0204",
+      "topics": "Em relação à lei processual penal no tempo, vigora o princípio do efeito imediato, segundo o qual tempus regit actum. De acordo com tal princípio, as normas processuais penais têm ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0205",
+      "topics": "Assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0206",
+      "topics": "No tocante ao assistente de acusação, é correto afirmar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0207",
+      "topics": "Caso um preso, em cumprimento de pena privativa de liberdade, tenha sido flagrado, em 10/10/2020, portando consigo um aparelho telefônico apto à comunicação com o ambiente externo,",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0208",
+      "topics": "Lucas foi denunciado por infringir o art. 121, § 2.º, inciso II (homicídio qualificado por motivo fútil), do CP, por ter disparado arma de fogo contra Mauro, levando-o a óbito. Na ",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0209",
+      "topics": "Acerca das provas, das sentenças e dos princípios do direito processual penal, julgue o item a seguir. Em razão do princípio constitucional da presunção de inocência, é vedado à au",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0210",
+      "topics": "O Estatuto do Desarmamento, Lei nº 10.826/2003, no seu capítulo IV, define crimes relacionados a armas de fogo e munições. Considerando casos concretos de réus denunciados por esse",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "hediondos"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ],
+        "hediondos": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0211",
+      "topics": "As audiências realizadas nos Fóruns representam parte relevante da vida forense. O contato humano e a ritualística do Direito e da Justiça formam um ambiente único, no qual a abstr",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0212",
+      "topics": "Julgue o item subsequente, em relação à prova, ao instituto da interceptação telefônica e à citação por hora certa. Em processo penal, a citação por hora certa do réu que se oculte",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "interceptacao"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "interceptacao": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0213",
+      "topics": "Nos crimes previstos na Lei de Drogas (Lei nº 11.343/2006), oferecida a denúncia, o(a) juiz(a) ordenará a:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0214",
+      "topics": "Patrick foi denunciado e condenado, em primeira instância, perante a 1ª Vara Criminal de Florianópolis, pela prática de crime de corrupção passiva. Após a condenação, dentro do pra",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0215",
+      "topics": "Leia o caso a seguir. Um homem é réu primário e é condenado por crime cometido com violência à pessoa, fixando o juiz a pena-base no mínimo legal, que é de 6 (seis) anos de reclusã",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0216",
+      "topics": "Considerando o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0217",
+      "topics": "Para Michel Foucault, em Vigiar e punir, as razões de ser essenciais da reforma penal no século XVIII, também denominada Reforma Humanista do Direito penal, são constituir uma nova",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0218",
+      "topics": "João da Silva vai à agência bancária obter o levantamento de conta de FGTS de terceiro, usando documento falso. Desconfiado da veracidade do documento, o gerente da agência pede a ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0219",
+      "topics": "Considerando essa situação hipotética, julgue o item subsequente. Na situação descrita, está presente a hipótese de participação necessária imprópria.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0220",
+      "topics": "De acordo com precedente firmado pelo STF em sede de controle concentrado de constitucionalidade, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0221",
+      "topics": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0222",
+      "topics": "Assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0223",
+      "topics": "O ingresso de chip de aparelho celular em estabelecimento prisional configura",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0224",
+      "topics": "Em ação penal na qual se imputa ao réu a prática do crime de roubo, na modalidade tentada, constam de sua Folha de Antecedentes Criminais as seguintes anotações, devidamente esclar",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0225",
+      "topics": "A partir das disposições legais e da jurisprudência dos tribunais superiores acerca de temas relacionados à execução penal, julgue o item a seguir. Pedro foi denunciado pela prátic",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0226",
+      "topics": "A lei nº 13.964/19, popularmente conhecida como Pacote Anticrime, introduziu no Código de Processo Penal disciplina acerca do procedimento da cadeia de custódia. De acordo com o qu",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0227",
+      "topics": "Analise as seguintes situações hipotéticas, e assinale a alternativa correta.",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0228",
+      "topics": "Se o defensor de um condenado preso entender que ele faz jus ao livramento condicional, deverá:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0229",
+      "topics": "Assinale a opção incorreta acerca da prisão no processo penal.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "temporaria"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "temporaria": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0230",
+      "topics": "Assinale a opção correta em relação às causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0231",
+      "topics": "Aquele que pratica conduta descrita no tipo penal do delito de tráfico de drogas, mas em erro sobre elemento constitutivo do tipo, ou seja, em hipótese de erro de tipo essencial po",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0232",
+      "topics": "Sobre os crimes contra a Administração da Justiça, previstos no Código Penal, assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "improbidade"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "improbidade": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0233",
+      "topics": "Sobre a desistência voluntária e o arrependimento eficaz, assinale a alternativa correta:",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0234",
+      "topics": "A interdisciplinaridade é intrínseca à natureza da criminologia. Dessa forma, a ciência que se afasta do estudo da criminologia é a",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0235",
+      "topics": "Caberá recurso, no sentido estrito, da decisão que concluir pela competência do juízo. Neste caso, o recurso, que poderá ser interposto no prazo de 5 (cinco) dias, não terá efeito ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0236",
+      "topics": "Analise as assertivas abaixo. I. A apresentação pelo acusado da prática de furto, no curso do processo, de prévio contrato de compra e venda que o identifique como o comprador da r",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0237",
+      "topics": "Qual a diferença entre desistência voluntária e arrependimento eficaz?",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0238",
+      "topics": "Será exigido o reforço da fiança quando for inovada a classificação do delito, nos termos do Código de Processo Penal.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0239",
+      "topics": "Analise a opção CORRETA.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0240",
+      "topics": "Pedro, que estava indiciado por crime de roubo, teve sua prisão decretada pelo juiz da comarca de Miracema-RJ em 08 de agosto de 2011, uma segunda-feira, sendo preso provisoriament",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0241",
+      "topics": "Analise os itens abaixo sobre a teoria do erro. I. O erro de tipo essencial incide sobre elementar do tipo quando a falsa percepção de realidade faz com que o agente desconheça a n",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0242",
+      "topics": "Sobre os recursos em processo penal, assinale a alternativa CORRETA:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0243",
+      "topics": "Antônio, durante a madrugada, subtrai, com o emprego de chave falsa, o automóvel de Pedro. Depois de oferecida a denúncia pela prática de crime de furto qualificado, mas antes do s",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0244",
+      "topics": "O agente que exigir vantagem indevida, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, responderá pelo crime de:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0245",
+      "topics": "Assinale a opção correta a respeito da prescrição.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0246",
+      "topics": "No procedimento do júri, presentes indícios da autoria e prova da materialidade, se ao término da instrução do sumário de culpa ficar provado tecnicamente que o acusado é semi-impu",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0247",
+      "topics": "Com a Lei Anticrime surge o instituto do Acordo de Não Persecução Penal (ANPP), cujo cumprimento integral traduz-se em uma causa de extinção da punibilidade. Todavia, o marco legal",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha",
+        "racismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "racismo": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0248",
+      "topics": "Considere os seguintes tipos penais praticados contra a Administração Pública: Tipos penais 1. Desobediência 2. Resistência 3. Corrupção passiva 4. Corrupção ativa 5. Concussão Açã",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0249",
+      "topics": "O Estatuto Processual Penal prevê que o juiz não poderá exercer jurisdição no processo em que: a) tiver funcionado seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou co",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0250",
+      "topics": "Sobre a determinação do regime inicial de cumprimento de pena, é correto afirmar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0251",
+      "topics": "Considere as assertivas abaixo sobre extinção da puni bilidade. I - É taxativo o rol das causas de extinção de punibilidade previsto no art. 107 do Código Penal. II - A anistia e o",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0252",
+      "topics": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inici",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0253",
+      "topics": "No que concerne às Escolas Penais, é correto afirmar que a",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0254",
+      "topics": "Joana, vítima de violência doméstica e familiar perpetrada pelo seu ex-companheiro, compareceu à Delegacia especializada de Atendimento à Mulher do Município de Recife/PE, manifest",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0255",
+      "topics": "No que diz respeito à imputabilidade penal, assinale a alternativa incorreta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0256",
+      "topics": "Tanto a conduta do agente que age imprudentemente, por desconhecimento invencível de algum elemento do tipo quanto a conduta do agente que age acreditando estar autorizado a fazê-l",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0257",
+      "topics": "O princípio da legalidade é pedra fundamental do Direito Penal brasileiro, marcando, por isso, a própria abertura do Código em seu dispositivo prefacial. Registra, também, sua pres",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp",
+        "improbidade"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "improbidade": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0258",
+      "topics": "O exame de corpo de delito",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0259",
+      "topics": "O crime de dano (CP, art. 163), norma menos grave, funciona como elemento do crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4.º, inci",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0260",
+      "topics": "Analise as assertivas abaixo e indique a alternativa: I. Das construções doutrinárias de Günther Jakobs acerca do “Direito Penal do Inimigo”, extrai-se que aquele que por princípio",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0261",
+      "topics": "Honorato adquiriu regularmente um programa de computador para uso pessoal. Contudo, desejando realizar uma cópia de segurança, reproduziu o conteúdo em mídia digital, guardando-a c",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "software"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "software": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0262",
+      "topics": "Sobre a superveniência de doença mental ao apenado na fase de execução de pena, é correto afirmar:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0263",
+      "topics": "O juiz dar-se-á por suspeito e, se não o fizer, poderá ser recusado por qualquer das partes: I. Se ele próprio ou seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou col",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0264",
+      "topics": "Nos crimes contra a dignidade sexual, tratando-se da vítima menor de 14 anos, ou enferma ou deficiente mental sem o necessário discernimento para o ato, a situação em que o proxene",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0265",
+      "topics": "Na hipótese de concurso de crimes, a extinção da punibilidade pela prescrição incidirá sobre a pena cominada por cada crime, isoladamente.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0266",
+      "topics": "Em operação conjunta de garantia da Lei e da Ordem, de iniciativa do Presidente da República, com militares do Exército e membro da Polícia Militar estadual, ocorre a morte de um c",
+      "sources": [
+        "cf",
+        "cp",
+        "cpm",
+        "cpp",
+        "cppm"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "cpm": [
+          "*"
+        ],
+        "cppm": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0267",
+      "topics": "Matheus, caminhoneiro, foi capturado em flagrante enquanto transportava, na fronteira entre a República Federativa do Brasil e a Colômbia, cem quilos de cocaína. Em assim sendo, o ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0268",
+      "topics": "Assinale a alternativa correta:",
+      "sources": [
+        "abuso",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0269",
+      "topics": "Assinale a alternativa que NÃO SE AJUSTA à doutrina do garantismo penal, em sua concepção clássica:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0270",
+      "topics": "João conduzia o seu veículo automotor, ocasião em que foi parado por uma blitz da Polícia Militar. Após analisar a documentação do condutor, o policial Caio exigiu, para si, R$ 2.0",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "transito"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "transito": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0271",
+      "topics": "Não prevalece de forma absoluta, no processo penal, o princípio tantum devolutum quantum appellatum, razão pela qual, de forma dominante na jurisprudência, o tribunal não fica impe",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0272",
+      "topics": "No que concerne à prática de falta grave no curso da execução penal, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0273",
+      "topics": "É punido na modalidade culposa o crime de",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0274",
+      "topics": "Tendo como referência a jurisprudência sumulada dos tribunais superiores, julgue o item a seguir, acerca de crimes, penas, imputabilidade penal, aplicação da lei penal e institutos",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0275",
+      "topics": "O Ministério Público ofereceu denúncia em face de Tício, pela suposta prática de infração penal de menor potencial ofensivo. Nesse cenário, considerando as disposições da Lei nº 9.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0276",
+      "topics": "Sobre as provas no processo penal, é correto:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0277",
+      "topics": "NÃO configura crime contra idoso:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "idoso"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "idoso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0278",
+      "topics": "Com base na legislação penal extravagante, julgue o item seguinte. Nos crimes em que a pena mínima cominada for igual ou inferior a dois anos, o Ministério Público, ao oferecer a d",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0279",
+      "topics": "Um indivíduo de dezenove anos de idade, livre, consciente e capaz, dirigiu-se a uma joalheria com a intenção de praticar furto. Na loja, passou-se por cliente e pediu a uma vendedo",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0280",
+      "topics": "Em data de 20 de dezembro de 2016, Astolfo pratica, em tese, crime contra a honra de Lucíolo, afirmando que este, na condição de funcionário público, subtraiu valores do departamen",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0281",
+      "topics": "Dadas as assertivas abaixo, assinalar a alternativa correta. I. Pode o juiz autorizar escutas telefônicas em caso de delitos apenados com detenção ou reclusão, nos crimes em que a ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0282",
+      "topics": "Assinale a alternativa correta:",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "maria-penha",
+        "racismo"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ],
+        "racismo": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0283",
+      "topics": "Antonio acabou de sofrer hipoteca, determinada por juiz criminal, de imóvel que recebeu de seu pai. Nesse caso,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0284",
+      "topics": "No dia 2 de fevereiro de 2022, por volta das 21h, Bernardo, sargento da Marinha, ao se aproximar com seu veículo automotor da porta da garagem de entrada de seu condomínio localiza",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "transito"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ],
+        "transito": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0285",
+      "topics": "Constitui uma das características do direito penal do inimigo",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0286",
+      "topics": "No cálculo da pena:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0287",
+      "topics": "Segundo o Código Penal, é excludente de ilicitude",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0288",
+      "topics": "I. Não há o crime de estupro, nos termos do Código Penal, na relação sexual consensual praticada com maior de 14 e menor de 18 anos. II. É pública, condicionada a representação, a ",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0289",
+      "topics": "“A Lei nº 11.340/2006 aporta em nosso ordenamento jurídico em resposta às graves violações de direitos sofridas pelas mulheres em situação de violência doméstica, às flagrantes des",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0290",
+      "topics": "No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa incorreta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0291",
+      "topics": "Quando se tratar de crimes relativos ao tráfico de drogas, o prazo para a conclusão do inquérito policial é de 30 dias, se o indiciado estiver preso e de 90 dias, se estiver solto,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0292",
+      "topics": "Considerando a atual conjuntura da política criminal brasileira, é correto afirmar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0293",
+      "topics": "Lucas e Serafim, primários, foram acusados, em conjunto, de praticarem um furto mediante fraude ocorrido em setembro de 2015. Recebida a denúncia em 2016, a sentença foi prolatada ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0294",
+      "topics": "A respeito da culpabilidade, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0295",
+      "topics": "Quanto à fluência dos prazos no processo penal, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0296",
+      "topics": "Diversamente do que ocorre em relação ao processo civil, no processo penal não se admite que, em caso de morte da vítima, os familiares assumam o lugar dela, no pólo ativo da ação ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0297",
+      "topics": "O Direito Penal Econômico, em sentido estrito, é o conjunto de normas jurídico-penais que protegem a ordem socioeconômica. Esse ramo do Direito Penal visa à proteção da atividade e",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "ordem-economica"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ordem-economica": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0298",
+      "topics": "Os crimes contra as relações de consumo previstos na Lei n. 8.137/90 são punidos, apenas, na modalidade dolosa.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "ordem-economica"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ordem-economica": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0299",
+      "topics": "Assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0300",
+      "topics": "Àquele que oculta uma arma de fogo utilizada por terceiro para a prática anterior de um roubo, consignando-se não haver qualquer vínculo de parentesco entre ambos, pode-se atribuir",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0301",
+      "topics": "NÃO admite perdão judicial:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "transito"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "transito": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0302",
+      "topics": "César é açougueiro e está trabalhando regulamente no freezer do açougue, quando uma pessoa, fugindo da Polícia, se esconde atrás de algumas peças de carne, sem que César tenha perc",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0303",
+      "topics": "Com relação à aplicação da lei penal, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0304",
+      "topics": "Em matéria de competência dos Juizados Especiais Criminais, de acordo com a Jurisprudência do Supremo Tribunal Federal,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0305",
+      "topics": "A ação penal pública é de iniciativa exclusiva do Ministério Público e tem por objetivo dar concretude ao jus puniendi estatal. Acerca dessa modalidade de ação penal, assinale a al",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0306",
+      "topics": "Sobre o crime de associação criminosa é correto afirmar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "hediondos",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ],
+        "hediondos": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0307",
+      "topics": "Determinado policial militar efetuou a prisão em flagrante de Luciano e o conduziu à delegacia de polícia. Lá, com o objetivo de fazer Luciano confessar a prática dos atos que ense",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "tortura"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "tortura": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0308",
+      "topics": "Inquérito policial arquivado pelo Ministério Público por ausência de elementos suficientes de informação importa",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0309",
+      "topics": "Segundo o Artigo 61 da Lei nº 9.605/98 a pena para quem disseminar doença ou praga ou espécies que possam causar dano à agricultura, à pecuária, à fauna, à flora ou aos ecossistema",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0310",
+      "topics": "Sobre a aplicação da Lei Processual Penal, é correto afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0311",
+      "topics": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0312",
+      "topics": "Para Liszt, o fundamento da pena é orientado às finalidades de: a) ressocialização dos delinquentes suscetíveis de socialização; b) intimidação dos que não têm necessidade de socia",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0313",
+      "topics": "A condenação tem como efeito genérico tornar certa a obrigação de reparar o dano. Esse efeito é automático, não precisa ser expressamente pronunciado pelo juiz na sentença condenat",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0314",
+      "topics": "O habeas corpus é",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0315",
+      "topics": "Paulo, nascido em 15/8/1996, foi denunciado em 24/5/2020, pela prática do crime de roubo majorado tentado, que teria sido praticado em 7/4/2016. Recebida a denúncia em 30/5/2020, P",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0316",
+      "topics": "Considere a seguinte situação: A, que acabara de ter um filho, que morre logo a seguir, sob a influência do estado puerperal, vai ao berçário e, por erro, já que acreditava tratar-",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0317",
+      "topics": "O direito de representação deve ser exercido no prazo de seis meses contados a partir da data do fato, uma vez que o ofensor foi identificado nessa ocasião, sob pena de decadência.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0318",
+      "topics": "Com intenção de matar Mário, Lúcio adquiriu, de forma clandestina, uma arma de fogo e munições. Após monitorar a rotina da vítima, Lúcio aguardou Mário sair do trabalho e, enquanto",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0319",
+      "topics": "A co-autoria é impossível nos crimes: I. Culposos; II. Unissubsistentes; III. Habitual ou de mera conduta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0320",
+      "topics": "O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0321",
+      "topics": "Assinale a alternativa CORRETA:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "hediondos"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "hediondos": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0322",
+      "topics": "Delegado Mário foi denunciado pelo delito de abuso de autoridade, tendo em vista a prática de conduta que se enquadra na seguinte descrição típica: “deixar injustificadamente de co",
+      "sources": [
+        "abuso",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0323",
+      "topics": "Acerca de provas, instrumentos legais de obtenção de prova e procedimento probatório, assinale a opção correta",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "interceptacao",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ],
+        "interceptacao": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0324",
+      "topics": "É certo afirmar: I. A pena de prisão simples deve ser cumprida, sem rigor penitenciário, em estabelecimento especial ou seção especial de prisão comum, em regime semiaberto ou aber",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0325",
+      "topics": "Considerando as afirmativas abaixo, é CORRETO afirmar que:",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp",
+        "juizados",
+        "maria-penha"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "maria-penha": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0326",
+      "topics": "Constitui crime previsto na lei de drogas",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "drogas"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0327",
+      "topics": "Em uma ação penal por crime ocorrido em 04/03/2023, o réu, ao ser interrogado, confessa espontaneamente, perante o juiz, a prática do delito que lhe é imputado. Na folha de anteced",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0328",
+      "topics": "Acerca do conceito e das funções da criminologia, julgue o item seguinte. Na inter-relação entre o direito penal, a política criminal e a criminologia, compete a esta facilitar a r",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0329",
+      "topics": "Em determinado estado brasileiro, uma investigação revelou um esquema criminoso que envolvia a competição futebolística estadual: Cavalcante, empresário no ramo do futebol, dono do",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "esporte",
+        "organizacoes"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "organizacoes": [
+          "*"
+        ],
+        "esporte": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0330",
+      "topics": "Acerca das modificações introduzidas pelo chamado “pacote anticrime” ao Código de Processo Penal, assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0331",
+      "topics": "Assinale a alternativa incorreta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0332",
+      "topics": "Acolhendo a proposta do Ministério Público aceita pelo autor da infração, o Juiz aplicará a pena restritiva de direitos ou de multa, que não importará em reincidência, sendo regist",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0333",
+      "topics": "Assinale a alternativa CORRETA.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0334",
+      "topics": "Assinale a alternativa que NÃO engloba um objeto de estudo criminológico.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0335",
+      "topics": "A respeito das leis penais em branco e da teoria geral do delito, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "criminologia-ufba"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0336",
+      "topics": "Em 05 de junho de 2022, Mariana entrou em um restaurante estilo “self-service” e apoiou sua bolsa em uma cadeira. Enquanto conversava distraidamente com seu marido, José, Mariana e",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0337",
+      "topics": "A Lei nº 13.869/2019 dispõe sobre os crimes de abuso de autoridade. Sobre o assunto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). ( ) As condutas descrit",
+      "sources": [
+        "abuso",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0338",
+      "topics": "Com relação às regras de provas do Código de Processo Penal, é correto afirmar que:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0339",
+      "topics": "Assinale a alternativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0340",
+      "topics": "Assinale a alternativa correta sobre o concurso de pessoas.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0341",
+      "topics": "Quanto aos crimes contra o patrimônio, possível assegurar que",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0342",
+      "topics": "Com relação ao exame de corpo de delito e às perícias em geral, analise as seguintes assertivas, nos termos do Código de Processo Penal: I. Na falta de perito oficial, o exame pode",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0343",
+      "topics": "Patrícia responde a processo por crime de ação penal privada por ter supostamente praticado injúria contra Maria. Ocorre que as duas eram amigas desde a infância e Patrícia sempre ",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0344",
+      "topics": "Quanto à Lei nº 9.605/1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, é correto afirmar:",
+      "sources": [
+        "ambientais",
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "ambientais": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0345",
+      "topics": "Antônio, professor respeitado na escola, ofereceu carona à sua aluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no estacionamento da escola, Antônio acariciou os se",
+      "sources": [
+        "abuso",
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ],
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0346",
+      "topics": "Sobre o assistente da acusação no processo penal, após analisar as proposições abaixo destacadas, assinale a alternativa CORRETA: I - Em razão dos princípios da oralidade e concent",
+      "sources": [
+        "cf",
+        "contravencoes",
+        "cp",
+        "cpp",
+        "ordem-economica"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "contravencoes": [
+          "*"
+        ],
+        "ordem-economica": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0347",
+      "topics": "No tocante à parte geral do Código Penal, assinale a afirmativa correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "eca"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0348",
+      "topics": "João foi acusado de corrupção ativa em transação internacional porque deu, em outro país, vantagem indevida a funcionário público estrangeiro para a prática de ato de ofício relaci",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0349",
+      "topics": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores",
+      "sources": [
+        "armas",
+        "cf",
+        "cp",
+        "cpp",
+        "eca",
+        "lep"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "armas": [
+          "*"
+        ],
+        "lep": [
+          "*"
+        ],
+        "eca": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0350",
+      "topics": "Assinale a opção correta acerca dos crimes de lavagem ou ocultação de bens, direitos e valores.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "lavagem"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "lavagem": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0351",
+      "topics": "Falsificar cartão de crédito é",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0352",
+      "topics": "De acordo com a legislação vigente acerca de recursos em geral no processo penal, assinale a opção correta.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0353",
+      "topics": "Se, no curso da ação penal, o magistrado notar que a prescrição está prestes a ocorrer, poderá:",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0354",
+      "topics": "Assinale a alternativa INCORRETA.",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0355",
+      "topics": "À luz da recente decisão do Supremo Tribunal Federal com repercussão geral a respeito do Art. 28 da Lei nº 11.343/2006, é correto afirmar que:",
+      "sources": [
+        "abuso",
+        "cf",
+        "cp",
+        "cpp",
+        "drogas",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "drogas": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ],
+        "abuso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0356",
+      "topics": "O concurso de crimes é o instituto que se verifica quando o agente, mediante uma ou várias condutas, pratica duas ou mais infrações penais. Com base nesse assunto, informe se é ver",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0357",
+      "topics": "Configura o crime de boicotagem violenta",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0358",
+      "topics": "Julgue o próximo item, considerando a Lei de Acesso à Informação, o Marco Civil da Internet e os demais instrumentos normativos que regulam a publicidade e a segurança de redes de ",
+      "sources": [
+        "acesso-informacao",
+        "cf",
+        "cp",
+        "cpp",
+        "marco-civil"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "marco-civil": [
+          "*"
+        ],
+        "acesso-informacao": [
+          "*"
+        ]
+      },
+      "gaps": []
+    },
+    {
+      "id": "Q0359",
+      "topics": "Aos crimes cometidos contra idosos, cuja pena máxima privativa de liberdade não ultrapasse quatro anos, aplica-se o procedimento previsto na Lei nº 9.099/1995, e, subsidiariamente,",
+      "sources": [
+        "cf",
+        "cp",
+        "cpp",
+        "idoso",
+        "juizados"
+      ],
+      "articles": {
+        "cp": [
+          "*"
+        ],
+        "cpp": [
+          "*"
+        ],
+        "cf": [
+          "*"
+        ],
+        "juizados": [
+          "*"
+        ],
+        "idoso": [
+          "*"
+        ]
+      },
+      "gaps": []
+    }
+  ]
+}

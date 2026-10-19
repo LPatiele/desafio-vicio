@@ -1,0 +1,8 @@
+Status: pendente.
+
+Não há uma previsão registrada para compor a entrega. Este arquivo apenas
+documenta a pendência e não constitui uma estimativa de precisão ou cobertura.
+
+Os resultados dos experimentos já foram observados. Qualquer estimativa
+registrada a partir de agora deverá declarar essa exposição, sem ser apresentada
+como previsão anterior à execução.

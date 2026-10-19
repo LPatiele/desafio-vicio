@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "Q0221",
+    "questao": {
+      "id": "Q0221",
+      "enunciado": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "A atenuante da confissão espontânea é preponderante em relação à reincidência, impossibilitando a compensação plena entre uma e outra na segunda fase da dosimetria.",
+        "B": "São espécies de penas privativas de liberdade a reclusão, a detenção, a prisão simples e a prisão especial.",
+        "C": "São espécies de penas restritivas de direitos a prestação de serviços à comunidade, a interdição temporária de direitos e a obrigação de reparar o dano causado pelo crime.",
+        "D": "São princípios constitucionais aplicáveis à pena a personalidade ou responsabilidade pessoal, a legalidade, a inderrogabilidade, a proporcionalidade, a individualização e a humanização.",
+        "E": "A duração da medida de segurança é por tempo indeterminado, e o condenado só será liberado depois que perícia médica atestar a cessação de sua periculosidade."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "A compensação entre confissão e reincidência é admitida; prisão especial não é pena; reparação do dano não é espécie geral de restritiva. A duração de medida de segurança não pode ser ilimitada, apesar da literalidade isolada do art. 97.",
+    "fontes": [
+      "CP:32,43,97",
+      "STJ_SUMULAS:527"
+    ],
+    "ressalvas": [
+      "D é a candidata residual, mas inclui inderrogabilidade como princípio constitucional sem qualificação; E ignora limites jurisprudenciais da medida. Não há alternativa suficientemente segura sob o critério atual."
+    ],
+    "classificacao": {
+      "tema_id": "5199",
+      "caminho": "Penal > Teoria da Pena",
+      "extras_ids": [
+        "5184"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0222",
+    "questao": {
+      "id": "Q0222",
+      "enunciado": "Assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "O denominado direito penal do inimigo, que tem como expoente Günther Jakobs,\\npode ser entendido como um direito penal de segunda velocidade, restringindo\\ngarantias penais e processuais.",
+        "B": "A terceira velocidade do direito penal, ligada à ideia de aplicação de penas\\nalternativas, encontra amparo no ordenamento penal brasileiro na Lei n.\\n9.099/1995.",
+        "C": "A quarta velocidade do direito penal refere-se ao neopunitivismo, abrangendo\\naquelas pessoas que violaram tratados e convenções internacionais de direitos\\nhumanos, ostentando a condição de Chefes de Estado, devendo sofrer a incidência\\nde normas internacionais.",
+        "D": "A teoria da primeira velocidade do direito penal, fundada no respeito às garantias\\nindividuais, tinha a ideia de um direito penal de mínima intervenção e sanções não\\nprivativas de liberdade.",
+        "E": "A ideia de velocidades do direito penal foi concebida e sistematizada pelo professor\\nManuel Cancio Meliá."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "A quarta velocidade do direito penal refere-se ao neopunitivismo, abrangendo\\naquelas pessoas que violaram tratados e convenções internacionais de direitos\\nhumanos, ostentando a condição de Chefes de Estado, devendo sofrer a incidência\\nde normas internacionais.",
+    "fundamento_resposta": "A denominada quarta velocidade é associada ao neopunitivismo e à persecução internacional de graves violações de direitos humanos. As demais opções trocam as velocidades ou atribuem sua formulação a outro autor.",
+    "fontes": [
+      "CRIMINOLOGIA:velocidades do direito penal"
+    ],
+    "ressalvas": [
+      "Classificação doutrinária não uniforme; fonte autoral específica ainda não conferida."
+    ],
+    "classificacao": {
+      "tema_id": "4375",
+      "caminho": "Criminologia > Política Criminal > Correntes da Política Criminal",
+      "extras_ids": [
+        "4376"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0223",
+    "questao": {
+      "id": "Q0223",
+      "enunciado": "O ingresso de chip de aparelho celular em estabelecimento prisional configura",
+      "comando": "\n",
+      "alternativas": {
+        "A": "desobediência.",
+        "B": "favorecimento real.",
+        "C": "introdução de aparelho de comunicação, sem autorização\\nlegal, em estabelecimento prisional.",
+        "D": "favorecimento pessoal.",
+        "E": "conduta atípica."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "conduta atípica.",
+    "fundamento_resposta": "Chip isolado não se equipara por analogia prejudicial ao aparelho telefônico ou similar descrito no art. 349-A. Essa atipicidade penal não impede consequências disciplinares em hipóteses próprias.",
+    "fontes": [
+      "CP:349-A",
+      "STJ_CHIP:tipicidade estrita"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5086",
+      "caminho": "Penal > Dos Crimes Contra a Administração Judicial > Outros crimes contra a Administração Judicial",
+      "extras_ids": [
+        "4703"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0224",
+    "questao": {
+      "id": "Q0224",
+      "enunciado": "Em ação penal na qual se imputa ao réu a prática do crime de roubo, na modalidade tentada, constam de sua Folha de Antecedentes Criminais as seguintes anotações, devidamente esclarecidas por certidões cartorárias:\n\n1. condenação transitada em julgado, por crime de ameaça, à pena de multa, cumprida 3 anos e 8 meses antes da prática do crime objeto do processo\n\n2. condenação transitada em julgado, por contravenção penal de exercício ilegal de profissão ou atividade, à pena de prestação pecuniária, cumprida 2 anos e 9 meses antes da prática do crime objeto do processo.",
+      "comando": "À vista das citadas anotações, é correto afirmar que:",
+      "alternativas": {
+        "A": "ambas as anotações geram reincidência, sendo possível a\\nconcessão de suspensão condicional da pena privativa de\\nliberdade aplicada, caso esta não supere os 2 anos e sejam\\nfavoráveis ao réu as circunstâncias judiciais;",
+        "B": "ambas as anotações geram reincidência, não sendo possível a\\nconcessão de suspensão condicional da pena privativa de\\nliberdade aplicada, mesmo que esta não supere os 2 anos e\\nsejam favoráveis ao réu as circunstâncias judiciais;",
+        "C": "somente a anotação número 1 gera reincidência, sendo\\npossível a concessão de suspensão condicional da pena\\nprivativa de liberdade aplicada, caso esta não supere os\\n2 anos e sejam favoráveis ao réu as circunstâncias judiciais;",
+        "D": "somente a anotação número 1 gera reincidência, não sendo\\npossível a concessão de suspensão condicional da pena\\nprivativa de liberdade aplicada, mesmo que esta não supere\\nos 2 anos e sejam favoráveis ao réu as circunstâncias judiciais;",
+        "E": "nenhuma das anotações gera reincidência, sendo possível a\\nconcessão de suspensão condicional da pena privativa de\\nliberdade aplicada, caso esta não supere os 2 anos e sejam\\nfavoráveis ao réu as circunstâncias judiciais."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "somente a anotação número 1 gera reincidência, sendo\\npossível a concessão de suspensão condicional da pena\\nprivativa de liberdade aplicada, caso esta não supere os\\n2 anos e sejam favoráveis ao réu as circunstâncias judiciais;",
+    "fundamento_resposta": "A condenação por crime, mesmo só a multa, gera reincidência no prazo legal; contravenção anterior não gera reincidência para crime posterior. A multa anterior não impede o sursis.",
+    "fontes": [
+      "CP:63,64,77 §1"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5203",
+      "caminho": "Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes",
+      "extras_ids": [
+        "5207"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0225",
+    "questao": {
+      "id": "Q0225",
+      "enunciado": "A partir das disposições legais e da jurisprudência dos tribunais superiores acerca de temas relacionados à execução penal, julgue o item a seguir.\n\nPedro foi denunciado pela prática de latrocínio e, embora tenha alegado em seu interrogatório que estava a negócios em outra cidade no dia e na hora do fato descrito na denúncia, ele foi condenado. A defesa interpôs recurso de apelação ao tribunal de justiça, com fundamento na insuficiência probatória, porém a corte estadual manteve na íntegra a condenação. O STJ, sem fazer qualquer incursão no mérito, não conheceu do recurso especial defensivo, com fundamento no enunciado da sua Súmula n.º\n\n7. Após o trânsito em julgado da condenação, a defesa produziu, em juízo, prova nova que comprovava cabalmente o álibi de Pedro. Nessa situação, é do STJ a competência para processamento e julgamento da ação de revisão criminal com vistas à absolvição de Pedro, pois, de acordo com a Constituição Federal de 1988, cabem àquela corte as revisões criminais de seus próprios julgados.",
+      "comando": "Julgue o item a seguir.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "Como o STJ não examinou o mérito da condenação, a revisão compete ao tribunal de justiça que proferiu a decisão condenatória de mérito, e não ao STJ apenas por ter inadmitido o especial.",
+    "fontes": [
+      "CF:105 I e",
+      "CPP:624"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5478",
+      "caminho": "Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal",
+      "extras_ids": [
+        "5484"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  },
+  {
+    "id": "Q0226",
+    "questao": {
+      "id": "Q0226",
+      "enunciado": "A lei nº 13.964/19, popularmente conhecida como Pacote Anticrime, introduziu no Código de Processo Penal disciplina acerca do procedimento da cadeia de custódia. De acordo com o que dispõe o código, assinale a alternativa INCORRETA.",
+      "comando": "Assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "A": "A etapa de reconhecimento consiste no ato\\nde distinguir um elemento como de\\npotencial interesse para a produção da\\nprova pericial.",
+        "B": "O armazenamento é o procedimento\\nreferente à guarda, em condições\\nadequadas, do material a ser processado,\\nguardado para realização de contraperícia,\\ndescartado ou transportado, com vinculação\\nao número do laudo correspondente.",
+        "C": "O recebimento é ato formal de transferência\\nda posse do vestígio, que deve ser documentado com, no mínimo, informações\\nreferentes ao número de procedimento e\\nunidade de polícia judiciária relacionada,\\nlocal de origem, nome de quem transportou\\no vestígio, código de rastreamento,\\nnatureza do exame, tipo do vestígio,\\nprotocolo, assinatura e identificação de\\nquem o recebeu.",
+        "D": "A coleta dos vestígios deverá ser realizada\\nexclusivamente por perito oficial, que dará o\\nencaminhamento necessário para a central\\nde custódia, salvo quando for necessária a\\nrealização de exames complementares.",
+        "E": "O transporte consiste no ato de transferir o\\nvestígio de um local para o outro, utilizando\\nas condições adequadas (embalagens,\\nveículos, temperatura, entre outras), de\\nmodo a garantir a manutenção de suas\\ncaracterísticas originais, bem como o\\ncontrole de sua posse."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "A coleta dos vestígios deverá ser realizada\\nexclusivamente por perito oficial, que dará o\\nencaminhamento necessário para a central\\nde custódia, salvo quando for necessária a\\nrealização de exames complementares.",
+    "fundamento_resposta": "A coleta deve ser realizada preferencialmente, e não exclusivamente, por perito oficial. As demais opções reproduzem etapas da cadeia de custódia.",
+    "fontes": [
+      "CPP:158-B,158-C"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5544",
+      "caminho": "Processo Penal > Provas em Espécies > Cadeia de Custódia",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0227",
+    "questao": {
+      "id": "Q0227",
+      "enunciado": "Analise as seguintes situações hipotéticas, e assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Viriato amordaça Gezilda, para que ela não grite por socorro. Em seguida, pratica conjunção carnal\\ncom ela, sem perceber que a vítima está se engasgando devido à mordaça utilizada por ele. Gezilda,\\nque é maior de idade e capaz, morre sufocada. Viriato deverá responder por estupro e homicídio\\nculposo, em concurso material.",
+        "B": "Zezão aborda a vítima Vitinha, maior de idade e capaz, em via pública, arrasta-a para um terreno\\nabandonado. Ao perceber que será estuprada, Vitinha entra em luta corporal com Zezão e acaba\\nsendo morta, porque Zezão efetuou um disparo, empregando uma arma de fogo que levava\\nconsigo. Em seguida, Zezão realiza atos sexuais com Vitinha. Nessa hipótese, Zezão responderá\\ntão somente pelos crimes de estupro e homicídio qualificado, em concurso material.",
+        "C": "Beraldo aborda a vítima Zequinha, 11 anos de idade, em via pública, levando-o para um edifício\\nem construção, oferecendo a ele dinheiro e doces, para que fizesse sexo oral em Beraldo. Após o\\nato, com medo de ser identificado, Beraldo mata Zequinha com uma pedrada na cabeça. Beraldo\\ndeverá responder pelo crime de estupro de vulnerável, qualificado pela morte de Zequinha.",
+        "D": "Tiburcio, imputável, tio de Adalgisa, 09 anos de idade, em uma ocasião em que foi visitar a irmã,\\nmãe da menor, aproveitou-se de um momento em que esteve sozinho com Adalgisa, tirou a roupa\\nda menina, pedindo que fizesse poses sensuais, fotografando-a em tal condição. No mesmo dia,\\nporém, mais tarde, oferecendo a ela doces, fez com que praticasse sexo oral nele. Tibúrcio\\nresponderá pela prática de estupro de vulnerável, em concurso material com o crime previsto no\\nartigo 240 do Estatuto da Criança e do Adolescente, ambos os delitos em suas formas majoradas\\npela condição de ser tio da menor.",
+        "E": "Tyrapele, cirurgião plástico, anestesiou a paciente Suzi, 25 anos e, em seguida, praticou ato\\nlibidinoso diverso da conjunção carnal com ela, aproveitando-se de que Suzi estava inconsciente e\\nsem condições de oferecer resistência. Nesse caso, praticou o crime denominado violação sexual\\nmediante fraude."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Tiburcio, imputável, tio de Adalgisa, 09 anos de idade, em uma ocasião em que foi visitar a irmã,\\nmãe da menor, aproveitou-se de um momento em que esteve sozinho com Adalgisa, tirou a roupa\\nda menina, pedindo que fizesse poses sensuais, fotografando-a em tal condição. No mesmo dia,\\nporém, mais tarde, oferecendo a ela doces, fez com que praticasse sexo oral nele. Tibúrcio\\nresponderá pela prática de estupro de vulnerável, em concurso material com o crime previsto no\\nartigo 240 do Estatuto da Criança e do Adolescente, ambos os delitos em suas formas majoradas\\npela condição de ser tio da menor.",
+    "fundamento_resposta": "Fotografar cena pornográfica com criança e, em momento autônomo, praticar sexo oral com ela configura concurso com estupro de vulnerável. O parentesco de tio incide nas majorantes próprias previstas em cada diploma.",
+    "fontes": [
+      "CP:217-A,226 II",
+      "ECA:240 §2 III"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5103",
+      "caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": [
+        "4709",
+        "5067"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0228",
+    "questao": {
+      "id": "Q0228",
+      "enunciado": "Se o defensor de um condenado preso entender que ele faz jus ao livramento condicional, deverá:",
+      "comando": "Indique o procedimento que o defensor deve seguir nesse caso.",
+      "alternativas": {
+        "A": "Solicitar ao Tribunal, mediante a\\nimpetração de habeas corpus;",
+        "B": "Solicitar ao Tribunal, mediante a\\npropositura de Revisão Criminal;",
+        "C": "Solicitar ao Juiz da Execução, mediante\\nAgravo em Execução;",
+        "D": "Solicitar ao Juiz da Execução, mediante\\npetição."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Solicitar ao Juiz da Execução, mediante\\npetição.",
+    "fundamento_resposta": "O pedido inicial de livramento condicional é formulado por petição ao juízo da execução; agravo em execução pressupõe decisão judicial impugnável.",
+    "fontes": [
+      "LEP:66 III e,131,197"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4703",
+      "caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "extras_ids": [
+        "5208"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0229",
+    "questao": {
+      "id": "Q0229",
+      "enunciado": "Assinale a opção incorreta acerca da prisão no processo penal.",
+      "comando": "",
+      "alternativas": {
+        "A": "A recaptura do réu evadido não depende de prévia ordem judicial e poderá ser efetuada por qualquer pessoa.",
+        "B": "Havendo consentimento do morador, o mandado de prisão poderá ser cumprido em domicílio durante a noite.",
+        "C": "Entre as hipóteses legais de decretação da prisão preventiva estão a garantia da ordem pública, a conveniência da instrução criminal e o clamor público.",
+        "D": "Em geral, a prisão especial somente poderá ser concedida durante o processo ou inquérito policial, cessando o benefício após o trânsito em julgado.",
+        "E": "A prisão temporária não pode ser decretada de ofício pelo juiz, que terá o prazo de 24 horas, a partir do recebimento do requerimento das partes, para decidir fundamentadamente."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Entre as hipóteses legais de decretação da prisão preventiva estão a garantia da ordem pública, a conveniência da instrução criminal e o clamor público.",
+    "fundamento_resposta": "Clamor público isolado não é fundamento legal autônomo de prisão preventiva. A cautelar exige os requisitos do art. 312 e fundamentação concreta.",
+    "fontes": [
+      "CPP:312,313",
+      "L7960:2 §2"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5519",
+      "caminho": "Processo Penal > Prisões em Espécie > Prisão Preventiva",
+      "extras_ids": [
+        "5517"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0230",
+    "questao": {
+      "id": "Q0230",
+      "enunciado": "Assinale a opção correta em relação às causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança.",
+      "comando": "",
+      "alternativas": {
+        "A": "Em relação à embriaguez não acidental, o CP adotou a teoria da actio libera in causa, devendo ser considerado o momento da prática delituosa e não o da ingestão da substância, para aferir a culpabilidade do agente.",
+        "B": "No erro de proibição indireto, o agente tem perfeita noção da realidade, mas avalia de forma equivocada os limites da norma autorizadora. Tal erro, se escusável, isenta-o de pena; se inescusável, concede-lhe o direito a redução da pena de um sexto a um terço.",
+        "C": "No ordenamento jurídico brasileiro, a natureza jurídica do concurso de pessoas é justificada pela adoção da teoria monista, na qual inexistem desvios subjetivos de conduta.",
+        "D": "Segundo a teoria finalista, a pena tem a dupla função de punir o criminoso e prevenir a prática do crime pela reeducação e pela intimidação coletiva.",
+        "E": "A medida de segurança possui finalidade preventiva e visa ao tratamento dos inimputáveis que demonstrarem, pela prática delitiva, potencialidade para novas ações danosas, razão pela qual não se aplicam os princípios da irretroatividade da lei penal mais grave e da anterioridade a essa espécie de sanção penal."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "No erro de proibição indireto, o agente tem perfeita noção da realidade, mas avalia de forma equivocada os limites da norma autorizadora. Tal erro, se escusável, isenta-o de pena; se inescusável, concede-lhe o direito a redução da pena de um sexto a um terço.",
+    "fundamento_resposta": "Erro sobre existência ou limites de uma autorização jurídica é erro de proibição indireto: se inevitável, isenta; se evitável, reduz a pena entre um sexto e um terço.",
+    "fontes": [
+      "CP:21"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5214",
+      "caminho": "Penal > Teoria do Crime: Culpabilidade > Erro de Proibição",
+      "extras_ids": [
+        "5217"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0231",
+    "questao": {
+      "id": "Q0231",
+      "enunciado": "Aquele que pratica conduta descrita no tipo penal do delito de tráfico de drogas, mas em erro sobre elemento constitutivo do tipo, ou seja, em hipótese de erro de tipo essencial poderá",
+      "comando": "",
+      "alternativas": {
+        "A": "alegar atipicidade da conduta.",
+        "B": "responder pela modalidade culposa do delito.",
+        "C": "ser isento de pena.",
+        "D": "ter a pena diminuída com base em causa especial de diminuição de pena.",
+        "E": "alegar excludente de ilicitude da conduta."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "alegar atipicidade da conduta.",
+    "fundamento_resposta": "Erro sobre elementar exclui dolo. Como não existe modalidade culposa de tráfico, a conduta não realiza esse crime, sem presumir que realize outro tipo.",
+    "fontes": [
+      "CP:20",
+      "L11343:33"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5224",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "extras_ids": [
+        "4708"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0232",
+    "questao": {
+      "id": "Q0232",
+      "enunciado": "Sobre os crimes contra a Administração da Justiça, previstos no Código Penal, assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Dar causa a ação de improbidade administrativa, imputando a alguém ato improbo de que sabe inocente, valendo-se de nome suposto, em tese, caracteriza o crime de denunciação caluniosa.",
+        "B": "O crime de exercício arbitrário das próprias razões, previsto no artigo 345, do CP, somente se procede mediante queixa.",
+        "C": "Oferecer dinheiro a testemunha para fazer afirmação falsa em depoimento, em tese, caracteriza o crime de coação no curso do processo, previsto no artigo 344, do CP.",
+        "D": "O crime de exploração de prestígio (art. 357, do CP) é próprio, podendo ser praticado apenas pelos sujeitos previstos no tipo penal.",
+        "E": "O crime de favorecimento pessoal caracteriza-se pelo auxílio prestado a autor de crime, a fim de que ele escape da ação das autoridades públicas, desde que o crime praticado seja punido com reclusão."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Dar causa a ação de improbidade administrativa, imputando a alguém ato improbo de que sabe inocente, valendo-se de nome suposto, em tese, caracteriza o crime de denunciação caluniosa.",
+    "fundamento_resposta": "A denunciação caluniosa compreende provocar ação de improbidade contra pessoa sabidamente inocente; usar nome suposto aumenta a pena. As outras opções restringem ou confundem tipos.",
+    "fontes": [
+      "CP:339 §1,343 a345,348,357"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5080",
+      "caminho": "Penal > Dos Crimes Contra a Administração Judicial > Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0233",
+    "questao": {
+      "id": "Q0233",
+      "enunciado": "Sobre a desistência voluntária e o arrependimento eficaz, assinale a alternativa correta:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "o agente que, voluntariamente, impede que o resultado do crime se produza não responde pelos seus atos, porque incide na hipótese de desistência voluntária;",
+        "B": "o agente que, voluntariamente, desiste de prosseguir na execução do crime, não responde pelos atos praticados, desde que tais atos não configurem, isoladamente, crime ou contravenção penal, sendo o caso de desistência voluntária;",
+        "C": "o agente que, voluntariamente, repare o dano ou restitua a coisa ao proprietário, até o recebimento da denúncia, não responde pelos seus atos, estando configurada a hipótese de arrependimento eficaz;",
+        "D": "considera-se arrependimento eficaz quando o agente, iniciada a execução do crime, por ineficácia absoluta do meio, não consegue consumá-lo, não respondendo pelos atos praticados;",
+        "E": "é caso de desistência voluntária quando o agente, por absoluta impropriedade do objeto, impede que o resultado se produza, só responde pelos atos já praticados."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "o agente que, voluntariamente, desiste de prosseguir na execução do crime, não responde pelos atos praticados, desde que tais atos não configurem, isoladamente, crime ou contravenção penal, sendo o caso de desistência voluntária;",
+    "fundamento_resposta": "Na desistência voluntária, o agente interrompe livremente a execução e responde apenas pelos atos já praticados que constituam infração autônoma.",
+    "fontes": [
+      "CP:15"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5178",
+      "caminho": "Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0234",
+    "questao": {
+      "id": "Q0234",
+      "enunciado": "A interdisciplinaridade é intrínseca à natureza da criminologia.\n\nDessa forma, a ciência que se afasta do estudo da criminologia é a",
+      "comando": "Complete a frase sobre a ciência que se afasta do estudo da criminologia.",
+      "alternativas": {
+        "A": "biologia. ",
+        "B": "hermenêutica dogmática. ",
+        "C": "psicologia. ",
+        "D": "estatística. ",
+        "E": "sociologia."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "hermenêutica dogmática. ",
+    "fundamento_resposta": "A criminologia emprega métodos empíricos e aportes de biologia, psicologia, sociologia e estatística; a interpretação dogmática normativa caracteriza outro modo de produção de conhecimento.",
+    "fontes": [
+      "CRIMINOLOGIA:método e interdisciplinaridade"
+    ],
+    "ressalvas": [
+      "A alternativa não significa ausência de diálogo entre criminologia e dogmática."
+    ],
+    "classificacao": {
+      "tema_id": "4382",
+      "caminho": "Criminologia > Teoria Geral da Criminologia > Métodos e funções da Criminologia",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0235",
+    "questao": {
+      "id": "Q0235",
+      "enunciado": "Caberá recurso, no sentido estrito, da decisão que concluir pela competência do juízo.\n\nNeste caso, o recurso, que poderá ser interposto no prazo de 5 (cinco) dias, não terá efeito suspensivo.",
+      "comando": "Neste caso, o recurso, que poderá ser interposto no prazo de 5 (cinco) dias, não terá efeito suspensivo.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "O art. 581, II, prevê recurso contra decisão que conclui pela incompetência, não pela competência do juízo. A troca dessa palavra invalida o enunciado.",
+    "fontes": [
+      "CPP:581 II,586,584"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5561",
+      "caminho": "Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE)",
+      "extras_ids": [
+        "5480"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0236",
+    "questao": {
+      "id": "Q0236",
+      "enunciado": "Analise as assertivas abaixo.\n\nI. A apresentação pelo acusado da prática de furto, no curso do processo, de prévio contrato de compra e venda que o identifique como o comprador da res furtiva, impõe ao magistrado a suspensão do processo criminal e o encaminhamento das partes ao juízo cível, por tratar-se de questão prejudicial de natureza heterogênea.\n\nII. Nos termos da lei processual penal, a restituição de bens apreendidos constitui ato privativo do juiz criminal competente, não podendo ser concedida pela autoridade policial, em razão da existência de efeitos extrapenais da sentença condenatia.\n\nIII. Segundo o entendimento pacífico do Supremo Tribunal Federal, não podem subsistir condenações penais fundadas unicamente em prova produzida na fase do inquérito policial, sob pena de grave afronta às garantias constitucionais do contraditório e da ampla defesa.\n\nIV. O acusado, embora preso, tem o direito de comparecer, de assistir e de presenciar, sob pena de nulidade absoluta, os atos processuais, notadamente aqueles que se produzem na fase de instrução do processo penal.",
+      "comando": "Está correto APENAS o que se afirma em:",
+      "alternativas": {
+        "A": "I; III e IV.\n",
+        "B": "I e II.\n",
+        "C": "III e IV.\n",
+        "D": "II e III.\n",
+        "E": "I; II e IV."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "I não impõe suspensão obrigatória por simples contrato; II erra porque a autoridade policial pode restituir nas hipóteses legais. III expressa a vedação à condenação só por elementos investigativos, ressalvadas provas legais excepcionais. IV torna absoluta uma nulidade que exige exame de prejuízo.",
+    "fontes": [
+      "CPP:93,120,155,563"
+    ],
+    "ressalvas": [
+      "C é a resposta provável de formulação antiga. À luz da exigência atual de prejuízo e das exceções probatórias, não fixo uma alternativa sem ressalvas decisivas."
+    ],
+    "classificacao": {
+      "tema_id": "5582",
+      "caminho": "Processo Penal > Sistemas e Princípios Processuais Penais > Princípios do Processo Penal",
+      "extras_ids": [
+        "5592",
+        "5491",
+        "5495"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0237",
+    "questao": {
+      "id": "Q0237",
+      "enunciado": "Qual a diferença entre desistência voluntária e arrependimento eficaz?",
+      "comando": "Responda qual é a diferença entre desistência voluntária e arrependimento eficaz.",
+      "alternativas": {
+        "A": "Na desistência voluntária o que ocorre é a desistência no prosseguimento dos atos executórios do crime, feita de modo voluntário, respondendo o agente somente pelo que praticou. No arrependimento eficaz a desistência ocorre entre o término dos atos executórios e a consumação. O agente, neste caso, já fez tudo o que podia para atingir o resultado, mas resolve interferir para evitar a sua concretização.",
+        "B": "Entre a desistência voluntária e o arrependimento eficaz, em verdade, não há nenhuma diferença, porquanto em ambas as situações o que se busca é impedir o resultado.",
+        "C": "A diferença entre a desistência voluntária e o arrependimento eficaz está em que, na primeira, o agente é impedido de consumar o delito, já no arrependimento eficaz a consumação não ocorre porque o próprio agente a impede.",
+        "D": "A diferença entre a desistência voluntária e o arrependimento eficaz reside no fato de que, na desistência voluntária, o agente não chega a iniciar a execução do delito. Já no arrependimento eficaz a execução iniciada é interrompida, impedindo-se a consumação do delito.",
+        "E": "A diferença entre a desistência voluntária e o arrependimento eficaz está em que, na primeira, a execução do delito é interrompida por circunstâncias alheias ao domínio do agente. Já no arrependimento eficaz o delito não se consuma em razão da impropriedade dos meios de execução."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Na desistência voluntária o que ocorre é a desistência no prosseguimento dos atos executórios do crime, feita de modo voluntário, respondendo o agente somente pelo que praticou. No arrependimento eficaz a desistência ocorre entre o término dos atos executórios e a consumação. O agente, neste caso, já fez tudo o que podia para atingir o resultado, mas resolve interferir para evitar a sua concretização.",
+    "fundamento_resposta": "Na desistência o agente deixa de prosseguir na execução ainda não esgotada; no arrependimento eficaz, já realizados os atos executórios, age para impedir efetivamente a consumação.",
+    "fontes": [
+      "CP:15"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5178",
+      "caminho": "Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0238",
+    "questao": {
+      "id": "Q0238",
+      "enunciado": "Será exigido o reforço da fiança quando for inovada a classificação do delito, nos termos do Código de Processo Penal.",
+      "comando": "Indique quando será exigido o reforço da fiança conforme o Código de Processo Penal.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "O art. 340, III, contempla reforço quando inovada a classificação do delito; também há reforço por insuficiência inicialmente fixada ou depreciação dos bens caucionados.",
+    "fontes": [
+      "CPP:340"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5523",
+      "caminho": "Processo Penal > Prisões em Espécie > Liberdade Provisória",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0239",
+    "questao": {
+      "id": "Q0239",
+      "enunciado": "Analise a opção CORRETA.",
+      "comando": "",
+      "alternativas": {
+        "A": "São circunstâncias que sempre atenuam a pena, ser o agente menor de 21 (vinte e um) anos ou maior de 70 (setenta) anos, na data do fato.\n",
+        "B": "A pena poderá ser ainda atenuada em razão de circunstância relevante, anterior ou posterior ao crime, desde que prevista expressamente em lei.\n",
+        "C": "Quando, por acidente ou erro no uso dos meios de execução, o agente, ao invés de atingir a pessoa que pretendia ofender, atinge pessoa diversa, responde como se tivesse praticado o crime contra aquela. No caso de ser também atingida a pessoa que o agente pretendia ofender, aplica-se a regra do concurso material, descrita no artigo 69 do Estatuto Repressivo.\n",
+        "D": "No que se refere a suspensão condicional da pena, artigo 77, e parágrafos, do Código Penal, pode-se dizer que o legislador criou dois tipos de suspensão, quais sejam, a simples, consistente na aplicação das condições de prestação de serviços à comunidade ou limitação de final de semana (artigo 78, § 1º, CP); e a especial, consistente na aplicação das condições de proibição de frequentar determinados lugares; proibição de ausentar-se da comarca na qual reside, sem autorização do Juiz; comparecimento pessoal e obrigatório a Juízo, mensalmente, para informar e justificar suas atividades (artigo 78, § 2º, CP).\n"
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "No que se refere a suspensão condicional da pena, artigo 77, e parágrafos, do Código Penal, pode-se dizer que o legislador criou dois tipos de suspensão, quais sejam, a simples, consistente na aplicação das condições de prestação de serviços à comunidade ou limitação de final de semana (artigo 78, § 1º, CP); e a especial, consistente na aplicação das condições de proibição de frequentar determinados lugares; proibição de ausentar-se da comarca na qual reside, sem autorização do Juiz; comparecimento pessoal e obrigatório a Juízo, mensalmente, para informar e justificar suas atividades (artigo 78, § 2º, CP).\n",
+    "fundamento_resposta": "O sursis simples sujeita o condenado a prestação de serviços ou limitação de fim de semana no primeiro ano; o especial admite as condições cumulativas do art. 78, §2º, satisfeitos seus requisitos.",
+    "fontes": [
+      "CP:77,78"
+    ],
+    "ressalvas": [
+      "Há também formas etária e humanitária: a opção descreve a divisão quanto às condições, sem esgotar todas as classificações."
+    ],
+    "classificacao": {
+      "tema_id": "5207",
+      "caminho": "Penal > Teoria da Pena > Suspensão Condicional da Pena",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0240",
+    "questao": {
+      "id": "Q0240",
+      "enunciado": "Pedro, que estava indiciado por crime de roubo, teve sua prisão decretada pelo juiz da comarca de Miracema-RJ em 08 de agosto de 2011, uma segunda-feira, sendo preso provisoriamente no mesmo dia, enquanto ainda estava sendo investigado.\n\nTerminado o inquérito, o delegado, no último dia do prazo determinado em lei, fez logo cedo a remessa a juízo.\n\nO juiz, no mesmo dia em que recebeu os autos, tendo-se em conta que era um dia útil, deu vista pessoal ao promotor.\n\nConsiderando-se o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em:",
+      "comando": "Considerando o prazo legal para o promotor oferecer a denúncia, calcule o prazo total desde a prisão até a oferta da denúncia contra Pedro.",
+      "alternativas": {
+        "A": "15\\tdias;\n",
+        "B": "10\\tdias;\n",
+        "C": "12\\tdias;\n",
+        "D": "14\\tdias;\\t\n",
+        "E": "07 dias"
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "15\\tdias;\n",
+    "fundamento_resposta": "No regime de prazos do enunciado de 2011, o inquérito de investigado preso tem dez dias e o MP dispõe de cinco para denunciar, total nominal de quinze dias.",
+    "fontes": [
+      "CPP:10,46"
+    ],
+    "ressalvas": [
+      "Situação expressamente datada; contagem considera os marcos próprios da prisão e da vista ao MP, sem dilações excepcionais."
+    ],
+    "classificacao": {
+      "tema_id": "5500",
+      "caminho": "Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial",
+      "extras_ids": [
+        "5473"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0241",
+    "questao": {
+      "id": "Q0241",
+      "enunciado": "Analise os itens abaixo sobre a teoria do erro.\n\nI. O erro de tipo essencial incide sobre elementar do tipo quando a falsa percepção de realidade faz com que o agente desconheça a natureza criminosa do fato.\n\nII. O erro sobre objeto é irrelevante para o Direito Penal, já que o agente, mesmo quando realiza a conduta que recai sobre coisa alheia, responderá criminalmente pelo crime cometido nos limites do tipo penal.\n\nIII. O aberratio ictus é modalidade de erro acidental que não exclui a tipicidade, sopesando ao agente uma responsabilização em âmbito penal.\n\nIV. O aberratio criminis é o desvio na execução do delito e recai sobre o objeto jurídico do crime, sendo que sua verificação não exclui a tipicidade.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Apenas I e III estão corretos",
+        "B": "Apenas II e IV estão corretos",
+        "C": "Apenas II e III estão incorretos",
+        "D": "Apenas III e IV estão incorretos",
+        "E": "I, II, III e IV estão corretos"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "I, II, III e IV estão corretos",
+    "fundamento_resposta": "Os itens distinguem erro essencial sobre elementar e erros acidentais sobre objeto, pessoa atingida e resultado. Estes não excluem automaticamente a responsabilidade penal.",
+    "fontes": [
+      "CP:20,73,74"
+    ],
+    "ressalvas": [
+      "I deve ser lido como desconhecimento fático de elementar, não simples desconhecimento da proibição; IV exige observar a responsabilidade culposa quando legalmente prevista."
+    ],
+    "classificacao": {
+      "tema_id": "5224",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0242",
+    "questao": {
+      "id": "Q0242",
+      "enunciado": "Sobre os recursos em processo penal, assinale a alternativa CORRETA:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O recurso extraordinário e o recurso\\nespecial serão processados e julgados no\\nSupremo Tribunal Federal e no Superior\\nTribunal de Justiça na forma estabelecida\\npor leis especiais e pela lei processual\\ncivil, que revogaram os regimentos\\ninternos das Cortes Superiores no tocante\\na ambos os recursos.",
+        "B": "Quando o acusado não tiver condições de\\nnomear defensor, ser-lhe-á nomeado\\ndefensor público ou dativo, sendo que, em\\nqualquer hipótese, haverá prazo em dobro\\npara recorrer.",
+        "C": "Em nome dos princípios da\\nunirrecorribilidade e da preclusão lógica,\\nquando houver a interposição de dois\\nrecursos pela mesma parte contra a mesma\\ndecisão, será conhecido o recurso\\napresentado em segundo lugar.",
+        "D": "O recurso ordinário constitucional é\\ninterposto no tribunal recorrido, mas o\\nexame de sua admissibilidade ocorrerá\\nsomente no tribunal que irá julgá-lo.",
+        "E": "Caberá reexame necessário quando da\\ndecisão de deferimento de reabilitação\\ncriminal, da denegação e da concessão de\\nhabeas corpus e da sentença que arquiva\\ninquérito policial ou absolutória por\\ncrimes contra a economia popular ou\\nsaúde pública."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "O recurso ordinário constitucional é\\ninterposto no tribunal recorrido, mas o\\nexame de sua admissibilidade ocorrerá\\nsomente no tribunal que irá julgá-lo.",
+    "fundamento_resposta": "No recurso ordinário constitucional, a interposição ocorre no tribunal de origem e o juízo de admissibilidade compete à corte superior destinatária. As outras opções ampliam prazos ou hipóteses indevidamente.",
+    "fontes": [
+      "CPC:1027,1028",
+      "CPP:574,580 a583"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5514",
+      "caminho": "Processo Penal > Parte Geral dos Recursos > Pressupostos Objetivos e Subjetivos de Admissibilidade Recursal",
+      "extras_ids": [
+        "5560"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0243",
+    "questao": {
+      "id": "Q0243",
+      "enunciado": "Antônio, durante a madrugada, subtrai, com o emprego de chave falsa, o automóvel de Pedro.\n\nDepois de oferecida a denúncia pela prática de crime de furto qualificado, mas antes do seu recebimento, por ato voluntário de Antônio, o automóvel furtado é devolvido à vítima.\n\nNesse caso, pode-se afirmar a ocorrência de",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "arrependimento posterior.",
+        "B": "desistência voluntária.",
+        "C": "arrependimento eficaz.",
+        "D": "circunstância atenuante.",
+        "E": "causa de extinção da punibilidade."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "arrependimento posterior.",
+    "fundamento_resposta": "Furto é crime sem violência ou grave ameaça; restituição voluntária antes do recebimento da denúncia caracteriza arrependimento posterior e permite redução de um a dois terços.",
+    "fontes": [
+      "CP:16"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5178",
+      "caminho": "Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",
+      "extras_ids": [
+        "5159"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0244",
+    "questao": {
+      "id": "Q0244",
+      "enunciado": "O agente que exigir vantagem indevida, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, responderá pelo crime de:",
+      "comando": "",
+      "alternativas": {
+        "A": "peculato.",
+        "B": "concussão.",
+        "C": "corrupção passiva.",
+        "D": "corrupção ativa."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "concussão.",
+    "fundamento_resposta": "Exigir vantagem indevida em razão da função descreve concussão, ainda que a exigência ocorra fora do exercício ou antes de assumir a função.",
+    "fontes": [
+      "CP:316"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5091",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0245",
+    "questao": {
+      "id": "Q0245",
+      "enunciado": "Assinale a opção correta a respeito da prescrição.",
+      "comando": "",
+      "alternativas": {
+        "A": "O empresário que, com a finalidade de obter vantagem indevida, praticar ato fraudulento do qual resulte prejuízo aos credores terá sua conduta tipificada como crime na Lei de Falências. Nesse caso, a prescrição do crime começará a correr do dia da homologação do plano de recuperação extrajudicial.",
+        "B": "A decretação da falência do devedor suspende a prescrição cuja contagem tenha-se iniciado com a concessão da recuperação judicial.",
+        "C": "As penas aplicáveis aos usuários de substâncias entorpecentes prescrevem em quatro anos, contados do início da execução da sanção penal.",
+        "D": "Depois de transitada em julgado a sentença penal condenatória, reinicia-se a contagem do prazo prescricional, que continua correndo durante o tempo em que o condenado estiver preso por outro motivo.",
+        "E": "Na hipótese de um condenado fugir faltando seis meses para o cumprimento da pena, a contagem da prescrição da pretensão executória recomeçará a partir da data da fuga. Nesse caso, a prescrição ocorrerá no lapso temporal correspondente à pena integralmente aplicada."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "O empresário que, com a finalidade de obter vantagem indevida, praticar ato fraudulento do qual resulte prejuízo aos credores terá sua conduta tipificada como crime na Lei de Falências. Nesse caso, a prescrição do crime começará a correr do dia da homologação do plano de recuperação extrajudicial.",
+    "fundamento_resposta": "Nos crimes falimentares, o termo inicial segue a decretação de falência, concessão de recuperação judicial ou homologação da recuperação extrajudicial, conforme o caso. Falência superveniente interrompe, não suspende.",
+    "fontes": [
+      "L11101:168,182",
+      "L11343:30",
+      "CP:112,113,116"
+    ],
+    "ressalvas": [
+      "A hipótese pressupõe sentença homologatória pertinente ao delito falimentar descrito; a lei especial não aparece em nó próprio da árvore."
+    ],
+    "classificacao": {
+      "tema_id": "5187",
+      "caminho": "Penal > Prescrição > Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0246",
+    "questao": {
+      "id": "Q0246",
+      "enunciado": "No procedimento do júri, presentes indícios da autoria e prova da materialidade, se ao término da instrução do sumário de culpa ficar provado tecnicamente que o acusado é semi-imputável, o juiz deverá:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "pronunciá-lo.",
+        "B": "absolvê-lo sumariamente.",
+        "C": "impronunciá-lo.",
+        "D": "remeter os autos para o juízo comum para a prolação da sentença.",
+        "E": "declarar nulo o processo e remeter os autos para o juízo comum."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "pronunciá-lo.",
+    "fundamento_resposta": "Semi-imputabilidade não exclui a culpabilidade nem é hipótese de absolvição sumária. Com materialidade e indícios suficientes, a causa é submetida ao júri por pronúncia.",
+    "fontes": [
+      "CPP:413,415",
+      "CP:26 parágrafo único"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5527",
+      "caminho": "Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",
+      "extras_ids": [
+        "5213"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0247",
+    "questao": {
+      "id": "Q0247",
+      "enunciado": "Com a Lei Anticrime surge o instituto do Acordo de Não Persecução Penal (ANPP), cujo cumprimento integral traduz-se em uma causa de extinção da punibilidade.\n\nTodavia, o marco legal do ANPP veda a aplicação do acordo nos crimes de violência doméstica e nos crimes de racismo, o que encontra respaldo, incontroverso, na doutrina e na jurisprudência.\n\nÉ preciso lembrar, também, que não deve ser oferecido o acordo se no momento da lavratura do auto de prisão em flagrante o preso não confessar circunstanciadamente.\n\nAdemais, a referida lei, no que tange ao acordo de não persecução penal, não pode ser aplicado a fatos ocorridos antes de sua vigência.",
+      "comando": "\n",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "A ausência de confissão no flagrante não impede negociação posterior; o ANPP pode alcançar fatos anteriores segundo os marcos fixados pela jurisprudência. As proibições legais e jurisprudenciais não tornam verdadeiras essas outras afirmações.",
+    "fontes": [
+      "CPP:28-A",
+      "STF_ANPP:retroatividade e confissão"
+    ],
+    "ressalvas": [
+      "A questão reúne afirmações distintas; basta a falsidade das restrições de tempo e da confissão para julgá-la errada."
+    ],
+    "classificacao": {
+      "tema_id": "5502",
+      "caminho": "Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0248",
+    "questao": {
+      "id": "Q0248",
+      "enunciado": "Considere os seguintes tipos penais praticados contra a Administração Pública: Tipos penais 1. Desobediência 2. Resistência 3. Corrupção passiva 4. Corrupção ativa 5. Concussão Ação a. Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem. b. Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida. c. Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio. d. Desobedecer a ordem legal de funcionário público. e. Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício. A correta correlação entre o tipo penal e a sua ação é:",
+      "comando": "",
+      "alternativas": {
+        "A": "1-d - 2-a - 3-b - 4-e - 5-c.",
+        "B": "1-a - 2-c - 3-d - 4-e - 5-b.",
+        "C": "1-d - 2-c - 3-a - 4-e - 5-b.",
+        "D": "1-d - 2-b - 3-a - 4-e - 5-c.",
+        "E": "1e - 2-c - 3-a - 4-d - 5-b."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "1-d - 2-c - 3-a - 4-e - 5-b.",
+    "fundamento_resposta": "A sequência correta é desobediência: d; resistência: c; corrupção passiva: a; corrupção ativa: e; concussão: b.",
+    "fontes": [
+      "CP:316,317,329,330,333"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5087",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": [
+        "5100",
+        "5092",
+        "5093",
+        "5091"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0249",
+    "questao": {
+      "id": "Q0249",
+      "enunciado": "O Estatuto Processual Penal prevê que o juiz não poderá exercer jurisdição no processo em que:\n\na) tiver funcionado seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou colateral até o terceiro grau, inclusive, como defensor ou advogado, órgão do Ministério Público, autoridade policial, auxiliar da justiça ou perito;\n\nb) ele próprio houver desempenhado qualquer dessas funções ou servido como testemunha;\n\nc) tiver funcionado como juiz de outra instância, pronunciando-se, de fato ou de direito, sobre a questão;\n\nd) ele próprio ou seu cônjuge ou parente, consanguíneo ou afim em linha reta ou colateral até o terceiro grau, inclusive, for parte ou diretamente interessado no feito.\n\nNos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consanguíneos ou afins, em linha reta ou colateral até o terceiro grau, inclusive.",
+      "comando": "Processo Penal",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "Os itens reproduzem os impedimentos do art. 252 e a vedação de atuação conjunta de parentes até terceiro grau nos juízos coletivos do art. 253.",
+    "fontes": [
+      "CPP:252,253"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5492",
+      "caminho": "Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0250",
+    "questao": {
+      "id": "Q0250",
+      "enunciado": "Sobre a determinação do regime inicial de cumprimento de pena, é correto afirmar que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "em virtude do princípio da individualização da pena, a primeira fase de aplicação da pena não pode influenciar na\\ndeterminação do regime.",
+        "B": "a pena de detenção deve ser cumprida em regime aberto ou semiaberto, salvo caso de reincidência.",
+        "C": "segundo a jurisprudência dominante do STJ, a reincidência impede o cumprimento de pena em regime semiaberto,\\nindependentemente da quantidade de pena e das circunstâncias judiciais.",
+        "D": "em caso de condenação por crime de extorsão mediante sequestro consumado, é possível a aplicação do regime\\nsemiaberto.",
+        "E": "por ser cometido com violência ou grave ameaça contra a pessoa, a condenação por roubo consumado impede a\\naplicação do regime aberto."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "em caso de condenação por crime de extorsão mediante sequestro consumado, é possível a aplicação do regime\\nsemiaberto.",
+    "fundamento_resposta": "A hediondez não impõe automaticamente regime fechado. Extorsão mediante sequestro com pena no patamar legal de oito anos pode admitir semiaberto, conforme primariedade e circunstâncias.",
+    "fontes": [
+      "CP:33,159",
+      "STF_REGIME_HEDIONDO:HC111840",
+      "STJ_SUMULAS:269,440"
+    ],
+    "ressalvas": [
+      "O enunciado não especifica a modalidade qualificada nem circunstâncias desfavoráveis; a resposta afirma possibilidade, não direito automático."
+    ],
+    "classificacao": {
+      "tema_id": "5201",
+      "caminho": "Penal > Teoria da Pena > Penas Privativas de Liberdade",
+      "extras_ids": [
+        "4693"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  }
+]

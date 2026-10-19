@@ -1,0 +1,32 @@
+{
+  "versao": "v2",
+  "createdAt": "2026-10-17T16:46:32.747505-03:00",
+  "data_corte": "2026-10-16",
+  "hashes_entrada": {
+    "questoes": "6815aad02f1577fb7f3c68bb76cd56b3b23df5a0bf951d3422a5ce7d5e492573",
+    "taxonomia": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+  },
+  "sha256_referencia": "7b69291c6a26c387a6f5606ee7b7032f2c383b8073afdab0e487ea6cac0951e8",
+  "origem": {
+    "versao": "v1",
+    "sha256_referencia": "80781a0b18d6f3d2aa380e939dd9e7c30e7dcd0c3b60e4e6a1654c9e8b973696"
+  },
+  "estatisticas": {
+    "total": 359,
+    "novamente_revisadas_no_recorte": 50,
+    "analise_v1_herdada_fora_do_recorte": 309,
+    "fontes_com_verificacao_v2": 22,
+    "fontes_pendentes": 51,
+    "com_ressalva": 142,
+    "mudancas_de_tema": 5,
+    "mudancas_de_alternativa": 1,
+    "chamadas_openrouter": 0
+  },
+  "exposicao": "Todos os 50 itens do recorte já vistos em desenvolvimento; não são teste independente.",
+  "escopo": "359 registros; revisão legislativa/editorial nova dos 50 do piloto; vinculação documental e limites herdados nos demais. Não é certificação jurídica integral.",
+  "artefatos": {
+    "fontes.json": "0190d96d089c7f02b8a4d82138021c613f5caae7b29dd9c681a62bc31595e3e3",
+    "fontes-v2.json": "680e44a67569e9c2823f9e1eafebf8f9be043d286466157bd22ca3974e7a1308",
+    "alteracoes.json": "af10872101c1f5cec9f0ffe495063fb420ab4fd8de78786ebea46c52485f990a"
+  }
+}

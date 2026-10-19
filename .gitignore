@@ -1,0 +1,13 @@
+node_modules/
+.tools/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+output/
+tmp/
+*.log
+__pycache__/
+.venv/
+referencias/livros/

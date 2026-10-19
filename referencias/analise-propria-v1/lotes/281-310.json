@@ -1,0 +1,1023 @@
+[
+  {
+    "id": "Q0281",
+    "questao": {
+      "id": "Q0281",
+      "enunciado": "Dadas as assertivas abaixo, assinalar a alternativa correta.\n\nI. Pode o juiz autorizar escutas telefônicas em caso de delitos apenados com detenção ou reclusão, nos crimes em que a lei taxativamente as admita.\n\nII. A quebra do sigilo bancário ou fiscal não exclui a proteção constitucional ao segredo, então a cargo dos operadores do processo, sob pena de responsabilização administrativa e criminal.\n\nIII. Admite-se o sigilo dos autos frente ao investigado e seu advogado, mesmo ante ordem de prisão ou de apreensão de bens, no interesse predominante das investigações.\n\nIV. O Ministério Público pode determinar a devassa de correspondências, quando relacionadas ao crime investigado.",
+      "comando": "Assinalar a alternativa correta.",
+      "alternativas": {
+        "A": "Está correta apenas a assertiva I.",
+        "B": "Está correta apenas a assertiva II.",
+        "C": "Estão corretas apenas as assertivas III e IV.",
+        "D": "Estão incorretas todas as assertivas."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Está correta apenas a assertiva II.",
+    "fundamento_resposta": "A quebra judicial de sigilo não torna os dados públicos: o dever de reserva transfere-se aos responsáveis pelo processo. Interceptação autônoma não é autorizada para crime punido apenas com detenção, e diligência sigilosa não elimina acesso defensivo aos elementos documentados.",
+    "fontes": [
+      "L9296:2 III,8",
+      "CF:5 XII",
+      "SV:14"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5555",
+      "caminho": "Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos",
+      "extras_ids": [
+        "5595"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0282",
+    "questao": {
+      "id": "Q0282",
+      "enunciado": "Assinale a alternativa correta:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Nos termos do § 1º do art. 19 da Lei n.º 11.340/06, as medidas protetivas de urgência poderão ser concedidas de imediato, observada a prévia manifestação do representante do Ministério Público.",
+        "B": "O ato de comercializar emblemas que utilizem a cruz suástica ou gamada, ainda que sem a finalidade de divulgação do nazismo, constitui o crime previsto no art. 20, § 1º, da Lei n.º 7.716/89.",
+        "C": "Ceder, gratuitamente, arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar, não tipifica a conduta penal de que trata o art. 14 do Estatuto do Desarmamento.",
+        "D": "O art. 28 da Lei n.º 10.826/03 veda, em qualquer hipótese, ao menor de 25 anos, a aquisição de arma de fogo.",
+        "E": "Constatada a prática de violência doméstica e familiar contra a mulher, segundo as disposições expressas na Lei n.º 11.340/06, o juiz poderá aplicar, de imediato, ao agressor, em conjunto ou separadamente, entre as medidas protetivas de urgência, a de restrição ou suspensão de visitas aos dependentes menores, nesta hipótese ouvida a equipe de atendimento multidisciplinar ou serviço similar."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Constatada a prática de violência doméstica e familiar contra a mulher, segundo as disposições expressas na Lei n.º 11.340/06, o juiz poderá aplicar, de imediato, ao agressor, em conjunto ou separadamente, entre as medidas protetivas de urgência, a de restrição ou suspensão de visitas aos dependentes menores, nesta hipótese ouvida a equipe de atendimento multidisciplinar ou serviço similar.",
+    "fundamento_resposta": "O art. 22, IV, autoriza restrição ou suspensão de visitas a dependentes menores, ouvida a equipe multidisciplinar ou serviço similar. As demais opções suprimem finalidade típica ou exceções legais.",
+    "fontes": [
+      "L11340:19 §1,22 IV",
+      "L7716:20 §1",
+      "L10826:14,28"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4704",
+      "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0283",
+    "questao": {
+      "id": "Q0283",
+      "enunciado": "Antonio acabou de sofrer hipoteca, determinada por juiz criminal, de imóvel que recebeu de seu pai. Nesse caso,",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "se houver sentença condenatória transitada em julgado, o próprio juiz criminal determinará a avaliação e a venda do bem em leilão público.",
+        "B": "os embargos são o recurso cabível contra a decretação da hipoteca.",
+        "C": "a medida é cabível, ainda que Antonio seja terceiro, não investigado.",
+        "D": "o imóvel, de origem lícita, não poderia ter sido hipotecado.",
+        "E": "Antonio poderia ter oferecido caução em dinheiro para que o juiz deixasse de mandar proceder à inscrição da hipoteca legal."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Antonio poderia ter oferecido caução em dinheiro para que o juiz deixasse de mandar proceder à inscrição da hipoteca legal.",
+    "fundamento_resposta": "O juiz pode dispensar a inscrição de hipoteca legal se houver caução suficiente em dinheiro ou títulos da dívida pública. A medida pode alcançar patrimônio lícito do responsável.",
+    "fontes": [
+      "CPP:134 a143,135 §6"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5496",
+      "caminho": "Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0284",
+    "questao": {
+      "id": "Q0284",
+      "enunciado": "No dia 2 de fevereiro de 2022, por volta das 21h, Bernardo, sargento da Marinha, ao se aproximar com seu veículo automotor da porta da garagem de entrada de seu condomínio localizado no bairro do Mutondo, em São Gonçalo, avistou um homem se aproximando rapidamente e mexendo no interior de uma mochila. Bernardo, acreditando ser um assalto, saca sua arma de fogo e, de dentro do próprio carro, efetua disparo, atingindo o alvo pretendido. No entanto, Bernardo acabou disparando e atingindo seu vizinho, Thiago, que retornava do trabalho. Bernardo, percebendo que ele estava imobilizado no chão, em razão de ter sido alvejado, imediatamente o conduz para o hospital mais próximo. No entanto, inobstante a prestação imediata de socorro, Thiago falece. Nesse caminho, funcionários do hospital acionam a Polícia Militar, que prende Bernardo em flagrante, conduzindo-o para a Delegacia de Polícia para as formalidades legais. Em razão dos fatos narrados, após audiência de custódia, o flagrante é convertido em preventiva, e o Ministério Público apresenta exordial acusatória perante o juízo do Tribunal do Júri, classificando o fato no delito de homicídio. Na fase instrutória da judicium accusationis foram apresentadas as filmagens das câmeras de segurança do condomínio que gravaram as imagens dos fatos, indicando o exato momento em que Thiago efetivamente se aproxima do condomínio manuseando sua mochila e o instante em que é atingido pelo disparo que partiu do interior do veículo automotor de Bernardo. Em seu interrogatório, Bernardo alegou que, ao observar a aproximação de um homem manuseando algo dentro de uma mochila, pelo adiantar da hora, atirou antes mesmo de sair do carro, pois acreditou que seria vítima de latrocínio, temendo, inclusive, por sua própria vida. Finda a primeira fase do júri, após manifestação do Ministério Público pela pronúncia nos moldes da denúncia, os autos vão para a defesa técnica se manifestar.\n\nConsiderando a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa:",
+      "comando": "Considerando a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa.",
+      "alternativas": {
+        "A": "real, devendo ser, dessa forma, excluída em seu favor a\\nilicitude, motivo pelo qual a defesa de Bernardo deverá pedir\\nsua absolvição sumária com arrimo no Art. 415, inciso III, do\\nCódigo de Processo Penal;",
+        "B": " putativa, devendo ser, dessa forma, observada a teoria\\nlimitada da culpabilidade, consoante dispõe a exposição de\\nmotivos da Parte Geral do Código Penal (item 17). No caso\\nexposto, temos um erro que recaiu sobre a existência da\\ncausa de justificação, o que conduz a observância do\\ndenominado erro de proibição indireto inevitável, restando\\nafastada a culpabilidade, motivo pelo qual a defesa de\\nBernardo deverá pedir sua absolvição sumária;",
+        "C": "putativa, devendo ser, dessa forma, observada a teoria\\nextremada da culpabilidade, consoante dispõe a exposição de\\nmotivos da Parte Geral do Código Penal (item 17). No caso\\nexposto, temos um erro que recaiu sobre a existência da\\ncausa de justificação, o que conduz à observância do\\ndenominado erro de proibição direto inescusável, restando\\nafastada a culpabilidade, motivo pelo qual a defesa de\\nBernardo deverá pedir sua absolvição sumária;",
+        "D": "putativa, devendo ser, dessa forma, observada a teoria\\nlimitada da culpabilidade, consoante dispõe a exposição de\\nmotivos da Parte Geral do Código Penal (item 17). No caso\\nexposto, temos um erro que recaiu sobre pressuposto fático,\\no que conduz à observância do denominado erro de tipo\\neclético escusável, restando afastada a tipicidade, motivo\\npelo qual a defesa de Bernardo deverá pedir sua absolvição\\nsumária; ",
+        "E": "putativa, devendo ser, dessa forma, observada a teoria\\nlimitada da culpabilidade, consoante dispõe a exposição de\\nmotivos da Parte Geral do Código Penal (item 17). No caso\\nexposto, temos um erro que recaiu sobre os limites da causa\\nde justificação, o que conduz à observância do denominado\\nerro de proibição indireto invencível, restando afastada a\\nculpabilidade, motivo pelo qual a defesa de Bernardo deverá\\npedir sua absolvição sumária. "
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "putativa, devendo ser, dessa forma, observada a teoria\\nlimitada da culpabilidade, consoante dispõe a exposição de\\nmotivos da Parte Geral do Código Penal (item 17). No caso\\nexposto, temos um erro que recaiu sobre pressuposto fático,\\no que conduz à observância do denominado erro de tipo\\neclético escusável, restando afastada a tipicidade, motivo\\npelo qual a defesa de Bernardo deverá pedir sua absolvição\\nsumária; ",
+    "fundamento_resposta": "O erro descrito recai sobre pressuposto fático de uma suposta agressão, configurando legítima defesa putativa por erro de tipo permissivo, segundo a teoria limitada. A absolvição sumária é a tese defensiva se demonstrada a escusabilidade.",
+    "fontes": [
+      "CP:20 §1,25",
+      "CPP:415 IV"
+    ],
+    "ressalvas": [
+      "Não se pode concluir inevitabilidade só pelo temor ou pelas imagens narradas. A alternativa D é a que identifica a espécie de erro; o acolhimento da tese depende da prova de sua justificação."
+    ],
+    "classificacao": {
+      "tema_id": "5224",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "extras_ids": [
+        "5231",
+        "5527"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0285",
+    "questao": {
+      "id": "Q0285",
+      "enunciado": "Constitui uma das características do direito penal do inimigo",
+      "comando": "Complete a frase com a característica correta do direito penal do inimigo.",
+      "alternativas": {
+        "A": "a legislação diferenciada.",
+        "B": "a punição a partir de atos executórios.",
+        "C": "a não utilização de medidas de segurança.",
+        "D": "a observância das garantias processuais penais.",
+        "E": "o abrandamento das penas na antecipação da tutela penal."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "a legislação diferenciada.",
+    "fundamento_resposta": "O direito penal do inimigo propõe tratamento normativo diferenciado, antecipação da tutela, maior rigor e redução de garantias para sujeitos considerados perigosos.",
+    "fontes": [
+      "JAKOBS:direito penal do inimigo"
+    ],
+    "ressalvas": [
+      "Descrição doutrinária, sem endosso e sem conferência autoral individual."
+    ],
+    "classificacao": {
+      "tema_id": "4376",
+      "caminho": "Criminologia > Política Criminal > Direito Penal do Inimigo",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0286",
+    "questao": {
+      "id": "Q0286",
+      "enunciado": "No cálculo da pena:",
+      "comando": "No cálculo da pena:",
+      "alternativas": {
+        "A": "A redução pela menoridade do acusado deve incidir após o acréscimo pelo crime continuado.",
+        "B": "O aumento pelo concurso formal deve preceder a diminuição pela confissão espontânea.",
+        "C": "O acréscimo pela má antecedência do acusado deve incidir antes da redução pela tentativa.",
+        "D": "O aumento pela reincidência deve ser posterior à redução pela participação de menor importância."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "O acréscimo pela má antecedência do acusado deve incidir antes da redução pela tentativa.",
+    "fundamento_resposta": "Antecedentes integram a pena-base, primeira fase, que precede a redução por tentativa, causa da terceira fase. Atenuantes e reincidência incidem na segunda.",
+    "fontes": [
+      "CP:59,68,14 parágrafo único"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5202",
+      "caminho": "Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais",
+      "extras_ids": [
+        "5204"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0287",
+    "questao": {
+      "id": "Q0287",
+      "enunciado": "Segundo o Código Penal, é excludente de ilicitude",
+      "comando": "Complete a frase com exemplos de excludentes de ilicitude segundo o Código Penal.",
+      "alternativas": {
+        "A": "erro de proibição",
+        "B": "estado de necessidade",
+        "C": "doença mental",
+        "D": "embriaguez acidental",
+        "E": "menoridade penal"
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "estado de necessidade",
+    "fundamento_resposta": "Estado de necessidade é causa de exclusão de ilicitude do art. 23, I. As demais hipóteses listadas dizem respeito principalmente à culpabilidade.",
+    "fontes": [
+      "CP:23,24"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5230",
+      "caminho": "Penal > Teoria do Crime: Ilicitude > Estado de Necessidade",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0288",
+    "questao": {
+      "id": "Q0288",
+      "enunciado": "I. Não há o crime de estupro, nos termos do Código Penal, na relação sexual consensual praticada com maior de 14 e menor de 18 anos.\n\nII. É pública, condicionada a representação, a ação penal por crime de sonegação fiscal.\n\nIII. O baixo grau de instrução ou escolaridade do agente é causa atenuante de pena nos crimes praticados contra o meio ambiente.\n\nIV. No caso de concurso formal impróprio, como a conduta deriva de desígnios autônomos, a pena é aplicada pelo sistema da exasperação.\n\nV. Nomear, admitir ou designar servidor contra expressa disposição de lei é crime de responsabilidade de prefeitos e vereadores.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as proposições estão corretas.",
+        "B": "Somente as proposições II, III e IV estão corretas.",
+        "C": "Somente as proposições I e III estão corretas.",
+        "D": "Somente a proposição II, IV e V estão corretas.",
+        "E": "Somente as proposições I, III e V estão corretas."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Somente as proposições I e III estão corretas.",
+    "fundamento_resposta": "I e III são corretas: consentimento válido de adolescente maior de quatorze afasta o estupro comum, e baixa escolaridade atenua crime ambiental. II erra a ação; IV troca cumulação por exasperação; V atribui indistintamente a vereadores tipo previsto para prefeitos.",
+    "fontes": [
+      "CP:213,70",
+      "L9605:14 I",
+      "DL201:1 XIII"
+    ],
+    "ressalvas": [
+      "I pressupõe capacidade de consentimento, ausência de violência e outras vulnerabilidades; não afasta outros delitos sexuais."
+    ],
+    "classificacao": {
+      "tema_id": "5062",
+      "caminho": "Penal",
+      "extras_ids": [
+        "4688",
+        "5068",
+        "4695"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0289",
+    "questao": {
+      "id": "Q0289",
+      "enunciado": "“A Lei nº 11.340/2006 aporta em nosso ordenamento jurídico em resposta às graves violações de direitos sofridas pelas mulheres em situação de violência doméstica, às flagrantes desigualdades de gênero e à proteção ineficaz e incompleta dos instrumentos legais existentes anteriormente à edição deste diploma normativo. Neste enorme espaço de vácuo legislativo, a introdução da lei em questão significou verdadeira revolução em matéria de defesa dos direitos das mulheres, quebrando os paradigmas antes existentes, inserindo novos institutos e instaurando um modelo protetivo inteiramente inédito no ordenamento jurídico brasileiro” (STJ, REsp nº 2.070.863/MG, relator: Ministro Joel Ilan Paciornik, relator para acórdão: Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 13.11.2024, DJEN de 25.03.2025). De acordo com os aspectos processuais penais da violência doméstica e familiar contra a mulher, assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "O STJ, por meio da Terceira Seção, fixou a tese quanto ao Tema Repetitivo nº 1.186, de que: 1. a condição de gênero feminino é insuficiente para atrair a aplicabilidade da Lei Maria da Penha em casos de violência doméstica e familiar, prevalecendo sobre a questão etária. 2. a Lei Maria da Penha prevalece quando suas disposições conflitarem com as de estatutos específicos, como o da Criança e do Adolescente.",
+        "B": "Nos casos de violência contra a mulher praticados no âmbito doméstico e familiar, é possível a fixação de valor mínimo indenizatório a título de dano moral, independentemente de pedido expresso da acusação ou da parte ofendida e de instrução probatória, segundo tese firmada quando do Tema Repetitivo nº 983, pelo STJ.",
+        "C": "Nos termos da Lei nº 11.340/2006, o nome da ofendida ficará sob sigilo nos processos em que se apuram crimes praticados no contexto de violência doméstica e familiar contra a mulher, abrangendo o sigilo do nome do autor do fato e os demais dados do processo.",
+        "D": "A concessão das medidas protetivas de urgência, de acordo com a Lei nº 11.340/2006, depende da tipificação penal da violência.",
+        "E": "O STJ definiu as seguintes teses quanto ao Tema Repetitivo nº 1.249: I – as medidas protetivas de urgência (MPUs) têm natureza jurídica de tutela inibitória e sua vigência não se subordina à existência (atual ou vindoura) de boletim de ocorrência, inquérito policial, processo cível ou criminal; II – a duração das MPU vincula-se à persistência da situação de risco à mulher, razão pela qual devem ser fixadas por prazo temporalmente indeterminado; III – eventual reconhecimento de causa de extinção de punibilidade, arquivamento do inquérito policial ou absolvição do acusado não origina, necessariamente, a extinção da medida protetiva de urgência, máxime pela possibilidade de persistência da situação de risco ensejadora da concessão da medida; IV – não se submetem a prazo obrigatório de revisão periódica, mas devem ser reavaliadas pelo magistrado, de ofício ou a pedido do interessado, quando constatado concretamente o esvaziamento da situação de risco. A revogação deve sempre ser precedida de contraditório, com as oitivas da vítima e do suposto agressor. Em caso de extinção da medida, a ofendida deve ser comunicada, nos termos do art. 21 da Lei nº 11.340/2006."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "O STJ definiu as seguintes teses quanto ao Tema Repetitivo nº 1.249: I – as medidas protetivas de urgência (MPUs) têm natureza jurídica de tutela inibitória e sua vigência não se subordina à existência (atual ou vindoura) de boletim de ocorrência, inquérito policial, processo cível ou criminal; II – a duração das MPU vincula-se à persistência da situação de risco à mulher, razão pela qual devem ser fixadas por prazo temporalmente indeterminado; III – eventual reconhecimento de causa de extinção de punibilidade, arquivamento do inquérito policial ou absolvição do acusado não origina, necessariamente, a extinção da medida protetiva de urgência, máxime pela possibilidade de persistência da situação de risco ensejadora da concessão da medida; IV – não se submetem a prazo obrigatório de revisão periódica, mas devem ser reavaliadas pelo magistrado, de ofício ou a pedido do interessado, quando constatado concretamente o esvaziamento da situação de risco. A revogação deve sempre ser precedida de contraditório, com as oitivas da vítima e do suposto agressor. Em caso de extinção da medida, a ofendida deve ser comunicada, nos termos do art. 21 da Lei nº 11.340/2006.",
+    "fundamento_resposta": "O Tema 1.249 estabelece natureza inibitória e duração vinculada ao risco, independência em relação à persecução e contraditório para revogação. As outras opções alteram requisitos ou o alcance do sigilo.",
+    "fontes": [
+      "L11340:17-A,19,21",
+      "STJ_MPU1249:teses repetitivas"
+    ],
+    "ressalvas": [
+      "Texto longo da alternativa é a tese fornecida no enunciado; a fundamentação aqui é síntese própria."
+    ],
+    "classificacao": {
+      "tema_id": "4704",
+      "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0290",
+    "questao": {
+      "id": "Q0290",
+      "enunciado": "No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa incorreta.",
+      "comando": "Assinale a alternativa incorreta.",
+      "alternativas": {
+        "A": "A ação penal relativa ao crime de lesão corporal\\ndolosa, em todas as suas modalidades, será\\npública incondicionada, já o crime de lesão\\nculposa, terá como correspondente a ação penal\\npública condicionada à representação da vítima\\nou de seu representante legal",
+        "B": "Na fase preliminar, a autoridade policial que\\ntomar conhecimento da ocorrência deverá lavrar\\ntermo circunstanciado e o encaminhar\\nimediatamente ao Juizado, com o autor do fato\\ne a vítima, providenciando as requisições dos\\nexames periciais necessários",
+        "C": "A citação será pessoal e far-se-á no próprio\\nJuizado, sempre que possível, ou por mandado",
+        "D": "Os atos processuais serão públicos e poderão\\nrealizar-se em horário noturno, conforme\\ndispuserem as normas de organização judiciária",
+        "E": "Todas as provas serão produzidas na audiência\\nde instrução e julgamento, podendo o Juiz limitar\\nou excluir as que considerar excessivas,\\nimpertinentes ou protelatórias"
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "A ação penal relativa ao crime de lesão corporal\\ndolosa, em todas as suas modalidades, será\\npública incondicionada, já o crime de lesão\\nculposa, terá como correspondente a ação penal\\npública condicionada à representação da vítima\\nou de seu representante legal",
+    "fundamento_resposta": "O art. 88 exige representação para lesões leves e culposas, ressalvados regimes especiais como violência doméstica. É falsa a afirmação de incondicionamento de toda lesão dolosa.",
+    "fontes": [
+      "L9099:62,66,69,81,88"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4701",
+      "caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "extras_ids": [
+        "5471"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0291",
+    "questao": {
+      "id": "Q0291",
+      "enunciado": "Quando se tratar de crimes relativos ao tráfico de drogas, o prazo para a conclusão do inquérito policial é de 30 dias, se o indiciado estiver preso e de 90 dias, se estiver solto, podendo ser duplicados, mediante pedido justificado da autoridade de polícia judiciária.",
+      "comando": "Explique os prazos para a conclusão do inquérito policial em crimes relativos ao tráfico de drogas.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A Lei de Drogas prevê trinta dias com indiciado preso e noventa solto, duplicáveis pelo juiz, ouvido o MP, mediante pedido justificado da autoridade policial.",
+    "fontes": [
+      "L11343:51"
+    ],
+    "ressalvas": [
+      "A duplicação depende de decisão judicial, não apenas do pedido."
+    ],
+    "classificacao": {
+      "tema_id": "4708",
+      "caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": [
+        "5500"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0292",
+    "questao": {
+      "id": "Q0292",
+      "enunciado": "Considerando a atual conjuntura da política criminal brasileira, é correto afirmar que",
+      "comando": "",
+      "alternativas": {
+        "A": "a eficiência do trabalho policial pode ser verificado pelo baixo índice de letalidade e o alto índice de prisões efetuadas.",
+        "B": "o processo de encarceramento em massa no Brasil alavancou-se no período de vigência da Constituição Federal de 1988,\\napesar desta ter como seus fundamentos a cidadania e a dignidade da pessoa humana.",
+        "C": "a construção de presídios tem sido uma política eficaz de redução do encarceramento em massa.",
+        "D": "o crescimento da população prisional é isonômico no aspecto de gênero.",
+        "E": "a proteção de direitos humanos tem sido o principal resultado da política criminal brasileira, uma vez que o aumento da\\npopulação prisional demonstra que os bens jurídicos estão sendo cada vez mais protegidos por meio do direito penal."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "o processo de encarceramento em massa no Brasil alavancou-se no período de vigência da Constituição Federal de 1988,\\napesar desta ter como seus fundamentos a cidadania e a dignidade da pessoa humana.",
+    "fundamento_resposta": "O crescimento do encarceramento brasileiro ocorreu também na vigência da Constituição de 1988; a afirmação identifica a tensão entre expansão punitiva e os fundamentos de cidadania e dignidade.",
+    "fontes": [
+      "CF:1 II,III",
+      "SISDEPEN:série histórica prisional"
+    ],
+    "ressalvas": [
+      "A alternativa envolve afirmação empírica; série oficial ainda não conferida nesta análise, portanto não é medição própria."
+    ],
+    "classificacao": {
+      "tema_id": "4374",
+      "caminho": "Criminologia > Política Criminal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0293",
+    "questao": {
+      "id": "Q0293",
+      "enunciado": "Lucas e Serafim, primários, foram acusados, em conjunto, de praticarem um furto mediante fraude ocorrido em setembro de 2015. Recebida a denúncia em 2016, a sentença foi prolatada em 2018, absolvendo Lucas e condenando Serafim. Interposto recurso por Serafim e pelo Ministério Público, o tribunal deu provimento à apelação do Ministério Público para condenar Lucas, igualmente, conforme acórdão publicado em 2021, tendo havido certidão de trânsito em julgado no mesmo ano. Ambos restaram condenados a uma pena de 2 anos de reclusão, substituída por restritiva de direitos de prestação de serviços à comunidade e prestação pecuniária, além de multa cumulativa. Lucas iniciou o cumprimento da pena restritiva e, após cumprido pouco mais da metade das penas, interrompeu o cumprimento em 2022, sendo apurado saldo para conversão em 11 meses de reclusão. Serafim participou da audiência em 2023, tendo sido encaminhado à instituição para o cumprimento das penas; porém, não se apresentou ao local onde deveria prestar os serviços à comunidade e não pagou a prestação pecuniária ou a multa. Sobre os fatos, é correto afirmar que:",
+      "comando": "",
+      "alternativas": {
+        "A": "a pena de multa cumulativamente aplicada aos condenados encontra-se prescrita;",
+        "B": "a pena de Lucas foi atingida pela prescrição da pretensão executória em 2025;",
+        "C": "a pena de Serafim foi atingida pela prescrição da pretensão executória em 2025;",
+        "D": "ambos se beneficiam da prescrição da pretensão punitiva pela pena concretamente aplicada;",
+        "E": "nenhum dos dois condenados se beneficia de qualquer prescrição."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "A condenação de coautor pode comunicar interrupção aos demais. Para Lucas, há precedentes que equiparam abandono de restritiva à evasão, calculando pelo saldo, e decisões restritivas sobre conversão. Para Serafim, foram encontradas linhas divergentes sobre audiência admonitória e início efetivo da execução.",
+    "fontes": [
+      "CP:109,112,113,117 §§1,2",
+      "STJ_PRD_PRESCRICAO:HC201200239012; acórdãos201502433156 e202201369980"
+    ],
+    "ressalvas": [
+      "B é defensável pela linha favorável sobre saldo inferior a um ano; C depende da tese sobre audiência admonitória. Não há datas completas nem uniformidade conferida suficiente para alternativa única."
+    ],
+    "classificacao": {
+      "tema_id": "5189",
+      "caminho": "Penal > Prescrição > Prescrição da Pretensão Executória",
+      "extras_ids": [
+        "5188"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0294",
+    "questao": {
+      "id": "Q0294",
+      "enunciado": "A respeito da culpabilidade, assinale a opção correta.",
+      "comando": "Assinale a opção correta.",
+      "alternativas": {
+        "A": "Para haver exclusão ou diminuição da culpabilidade, a perda ou redução da capacidade de entendimento do caráter ilícito do fato causada pelo uso de entorpecente não deve decorrer necessariamente de caso fortuito ou força maior, visto que a dependência química, por si só, afasta ou reduz a responsabilização penal.",
+        "B": "Segundo a jurisprudência do STJ, no delito de omissão de recolhimento de contribuição previdenciária, a impossibilidade de repasse das contribuições previdenciárias em decorrência de crise financeira da empresa não constitui, nem sequer em tese, causa supralegal de exclusão da culpabilidade (inexigibilidade de conduta diversa)",
+        "C": "Conforme a teoria normativa pura, a culpabilidade não se exaure na relação de desconformidade substancial entre ação e ordenamento jurídico, mas fundamenta a reprovação pessoal contra o autor, no sentido de este não ter omitido a ação antijurídica quando ainda podia.",
+        "D": "De acordo com a teoria limitada da culpabilidade, não se faz distinção entre erro de tipo (o que recai sobre a situação de fato) e erro de proibição (o que recai sobre os limites autorizadores da norma), sendo todas essas situações consideradas erro de proibição.",
+        "E": "Nas correntes preventivas da culpabilidade, a teoria da motivação normativa tem como característica básica fundar a culpabilidade na liberdade de autodeterminação, excluída a capacidade de motivação normativa do sujeito."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Conforme a teoria normativa pura, a culpabilidade não se exaure na relação de desconformidade substancial entre ação e ordenamento jurídico, mas fundamenta a reprovação pessoal contra o autor, no sentido de este não ter omitido a ação antijurídica quando ainda podia.",
+    "fundamento_resposta": "A teoria normativa pura situa a culpabilidade no juízo pessoal de reprovação por realizar o injusto quando era exigível agir conforme o direito, distinguindo-a da mera ilicitude.",
+    "fontes": [
+      "CP:21,22,26",
+      "DOUTRINA_CULPABILIDADE:teoria normativa pura"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5212",
+      "caminho": "Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0295",
+    "questao": {
+      "id": "Q0295",
+      "enunciado": "Quanto à fluência dos prazos no processo penal, assinale a opção correta.",
+      "comando": "Assinale a opção correta.",
+      "alternativas": {
+        "A": "Para a defensoria pública, os prazos contam-se da data do\\nrecebimento dos autos, com vista naquele órgão, e não da\\naposição no processo do ciente de seu membro.",
+        "B": "O prazo para a interposição de apelação pelo assistente de\\nacusação, habilitado ou não, será de quinze dias a contar do\\ntérmino do prazo do MP.",
+        "C": "Tanto para o MP quanto para a defensoria pública, os prazos\\ncontam-se em dobro.",
+        "D": "Notadamente nos prazos de comunicação, a regra é a fluência\\ndo prazo a partir da juntada do mandado.",
+        "E": "Para efeitos de contagem de prazo, considera-se intimado\\no representante do MP por meio de publicação na imprensa\\noficial ou por via de mandado judicial."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Para a defensoria pública, os prazos contam-se da data do\\nrecebimento dos autos, com vista naquele órgão, e não da\\naposição no processo do ciente de seu membro.",
+    "fundamento_resposta": "O prazo da Defensoria inicia com a entrega dos autos para vista pessoal à instituição, e não com a posterior ciência individual do defensor. MP não recebe prazo em dobro automaticamente.",
+    "fontes": [
+      "LC80:44 I,128 I",
+      "STJ_PRAZO_DEFENSORIA:recebimento institucional"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5489",
+      "caminho": "Processo Penal > Comunicação dos Atos Processuais > Intimação e Contagem dos Prazos",
+      "extras_ids": [
+        "5514"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0296",
+    "questao": {
+      "id": "Q0296",
+      "enunciado": "Diversamente do que ocorre em relação ao processo civil, no processo penal não se admite que, em caso de morte da vítima, os familiares assumam o lugar dela, no pólo ativo da ação penal privada, para efeito de apresentação de queixa.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "O CPP permite sucessão do direito de queixa por cônjuge, ascendente, descendente ou irmão em caso de morte ou ausência judicialmente declarada do ofendido.",
+    "fontes": [
+      "CPP:31"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5472",
+      "caminho": "Processo Penal > Ação Penal > Ação Penal de Iniciativa Privada",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0297",
+    "questao": {
+      "id": "Q0297",
+      "enunciado": "O Direito Penal Econômico, em sentido estrito, é o conjunto de normas jurídico-penais que protegem a ordem socioeconômica.\n\nEsse ramo do Direito Penal visa à proteção da atividade econômica presente e desenvolvida na economia.\n\nOs crimes contra a ordem tributária e contra o sistema financeiro se amoldam nessa perspectiva.\n\nSobre eles é correto afirmar o seguinte:",
+      "comando": "Sobre eles é correto afirmar o seguinte:",
+      "alternativas": {
+        "A": "De acordo com a Lei 8137/90, o dia-multa será fixado pelo juiz em valor não inferior a 10 (dez)\\nnem superior a 300 (trezentos) Bônus do Tesouro Nacional.",
+        "B": "não se aplica o princípio da insignificância aos crimes contra a ordem tributária, pois o bem\\njurídico protegido é a higidez do Sistema Tributário Nacional.",
+        "C": "o crime contra a ordem tributária relacionado à conduta de falsificar ou alterar nota fiscal, fatura,\\nduplicata, nota de venda, ou qualquer outro documento relativo à operação tributável, é classificado\\ncomo crime formal, não exigindo a materialização do resultado para a sua consumação. ",
+        "D": "induzir ou manter em erro sócio, investidor ou repartição pública competente, relativamente a\\noperação ou situação financeira, sonegando-lhe informação ou prestando-a falsamente é crime com\\npena de reclusão de 2 (dois) a 6 (seis) anos ou multa.",
+        "E": "extingue-se a punibilidade dos crimes definidos na Lei 8137/90 quando o agente promover o\\npagamento do tributo, inclusive acessórios, antes do recebimento da denúncia. "
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "extingue-se a punibilidade dos crimes definidos na Lei 8137/90 quando o agente promover o\\npagamento do tributo, inclusive acessórios, antes do recebimento da denúncia. ",
+    "fundamento_resposta": "O pagamento integral do tributo e acessórios pode extinguir a punibilidade dos delitos tributários abrangidos pela legislação específica; o pagamento antes da denúncia está compreendido. Isso não se estende indistintamente a todo crime da Lei 8.137.",
+    "fontes": [
+      "L9430:83",
+      "L10684:9 §2",
+      "L8137:1,2"
+    ],
+    "ressalvas": [
+      "A redação de E é excessivamente geral quanto a todos os crimes da lei; adoto a leitura referente aos crimes tributários discutidos. Sem essa delimitação, não há alternativa inteiramente segura."
+    ],
+    "classificacao": {
+      "tema_id": "4695",
+      "caminho": "Direito Penal - Legislação Especial > Crimes Tributários",
+      "extras_ids": [
+        "4689"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0298",
+    "questao": {
+      "id": "Q0298",
+      "enunciado": "Os crimes contra as relações de consumo previstos na Lei n. 8.137/90 são punidos, apenas, na modalidade dolosa.",
+      "comando": "Analise a afirmativa sobre os crimes contra as relações de consumo previstos na Lei n. 8.137/90.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "O art. 7º, parágrafo único, prevê modalidade culposa para hipóteses específicas dos crimes contra relações de consumo. Portanto não são exclusivamente dolosos.",
+    "fontes": [
+      "L8137:7 parágrafo único"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4694",
+      "caminho": "Direito Penal - Legislação Especial > Crimes previstos no CDC",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0299",
+    "questao": {
+      "id": "Q0299",
+      "enunciado": "Assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "A criminologia crítica defende a análise individualizada da periculosidade do agente como direito inerente ao princípio do respeito à dignidade humana.",
+        "B": "A Escola positivista pregava a análise puramente objetiva do fato, deixando em segundo plano as características pessoais de seu autor.",
+        "C": "A teoria retributiva dos fins da pena foi desenvolvida a partir dos estudos de Lombroso e Garofalo, em meados do século XVIII.",
+        "D": "A teoria do labelling approach dispõe-se a estudar, dentre outros aspectos do sistema punitivo, os mecanismos de reação social ao delito e a influência destes na reprodução da criminalidade.",
+        "E": "A teoria finalista da ação é fruto da concepção positivista de livre-arbítrio, que entende o homem como ser determinado pelas circunstâncias sociais."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "A teoria do labelling approach dispõe-se a estudar, dentre outros aspectos do sistema punitivo, os mecanismos de reação social ao delito e a influência destes na reprodução da criminalidade.",
+    "fundamento_resposta": "O etiquetamento examina mecanismos de reação social e seus efeitos na construção e reprodução de trajetórias criminalizadas, diferentemente das explicações positivistas centradas no autor.",
+    "fontes": [
+      "CRIMINOLOGIA:labelling approach"
+    ],
+    "ressalvas": [
+      "Fonte doutrinária individual ainda não conferida."
+    ],
+    "classificacao": {
+      "tema_id": "4388",
+      "caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": [
+        "4378"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0300",
+    "questao": {
+      "id": "Q0300",
+      "enunciado": "Àquele que oculta uma arma de fogo utilizada por terceiro para a prática anterior de um roubo, consignando-se não haver qualquer vínculo de parentesco entre ambos, pode-se atribuir o crime de ______. Assinale a alternativa que preencha corretamente a lacuna.",
+      "comando": "",
+      "alternativas": {
+        "A": "favorecimento pessoal",
+        "B": "favorecimento real\n",
+        "C": "coautoria do crime de roubo",
+        "D": "participação do crime de roubo"
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "favorecimento pessoal",
+    "fundamento_resposta": "Sem ajuste prévio, ocultar o instrumento do roubo para ajudar seu autor a escapar da atuação das autoridades aponta para favorecimento pessoal, não participação anterior. Favorecimento real visa assegurar proveito do crime.",
+    "fontes": [
+      "CP:348,349"
+    ],
+    "ressalvas": [
+      "O enunciado não explicita a finalidade da ocultação; a classificação depende de que o propósito seja proteger o autor da persecução. Conferência jurisprudencial específica pendente."
+    ],
+    "classificacao": {
+      "tema_id": "5084",
+      "caminho": "Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0301",
+    "questao": {
+      "id": "Q0301",
+      "enunciado": "NÃO admite perdão judicial:",
+      "comando": "Complete a frase indicando os casos em que não se admite perdão judicial.",
+      "alternativas": {
+        "A": "a lesão corporal culposa causada na direção de veículo automotor.",
+        "B": "a utilização de meio de transporte sem recursos para efetuar o pagamento.",
+        "C": "a guarda doméstica de pássaro silvestre cuja espécie não é considerada ameaçada de extinção.",
+        "D": "a retorsão imediata à difamação, que consista em outra difamação."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "a retorsão imediata à difamação, que consista em outra difamação.",
+    "fundamento_resposta": "Retorsão imediata pode autorizar perdão na injúria, não na difamação. As outras opções contemplam hipóteses legalmente admitidas de perdão, observados seus requisitos.",
+    "fontes": [
+      "CP:140 §1 II,176 parágrafo único,129 §8",
+      "L9605:29 §2"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5197",
+      "caminho": "Penal > Punibilidade > Perdão Judicial",
+      "extras_ids": [
+        "5123"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0302",
+    "questao": {
+      "id": "Q0302",
+      "enunciado": "César é açougueiro e está trabalhando regulamente no freezer do açougue, quando uma pessoa, fugindo da Polícia, se esconde atrás de algumas peças de carne, sem que César tenha percebido. Ao terminar seu turno, cansado, César acaba jogando uma enorme faca em direção a um armário, momento em que a faca acaba por acertar fatalmente o fugitivo. Sobre a conduta de César, trata-se de caso de exclusão",
+      "comando": "",
+      "alternativas": {
+        "A": "do dolo por erro de tipo.",
+        "B": "da imputabilidade.",
+        "C": "da culpabilidade por inexigibilidade de conduta diversa.",
+        "D": "do dolo por erro de proibição.",
+        "E": "de ilicitude."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "do dolo por erro de tipo.",
+    "fundamento_resposta": "Desconhecer a presença de uma pessoa no local atingido recai sobre elemento fático do homicídio e exclui dolo. Eventual responsabilidade culposa depende de previsibilidade e violação do cuidado.",
+    "fontes": [
+      "CP:20,121 §3"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5224",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0303",
+    "questao": {
+      "id": "Q0303",
+      "enunciado": "Com relação à aplicação da lei penal, assinale a opção correta.",
+      "comando": "Assinale a opção correta.",
+      "alternativas": {
+        "A": "As frações de dia são computadas como um dia integral de pena nas penas privativas de liberdade e nas restritivas de direitos.",
+        "B": "O direito penal, quanto ao tempo do crime, considera praticado o crime no momento do seu resultado.",
+        "C": "A sentença estrangeira, quando a aplicação da lei brasileira produz as mesmas consequências, poderá ser homologada no Brasil para todos os efeitos, exceto para obrigar o condenado à reparação do dano.",
+        "D": "Ficam sujeitos à lei brasileira os crimes contra o patrimônio ou a fé pública do DF, de estado, de município, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo poder público, embora cometidos no estrangeiro, sendo o agente punido segundo a lei brasileira, ainda que absolvido no estrangeiro.",
+        "E": "Não é aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, ainda que achando-se aquelas em pouso no território nacional ou em vôo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Ficam sujeitos à lei brasileira os crimes contra o patrimônio ou a fé pública do DF, de estado, de município, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo poder público, embora cometidos no estrangeiro, sendo o agente punido segundo a lei brasileira, ainda que absolvido no estrangeiro.",
+    "fundamento_resposta": "O art. 7º, I, b, prevê extraterritorialidade incondicionada para crimes contra patrimônio ou fé pública dos entes e entidades listados, mesmo com absolvição no exterior.",
+    "fontes": [
+      "CP:7 I b,§1,8"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5182",
+      "caminho": "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0304",
+    "questao": {
+      "id": "Q0304",
+      "enunciado": "Em matéria de competência dos Juizados Especiais Criminais, de acordo com a Jurisprudência do Supremo Tribunal Federal,",
+      "comando": "",
+      "alternativas": {
+        "A": "é absoluta a competência dos Juizados Especiais Criminais, razão pela qual não se admite o deslocamento da competência, por regras de conexão ou continência, para o Juízo Comum ou Tribunal do Júri, no concurso de infrações penais de menor potencial ofensivo e comum.",
+        "B": "não se admite a proposta de transação penal se ficar comprovado ter sido o agente beneficiado anteriormente, no prazo de oito anos, pela aplicação de pena restritiva ou multa.",
+        "C": "na ação penal de iniciativa do ofendido no Jecrim não poderá ser oferecida queixa oral, em qualquer hipótese.",
+        "D": "os institutos despenalizadores previstos na Lei nº 9.099/1995 constituem garantia individual do acusado e têm de ser assegurados, quando cabíveis, independente do juízo no qual tramitam os processos.",
+        "E": "o não oferecimento da representação pelo ofendido na audiência preliminar implica decadência do direito."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "os institutos despenalizadores previstos na Lei nº 9.099/1995 constituem garantia individual do acusado e têm de ser assegurados, quando cabíveis, independente do juízo no qual tramitam os processos.",
+    "fundamento_resposta": "O deslocamento por conexão ou continência não elimina, quando cabíveis, composição civil e transação penal; a lei determina observância desses institutos no juízo comum ou júri.",
+    "fontes": [
+      "L9099:60 parágrafo único"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4701",
+      "caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "extras_ids": [
+        "5540"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0305",
+    "questao": {
+      "id": "Q0305",
+      "enunciado": "A ação penal pública é de iniciativa exclusiva do Ministério Público e tem por objetivo dar concretude ao jus puniendi estatal. Acerca dessa modalidade de ação penal, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O prazo para oferecimento da denúncia é de 5 (cinco)\\ndias, caso o acusado esteja preso, e de 20 (vinte) dias\\nse estiver em liberdade",
+        "B": "O Ministério Público poderá dispor da ação penal,\\npodendo dela desistir sempre que achar adequado à\\ndefesa da coletividade, independentemente do eventual\\ncrime praticado pelo acusado",
+        "C": "Quando do oferecimento da denúncia é imprescindível\\na qualificação do acusado",
+        "D": "O direito de representação somente poderá ser exercido\\npessoalmente, vedada a sua realização por meio de\\nprocurador",
+        "E": "Caberá ao Ministro da Justiça apresentar requisição\\npara o prosseguimento de ação penal pública nos casos\\nprevistos em lei em que se verifica o cometimento de\\ncrimes em face do Presidente da República. A requisição\\né ato administrativo irrevogável e não há prazo legal\\npara a sua apresentação"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Caberá ao Ministro da Justiça apresentar requisição\\npara o prosseguimento de ação penal pública nos casos\\nprevistos em lei em que se verifica o cometimento de\\ncrimes em face do Presidente da República. A requisição\\né ato administrativo irrevogável e não há prazo legal\\npara a sua apresentação",
+    "fundamento_resposta": "Nos casos legais de ofensa ao Presidente, a ação pode depender de requisição do Ministro da Justiça. A posição doutrinária usual a considera irrevogável e sem prazo decadencial específico, ressalvada a prescrição.",
+    "fontes": [
+      "CP:145 parágrafo único",
+      "CPP:24,25,41,42,46"
+    ],
+    "ressalvas": [
+      "Irrevogabilidade da requisição é questão doutrinária, diferentemente da representação. O verbo prosseguimento não torna a requisição garantia de oferecimento de denúncia."
+    ],
+    "classificacao": {
+      "tema_id": "5471",
+      "caminho": "Processo Penal > Ação Penal > Ação Penal Pública Condicionada",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0306",
+    "questao": {
+      "id": "Q0306",
+      "enunciado": "Sobre o crime de associação criminosa é correto afirmar que",
+      "comando": "",
+      "alternativas": {
+        "A": "demanda a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas com o\\nobjetivo de praticar crimes.",
+        "B": "exige a demonstração do elemento subjetivo especial consistente no ajuste prévio entre os membros com a finalidade\\nespecífica de cometer crimes indeterminados.",
+        "C": "tem caráter hediondo, a despeito de ter pena menor do que a associação para o tráfico, que não é equiparado ao\\nhediondo.",
+        "D": "exige para sua configuração o concurso de agentes e a prática de infrações penais cujas penas máximas sejam superiores\\na 4 (quatro) anos.",
+        "E": "admite a colaboração premiada com redução de até 1/3 da pena, desde que ao menos um agente com cargo político seja\\ndelatado."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "exige a demonstração do elemento subjetivo especial consistente no ajuste prévio entre os membros com a finalidade\\nespecífica de cometer crimes indeterminados.",
+    "fundamento_resposta": "A associação criminosa exige vínculo estável de três ou mais pessoas para cometer crimes indeterminados, com ajuste associativo que ultrapassa concurso ocasional. Não se confunde com organização criminosa.",
+    "fontes": [
+      "CP:288",
+      "L12850:1 §1"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5146",
+      "caminho": "Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública > Crimes Contra à Paz Pública",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0307",
+    "questao": {
+      "id": "Q0307",
+      "enunciado": "Determinado policial militar efetuou a prisão em flagrante de Luciano e o conduziu à delegacia de polícia. Lá, com o objetivo de fazer Luciano confessar a prática dos atos que ensejaram sua prisão, o policial responsável por seu interrogatório cobriu sua cabeça com um saco plástico e amarrou-o no seu pescoço, asfixiando-o. Como Luciano não confessou, o policial deixou-o trancado na sala de interrogatório durante várias horas, pendurado de cabeça para baixo, no escuro, período em que lhe dizia que, se ele não confessasse, seria morto. O delegado de polícia, ciente do que ocorria na sala de interrogatório, manteve-se inerte. Em depoimento posterior, Luciano afirmou que a conduta do policial lhe provocara intenso sofrimento físico e mental.\n\nConsiderando a situação hipotética acima e o disposto na Lei Federal n.º 9.455/1997, julgue o item subsequente.\n\nO delegado não pode ser considerado coautor ou partícipe da conduta do policial, pois o crime de tortura somente pode ser praticado de forma comissiva.",
+      "comando": "Julgue o item subsequente.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "A Lei de Tortura pune também quem se omite quando tinha dever de evitar ou apurar as condutas. É falsa a impossibilidade absoluta de responsabilidade por omissão.",
+    "fontes": [
+      "L9455:1 §2",
+      "CP:13 §2"
+    ],
+    "ressalvas": [
+      "O enquadramento como omissão própria ou participação por omissão depende dos fatos e do dever de garantidor; ambos refutam a afirmação absoluta."
+    ],
+    "classificacao": {
+      "tema_id": "4707",
+      "caminho": "Direito Penal - Legislação Especial > Tortura",
+      "extras_ids": [
+        "5223"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0308",
+    "questao": {
+      "id": "Q0308",
+      "enunciado": "Inquérito policial arquivado pelo Ministério Público por ausência de elementos suficientes de informação importa",
+      "comando": "",
+      "alternativas": {
+        "A": "coisa julgada material.",
+        "B": "ilegitimidade ad causam.",
+        "C": "ilegitimidade ad processum.",
+        "D": "ausência de justa causa processual em sentido estrito.",
+        "E": "prescrição da pretensão punitiva estatal."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "ausência de justa causa processual em sentido estrito.",
+    "fundamento_resposta": "Arquivamento por insuficiência de elementos evidencia ausência de justa causa naquele momento e não impede nova apuração com provas novas, em regra sem coisa julgada material.",
+    "fontes": [
+      "CPP:18,28",
+      "STF_SUMULAS:524"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5501",
+      "caminho": "Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial",
+      "extras_ids": [
+        "5467"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0309",
+    "questao": {
+      "id": "Q0309",
+      "enunciado": "Segundo o Artigo 61 da Lei nº 9.605/98 a pena para quem disseminar doença ou praga ou espécies que possam causar dano à agricultura, à pecuária, à fauna, à flora ou aos ecossistemas é de:",
+      "comando": "Complete a frase com a pena prevista no Artigo 61 da Lei nº 9.605/98.",
+      "alternativas": {
+        "A": "reclusão, de um a cinco anos.",
+        "B": "prestação de serviços à comunidade com interdição temporária de direitos e multa.",
+        "C": "reclusão, de um a quatro anos, e multa.",
+        "D": "reclusão, de seis meses a dois anos, e multa.",
+        "E": "detenção, de três meses a um ano, e multa."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "reclusão, de um a quatro anos, e multa.",
+    "fundamento_resposta": "Disseminar doença, praga ou espécie capaz de causar os danos descritos recebe reclusão de um a quatro anos e multa no art. 61.",
+    "fontes": [
+      "L9605:61"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4688",
+      "caminho": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0310",
+    "questao": {
+      "id": "Q0310",
+      "enunciado": "Sobre a aplicação da Lei Processual Penal, é correto afirmar que:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "no Brasil, adota-se integralmente o princípio da irretroatividade da lei processual penal, que impede que as inovações na norma processual penal sejam aplicadas de imediato para fatos praticados antes de sua entrada em vigor.\n",
+        "B": "ela admitirá interpretação extensiva e o suplemento de princípios gerais do direito, mas não a aplicação analógica.\n",
+        "C": "o processo penal reger-se-á, em todo o território brasileiro, pelo Código de Processo Penal, não havendo qualquer ressalva prevista neste diploma.\n",
+        "D": "as normas previstas no Código de Processo Penal de natureza híbrida, ou seja, com conteúdo de direito processual e de direito material, devem respeitar o princípio que veda a aplicação retroativa da lei penal, quando seu conteúdo for prejudicial ao réu.\n",
+        "E": "ela admitirá interpretação extensiva e aplicação analógica, mas não o suplemento dos princípios gerais do direito"
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "as normas previstas no Código de Processo Penal de natureza híbrida, ou seja, com conteúdo de direito processual e de direito material, devem respeitar o princípio que veda a aplicação retroativa da lei penal, quando seu conteúdo for prejudicial ao réu.\n",
+    "fundamento_resposta": "Normas processuais de conteúdo material ou híbrido respeitam a irretroatividade prejudicial; regras estritamente processuais têm efeito imediato e admitem analogia e interpretação extensiva.",
+    "fontes": [
+      "CF:5 XL",
+      "CPP:2,3"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5507",
+      "caminho": "Processo Penal > Lei Processual no Tempo e no Espaço > Lei processual no Tempo",
+      "extras_ids": [
+        "5508"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  }
+]

@@ -1,0 +1,813 @@
+[
+  {
+    "id": "Q0336",
+    "questao": {
+      "id": "Q0336",
+      "enunciado": "Em 05 de junho de 2022, Mariana entrou em um restaurante estilo “self-service” e apoiou sua bolsa em uma cadeira. Enquanto conversava distraidamente com seu marido, José, Mariana esqueceu sua bolsa aberta. Diogo, outro cliente que estava no estabelecimento, terminou o almoço, levantou-se de onde estava sentado e foi em direção ao caixa para efetuar o pagamento da conta. Nesse momento, Diogo percebeu a bolsa de Mariana aberta e, sorrateiramente, pegou o aparelho celular dela. Logo em seguida, Mariana e José deram falta do aparelho e iniciaram a procura no local, tendo José visto Diogo na fila do caixa com o celular de Mariana. Imediatamente, José interpelou Diogo e restou comprovado que se tratava realmente do celular de Mariana. De acordo com jurisprudência consolidada dos Tribunais Superiores, em relação à conduta de Diogo, pode-se afirmar que",
+      "comando": "",
+      "alternativas": {
+        "A": "praticou o crime de roubo consumado, previsto no art. 157, caput, do CP.",
+        "B": "praticou o crime de furto, na sua forma tentada, previsto no art. 155, caput, c/c art. 14, II, ambos do CP.",
+        "C": "praticou o crime de roubo, na sua forma tentada, previsto no art. 157, caput c/c art. 14, II, ambos do CP.",
+        "D": "praticou o crime de furto consumado, previsto no art. 155, caput, do CP.",
+        "E": "praticou o crime de apropriação indébita, previsto no art. 168, caput, do CP."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "praticou o crime de furto consumado, previsto no art. 155, caput, do CP.",
+    "fundamento_resposta": "O furto consuma-se com a inversão da posse, ainda que breve e seguida de recuperação imediata. Não houve violência ou grave ameaça para caracterizar roubo.",
+    "fontes": [
+      "CP:155",
+      "STJ_FURTO_CONSUMACAO:inversão da posse, Tema934"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5159",
+      "caminho": "Penal > Dos Crimes Contra o Patrimônio > Furto",
+      "extras_ids": [
+        "5177"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0337",
+    "questao": {
+      "id": "Q0337",
+      "enunciado": "A Lei nº 13.869/2019 dispõe sobre os crimes de abuso de autoridade. Sobre o assunto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n\n( ) As condutas descritas na Lei nº 13.869/2019 constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal.\n\n( ) A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade.\n\n( ) Os crimes previstos na Lei nº 13.869/2019 podem ser de ação penal pública incondicionada ou ação penal pública condicionada à representação, a depender do tipo penal.",
+      "comando": "Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+      "alternativas": {
+        "A": "V - V - V",
+        "B": "V - F - V",
+        "C": "F - F - V",
+        "D": "V - V - F"
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "V - V - F",
+    "fundamento_resposta": "São exigidos finalidade específica ou capricho/satisfação pessoal; divergência interpretativa não configura abuso por si. Todos os crimes da lei são de ação pública incondicionada.",
+    "fontes": [
+      "L13869:1 §§1,2,3"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4684",
+      "caminho": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0338",
+    "questao": {
+      "id": "Q0338",
+      "enunciado": "Com relação às regras de provas do Código de Processo Penal, é correto afirmar que:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A circunstância conhecida e provada que, tendo relação com o fato, autorize,\\npor indução, concluir-se a existência de outra ou outras circunstâncias, no\\nâmbito do processo penal, não possui valor legal, uma vez que decorre do\\nprincípio da não culpabilidade a proibição de presunção.",
+        "B": "São características da confissão no processo penal a retratabilidade, a\\nindivisibilidade e a relatividade do valor.",
+        "C": "As pessoas proibidas de depor em razão da profissão poderão fazê-lo se,\\ndesobrigadas pela parte interessada, quiserem dar o seu testemunho, neste\\ncaso, porém, não deverão prestar compromisso.",
+        "D": "Somente quanto ao estado das pessoas serão observadas as restrições à prova\\nestabelecidas na lei civil.",
+        "E": "Na falta de perito oficial, o exame de corpo delito deverá ser realizado por um\\nprofissional idôneo, nomeado pelo juiz, que tenha habilitação técnica\\nrelacionada com a natureza do exame."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Somente quanto ao estado das pessoas serão observadas as restrições à prova\\nestabelecidas na lei civil.",
+    "fundamento_resposta": "O art. 155, parágrafo único, ressalva as restrições civis da prova do estado das pessoas. Confissão é divisível; falta de perito oficial exige dois peritos não oficiais com requisitos legais.",
+    "fontes": [
+      "CPP:155 parágrafo único,159 §1,207,208,200,239"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5595",
+      "caminho": "Processo Penal > Teoria Geral das Provas > Princípios Relativos à Prova Penal",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0339",
+    "questao": {
+      "id": "Q0339",
+      "enunciado": "Assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Qualquer das partes poderá, no prazo de 5 (cinco) dias, pedir ao juiz que declare a sentença sempre que nela houver obscuridade, contradição, ambiguidade ou omissão.",
+        "B": "Ainda que preclusa a decisão de pronúncia, havendo circunstância superveniente que altere a classificação do crime, caberá ao próprio juiz de primeiro grau fazê-la, respeitado o contraditório",
+        "C": "Nos crimes de ação pública, conforme previsão legal, não poderá o juiz reconhecer circunstâncias agravantes que não tenham sido alegadas pelo Ministério Público.",
+        "D": "A violação da regra da correlação entre acusação e sentença é causa de nulidade relativa."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Ainda que preclusa a decisão de pronúncia, havendo circunstância superveniente que altere a classificação do crime, caberá ao próprio juiz de primeiro grau fazê-la, respeitado o contraditório",
+    "fundamento_resposta": "Circunstância superveniente após preclusão da pronúncia pode modificar a classificação, com contraditório e remessa ao MP nos termos do art. 421. Embargos da sentença têm prazo de dois dias.",
+    "fontes": [
+      "CPP:421 §§1,2,382,385"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5527",
+      "caminho": "Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",
+      "extras_ids": [
+        "5579"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0340",
+    "questao": {
+      "id": "Q0340",
+      "enunciado": "Assinale a alternativa correta sobre o concurso de pessoas.",
+      "comando": "",
+      "alternativas": {
+        "A": "Admite-se a participação por omissão em crime comissivo,\\nquando o omitente devia e podia agir para\\nevitar o resultado, mas não se admite em crimes\\nomissivos, por induzimento ou instigação.",
+        "B": "Para que se admita a concorrência de culpas no crime\\nculposo, é necessário que cada agente atue com\\nconsciência de que está colaborando com a conduta\\nculposa de outrem.",
+        "C": "A pena será agravada em relação ao agente que instiga\\nou determina a cometer o crime alguém sujeito à\\nsua autoridade ou não punível em virtude de condição ou qualidade pessoal.",
+        "D": "Se a participação for de menor importância, a pena\\npode ser diminuída de um sexto a dois terços.",
+        "E": "As condições e circunstâncias pessoais do agente\\nnão se comunicam ao coautor ou partícipe ainda que\\ncircunstâncias elementares ao crime."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "A pena será agravada em relação ao agente que instiga\\nou determina a cometer o crime alguém sujeito à\\nsua autoridade ou não punível em virtude de condição ou qualidade pessoal.",
+    "fundamento_resposta": "O art. 62, III, agrava a pena de quem instiga ou determina crime a subordinado ou a pessoa não punível por condição pessoal. Participação de menor importância reduz de um sexto a um terço.",
+    "fontes": [
+      "CP:30,29 §1,62 III"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5071",
+      "caminho": "Penal > Concurso de Pessoas",
+      "extras_ids": [
+        "5203"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0341",
+    "questao": {
+      "id": "Q0341",
+      "enunciado": "Quanto aos crimes contra o patrimônio, possível assegurar que",
+      "comando": "Complete a frase sobre os crimes contra o patrimônio.",
+      "alternativas": {
+        "A": "é pública condicionada a ação penal no caso de dano cometido por motivo egoístico ou com prejuízo considerável para a vítima.\n",
+        "B": "é causa de aumento da pena no roubo o fato de a vítima estar em serviço de transporte de valores, independentemente de o agente conhecer a circunstância.\n",
+        "C": "é admissível no furto praticado em concurso de pessoas o acréscimo de um terço até metade sobre a pena prevista para a forma simples do delito, por aplicação analógica do disposto para o roubo majorado pela mesma circunstância.\n",
+        "D": "o crime de duplicata simulada é de natureza formal, não exigindo a ocorrência de resultado naturalístico.\n",
+        "E": "cabível o perdão judicial na receptação dolosa simples, se primário o agente e de pequeno valor a coisa."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "o crime de duplicata simulada é de natureza formal, não exigindo a ocorrência de resultado naturalístico.\n",
+    "fundamento_resposta": "Emissão de duplicata sem causa é delito formal: não exige efetivo prejuízo ou pagamento. As outras opções alteram ação do dano, majorante do roubo, furto ou perdão da receptação.",
+    "fontes": [
+      "CP:172,167,157 §2 III,180 §5",
+      "STJ_SUMULAS:442"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5166",
+      "caminho": "Penal > Dos Crimes Contra o Patrimônio > Estelionato",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0342",
+    "questao": {
+      "id": "Q0342",
+      "enunciado": "Com relação ao exame de corpo de delito e às perícias em geral, analise as seguintes assertivas, nos termos do Código de Processo Penal:\n\nI. Na falta de perito oficial, o exame poderá ser realizado por duas pessoas idôneas, portadoras de diploma de curso superior, mas não necessariamente na área técnica específica da natureza do exame.\n\nII. O Ministério Público, o assistente de acusação, o ofendido, o querelante e o acusado poderão formular quesitos, mas somente o Ministério Público e o acusado poderão indicar assistente técnico.\n\nIII. A autópsia será feita sempre após seis horas do óbito, não prevendo a lei qualquer exceção.\n\nIV. A exumação será realizada em dia e hora previamente agendados, e somente após autorização judicial.\n\nV. As partes poderão requerer a oitiva dos peritos para esclarecerem a prova ou para responderem a quesitos, desde que o mandado de intimação e os quesitos ou questões a serem esclarecidas sejam encaminhados com antecedência mínima de 10 dias, podendo apresentar as respostas em laudo complementar.",
+      "comando": "É correto o que se afirma APENAS em",
+      "alternativas": {
+        "A": "II e IV.",
+        "B": "I, IV e V.",
+        "C": "I, II, III e IV.",
+        "D": "I e V.",
+        "E": "II, III e V."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "I e V.",
+    "fundamento_resposta": "I é compatível com a preferência, sem exclusividade, pela área técnica específica dos peritos não oficiais; V reproduz antecedência de dez dias para esclarecimentos. Assistente técnico não se limita a MP e acusado; autópsia admite exceção e exumação não é exclusivamente judicial.",
+    "fontes": [
+      "CPP:159 §§1,3,5 I,162,163"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5546",
+      "caminho": "Processo Penal > Provas em Espécies > Perícia",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0343",
+    "questao": {
+      "id": "Q0343",
+      "enunciado": "Patrícia responde a processo por crime de ação penal privada por ter supostamente praticado injúria contra Maria. Ocorre que as duas eram amigas desde a infância e Patrícia sempre teve temperamento mais “esquentado”. Durante o processo, Maria resolveu esquecer a ofensa e decidiu perdoar Patrícia, mediante termo nos autos. Contudo, Patrícia que não aceitou o perdão. Nesse caso,",
+      "comando": "",
+      "alternativas": {
+        "A": "o perdão é ato unilateral. Como Patrícia não aceitou, a ação penal não poderá ser obstada em hipótese alguma.",
+        "B": "existe a possibilidade de Maria mitigar o caráter bilateral do perdão, deixando de dar andamento ao processo por mais de 30 dias.",
+        "C": "Maria poderá renunciar ao direito de representação.",
+        "D": "poderá ocorrer a perempção com a concordância da querelada.",
+        "E": "o perdão é ato bilateral. Como Patrícia não aceitou, a ação penal não poderá ser obstada, nem mesmo por perempção."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "existe a possibilidade de Maria mitigar o caráter bilateral do perdão, deixando de dar andamento ao processo por mais de 30 dias.",
+    "fundamento_resposta": "Recusado o perdão, ele não impede a ação. Contudo, a inércia processual da querelante por trinta dias seguidos pode produzir perempção, que independe de aceitação da querelada.",
+    "fontes": [
+      "CPP:60 I",
+      "CP:106 III"
+    ],
+    "ressalvas": [
+      "A inércia deve recair sobre ato cujo impulso incumbia à querelante, com as condições jurisprudenciais; não é qualquer intervalo de trinta dias."
+    ],
+    "classificacao": {
+      "tema_id": "5195",
+      "caminho": "Penal > Punibilidade > Perempção",
+      "extras_ids": [
+        "5196",
+        "5472"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0344",
+    "questao": {
+      "id": "Q0344",
+      "enunciado": "Quanto à Lei nº 9.605/1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, é correto afirmar:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Os animais apreendidos serão entregues a jardins zoológi cos , fundações ou ent idades assemelhadas, independentemente de ficarem sob a responsabilidade de técnicos habilitados.",
+        "B": "Tratando-se de produtos perecíveis ou madeiras, estes irão a hasta pública, sendo o resultado depositado emfavor do meio ambiente.",
+        "C": "Os produtos e subprodutos da fauna perecíveis serão preservados como prova do crime.",
+        "D": "Os instrumentos utilizados na prática da infração serão vendidos , garantida a sua descaracterização por meio da reciclagem.",
+        "E": "Nas infrações penais previstas nessa lei, a ação penal é pública condicionada à representação."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Os instrumentos utilizados na prática da infração serão vendidos , garantida a sua descaracterização por meio da reciclagem.",
+    "fundamento_resposta": "Os instrumentos da infração ambiental são vendidos com descaracterização por reciclagem, segundo o art. 25, §5º. As demais opções alteram destinação dos bens e a ação penal pública incondicionada.",
+    "fontes": [
+      "L9605:25 §§1 a5,26"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4688",
+      "caminho": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0345",
+    "questao": {
+      "id": "Q0345",
+      "enunciado": "Antônio, professor respeitado na escola, ofereceu carona à sua aluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no estacionamento da escola, Antônio acariciou os seios da aluna, beijou-a na boca e, enquanto se despia, foi surpreendido pela diretora da escola, que bateu na janela do carro interrompendo a ação, e em seguida, chamou a Polícia.  A respeito da adequação típica da conduta e da incidência da agravante prevista no Art. 61, inciso II, alínea f, do Código Penal (Art. 61. São circunstâncias que sempre agravam a pena, quando não constituem ou qualificam o crime: II - ter o agente cometido o crime: f) com abuso de autoridade ou prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade, ou com violência contra a mulher na forma da lei específica) e da causa de aumento, prevista no Art. 226, inciso II do Código Penal (Art. 226. A pena é aumentada: II - de metade, se o agente é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela), à luz do entendimento do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Antônio praticou o crime de importunação sexual e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "B": "Antônio praticou o crime de estupro de vulnerável tentado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "C": "Antônio praticou o crime de estupro de vulnerável consumado e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "D": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "E": "Antônio praticou o crime de importunação sexual e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+    "fundamento_resposta": "Os atos libidinosos já consumam estupro de vulnerável. Se tanto a agravante quanto a majorante se baseiam na mesma autoridade de professor, sua cumulação implica dupla valoração do mesmo fundamento.",
+    "fontes": [
+      "CP:61 II f,217-A,226 II",
+      "STJ_TEMA1215:agravante e majorante"
+    ],
+    "ressalvas": [
+      "A cumulação é possível quando os fundamentos são distintos; aqui ambos se apoiam na autoridade sobre a aluna."
+    ],
+    "classificacao": {
+      "tema_id": "5103",
+      "caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": [
+        "5203",
+        "5204"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0346",
+    "questao": {
+      "id": "Q0346",
+      "enunciado": "Sobre o assistente da acusação no processo penal, após analisar as proposições abaixo destacadas, assinale a alternativa CORRETA:\n\nI - Em razão dos princípios da oralidade e concentração dos atos instrutórios, os quais regem o sistema acusatório, o Código de Processo Penal estabelece que do despacho que admitir, ou não, o assistente da acusação, não caberá recurso, não havendo necessidade que conste dos autos o pedido e a decisão sobre a admissibilidade do assistente.\n\nII - Após sucessivas e tópicas reformas legislativas, o Código de Processo Penal passou a estabelecer que o assistente da acusação tem legitimidade para requerer a decretação de prisão preventiva.\n\nIII - No procedimento do júri, o assistente da acusação, apesar de poder participar dos debates orais em plenário, não tem legitimidade para requerer o desaforamento do julgamento, resguardando-se, assim, a legitimidade principal do Ministério Público quanto à ação penal pública.\n\nIV - No processo penal atinente aos crimes previstos no Código de Defesa do Consumidor, bem como a outros crimes e contravenções que envolvam relações de consumo, poderão intervir, como assistentes do Ministério Público, as entidades e órgãos da administração pública, direta ou indireta, ainda que sem personalidade jurídica, especificamente destinados à defesa dos interesses e direitos protegidos por aquele Código.\n\nV - Nos crimes de ação penal pública, o assistente de acusação poderá intervir em todos os termos da persecução penal, desde o início do procedimento administrativo pré-processual policial até o trânsito em julgado da sentença penal.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Somente as alternativas II e III estão corretas.",
+        "B": "As alternativas I e V estão corretas.",
+        "C": "Somente a alternativa V está correta.",
+        "D": "Somente a alternativa III está correta.",
+        "E": "Somente as alternativas II e IV estão corretas."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Somente as alternativas II e IV estão corretas.",
+    "fundamento_resposta": "O assistente pode requerer preventiva e o CDC prevê assistência de entidades de defesa do consumidor. A decisão de admissão deve constar dos autos; o assistente pode pedir desaforamento e não intervém formalmente desde o inquérito.",
+    "fontes": [
+      "CPP:268,273,311,427",
+      "CDC:80,82 III"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5583",
+      "caminho": "Processo Penal > Sujeitos do Processo",
+      "extras_ids": [
+        "4694"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0347",
+    "questao": {
+      "id": "Q0347",
+      "enunciado": "No tocante à parte geral do Código Penal, assinale a afirmativa correta.",
+      "comando": "Assinale a afirmativa correta.",
+      "alternativas": {
+        "A": "Ricardo conduzia uma ambulância em alta velocidade. Ao ultrapassar o sinal vermelho, colidiu com o carro em que estava Mariana, que veio a falecer em virtude dos ferimentos suportados. Todavia, ele o fez para levar Felipe, criança de 5 anos, que corria risco de vida, ao hospital para ser socorrido após tentativa de homicídio. Neste contexto, restará configurado estrito cumprimento de um dever legal. ",
+        "B": "A frustração, embora solvente, da execução da pena de multa e não reparação do dano, sem motivo justificado, configuram causas de revogação obrigatória da suspensão condicional da pena. ",
+        "C": "Considerando a disciplina sobre o estado de necessidade, inexiste qualquer causa de diminuição de pena quando o sacrifício do direito próprio ou alheio ameaçado fosse razoável exigir, nos termos do Art. 78 do Código Penal. ",
+        "D": "Bruno, em 30/01/2023, subtraiu durante o período noturno, mediante escalada, computadores e televisões de uma loja na cidade de Sorocaba. Não satisfeito, em 09/03/2023, ele retornou à loja mencionada e, valendo-se das mesmas condições de tempo, lugar e maneira de execução, subtraiu mais televisões, computadores, tablets e relógios. Considerando a posição do Supremo Tribunal Federal, não é possível o reconhecimento da continuidade delitiva. ",
+        "E": "A pena, unificada nos termos do Art. 75 do Código Penal, é a utilizada para identificação do prazo para livramento condicional, nos termos da Corte Suprema. "
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "A frustração, embora solvente, da execução da pena de multa e não reparação do dano, sem motivo justificado, configuram causas de revogação obrigatória da suspensão condicional da pena. ",
+    "fundamento_resposta": "Frustrar, sendo solvente, a execução de multa, ou não reparar dano sem justificativa, é causa de revogação obrigatória do sursis no art. 81, II. As outras opções trocam institutos ou generalizam limites.",
+    "fontes": [
+      "CP:24 §2,75,81 II",
+      "STF_SUMULAS:715"
+    ],
+    "ressalvas": [
+      "O intervalo de pouco mais de trinta dias entre furtos não constitui, isoladamente, proibição legal absoluta de continuidade em qualquer caso."
+    ],
+    "classificacao": {
+      "tema_id": "5207",
+      "caminho": "Penal > Teoria da Pena > Suspensão Condicional da Pena",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0348",
+    "questao": {
+      "id": "Q0348",
+      "enunciado": "João foi acusado de corrupção ativa em transação internacional porque deu, em outro país, vantagem indevida a funcionário público estrangeiro para a prática de ato de ofício relacionado a transação comercial internacional.",
+      "comando": "Sobre a hipótese, assinale a afirmativa incorreta.",
+      "alternativas": {
+        "A": "João praticou crime de corrupção ativa em transação internacional, porque o delito, ao contrário do que ocorre na corrupção prevista no Art. 333 do CP, abrange a conduta de dar ou pagar a vantagem indevida, não se limitando ao mero oferecimento ou à mera promessa do benefício.",
+        "B": "A caracterização da corrupção ativa internacional não prescinde da descrição de um ato de ofício, porque tal elemento está previsto expressamente no tipo penal que descreve o crime específico.",
+        "C": "É possível a aplicação da lei penal nacional ao caso, mesmo que o crime tenha sido praticado fora do território nacional, desde que cumpridos os requisitos do Art. 7º, §2º, do CP.",
+        "D": "A pena será aumentada da terça parte se João ocupa cargo em comissão ou de função de direção ou assessoramento de órgão da administração direta, sociedade de economia mista, empresa pública ou fundação instituída pelo poder público do país estrangeiro.",
+        "E": "A prescrição da pretensão punitiva começa a correr na data da entrega da vantagem, ainda que seja constatada a oferta ou a promessa do mesmo benefício em momento anterior."
+      }
+    },
+    "resposta_proposta": null,
+    "texto_alternativa": null,
+    "fundamento_resposta": "A corrupção ativa internacional inclui dar vantagem e é formal, consumando-se já com oferta ou promessa idônea. D aplica majorante sem correspondência à hipótese descrita; E desloca a prescrição para pagamento posterior mesmo com oferta anterior.",
+    "fontes": [
+      "CP:337-B,337-C,337-D,111 I,7 §2"
+    ],
+    "ressalvas": [
+      "D e E são incorretas em leitura literal, embora o comando peça apenas uma. A árvore não traz nó específico para corrupção internacional; utilizado o ramo funcional mais próximo."
+    ],
+    "classificacao": {
+      "tema_id": "5093",
+      "caminho": "Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa",
+      "extras_ids": [
+        "5182",
+        "5187"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": false,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0349",
+    "questao": {
+      "id": "Q0349",
+      "enunciado": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de execução penal, lei penal no tempo, concurso de crimes, crime impossível e arrependimento posterior.\n\nCristiano, maior e capaz, roubou, mediante emprego de arma de fogo, a bicicleta de um adolescente, tendo-o ameaçado gravemente. Perseguido, Cristiano foi preso, confessou o crime e voluntariamente restituiu a coisa roubada. Nessa situação, a restituição do bem não assegura a Cristiano a redução de um a dois terços da pena, pois o crime foi cometido com grave ameaça à pessoa.",
+      "comando": "Julgue a assertiva apresentada com base na legislação e jurisprudência mencionadas.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "A redução por arrependimento posterior exige crime sem violência ou grave ameaça à pessoa. Restituir o bem roubado não satisfaz essa condição.",
+    "fontes": [
+      "CP:16"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5178",
+      "caminho": "Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",
+      "extras_ids": [
+        "5160"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0350",
+    "questao": {
+      "id": "Q0350",
+      "enunciado": "Assinale a opção correta acerca dos crimes de lavagem ou ocultação de bens, direitos e valores.",
+      "comando": "",
+      "alternativas": {
+        "A": "Em razão do fenômeno da consunção, não é possível a\\nautolavagem, isto é, a imputação simultânea, ao mesmo réu,\\nda infração antecedente e do crime de lavagem. ",
+        "B": "Por constituir crime unissubsistente, a tentativa é impunível. ",
+        "C": "Em caso de colaboração espontânea do agente com as\\nautoridades, mediante esclarecimentos relevantes para a\\napuração da materialidade ou da autoria/participação no\\ncrime nos termos da lei, a pena poderá ser reduzida de um a\\ndois terços e ser cumprida em regime aberto ou semiaberto,\\nfacultadas ainda ao órgão julgador a concessão do perdão\\njudicial ou a substituição da pena, a qualquer tempo, por pena\\nrestritiva de direitos.  ",
+        "D": "Desde a entrada em vigor da Lei n.º 9.613/1998, a legislação\\npenal brasileira pode ser classificada como legislação de\\nterceira geração, ao considerar que qualquer infração penal\\npode figurar como delito antecedente da lavagem de capitais."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Em caso de colaboração espontânea do agente com as\\nautoridades, mediante esclarecimentos relevantes para a\\napuração da materialidade ou da autoria/participação no\\ncrime nos termos da lei, a pena poderá ser reduzida de um a\\ndois terços e ser cumprida em regime aberto ou semiaberto,\\nfacultadas ainda ao órgão julgador a concessão do perdão\\njudicial ou a substituição da pena, a qualquer tempo, por pena\\nrestritiva de direitos.  ",
+    "fundamento_resposta": "A Lei 9.613 admite benefícios por colaboração espontânea nos termos do art. 1º, §5º, inclusive redução e substituição ou não aplicação de pena. A abertura a qualquer infração antecedente veio em 2012, não no texto original.",
+    "fontes": [
+      "L9613:1 §§3,5"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "4702",
+      "caminho": "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0351",
+    "questao": {
+      "id": "Q0351",
+      "enunciado": "Falsificar cartão de crédito é",
+      "comando": "Complete a frase sobre a falsificação de cartão de crédito.",
+      "alternativas": {
+        "A": "conduta atípica.",
+        "B": "falsificação de documento público.",
+        "C": "falsidade ideológica.",
+        "D": "falsa identidade.",
+        "E": "falsificação de documento particular."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "falsificação de documento particular.",
+    "fundamento_resposta": "O cartão de crédito ou débito equipara-se a documento particular para fins de falsificação material, conforme art. 298, parágrafo único.",
+    "fontes": [
+      "CP:298 parágrafo único"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5118",
+      "caminho": "Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Da Falsidade Documental",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0352",
+    "questao": {
+      "id": "Q0352",
+      "enunciado": "De acordo com a legislação vigente acerca de recursos em geral no processo penal, assinale a opção correta.",
+      "comando": "Assinale a opção correta.",
+      "alternativas": {
+        "A": "Decisão proferida em sede de recurso interposto por um dos\\nréus em concurso de agentes que reconheça a atipicidade do\\nfato a eles atribuído aproveitará ao outro réu por força do\\nefeito extensivo.",
+        "B": "É viável que, no curso da tramitação, o Ministério Público\\ndesista de recurso que tenha interposto, desde que o assistente\\nde acusação também desista do ato processual.",
+        "C": "É viável a interposição de recurso por um réu que pleiteie a\\ncondenação de outro que tenha sido absolvido.",
+        "D": "O recurso deverá ser feito por meio de petição escrita caso o\\nréu não saiba assinar o nome, não sendo viável que o recurso\\nseja apresentado por termo nos autos.",
+        "E": "O princípio da fungibilidade deverá ser aplicado a todos os\\nrecursos que forem apresentados de forma indevida."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "Decisão proferida em sede de recurso interposto por um dos\\nréus em concurso de agentes que reconheça a atipicidade do\\nfato a eles atribuído aproveitará ao outro réu por força do\\nefeito extensivo.",
+    "fundamento_resposta": "Decisão fundada em motivo objetivo, como atipicidade do fato comum, estende-se ao corréu. Não se estendem fundamentos exclusivamente pessoais. MP não pode desistir de recurso interposto.",
+    "fontes": [
+      "CPP:580,576"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5515",
+      "caminho": "Processo Penal > Parte Geral dos Recursos > Efeito dos Recursos",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0353",
+    "questao": {
+      "id": "Q0353",
+      "enunciado": "Se, no curso da ação penal, o magistrado notar que a prescrição está prestes a ocorrer, poderá:",
+      "comando": "Complete as possibilidades do magistrado ao notar que a prescrição está prestes a ocorrer no curso da ação penal.",
+      "alternativas": {
+        "A": "Sentenciar, independentemente da\\napresentação dos memoriais defensivos;",
+        "B": "Concentrar a oitiva das testemunhas de\\nacusação e defesa em um único ato;",
+        "C": "Determinar à defesa que apresente\\ndeclarações escritas, no lugar de ouvir as\\ntestemunhas arroladas;",
+        "D": "Declarar, desde logo, a extinção da\\npunibilidade, pela prescrição em\\nperspectiva."
+      }
+    },
+    "resposta_proposta": "B",
+    "texto_alternativa": "Concentrar a oitiva das testemunhas de\\nacusação e defesa em um único ato;",
+    "fundamento_resposta": "Concentrar a colheita oral é compatível com a audiência una, preservadas defesa e condições legais. A proximidade da prescrição não permite suprimir memoriais nem reconhecer prescrição apenas projetada.",
+    "fontes": [
+      "CPP:400,403",
+      "STJ_SUMULAS:438"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5535",
+      "caminho": "Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento",
+      "extras_ids": [
+        "5186"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0354",
+    "questao": {
+      "id": "Q0354",
+      "enunciado": "Assinale a alternativa INCORRETA.",
+      "comando": "",
+      "alternativas": {
+        "A": "Para a teoria da conditio sine qua non, se a vítima morre quando poderia ter sido salva, caso levada,\\nlogo após o fato, a atendimento médico, responde o agente da ação com animus necandi por homicídio\\nconsumado. Mas, se levada a socorro em hospital, morresse por efeito de substância tóxica ministrada\\npor engano pela enfermeira, o agente responderia por tentativa de homicídio e não por homicídio\\nconsumado.",
+        "B": "Para a teoria da imputação objetiva, o ato de imputar significa atribuir a alguém a realização de uma\\nconduta criadora de um risco relevante e juridicamente proibido e a produção de um resultado jurídico.\\nPressupõe um perigo criado pelo agente e não coberto por um risco permitido dentro do alcance do\\ntipo. O risco permitido conduz à atipicidade, e o risco proibido, quando relevante, à tipicidade. A\\nimputação objetiva constitui elemento normativo implícito do tipo penal.",
+        "C": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos\\nde interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato.",
+        "D": "Para a teoria do domínio do fato, autor é quem executa a ação típica, por conduta própria ou pela\\nutilização de outro como instrumento de realização; também quem, mesmo não executando o fato\\ntípico em sentido estrito, participa da resolução criminosa, realizando parte necessária da execução do\\nplano global. A teoria, partindo do conceito restritivo de autor, segue um critério objetivo-subjetivo.",
+        "E": "Para a teoria finalista, ação é a conduta do homem, comissiva ou omissiva, dirigida a uma finalidade e\\ndesenvolvida sob o domínio da vontade do agente, razão pela qual não reputa criminosa a ação\\nocorrida em estado de inconsciência, como no caso de quem, durante o sono, sonhando estar em\\nlegítima defesa, esbofeteia e causa lesão corporal na pessoa que dorme ao seu lado. Para esta mesma\\nteoria, a culpabilidade não é psicológica, nem psicológico-normativa."
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos\\nde interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato.",
+    "fundamento_resposta": "Insignificância afasta tipicidade material, não a mera adequação formal ao tipo. Essa troca torna a alternativa incorreta.",
+    "fontes": [
+      "CP:13,18",
+      "DOUTRINA_TIPICIDADE:insignificância"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5227",
+      "caminho": "Penal > Teoria do Crime: Fato Típico > Tipicidade",
+      "extras_ids": [
+        "5226",
+        "5073"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0355",
+    "questao": {
+      "id": "Q0355",
+      "enunciado": "À luz da recente decisão do Supremo Tribunal Federal com repercussão geral a respeito do Art. 28 da Lei nº 11.343/2006, é correto afirmar que:",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "são atípicas as condutas de adquirir, guardar, ter em\\ndepósito, transportar ou trazer consigo, para consumo\\npessoal, 1g da substância entorpecente cocaína, distribuído\\nem duas cápsulas plásticas; ",
+        "B": "a transação penal firmada, em dezembro de 2023, pela\\nprática do crime de trazer consigo maconha, para consumo\\npessoal, configura obstáculo ao oferecimento de acordo de\\nnão persecução penal, caso praticado o crime de furto\\nsimples, em janeiro de 2025; ",
+        "C": "pratica crime de abuso de autoridade o delegado de polícia\\nque lavrar auto de prisão em flagrante contra o cidadão\\nsurpreendido com um tablete de 10g de maconha\\nacondicionados em um sacolé, uma balança de precisão e\\num caderno com anotações relativas a datas, valores e\\nnomes;",
+        "D": "as condutas de adquirir, guardar, ter em depósito,\\ntransportar ou trazer consigo até 40g de maconha ou seis\\nplantas fêmeas, para consumo próprio, são indiferentes para\\no ordenamento jurídico;",
+        "E": "não se admite a imposição de prestação de serviços à\\ncomunidade em virtude da prática das condutas de adquirir,\\nguardar, ter em depósito, transportar ou trazer consigo até\\n40g de maconha ou seis plantas fêmeas, para consumo\\npróprio."
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "não se admite a imposição de prestação de serviços à\\ncomunidade em virtude da prática das condutas de adquirir,\\nguardar, ter em depósito, transportar ou trazer consigo até\\n40g de maconha ou seis plantas fêmeas, para consumo\\npróprio.",
+    "fundamento_resposta": "No regime definido para cannabis pelo STF, não incide prestação de serviços comunitários do art. 28, II; permanecem consequências não penais e presunção relativa de uso, sem legalização geral.",
+    "fontes": [
+      "STF_TEMA506:RE635659",
+      "L11343:28"
+    ],
+    "ressalvas": [
+      "A decisão não abrange cocaína. Quantidade inferior ao parâmetro não impede tráfico quando houver elementos concretos; confirmar efeitos de eventual legislação posterior ao precedente antes de uso definitivo."
+    ],
+    "classificacao": {
+      "tema_id": "4708",
+      "caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0356",
+    "questao": {
+      "id": "Q0356",
+      "enunciado": "O concurso de crimes é o instituto que se verifica quando o agente, mediante uma ou várias condutas, pratica duas ou mais infrações penais. Com base nesse assunto, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) O concurso material, também chamado de real, é aquele em que o agente, mediante uma única conduta, pratica dois ou mais crimes, idênticos ou não. ( ) No concurso material, há pluralidade de condutas e pluralidade de resultados. ( ) No que diz respeito ao concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime.",
+      "comando": "",
+      "alternativas": {
+        "A": "V – F – V – F.",
+        "B": "F – V – F – V.",
+        "C": "V – V – F – V.",
+        "D": "F – V – V – V",
+        "E": "F – F – V – F."
+      }
+    },
+    "resposta_proposta": "D",
+    "texto_alternativa": "F – V – V – V",
+    "fundamento_resposta": "Concurso material exige várias condutas; concurso formal impróprio cumula penas pelos desígnios autônomos; as multas de concurso são aplicadas distinta e integralmente. Sequência F,V,V,V.",
+    "fontes": [
+      "CP:69,70,72"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5066",
+      "caminho": "Penal > Concurso de Crimes",
+      "extras_ids": [
+        "5067",
+        "5068",
+        "5070"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0357",
+    "questao": {
+      "id": "Q0357",
+      "enunciado": "Configura o crime de boicotagem violenta",
+      "comando": "Defina o que configura o crime de boicotagem violenta.",
+      "alternativas": {
+        "A": "constranger alguém, mediante violência ou grave ameaça, a não fornecer a outrem ou não adquirir de outrem matéria-prima ou produto industrial ou agrícola.",
+        "B": "participar de suspensão ou abandono coletivo de trabalho, praticando violência contra pessoa ou contra coisa.",
+        "C": "constranger alguém, mediante violência ou grave ameaça, a abrir ou fechar o seu estabelecimento, ou a participar de parede ou paralisação de atividade econômica.",
+        "D": "participar de suspensão ou abandono coletivo de trabalho, provocando a interrupção de obra pública ou serviço de interesse coletivo.",
+        "E": "danificar estabelecimento industrial, comercial ou agrícola com o intuito de impedir ou embaraçar o curso normal do trabalho."
+      }
+    },
+    "resposta_proposta": "A",
+    "texto_alternativa": "constranger alguém, mediante violência ou grave ameaça, a não fornecer a outrem ou não adquirir de outrem matéria-prima ou produto industrial ou agrícola.",
+    "fundamento_resposta": "Boicotagem violenta é constranger com violência ou grave ameaça a não fornecer ou não adquirir matéria-prima ou produto industrial ou agrícola.",
+    "fontes": [
+      "CP:198 segunda parte"
+    ],
+    "ressalvas": [],
+    "classificacao": {
+      "tema_id": "5135",
+      "caminho": "Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimes Contra a Organização do Trabalho",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0358",
+    "questao": {
+      "id": "Q0358",
+      "enunciado": "Julgue o próximo item, considerando a Lei de Acesso à Informação, o Marco Civil da Internet e os demais instrumentos normativos que regulam a publicidade e a segurança de redes de comunicação no Brasil. É tipificada como crime, de acordo com a Lei de delitos informáticos, a invasão de dispositivo informático alheio mediante violação de mecanismo de segurança, previstos agravantes para casos de obtenção de dados sigilosos e divulgação ou comercialização desses dados.",
+      "comando": "",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "C",
+    "texto_alternativa": "Certo",
+    "fundamento_resposta": "Invasão não autorizada de dispositivo para obter dados é típica, havendo figuras mais graves para informações sigilosas e sua divulgação. Violação de mecanismo de segurança é meio possível, embora já não seja requisito desde 2021.",
+    "fontes": [
+      "CP:154-A §§3,4",
+      "L14155:reforma de 2021"
+    ],
+    "ressalvas": [
+      "A redação reflete o tipo original. Uso agravantes em sentido genérico das figuras qualificadas e majoradas; a exigência atual não se limita a romper segurança."
+    ],
+    "classificacao": {
+      "tema_id": "5133",
+      "caminho": "Penal > Dos Crimes Contra a Liberdade Pessoal > Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos",
+      "extras_ids": [],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": false
+  },
+  {
+    "id": "Q0359",
+    "questao": {
+      "id": "Q0359",
+      "enunciado": "Aos crimes cometidos contra idosos, cuja pena máxima privativa de liberdade não ultrapasse quatro anos, aplica-se o procedimento previsto na Lei nº 9.099/1995, e, subsidiariamente, no que couber, as disposições do Código Penal e do Código de Processo Penal.\n\nO STF, contudo, vedou, nesses casos, a possibilidade de que fossem aplicadas quaisquer das medidas despenalizadoras previstas na Lei nº 9.099/1995.",
+      "comando": "Sobre o caso acima, assinale a afirmativa correta.",
+      "alternativas": {
+        "C": "Certo",
+        "E": "Errado"
+      }
+    },
+    "resposta_proposta": "E",
+    "texto_alternativa": "Errado",
+    "fundamento_resposta": "O art. 94 foi alterado pela Lei 15.163/2025: os crimes previstos no Estatuto e os praticados com violência contra a pessoa idosa não se submetem à Lei 9.099, independentemente da pena. O item reproduz o regime anterior e é errado no corte atual.",
+    "fontes": [
+      "L10741:94 caput e parágrafo único",
+      "L15163:alteração de 2025"
+    ],
+    "ressalvas": [
+      "Ressalva temporal decisiva: a distinção antiga entre rito e benefícios não descreve a lei vigente. A data da prova não foi fornecida."
+    ],
+    "classificacao": {
+      "tema_id": "4696",
+      "caminho": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "extras_ids": [
+        "4701",
+        "5539"
+      ],
+      "concorrentes_ids": [],
+      "fora_da_taxonomia": false
+    },
+    "natureza": "referencia_provisoria_do_assistente_nao_e_gabarito_oficial",
+    "resposta_determinada": true,
+    "exposicao_previa_a_rotulos_ou_pilotos": true
+  }
+]

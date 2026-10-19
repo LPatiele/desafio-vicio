@@ -1,0 +1,10 @@
+{
+  "name": "desafio-vertex-v18",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Canal Vertex AI isolado para preservar os fingerprints dos experimentos v16 e v17.",
+  "dependencies": {
+    "@google/genai": "2.30.0"
+  }
+}

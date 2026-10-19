@@ -1,0 +1,5 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": { "noEmit": true },
+  "include": ["./**/*.ts", "../../delivery/**/*.ts", "../../tests/individual-v20.test.ts"]
+}
